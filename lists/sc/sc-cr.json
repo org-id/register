@@ -1,20 +1,39 @@
 {
-  "code": "SC-CR",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Seychelles",
-      "countryCode": "SC"
+      "countryCode": "SC",
+      "country": "Seychelles"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "Closed License",
-  "name": "Seychelles Business Register",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "Closed License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "SC-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "name": "Seychelles Business Register",
+  "publicDatabase": null,
   "url": "https://eservice.egov.sc/BizRegistration/WebSearchBusiness.aspx"
 }

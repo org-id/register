@@ -1,11 +1,34 @@
 {
-  "code": "UA-EDR",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Ukraine",
-      "countryCode": "UA"
+      "countryCode": "UA",
+      "country": "Ukraine"
     }
   ],
+  "languages": null,
+  "lastUpdated": null,
+  "structure": null,
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": null,
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "UA-EDR",
+  "description": null,
   "name": "United State Register, Ukraine",
+  "publicDatabase": null,
   "url": "http://irc.gov.ua/ua/Poshuk-v-YeDR.html"
 }

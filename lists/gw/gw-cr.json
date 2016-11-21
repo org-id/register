@@ -1,20 +1,39 @@
 {
-  "code": "GW-CR",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Guinea-Bissau",
-      "countryCode": "GW"
+      "countryCode": "GW",
+      "country": "Guinea-Bissau"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "Closed License",
-  "name": "Center for the Formalization of Enterprises - Company Register",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "Closed License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "GW-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "name": "Center for the Formalization of Enterprises - Company Register",
+  "publicDatabase": null,
   "url": "http://www.guinebissaurepublic.com/"
 }

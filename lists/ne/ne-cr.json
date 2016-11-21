@@ -1,23 +1,41 @@
 {
-  "code": "NE-CR",
+  "former_prefixes": null,
   "dataAccessProperties": [
     "Available: but details unknown"
   ],
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Niger",
-      "countryCode": "NE"
+      "countryCode": "NE",
+      "country": "Niger"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "No License",
-  "name": "National Institute of Statistics - Directory of Companies",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "No License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "NE-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "name": "National Institute of Statistics - Directory of Companies",
+  "publicDatabase": null,
   "url": "http://www.stat-niger.org/statistique/pages/repentreprise/entreprise_list.php?lng=fr"
 }

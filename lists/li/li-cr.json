@@ -1,21 +1,39 @@
 {
+  "former_prefixes": null,
+  "dataAccessProperties": null,
   "availableOnline": "Yes",
-  "code": "LI-CR",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Liechtenstein",
-      "countryCode": "LI"
+      "countryCode": "LI",
+      "country": "Liechtenstein"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "No License",
-  "name": "Commercial Register Liechtenstein",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "No License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "LI-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "name": "Commercial Register Liechtenstein",
+  "publicDatabase": null,
   "url": "http://www.oera.li/hrweb/ger/firmensuche_afj.htm"
 }

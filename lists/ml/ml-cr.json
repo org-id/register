@@ -1,20 +1,39 @@
 {
-  "code": "ML-CR",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Mali",
-      "countryCode": "ML"
+      "countryCode": "ML",
+      "country": "Mali"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "Closed License",
-  "name": "The Investment Promotion Agency of Mali, Trade and Property Credit Register (RCCM)",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "Closed License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "ML-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "name": "The Investment Promotion Agency of Mali, Trade and Property Credit Register (RCCM)",
+  "publicDatabase": null,
   "url": "http://www.apimali.gov.ml/api/en/index.php?page=start-a-business"
 }

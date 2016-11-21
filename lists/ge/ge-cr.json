@@ -1,21 +1,39 @@
 {
+  "former_prefixes": null,
+  "dataAccessProperties": null,
   "availableOnline": "Yes",
-  "code": "GE-CR",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Georgia",
-      "countryCode": "GE"
+      "countryCode": "GE",
+      "country": "Georgia"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "No License",
-  "name": "National Agency of Public Registry, Ministry of Justice of Georgia",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "No License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "GE-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "name": "National Agency of Public Registry, Ministry of Justice of Georgia",
+  "publicDatabase": null,
   "url": "https://enreg.reestri.gov.ge"
 }

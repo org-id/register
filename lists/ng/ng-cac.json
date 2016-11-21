@@ -1,11 +1,34 @@
 {
-  "code": "NG-CAC",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Nigeria",
-      "countryCode": "NG"
+      "countryCode": "NG",
+      "country": "Nigeria"
     }
   ],
+  "languages": null,
+  "lastUpdated": null,
+  "structure": null,
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": null,
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "NG-CAC",
+  "description": null,
   "name": "Nigerian Corporate Affairs Commission",
+  "publicDatabase": null,
   "url": "http://new.cac.gov.ng/home/"
 }

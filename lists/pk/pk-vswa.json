@@ -1,12 +1,34 @@
 {
-  "code": "PK-VSWA",
-  "description": "All NGOs are required to register with their local Voluntary Social Welfare department",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Pakistan",
-      "countryCode": "PK"
+      "countryCode": "PK",
+      "country": "Pakistan"
     }
   ],
+  "languages": null,
+  "lastUpdated": null,
+  "structure": null,
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": null,
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "PK-VSWA",
+  "description": "All NGOs are required to register with their local Voluntary Social Welfare department",
   "name": "Pakistan Voluntary Social Welfare Agency",
+  "publicDatabase": null,
   "url": "No Website available"
 }

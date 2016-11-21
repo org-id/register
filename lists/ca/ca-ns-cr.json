@@ -1,28 +1,45 @@
 {
+  "former_prefixes": null,
+  "dataAccessProperties": null,
   "availableOnline": "Yes",
-  "code": "CA-NS-CR",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Canada",
-      "countryCode": "CA"
+      "countryCode": "CA",
+      "country": "Canada"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "Closed License",
-  "name": "Nova Scotia Registry of Joint Stock Companies",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "Closed License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
   "subnational": [
     {
-      "country": null,
       "regionCode": "CA_NS",
+      "country": null,
       "regionName": null
     }
   ],
+  "wikipedia": null,
+  "code": "CA-NS-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "name": "Nova Scotia Registry of Joint Stock Companies",
+  "publicDatabase": null,
   "url": "https://rjsc.gov.ns.ca/rjsc/"
 }

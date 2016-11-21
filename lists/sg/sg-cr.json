@@ -1,20 +1,39 @@
 {
-  "code": "SG-CR",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Singapore",
-      "countryCode": "SG"
+      "countryCode": "SG",
+      "country": "Singapore"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "Closed License",
-  "name": "Directory of Registered Entities",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "Closed License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "SG-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "name": "Directory of Registered Entities",
+  "publicDatabase": null,
   "url": "http://www.bizfile.gov.sg/"
 }

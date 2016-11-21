@@ -1,22 +1,39 @@
 {
-  "code": "AU-ACNC",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
   "confirmed": true,
-  "description": "\"In Australia, charities must register with the Australian Charities and Not-for-profits Commission (ACNC) before they can receive charity tax concessions from the Australian Taxation Office (ATO).\"\n\nCharity Status can be applied to organisations that have an Australian Business Number (ABN) and that take a range of legal forms [1] including Australian Private Company, Australian Public Company, State level registered 'Other Incorporated Entity', Discretionary Investment Trust, Fixed Trusts, Co-operatives and Other Unincorporated Identities. \n\n[1]: http://www.acnc.gov.au/ACNC/Register_my_charity/Who_can_register/Legal_structure/ACNC/Reg/Legal_structure.aspx",
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Australia",
-      "countryCode": "AU"
+      "countryCode": "AU",
+      "country": "Australia"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-06",
-  "name": "Australian Charities and Not-for-profits Commission",
-  "registerType": "Secondary",
-  "source": "Primary research",
   "structure": [
     {
       "name": "Charity",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": null,
+  "registerType": "Secondary",
+  "sector": null,
+  "source": "Primary research",
+  "subnational": null,
+  "wikipedia": null,
+  "code": "AU-ACNC",
+  "description": "\"In Australia, charities must register with the Australian Charities and Not-for-profits Commission (ACNC) before they can receive charity tax concessions from the Australian Taxation Office (ATO).\"\n\nCharity Status can be applied to organisations that have an Australian Business Number (ABN) and that take a range of legal forms [1] including Australian Private Company, Australian Public Company, State level registered 'Other Incorporated Entity', Discretionary Investment Trust, Fixed Trusts, Co-operatives and Other Unincorporated Identities. \n\n[1]: http://www.acnc.gov.au/ACNC/Register_my_charity/Who_can_register/Legal_structure/ACNC/Reg/Legal_structure.aspx",
+  "name": "Australian Charities and Not-for-profits Commission",
+  "publicDatabase": null,
   "url": "http://www.acnc.gov.au/ACNC/"
 }

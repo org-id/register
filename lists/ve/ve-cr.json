@@ -1,20 +1,39 @@
 {
-  "code": "VE-CR",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Venezuela, Bolivarian Republic of",
-      "countryCode": "VE"
+      "countryCode": "VE",
+      "country": "Venezuela, Bolivarian Republic of"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "Closed License",
-  "name": "Single Register of Tax Information",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "Closed License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "VE-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "name": "Single Register of Tax Information",
+  "publicDatabase": null,
   "url": "http://declaraciones.seniat.gob.ve/portal/page/portal/PORTAL_SENIAT"
 }

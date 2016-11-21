@@ -1,20 +1,39 @@
 {
-  "code": "ZM-CR",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Zambia",
-      "countryCode": "ZM"
+      "countryCode": "ZM",
+      "country": "Zambia"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "Closed License",
-  "name": "Patent And Companies Registration Agency (PACRA)",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "Closed License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "ZM-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "name": "Patent And Companies Registration Agency (PACRA)",
+  "publicDatabase": null,
   "url": "http://www.pacra.org.zm/"
 }

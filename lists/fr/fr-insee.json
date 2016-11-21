@@ -1,12 +1,34 @@
 {
-  "code": "FR-INSEE",
-  "description": "The National Institute of Statistics and Economic Studies provide a registration service for companies and associations with details being held on the SIRENE database",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "France",
-      "countryCode": "FR"
+      "countryCode": "FR",
+      "country": "France"
     }
   ],
+  "languages": null,
+  "lastUpdated": null,
+  "structure": null,
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": null,
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "FR-INSEE",
+  "description": "The National Institute of Statistics and Economic Studies provide a registration service for companies and associations with details being held on the SIRENE database",
   "name": "The National Institute of Statistics and Economic Studies / Institute National de la Statistique et des etudes economiques",
+  "publicDatabase": null,
   "url": "http://www.insee.fr/fr/service/default.asp?page=entreprises/entreprise.htm"
 }

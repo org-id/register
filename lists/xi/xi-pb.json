@@ -1,23 +1,41 @@
 {
-  "code": "XI-PB",
-  "dataAccessDetails": "http://publicbodies.org/ - CSV download available for Brazil, European Union, Germany, Greece, New Zealand, Switzerland, United Kingdom and United States",
+  "former_prefixes": null,
   "dataAccessProperties": [
     "csv"
   ],
-  "description": "Public Bodies aims to provide a unique ID for every part of every government.",
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": "http://publicbodies.org/ - CSV download available for Brazil, European Union, Germany, Greece, New Zealand, Switzerland, United Kingdom and United States",
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
+  "jurisdiction": null,
   "languages": [
     "pt",
     "de",
     "el",
     "en"
   ],
-  "name": "Public Bodies",
-  "registerType": "Third-party",
+  "lastUpdated": null,
   "structure": [
     {
       "name": "Government Agency",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": null,
+  "registerType": "Third-party",
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "XI-PB",
+  "description": "Public Bodies aims to provide a unique ID for every part of every government.",
+  "name": "Public Bodies",
+  "publicDatabase": null,
   "url": "http://publicbodies.org/"
 }

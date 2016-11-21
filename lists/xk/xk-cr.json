@@ -1,20 +1,39 @@
 {
-  "code": "XK-CR",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": null,
-      "countryCode": "XK"
+      "countryCode": "XK",
+      "country": null
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "No License",
-  "name": "Kosovo Business Registration Agency",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "No License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "XK-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "name": "Kosovo Business Registration Agency",
+  "publicDatabase": null,
   "url": "http://www.arbk.org/en/Home"
 }

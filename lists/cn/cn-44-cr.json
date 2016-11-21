@@ -1,28 +1,45 @@
 {
+  "former_prefixes": null,
+  "dataAccessProperties": null,
   "availableOnline": "Yes",
-  "code": "CN-44-CR",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "China",
-      "countryCode": "CN"
+      "countryCode": "CN",
+      "country": "China"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "No License",
-  "name": "Guangdong Provincial AIC Enterprise Registry",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "No License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
   "subnational": [
     {
-      "country": null,
       "regionCode": "CN_44",
+      "country": null,
       "regionName": null
     }
   ],
+  "wikipedia": null,
+  "code": "CN-44-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "name": "Guangdong Provincial AIC Enterprise Registry",
+  "publicDatabase": null,
   "url": "http://gsxt.gdgs.gov.cn/"
 }

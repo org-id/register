@@ -1,24 +1,41 @@
 {
-  "availableOnline": "Yes",
-  "code": "IE-CR",
+  "former_prefixes": null,
   "dataAccessProperties": [
     "Available: but details unknown"
   ],
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "availableOnline": "Yes",
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Ireland",
-      "countryCode": "IE"
+      "countryCode": "IE",
+      "country": "Ireland"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "No License",
-  "name": "Companies Registration Office, Department of Jobs, Enterprise and Innovation",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "No License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "IE-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "name": "Companies Registration Office, Department of Jobs, Enterprise and Innovation",
+  "publicDatabase": null,
   "url": "http://www.cro.ie/search/"
 }

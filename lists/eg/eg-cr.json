@@ -1,20 +1,39 @@
 {
-  "code": "EG-CR",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Egypt",
-      "countryCode": "EG"
+      "countryCode": "EG",
+      "country": "Egypt"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "Closed License",
-  "name": "General Authority for Free Zones and Investment (GAFI), Commercial Registry",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "Closed License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "EG-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "name": "General Authority for Free Zones and Investment (GAFI), Commercial Registry",
+  "publicDatabase": null,
   "url": "http://www.gafi.gov.eg/ar/onestopshop/onestop.aspx"
 }

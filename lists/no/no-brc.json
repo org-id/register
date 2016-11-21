@@ -1,11 +1,34 @@
 {
-  "code": "NO-BRC",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Norway",
-      "countryCode": "NO"
+      "countryCode": "NO",
+      "country": "Norway"
     }
   ],
+  "languages": null,
+  "lastUpdated": null,
+  "structure": null,
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": null,
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "NO-BRC",
+  "description": null,
   "name": "Br\u00f8nn\u00f8ysundregistrene",
+  "publicDatabase": null,
   "url": "http://www.brreg.no/"
 }

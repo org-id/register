@@ -1,12 +1,34 @@
 {
-  "code": "SK-ZRSR",
-  "description": "Most organisations (including NGOs) have to be registered with the Ministry of Interior for the Trade Register Of The Slovak Republic (\u017divnostensky Register Slovenskej Republiky) and are allocated a unique registration number",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Slovakia",
-      "countryCode": "SK"
+      "countryCode": "SK",
+      "country": "Slovakia"
     }
   ],
+  "languages": null,
+  "lastUpdated": null,
+  "structure": null,
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": null,
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "SK-ZRSR",
+  "description": "Most organisations (including NGOs) have to be registered with the Ministry of Interior for the Trade Register Of The Slovak Republic (\u017divnostensky Register Slovenskej Republiky) and are allocated a unique registration number",
   "name": "Slovakia Ministry Of Interior Trade Register",
+  "publicDatabase": null,
   "url": "http://www.zrsr.sk/default.aspx?LANG=en"
 }

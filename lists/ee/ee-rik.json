@@ -1,12 +1,34 @@
 {
-  "code": "EE-RIK",
-  "description": "You can view the data related to you free-of-charge by logging in with your ID-card.",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Estonia",
-      "countryCode": "EE"
+      "countryCode": "EE",
+      "country": "Estonia"
     }
   ],
+  "languages": null,
+  "lastUpdated": null,
+  "structure": null,
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": null,
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "EE-RIK",
+  "description": "You can view the data related to you free-of-charge by logging in with your ID-card.",
   "name": "Centre of Registers and Information Systems (RIK)",
+  "publicDatabase": null,
   "url": "http://www.rik.ee/en/e-business-register"
 }

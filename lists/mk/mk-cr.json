@@ -1,20 +1,39 @@
 {
-  "code": "MK-CR",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Macedonia, the Former Yugoslav Republic of",
-      "countryCode": "MK"
+      "countryCode": "MK",
+      "country": "Macedonia, the Former Yugoslav Republic of"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "Closed License",
-  "name": "The Central Register of Macedonia",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "Closed License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "MK-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "name": "The Central Register of Macedonia",
+  "publicDatabase": null,
   "url": "http://www.crm.com.mk"
 }

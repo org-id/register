@@ -1,27 +1,45 @@
 {
-  "code": "AE-RK-CR",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "United Arab Emirates",
-      "countryCode": "AE"
+      "countryCode": "AE",
+      "country": "United Arab Emirates"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "Closed License",
-  "name": "Ras al-Khaimah Chamber of Commerce and Industry",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "Closed License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
   "subnational": [
     {
-      "country": null,
       "regionCode": "AE_RK",
+      "country": null,
       "regionName": null
     }
   ],
+  "wikipedia": null,
+  "code": "AE-RK-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "name": "Ras al-Khaimah Chamber of Commerce and Industry",
+  "publicDatabase": null,
   "url": "http://www.rakchamber.ae/"
 }

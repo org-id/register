@@ -1,20 +1,39 @@
 {
-  "code": "GY-CR",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Guyana",
-      "countryCode": "GY"
+      "countryCode": "GY",
+      "country": "Guyana"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "Closed License",
-  "name": "Ministry of Legal Affairs, Deeds Registry",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "Closed License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "GY-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "name": "Ministry of Legal Affairs, Deeds Registry",
+  "publicDatabase": null,
   "url": "http://legalaffairs.gov.gy/deeds-registry/registry-overview"
 }

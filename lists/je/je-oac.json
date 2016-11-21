@@ -1,11 +1,34 @@
 {
-  "code": "JE-OAC",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Jersey",
-      "countryCode": "JE"
+      "countryCode": "JE",
+      "country": "Jersey"
     }
   ],
+  "languages": null,
+  "lastUpdated": null,
+  "structure": null,
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": null,
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "JE-OAC",
+  "description": null,
   "name": "Jersey Overseas Aid Commission",
+  "publicDatabase": null,
   "url": "http://www.jerseyoverseasaid.org.je/"
 }

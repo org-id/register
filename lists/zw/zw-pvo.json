@@ -1,10 +1,34 @@
 {
-  "code": "ZW-PVO",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Zimbabwe",
-      "countryCode": "ZW"
+      "countryCode": "ZW",
+      "country": "Zimbabwe"
     }
   ],
-  "name": "Private Voluntary Organisations Council"
+  "languages": null,
+  "lastUpdated": null,
+  "structure": null,
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": null,
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "ZW-PVO",
+  "description": null,
+  "name": "Private Voluntary Organisations Council",
+  "publicDatabase": null,
+  "url": null
 }

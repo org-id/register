@@ -1,20 +1,39 @@
 {
-  "code": "GH-CR",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Ghana",
-      "countryCode": "GH"
+      "countryCode": "GH",
+      "country": "Ghana"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "Closed License",
-  "name": "Ministry of Justice and Attorney General, Registrar General's Department",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "Closed License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "GH-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "name": "Ministry of Justice and Attorney General, Registrar General's Department",
+  "publicDatabase": null,
   "url": "http://www.rgd.gov.gh/"
 }

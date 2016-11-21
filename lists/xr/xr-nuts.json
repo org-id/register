@@ -1,120 +1,126 @@
 {
-  "code": "XR-NUTS",
-  "description": "The European Union's Nomenclature of Territorial Units for Statistics (NUTS) provides codes for territorial areas at a number of different levels.\n\nWhere no primary identifiers for regional and local government entities are available, then NUTS level 2 and 3 codes, and Local Administrative Unit (LAU 1 and LAU 2 level) codes could be used as a proxy for the primary local government body responsible for that area. \n\nEuroStat currently maintain a cross-walk between different levels, codes and area names for each jurisdiction. \n\nTo construct an identifier:\n\nFor NUTS 2 and 3 codes, use the prefix (XR-NUTS-) and then the NUTS code provided.\n\nFor LAU1 and 2 codes (Local authority/ward), use the prefix (XR-NUTS-), the country prefix and underscore (e.g. UK_) , and then the LAU_NAT_Code provided (e.g. E05004874)\n\nFor example: XR-NUTS-UK_E07000105\n\n\n",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Belgium",
-      "countryCode": "BE"
+      "countryCode": "HR",
+      "country": "Croatia"
     },
     {
-      "country": "Bulgaria",
-      "countryCode": "BG"
+      "countryCode": "PT",
+      "country": "Portugal"
     },
     {
-      "country": "Czech Republic",
-      "countryCode": "CZ"
+      "countryCode": "AT",
+      "country": "Austria"
     },
     {
-      "country": "Germany",
-      "countryCode": "DE"
+      "countryCode": "SK",
+      "country": "Slovakia"
     },
     {
-      "country": "Estonia",
-      "countryCode": "EE"
+      "countryCode": "NL",
+      "country": "Netherlands"
     },
     {
-      "country": "Ireland",
-      "countryCode": "IE"
+      "countryCode": "MT",
+      "country": "Malta"
     },
     {
-      "country": "Greece",
-      "countryCode": "GR"
+      "countryCode": "ES",
+      "country": "Spain"
     },
     {
-      "country": "Spain",
-      "countryCode": "ES"
+      "countryCode": "LT",
+      "country": "Lithuania"
     },
     {
-      "country": "France",
-      "countryCode": "FR"
+      "countryCode": "GR",
+      "country": "Greece"
     },
     {
-      "country": "Croatia",
-      "countryCode": "HR"
+      "countryCode": "IE",
+      "country": "Ireland"
     },
     {
-      "country": "Italy",
-      "countryCode": "IT"
+      "countryCode": "EE",
+      "country": "Estonia"
     },
     {
-      "country": "Cyprus",
-      "countryCode": "CY"
+      "countryCode": "CY",
+      "country": "Cyprus"
     },
     {
-      "country": "Latvia",
-      "countryCode": "LV"
+      "countryCode": "CZ",
+      "country": "Czech Republic"
     },
     {
-      "country": "Lithuania",
-      "countryCode": "LT"
+      "countryCode": "FI",
+      "country": "Finland"
     },
     {
-      "country": "Luxembourg",
-      "countryCode": "LU"
+      "countryCode": "DE",
+      "country": "Germany"
     },
     {
-      "country": "Hungary",
-      "countryCode": "HU"
+      "countryCode": "LV",
+      "country": "Latvia"
     },
     {
-      "country": "Malta",
-      "countryCode": "MT"
+      "countryCode": "GB",
+      "country": "United Kingdom"
     },
     {
-      "country": "Netherlands",
-      "countryCode": "NL"
+      "countryCode": "SI",
+      "country": "Slovenia"
     },
     {
-      "country": "Austria",
-      "countryCode": "AT"
+      "countryCode": "BG",
+      "country": "Bulgaria"
     },
     {
-      "country": "Poland",
-      "countryCode": "PL"
+      "countryCode": "SE",
+      "country": "Sweden"
     },
     {
-      "country": "Portugal",
-      "countryCode": "PT"
+      "countryCode": "FR",
+      "country": "France"
     },
     {
-      "country": "Romania",
-      "countryCode": "RO"
+      "countryCode": "HU",
+      "country": "Hungary"
     },
     {
-      "country": "Slovenia",
-      "countryCode": "SI"
+      "countryCode": "PL",
+      "country": "Poland"
     },
     {
-      "country": "Slovakia",
-      "countryCode": "SK"
+      "countryCode": "LU",
+      "country": "Luxembourg"
     },
     {
-      "country": "Finland",
-      "countryCode": "FI"
+      "countryCode": "BE",
+      "country": "Belgium"
     },
     {
-      "country": "Sweden",
-      "countryCode": "SE"
+      "countryCode": "IT",
+      "country": "Italy"
     },
     {
-      "country": "United Kingdom",
-      "countryCode": "GB"
+      "countryCode": "RO",
+      "country": "Romania"
     }
   ],
-  "name": "NUTS - European Union Nomenclature of Territorial Units for Statistics",
-  "publicDatabase": "http://ec.europa.eu/eurostat/web/nuts/local-administrative-units",
-  "registerType": "Secondary",
-  "source": "Primary research",
+  "languages": null,
+  "lastUpdated": null,
   "structure": [
     {
       "name": "Local Government",
@@ -123,5 +129,17 @@
       ]
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": null,
+  "registerType": "Secondary",
+  "sector": null,
+  "source": "Primary research",
+  "subnational": null,
+  "wikipedia": null,
+  "code": "XR-NUTS",
+  "description": "The European Union's Nomenclature of Territorial Units for Statistics (NUTS) provides codes for territorial areas at a number of different levels.\n\nWhere no primary identifiers for regional and local government entities are available, then NUTS level 2 and 3 codes, and Local Administrative Unit (LAU 1 and LAU 2 level) codes could be used as a proxy for the primary local government body responsible for that area. \n\nEuroStat currently maintain a cross-walk between different levels, codes and area names for each jurisdiction. \n\nTo construct an identifier:\n\nFor NUTS 2 and 3 codes, use the prefix (XR-NUTS-) and then the NUTS code provided.\n\nFor LAU1 and 2 codes (Local authority/ward), use the prefix (XR-NUTS-), the country prefix and underscore (e.g. UK_) , and then the LAU_NAT_Code provided (e.g. E05004874)\n\nFor example: XR-NUTS-UK_E07000105\n\n\n",
+  "name": "NUTS - European Union Nomenclature of Territorial Units for Statistics",
+  "publicDatabase": "http://ec.europa.eu/eurostat/web/nuts/local-administrative-units",
   "url": "http://ec.europa.eu/eurostat/web/nuts/local-administrative-units"
 }

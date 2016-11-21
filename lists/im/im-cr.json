@@ -1,11 +1,39 @@
 {
-  "code": "IM-CR",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": "Yes",
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Isle of Man",
-      "countryCode": "IM"
+      "countryCode": "IM",
+      "country": "Isle of Man"
     }
   ],
+  "languages": null,
+  "lastUpdated": "2016-09-07",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "Closed License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "IM-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
   "name": "Isle of Man Companies Registry",
-  "url": "http://www.gov.im/ded/companies/companiesregistry.xml?menuid=21615"
+  "publicDatabase": null,
+  "url": "http://portal.gov.im/pvi/"
 }

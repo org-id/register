@@ -1,33 +1,36 @@
 {
+  "former_prefixes": null,
+  "dataAccessProperties": null,
   "availableOnline": "Yes",
-  "code": "CO-RUE",
+  "confirmed": null,
+  "dataAccessDetails": null,
   "datasetFeatures": [
     "Industry classifications",
     "Date of registration",
     "Number of employees",
     "Legal representatives"
   ],
-  "description": "The Single Business Registration (RUE) was created by Article 11 of Law 590 of 2000, in November 2013, and integrates the Commercial Register and the National Register of Bidders, and will also incorporate and integrate the following records:\n\n* Registration of Non-Profit Institutions\n* Public National Register of vendors Games of chance\n* Public Registry of citizen oversight\n* National Tourism Registry\n* Register of Foreign Entities of Private Law Non-Profit\n* Registration Solidarity Economy\n* Unified Offeror Registry (RUP)\n\nThe Single Business Registration and Social (RUES) is administered by the Chambers of Commerce. ",
+  "deprecated": null,
   "exampleIdentifiers": "900876653, 900620562",
   "guidanceOnLocatingIds": "Search through the online interface. \n\nSome identifiers are provided with a checksum (e.g. 900876653-3). ",
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Colombia",
-      "countryCode": "CO"
+      "countryCode": "CO",
+      "country": "Colombia"
     }
   ],
   "languages": [
     "es"
   ],
   "lastUpdated": "2016-09-02",
-  "licenseDetails": "No license is given",
-  "licenseStatus": "No License",
-  "name": "Single Business Register / Al Registro \u00danico Empresarial",
-  "onlineAccessDetails": "It is possible to search the register online",
-  "publicDatabase": "http://www.rues.org.co/RUES_Web/",
-  "registerType": "Secondary",
-  "source": "Primary research",
   "structure": [
+    {
+      "name": "Sole trader",
+      "subtypeOf": [
+        "reciN6k5BN1PawHxI"
+      ]
+    },
     {
       "name": "Company",
       "subtypeOf": null
@@ -35,13 +38,19 @@
     {
       "name": "Charity",
       "subtypeOf": null
-    },
-    {
-      "name": "Sole trader",
-      "subtypeOf": [
-        "reciN6k5BN1PawHxI"
-      ]
     }
   ],
+  "licenseDetails": "No license is given",
+  "onlineAccessDetails": "It is possible to search the register online",
+  "licenseStatus": "No License",
+  "registerType": "Secondary",
+  "sector": null,
+  "source": "Primary research",
+  "subnational": null,
+  "wikipedia": null,
+  "code": "CO-RUE",
+  "description": "The Single Business Registration (RUE) was created by Article 11 of Law 590 of 2000, in November 2013, and integrates the Commercial Register and the National Register of Bidders, and will also incorporate and integrate the following records:\n\n* Registration of Non-Profit Institutions\n* Public National Register of vendors Games of chance\n* Public Registry of citizen oversight\n* National Tourism Registry\n* Register of Foreign Entities of Private Law Non-Profit\n* Registration Solidarity Economy\n* Unified Offeror Registry (RUP)\n\nThe Single Business Registration and Social (RUES) is administered by the Chambers of Commerce. ",
+  "name": "Single Business Register / Al Registro \u00danico Empresarial",
+  "publicDatabase": "http://www.rues.org.co/RUES_Web/",
   "url": "http://www.rues.org.co/RUES_Web/"
 }

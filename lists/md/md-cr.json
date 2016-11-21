@@ -1,27 +1,43 @@
 {
-  "availableOnline": "Yes",
-  "code": "MD-CR",
+  "former_prefixes": null,
   "dataAccessProperties": [
     "Available: but details unknown"
   ],
+  "availableOnline": "Yes",
+  "confirmed": null,
+  "dataAccessDetails": null,
   "datasetFeatures": [
     "Shareholders"
   ],
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Moldova, Republic of",
-      "countryCode": "MD"
+      "countryCode": "MD",
+      "country": "Moldova, Republic of"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "Open License",
-  "name": "Ministry of Information Technology and Communications",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "Open License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "MD-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "name": "Ministry of Information Technology and Communications",
+  "publicDatabase": null,
   "url": "http://www.mtic.gov.md/WebPublic/index.php?action=company&lang=md"
 }

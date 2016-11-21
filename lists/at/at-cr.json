@@ -1,20 +1,39 @@
 {
-  "code": "AT-CR",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Austria",
-      "countryCode": "AT"
+      "countryCode": "AT",
+      "country": "Austria"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "Closed License",
-  "name": "Federal Ministry of Justice, Company Register",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "Closed License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "AT-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "name": "Federal Ministry of Justice, Company Register",
+  "publicDatabase": null,
   "url": "http://www.justiz.gv.at/web2013/html/default/8ab4a8a422985de30122a90fc2ca620b.de.html"
 }

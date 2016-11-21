@@ -1,20 +1,39 @@
 {
-  "code": "CR-CR",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Costa Rica",
-      "countryCode": "CR"
+      "countryCode": "CR",
+      "country": "Costa Rica"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "Closed License",
-  "name": "National Registry",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "Closed License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "CR-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "name": "National Registry",
+  "publicDatabase": null,
   "url": "https://www.rnpdigital.com/personas_juridicas/index.htm"
 }

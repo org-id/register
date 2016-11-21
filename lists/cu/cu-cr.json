@@ -1,20 +1,39 @@
 {
-  "code": "CU-CR",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Cuba",
-      "countryCode": "CU"
+      "countryCode": "CU",
+      "country": "Cuba"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "No License",
-  "name": "National Office of Statistics & Information (ONEI)",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "No License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "CU-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "name": "National Office of Statistics & Information (ONEI)",
+  "publicDatabase": null,
   "url": "http://www.one.cu/nomencladores.htm"
 }

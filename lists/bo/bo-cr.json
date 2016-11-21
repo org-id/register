@@ -1,20 +1,39 @@
 {
-  "code": "BO-CR",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Bolivia, Plurinational State of",
-      "countryCode": "BO"
+      "countryCode": "BO",
+      "country": "Bolivia, Plurinational State of"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "Closed License",
-  "name": "Trade Register Bolivia",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "Closed License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "BO-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "name": "Trade Register Bolivia",
+  "publicDatabase": null,
   "url": "http://www.fundempresa.org.bo/inicio/"
 }

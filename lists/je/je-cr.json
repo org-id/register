@@ -1,20 +1,34 @@
 {
-  "code": "JE-CR",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.Jersey public company identifiers are not unique - specifically there are instances of companies (even of the same type) having the same company number. Because of that, OpenCorporates uses the Jersey company register uid (the identifier used on URLs), which is not publicly described anywhere, but we believe to be unique. A further description of our approach to company numbers for Jersey can be found at <a href=\"https://wiki.opencorporates.com/qa/qa_public/migrating_company_numbers/jersey\">https://wiki.opencorporates.com/qa/qa_public/migrating_company_numbers/jersey</a>",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Jersey",
-      "countryCode": "JE"
+      "countryCode": "JE",
+      "country": "Jersey"
     }
   ],
-  "lastUpdated": "2016-09-07",
-  "licenseStatus": "Closed License",
-  "name": "JFSC Companies Registry",
-  "structure": [
-    {
-      "name": "Company",
-      "subtypeOf": null
-    }
-  ],
+  "languages": null,
+  "lastUpdated": null,
+  "structure": null,
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": null,
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "JE-CR",
+  "description": null,
+  "name": "Jersey Companies Registry",
+  "publicDatabase": null,
   "url": "http://www.jerseyfsc.org/registry/"
 }

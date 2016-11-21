@@ -1,31 +1,31 @@
 {
+  "former_prefixes": null,
+  "dataAccessProperties": null,
   "availableOnline": "No",
-  "code": "US-EIN",
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "United States",
-      "countryCode": "US"
+      "countryCode": "US",
+      "country": "United States"
     }
   ],
-  "name": "Internal Revenue Service / Employer Identification Number",
-  "registerType": "Secondary",
+  "languages": null,
+  "lastUpdated": null,
   "structure": [
     {
-      "name": "Company",
-      "subtypeOf": null
-    },
-    {
-      "name": "Charity",
-      "subtypeOf": null
-    },
-    {
-      "name": "Sole trader",
+      "name": "Listed company",
       "subtypeOf": [
         "reciN6k5BN1PawHxI"
       ]
     },
     {
-      "name": "Listed company",
+      "name": "Sole trader",
       "subtypeOf": [
         "reciN6k5BN1PawHxI"
       ]
@@ -35,7 +35,27 @@
       "subtypeOf": [
         "reciN6k5BN1PawHxI"
       ]
+    },
+    {
+      "name": "Company",
+      "subtypeOf": null
+    },
+    {
+      "name": "Charity",
+      "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": null,
+  "registerType": "Secondary",
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "US-EIN",
+  "description": null,
+  "name": "Internal Revenue Service / Employer Identification Number",
+  "publicDatabase": null,
   "url": "http://www.irs.gov/businesses/small/article/0,,id=98350,00.html"
 }

@@ -1,24 +1,41 @@
 {
-  "availableOnline": "Yes",
-  "code": "RO-CR",
+  "former_prefixes": null,
   "dataAccessProperties": [
     "Available: but details unknown"
   ],
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "availableOnline": "Yes",
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Romania",
-      "countryCode": "RO"
+      "countryCode": "RO",
+      "country": "Romania"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "Open License",
-  "name": "National Trade Register Office, Ministry of Justice",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "Open License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "RO-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "name": "National Trade Register Office, Ministry of Justice",
+  "publicDatabase": null,
   "url": "http://www.mfinante.ro/pjuridice.html?pagina=domenii"
 }

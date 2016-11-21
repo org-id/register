@@ -1,28 +1,44 @@
 {
-  "availableOnline": "Yes",
-  "code": "GB-CR",
+  "former_prefixes": null,
   "dataAccessProperties": [
     "Available: but details unknown"
   ],
+  "availableOnline": "Yes",
+  "confirmed": null,
+  "dataAccessDetails": null,
   "datasetFeatures": [
     "Directors / Trustees / Governors",
     "Accounts"
   ],
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "United Kingdom",
-      "countryCode": "GB"
+      "countryCode": "GB",
+      "country": "United Kingdom"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "Open License",
-  "name": "UK Companies House",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "Open License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "GB-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "name": "UK Companies House",
+  "publicDatabase": null,
   "url": "http://companieshouse.gov.uk/"
 }

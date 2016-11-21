@@ -1,11 +1,34 @@
 {
-  "code": "SE-BLV",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Sweden",
-      "countryCode": "SE"
+      "countryCode": "SE",
+      "country": "Sweden"
     }
   ],
+  "languages": null,
+  "lastUpdated": null,
+  "structure": null,
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": null,
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "SE-BLV",
+  "description": null,
   "name": "Bolagsverket / Swedish Companies Registration Office",
+  "publicDatabase": null,
   "url": "http://www.bolagsverket.se/"
 }

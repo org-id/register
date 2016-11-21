@@ -1,11 +1,34 @@
 {
-  "code": "LS-LCN",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Lesotho",
-      "countryCode": "LS"
+      "countryCode": "LS",
+      "country": "Lesotho"
     }
   ],
+  "languages": null,
+  "lastUpdated": null,
+  "structure": null,
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": null,
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "LS-LCN",
+  "description": null,
   "name": "Lesotho Council of Non Governmental Organisations",
+  "publicDatabase": null,
   "url": "http://www.lcn.org.ls/"
 }

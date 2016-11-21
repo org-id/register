@@ -1,21 +1,39 @@
 {
+  "former_prefixes": null,
+  "dataAccessProperties": null,
   "availableOnline": "Yes",
-  "code": "BN-CR",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Brunei Darussalam",
-      "countryCode": "BN"
+      "countryCode": "BN",
+      "country": "Brunei Darussalam"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "No License",
-  "name": "Attorney General's Chambers - Registries' Division",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "No License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "BN-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "name": "Attorney General's Chambers - Registries' Division",
+  "publicDatabase": null,
   "url": "http://www.eregistry.agc.gov.bn/WorkAreaMain/WorkFunctionMain/WebViewMain/Main.aspx"
 }

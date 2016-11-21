@@ -1,10 +1,34 @@
 {
-  "code": "GH-DSW",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Ghana",
-      "countryCode": "GH"
+      "countryCode": "GH",
+      "country": "Ghana"
     }
   ],
-  "name": "Department of Social Welfare"
+  "languages": null,
+  "lastUpdated": null,
+  "structure": null,
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": null,
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "GH-DSW",
+  "description": null,
+  "name": "Department of Social Welfare",
+  "publicDatabase": null,
+  "url": null
 }

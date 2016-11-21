@@ -1,20 +1,39 @@
 {
-  "code": "SR-CR",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Suriname",
-      "countryCode": "SR"
+      "countryCode": "SR",
+      "country": "Suriname"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "Closed License",
-  "name": "Chamber of Commerce and Industry - Business Directory",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "Closed License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "SR-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "name": "Chamber of Commerce and Industry - Business Directory",
+  "publicDatabase": null,
   "url": "http://www.surinamedirectory.biz/"
 }

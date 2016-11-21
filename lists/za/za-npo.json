@@ -1,11 +1,34 @@
 {
-  "code": "ZA-NPO",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "South Africa",
-      "countryCode": "ZA"
+      "countryCode": "ZA",
+      "country": "South Africa"
     }
   ],
+  "languages": null,
+  "lastUpdated": null,
+  "structure": null,
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": null,
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "ZA-NPO",
+  "description": null,
   "name": "Association for Non-Profit Organisations",
+  "publicDatabase": null,
   "url": "http://www.npo.gov.za/"
 }

@@ -1,20 +1,39 @@
 {
-  "code": "LK-CR",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Sri Lanka",
-      "countryCode": "LK"
+      "countryCode": "LK",
+      "country": "Sri Lanka"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "No License",
-  "name": "Department of Registrar the of Companies",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "No License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "LK-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "name": "Department of Registrar the of Companies",
+  "publicDatabase": null,
   "url": "http://www.drc.gov.lk/App/comreg.nsf?Open"
 }

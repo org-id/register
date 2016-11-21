@@ -1,28 +1,45 @@
 {
+  "former_prefixes": null,
+  "dataAccessProperties": null,
   "availableOnline": "Yes",
-  "code": "US-NC-CR",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "United States",
-      "countryCode": "US"
+      "countryCode": "US",
+      "country": "United States"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "No License",
-  "name": "Corporations Division, Department of the Secretary of State",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "No License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
   "subnational": [
     {
-      "country": null,
       "regionCode": "US_NC",
+      "country": null,
       "regionName": null
     }
   ],
+  "wikipedia": null,
+  "code": "US-NC-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "name": "Corporations Division, Department of the Secretary of State",
+  "publicDatabase": null,
   "url": "http://www.secretary.state.nc.us/corporations/CSearch.aspx"
 }

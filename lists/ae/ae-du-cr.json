@@ -1,27 +1,45 @@
 {
-  "code": "AE-DU-CR",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "United Arab Emirates",
-      "countryCode": "AE"
+      "countryCode": "AE",
+      "country": "United Arab Emirates"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "No License",
-  "name": "Dubai Chamber of Commerce and Industry- Commercial Directory",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "No License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
   "subnational": [
     {
-      "country": null,
       "regionCode": "AE_DU",
+      "country": null,
       "regionName": null
     }
   ],
+  "wikipedia": null,
+  "code": "AE-DU-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "name": "Dubai Chamber of Commerce and Industry- Commercial Directory",
+  "publicDatabase": null,
   "url": "http://www.dubaichamber.com/en/resources/commercial-directory"
 }

@@ -1,11 +1,34 @@
 {
-  "code": "GB-REV",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "United Kingdom",
-      "countryCode": "GB"
+      "countryCode": "GB",
+      "country": "United Kingdom"
     }
   ],
+  "languages": null,
+  "lastUpdated": null,
+  "structure": null,
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": null,
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "GB-REV",
+  "description": null,
   "name": "HM Revenue and Customs",
+  "publicDatabase": null,
   "url": "http://www.hmrc.gov.uk/"
 }

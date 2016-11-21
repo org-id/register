@@ -1,11 +1,34 @@
 {
-  "code": "ZM-PCR",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Zambia",
-      "countryCode": "ZM"
+      "countryCode": "ZM",
+      "country": "Zambia"
     }
   ],
+  "languages": null,
+  "lastUpdated": null,
+  "structure": null,
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": null,
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "ZM-PCR",
+  "description": null,
   "name": "Patents and Companies Registration Agency",
+  "publicDatabase": null,
   "url": "http://www.pacra.org.zm/"
 }

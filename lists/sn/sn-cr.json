@@ -1,20 +1,39 @@
 {
-  "code": "SN-CR",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Senegal",
-      "countryCode": "SN"
+      "countryCode": "SN",
+      "country": "Senegal"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "Closed License",
-  "name": "Department of Justice, Commercial Registry (RCCM)",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "Closed License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "SN-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "name": "Department of Justice, Commercial Registry (RCCM)",
+  "publicDatabase": null,
   "url": "http://www.servicepublic.gouv.sn/index.php/demarche_administrative/demarche/1/196"
 }

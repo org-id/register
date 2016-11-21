@@ -1,12 +1,34 @@
 {
-  "code": "MW-NBM",
-  "description": "There is a pdf file with a list of registered NGOs, but these do not appear to be registration numbers. New database is planned",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Malawi",
-      "countryCode": "MW"
+      "countryCode": "MW",
+      "country": "Malawi"
     }
   ],
+  "languages": null,
+  "lastUpdated": null,
+  "structure": null,
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": null,
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "MW-NBM",
+  "description": "There is a pdf file with a list of registered NGOs, but these do not appear to be registration numbers. New database is planned",
   "name": "NGO Board of Malawi",
+  "publicDatabase": null,
   "url": "http://ngoboardmalawi.mw/directory.php"
 }

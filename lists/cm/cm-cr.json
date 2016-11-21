@@ -1,20 +1,39 @@
 {
-  "code": "CM-CR",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Cameroon",
-      "countryCode": "CM"
+      "countryCode": "CM",
+      "country": "Cameroon"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "No License",
-  "name": "Chamber of Commerce, Industry, Mines and Crafts (CCIMA)",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "No License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "CM-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "name": "Chamber of Commerce, Industry, Mines and Crafts (CCIMA)",
+  "publicDatabase": null,
   "url": "http://www.ccima.net/annuaire_fr.php"
 }

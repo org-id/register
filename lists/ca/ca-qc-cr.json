@@ -1,28 +1,45 @@
 {
+  "former_prefixes": null,
+  "dataAccessProperties": null,
   "availableOnline": "Yes",
-  "code": "CA-QC-CR",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Canada",
-      "countryCode": "CA"
+      "countryCode": "CA",
+      "country": "Canada"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "No License",
-  "name": "Quebec Registraire des entreprises",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "No License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
   "subnational": [
     {
-      "country": null,
       "regionCode": "CA_QC",
+      "country": null,
       "regionName": null
     }
   ],
+  "wikipedia": null,
+  "code": "CA-QC-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "name": "Quebec Registraire des entreprises",
+  "publicDatabase": null,
   "url": "http://www.registreentreprises.gouv.qc.ca/"
 }

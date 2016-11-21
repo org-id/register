@@ -1,24 +1,41 @@
 {
-  "availableOnline": "Yes",
-  "code": "NO-CR",
+  "former_prefixes": null,
   "dataAccessProperties": [
     "Available: but details unknown"
   ],
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "availableOnline": "Yes",
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Norway",
-      "countryCode": "NO"
+      "countryCode": "NO",
+      "country": "Norway"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "Open License",
-  "name": "Entity Registry, Br\u00c3\u00b8nn\u00c3\u00b8ysund Register Centre",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "Open License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "NO-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "name": "Entity Registry, Br\u00c3\u00b8nn\u00c3\u00b8ysund Register Centre",
+  "publicDatabase": null,
   "url": "http://w2.brreg.no/enhet/sok/"
 }

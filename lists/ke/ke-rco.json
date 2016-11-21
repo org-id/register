@@ -1,11 +1,34 @@
 {
-  "code": "KE-RCO",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Kenya",
-      "countryCode": "KE"
+      "countryCode": "KE",
+      "country": "Kenya"
     }
   ],
+  "languages": null,
+  "lastUpdated": null,
+  "structure": null,
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": null,
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "KE-RCO",
+  "description": null,
   "name": "Registar of Companies",
+  "publicDatabase": null,
   "url": "http://www.attorney-general.go.ke/"
 }

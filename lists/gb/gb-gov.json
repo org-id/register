@@ -1,12 +1,34 @@
 {
-  "code": "GB-GOV",
-  "description": "Codes for use by IATI for UK Government Departments.",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "United Kingdom",
-      "countryCode": "GB"
+      "countryCode": "GB",
+      "country": "United Kingdom"
     }
   ],
+  "languages": null,
+  "lastUpdated": null,
+  "structure": null,
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": null,
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "GB-GOV",
+  "description": "Codes for use by IATI for UK Government Departments.",
   "name": "UK Government Departments Reference Numbers",
+  "publicDatabase": null,
   "url": "http://data.gov.uk/dataset/iati-organisation-identifier-for-uk-government-bodies"
 }

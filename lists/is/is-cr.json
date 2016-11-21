@@ -1,20 +1,39 @@
 {
-  "code": "IS-CR",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Iceland",
-      "countryCode": "IS"
+      "countryCode": "IS",
+      "country": "Iceland"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "No License",
-  "name": "Directorate of Internal Revenue - Company Directory",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "No License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "IS-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "name": "Directorate of Internal Revenue - Company Directory",
+  "publicDatabase": null,
   "url": "https://www.rsk.is/fyrirtaekjaskra/"
 }

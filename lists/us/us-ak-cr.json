@@ -1,34 +1,49 @@
 {
-  "availableOnline": "Yes",
-  "code": "US-AK-CR",
+  "former_prefixes": null,
   "dataAccessProperties": [
     "Available: but details unknown"
   ],
+  "availableOnline": "Yes",
+  "confirmed": null,
+  "dataAccessDetails": null,
   "datasetFeatures": [
     "Directors / Trustees / Governors"
   ],
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "United States",
-      "countryCode": "US"
+      "countryCode": "US",
+      "country": "United States"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "No License",
-  "name": "Alaska Department of Commerce",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "No License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
   "subnational": [
     {
-      "country": null,
       "regionCode": "US_AK",
+      "country": null,
       "regionName": null
     }
   ],
+  "wikipedia": null,
+  "code": "US-AK-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "name": "Alaska Department of Commerce",
+  "publicDatabase": null,
   "url": "http://commerce.alaska.gov/"
 }

@@ -1,24 +1,41 @@
 {
-  "availableOnline": "Yes",
-  "code": "AU-CR",
+  "former_prefixes": null,
   "dataAccessProperties": [
     "Available: but details unknown"
   ],
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "availableOnline": "Yes",
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Australia",
-      "countryCode": "AU"
+      "countryCode": "AU",
+      "country": "Australia"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "Open License",
-  "name": "Australian Securities and Investment Commission (ASIC)",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "Open License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "AU-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "name": "Australian Securities and Investment Commission (ASIC)",
+  "publicDatabase": null,
   "url": "https://connectonline.asic.gov.au/RegistrySearch/"
 }

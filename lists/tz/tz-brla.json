@@ -1,11 +1,34 @@
 {
-  "code": "TZ-BRLA",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Tanzania, United Republic of",
-      "countryCode": "TZ"
+      "countryCode": "TZ",
+      "country": "Tanzania, United Republic of"
     }
   ],
+  "languages": null,
+  "lastUpdated": null,
+  "structure": null,
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": null,
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "TZ-BRLA",
+  "description": null,
   "name": "Tanzania Business Registrations and Licensing Agency",
+  "publicDatabase": null,
   "url": "http://www.brela.go.tz/"
 }

@@ -1,20 +1,39 @@
 {
-  "code": "UY-CR",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Uruguay",
-      "countryCode": "UY"
+      "countryCode": "UY",
+      "country": "Uruguay"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "Closed License",
-  "name": "Uruguay General Directorate of Registers",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "Closed License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "UY-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "name": "Uruguay General Directorate of Registers",
+  "publicDatabase": null,
   "url": "http://www.dgr.gub.uy/"
 }

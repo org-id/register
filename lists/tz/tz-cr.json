@@ -1,20 +1,39 @@
 {
-  "code": "TZ-CR",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Tanzania, United Republic of",
-      "countryCode": "TZ"
+      "countryCode": "TZ",
+      "country": "Tanzania, United Republic of"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "Closed License",
-  "name": "Business Registrations and Licensing Agency (BRELA)",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "Closed License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "TZ-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "name": "Business Registrations and Licensing Agency (BRELA)",
+  "publicDatabase": null,
   "url": "http://www.brela-tz.org/"
 }

@@ -1,20 +1,39 @@
 {
-  "code": "CF-CR",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Central African Republic",
-      "countryCode": "CF"
+      "countryCode": "CF",
+      "country": "Central African Republic"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "Closed License",
-  "name": "Guichet Unique de formalit\u00c3\u00a9 des Entreprises (GUFE), Commercial Registry (Tribunal)",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "Closed License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "CF-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "name": "Guichet Unique de formalit\u00c3\u00a9 des Entreprises (GUFE), Commercial Registry (Tribunal)",
+  "publicDatabase": null,
   "url": "http://www.centrafricaine.info/en.html"
 }

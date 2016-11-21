@@ -1,20 +1,39 @@
 {
-  "code": "BD-CR",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Bangladesh",
-      "countryCode": "BD"
+      "countryCode": "BD",
+      "country": "Bangladesh"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "No License",
-  "name": "Office of the Registrar of Joint Stock Companies and Firms",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "No License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "BD-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "name": "Office of the Registrar of Joint Stock Companies and Firms",
+  "publicDatabase": null,
   "url": "http://www.roc.gov.bd:7781/psp/rjschome"
 }

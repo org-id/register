@@ -1,28 +1,45 @@
 {
+  "former_prefixes": null,
+  "dataAccessProperties": null,
   "availableOnline": "Yes",
-  "code": "CA-PE-CR",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Canada",
-      "countryCode": "CA"
+      "countryCode": "CA",
+      "country": "Canada"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "No License",
-  "name": "Prince Edward Island Corporate/Business Names Registry",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "No License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
   "subnational": [
     {
-      "country": null,
       "regionCode": "CA_PE",
+      "country": null,
       "regionName": null
     }
   ],
+  "wikipedia": null,
+  "code": "CA-PE-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "name": "Prince Edward Island Corporate/Business Names Registry",
+  "publicDatabase": null,
   "url": "http://www.gov.pe.ca/corporations/index.php"
 }

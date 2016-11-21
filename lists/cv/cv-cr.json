@@ -1,20 +1,39 @@
 {
-  "code": "CV-CR",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Cape Verde",
-      "countryCode": "CV"
+      "countryCode": "CV",
+      "country": "Cape Verde"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "Closed License",
-  "name": "Cabo Verde Commercial Register",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "Closed License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "CV-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "name": "Cabo Verde Commercial Register",
+  "publicDatabase": null,
   "url": "https://portoncv.gov.cv/portal/page?_pageid=118,188559&_dad=portal&_schema=PORTAL&p_dominio=29"
 }

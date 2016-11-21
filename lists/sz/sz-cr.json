@@ -1,20 +1,39 @@
 {
-  "code": "SZ-CR",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Swaziland",
-      "countryCode": "SZ"
+      "countryCode": "SZ",
+      "country": "Swaziland"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "Closed License",
-  "name": "Swaziland Investment Promotion Authority, Registrar of Companies",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "Closed License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "SZ-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "name": "Swaziland Investment Promotion Authority, Registrar of Companies",
+  "publicDatabase": null,
   "url": "http://www.sipa.org.sz/index.php?option=com_content&task=view&id=15&Itemid=27"
 }

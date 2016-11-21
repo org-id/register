@@ -1,28 +1,47 @@
 {
-  "code": "GB-NIC",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
   "confirmed": true,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "United Kingdom",
-      "countryCode": "GB"
+      "countryCode": "GB",
+      "country": "United Kingdom"
     }
   ],
-  "name": "The Charity Commission for Northern Ireland",
-  "registerType": "Primary",
+  "languages": null,
+  "lastUpdated": null,
   "structure": [
     {
       "name": "Charity",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": null,
+  "registerType": "Primary",
+  "sector": null,
+  "source": null,
   "subnational": [
     {
+      "regionCode": "GB-NIR",
       "country": [
         "recbO0TnMgfxNbDxe"
       ],
-      "regionCode": "GB-NIR",
       "regionName": "Northern Ireland"
     }
   ],
+  "wikipedia": null,
+  "code": "GB-NIC",
+  "description": null,
+  "name": "The Charity Commission for Northern Ireland",
+  "publicDatabase": null,
   "url": "http://www.charitycommissionni.org.uk/"
 }

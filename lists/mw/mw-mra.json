@@ -1,11 +1,34 @@
 {
-  "code": "MW-MRA",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Malawi",
-      "countryCode": "MW"
+      "countryCode": "MW",
+      "country": "Malawi"
     }
   ],
+  "languages": null,
+  "lastUpdated": null,
+  "structure": null,
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": null,
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "MW-MRA",
+  "description": null,
   "name": "Malawi Revenue Authority",
+  "publicDatabase": null,
   "url": "http://www.mra.mw/"
 }

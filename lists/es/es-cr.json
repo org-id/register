@@ -1,20 +1,39 @@
 {
-  "code": "ES-CR",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Spain",
-      "countryCode": "ES"
+      "countryCode": "ES",
+      "country": "Spain"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "Closed License",
-  "name": "Spanish Mercantile Registry",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "Closed License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "ES-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "name": "Spanish Mercantile Registry",
+  "publicDatabase": null,
   "url": "https://www.registradores.org/mercantil/jsp/home.jsp"
 }

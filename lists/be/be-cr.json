@@ -1,24 +1,41 @@
 {
-  "availableOnline": "Yes",
-  "code": "BE-CR",
+  "former_prefixes": null,
   "dataAccessProperties": [
     "Available: but details unknown"
   ],
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "availableOnline": "Yes",
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Belgium",
-      "countryCode": "BE"
+      "countryCode": "BE",
+      "country": "Belgium"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "No License",
-  "name": "Federale Overheidsdienst Economie, K.M.O., Middenstand en Energie",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "No License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "BE-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "name": "Federale Overheidsdienst Economie, K.M.O., Middenstand en Energie",
+  "publicDatabase": null,
   "url": "http://kbopub.economie.fgov.be/kbopub/zoeknaamfonetischform.html?lang=fr"
 }

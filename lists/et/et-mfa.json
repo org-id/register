@@ -1,12 +1,34 @@
 {
-  "code": "ET-MFA",
-  "description": "Charities are registered but no openly searchable database yet available.",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Ethiopia",
-      "countryCode": "ET"
+      "countryCode": "ET",
+      "country": "Ethiopia"
     }
   ],
+  "languages": null,
+  "lastUpdated": null,
+  "structure": null,
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": null,
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "ET-MFA",
+  "description": "Charities are registered but no openly searchable database yet available.",
   "name": "Ministry of Foreign Affairs",
+  "publicDatabase": null,
   "url": "http://www.mfa.gov.et/"
 }

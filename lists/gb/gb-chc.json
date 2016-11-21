@@ -1,48 +1,58 @@
 {
-  "availableOnline": "Yes",
-  "code": "GB-CHC",
-  "confirmed": true,
-  "dataAccessDetails": "Bulk download available at http://data.charitycommission.gov.uk/",
+  "former_prefixes": null,
   "dataAccessProperties": [
     "Bulk download"
   ],
+  "availableOnline": "Yes",
+  "confirmed": true,
+  "dataAccessDetails": "Bulk download available at http://data.charitycommission.gov.uk/",
   "datasetFeatures": [
     "Registered address"
   ],
-  "description": "There are four main types of charity structure in the UK: \n\n(1) Charitable incorporated organisation (CIO) \n(2) charitable company (limited by guarantee) \n(3) unincorporated association \n(4) trust\n\n\n",
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "United Kingdom",
-      "countryCode": "GB"
+      "countryCode": "GB",
+      "country": "United Kingdom"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-17",
-  "licenseDetails": "Open Government Licence v2.0",
-  "licenseStatus": "Open License",
-  "name": "Charity Commission",
-  "onlineAccessDetails": "Online search is available at https://www.gov.uk/government/organisations/charity-commission",
-  "registerType": "Primary",
   "structure": [
     {
       "name": "Charity",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": "Open Government Licence v2.0",
+  "onlineAccessDetails": "Online search is available at https://www.gov.uk/government/organisations/charity-commission",
+  "licenseStatus": "Open License",
+  "registerType": "Primary",
+  "sector": null,
+  "source": null,
   "subnational": [
     {
+      "regionCode": "GB-WLS",
       "country": [
         "recbO0TnMgfxNbDxe"
       ],
-      "regionCode": "GB-ENG",
-      "regionName": "England"
+      "regionName": "Wales"
     },
     {
+      "regionCode": "GB-ENG",
       "country": [
         "recbO0TnMgfxNbDxe"
       ],
-      "regionCode": "GB-WLS",
-      "regionName": "Wales"
+      "regionName": "England"
     }
   ],
+  "wikipedia": null,
+  "code": "GB-CHC",
+  "description": "There are four main types of charity structure in the UK: \n\n(1) Charitable incorporated organisation (CIO) \n(2) charitable company (limited by guarantee) \n(3) unincorporated association \n(4) trust\n\n\n",
+  "name": "Charity Commission",
+  "publicDatabase": null,
   "url": "http://www.charity-commission.gov.uk/"
 }

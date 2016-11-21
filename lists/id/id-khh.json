@@ -1,12 +1,34 @@
 {
-  "code": "ID-KHH",
-  "description": "Company registration is done through Ministry of Justice & Human Rights/ Kementerian Hukum Dan Hak",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Indonesia",
-      "countryCode": "ID"
+      "countryCode": "ID",
+      "country": "Indonesia"
     }
   ],
+  "languages": null,
+  "lastUpdated": null,
+  "structure": null,
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": null,
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "ID-KHH",
+  "description": "Company registration is done through Ministry of Justice & Human Rights/ Kementerian Hukum Dan Hak",
   "name": "Ministry of Justice & Human Rights/ Kementerian Hukum Dan Hak",
+  "publicDatabase": null,
   "url": "http://www.kemenkumham.go.id/"
 }

@@ -1,27 +1,45 @@
 {
-  "code": "US-MN-CR",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.Minnesota public company identifiers are not unique - specifically early company numbers are duplicates, with different companies of different types having the same number. Because of that, OpenCorporates uses the Minnesota company register guid (the identifier used on URLs), which is not publicly described anywhere, but we believe to be unique",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "United States",
-      "countryCode": "US"
+      "countryCode": "US",
+      "country": "United States"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "Closed License",
-  "name": "Office of the Minnesota Secretary of State Business & Lien system",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "Closed License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
   "subnational": [
     {
-      "country": null,
       "regionCode": "US_MN",
+      "country": null,
       "regionName": null
     }
   ],
+  "wikipedia": null,
+  "code": "US-MN-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.Minnesota public company identifiers are not unique - specifically early company numbers are duplicates, with different companies of different types having the same number. Because of that, OpenCorporates uses the Minnesota company register guid (the identifier used on URLs), which is not publicly described anywhere, but we believe to be unique",
+  "name": "Office of the Minnesota Secretary of State Business & Lien system",
+  "publicDatabase": null,
   "url": "http://mblsportal.sos.state.mn.us/"
 }

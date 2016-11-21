@@ -1,20 +1,39 @@
 {
-  "code": "BF-CR",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Burkina Faso",
-      "countryCode": "BF"
+      "countryCode": "BF",
+      "country": "Burkina Faso"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "No License",
-  "name": "Centre des Formalit\u00c3\u00a9s de Entreprise (CEFORE)",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "No License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "BF-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "name": "Centre des Formalit\u00c3\u00a9s de Entreprise (CEFORE)",
+  "publicDatabase": null,
   "url": "http://www.me.bf/"
 }

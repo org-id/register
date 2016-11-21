@@ -1,12 +1,34 @@
 {
-  "code": "DK-CVR",
-  "description": "The Central Business Register at Virk is available with English headings and categories. It can be used to search for information on all Danish businesses.",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Denmark",
-      "countryCode": "DK"
+      "countryCode": "DK",
+      "country": "Denmark"
     }
   ],
+  "languages": null,
+  "lastUpdated": null,
+  "structure": null,
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": null,
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "DK-CVR",
+  "description": "The Central Business Register at Virk is available with English headings and categories. It can be used to search for information on all Danish businesses.",
   "name": "Danish Central Business Register",
+  "publicDatabase": null,
   "url": "https://datacvr.virk.dk/data/"
 }

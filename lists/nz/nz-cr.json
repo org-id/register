@@ -1,28 +1,44 @@
 {
-  "availableOnline": "Yes",
-  "code": "NZ-CR",
+  "former_prefixes": null,
   "dataAccessProperties": [
     "Available: but details unknown"
   ],
+  "availableOnline": "Yes",
+  "confirmed": null,
+  "dataAccessDetails": null,
   "datasetFeatures": [
     "Directors / Trustees / Governors",
     "Shareholders"
   ],
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "New Zealand",
-      "countryCode": "NZ"
+      "countryCode": "NZ",
+      "country": "New Zealand"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "No License",
-  "name": "New Zealand Companies Office",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "No License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "NZ-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "name": "New Zealand Companies Office",
+  "publicDatabase": null,
   "url": "http://www.business.govt.nz/companies/"
 }

@@ -1,27 +1,47 @@
 {
-  "code": "GB-SC",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "United Kingdom",
-      "countryCode": "GB"
+      "countryCode": "GB",
+      "country": "United Kingdom"
     }
   ],
-  "name": "Scottish Charity Register",
-  "registerType": "Primary",
+  "languages": null,
+  "lastUpdated": null,
   "structure": [
     {
       "name": "Charity",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": null,
+  "registerType": "Primary",
+  "sector": null,
+  "source": null,
   "subnational": [
     {
+      "regionCode": "GB-SCT",
       "country": [
         "recbO0TnMgfxNbDxe"
       ],
-      "regionCode": "GB-SCT",
       "regionName": "Scotland"
     }
   ],
+  "wikipedia": null,
+  "code": "GB-SC",
+  "description": null,
+  "name": "Scottish Charity Register",
+  "publicDatabase": null,
   "url": "http://www.oscr.org.uk/"
 }

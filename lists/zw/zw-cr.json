@@ -1,20 +1,39 @@
 {
-  "code": "ZW-CR",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Zimbabwe",
-      "countryCode": "ZW"
+      "countryCode": "ZW",
+      "country": "Zimbabwe"
     }
   ],
+  "languages": null,
   "lastUpdated": "2016-09-07",
-  "licenseStatus": "Closed License",
-  "name": "Department of Deeds Companies & Intellecetual Property - Registrar of Companies",
   "structure": [
     {
       "name": "Company",
       "subtypeOf": null
     }
   ],
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": "Closed License",
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "ZW-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "name": "Department of Deeds Companies & Intellecetual Property - Registrar of Companies",
+  "publicDatabase": null,
   "url": "http://www.dcip.gov.zw/index.php/companies"
 }

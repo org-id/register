@@ -1,11 +1,34 @@
 {
-  "code": "GG-RCE",
+  "former_prefixes": null,
+  "dataAccessProperties": null,
+  "availableOnline": null,
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": null,
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": null,
+  "opencorporates": null,
   "jurisdiction": [
     {
-      "country": "Guernsey",
-      "countryCode": "GG"
+      "countryCode": "GG",
+      "country": "Guernsey"
     }
   ],
+  "languages": null,
+  "lastUpdated": null,
+  "structure": null,
+  "licenseDetails": null,
+  "onlineAccessDetails": null,
+  "licenseStatus": null,
+  "registerType": null,
+  "sector": null,
+  "source": null,
+  "subnational": null,
+  "wikipedia": null,
+  "code": "GG-RCE",
+  "description": null,
   "name": "The Guernsey Registry at the Department of Commerce and Employment",
+  "publicDatabase": null,
   "url": "http://www.guernseyregistry.com/charities"
 }
