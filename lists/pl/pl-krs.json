@@ -1,0 +1,12 @@
+{
+  "code": "PL-KRS",
+  "description": "Every business entry in Poland is assigned an ID in 3 different registries: business, court, and tax. This is the court register.",
+  "jurisdiction": [
+    {
+      "country": "Poland",
+      "countryCode": "PL"
+    }
+  ],
+  "name": "The National Court Register",
+  "url": "https://ems.ms.gov.pl/krs/wyszukiwaniepodmiotu"
+}

@@ -1,0 +1,41 @@
+{
+  "availableOnline": "No",
+  "code": "US-EIN",
+  "jurisdiction": [
+    {
+      "country": "United States",
+      "countryCode": "US"
+    }
+  ],
+  "name": "Internal Revenue Service / Employer Identification Number",
+  "registerType": "Secondary",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    },
+    {
+      "name": "Charity",
+      "subtypeOf": null
+    },
+    {
+      "name": "Sole trader",
+      "subtypeOf": [
+        "reciN6k5BN1PawHxI"
+      ]
+    },
+    {
+      "name": "Listed company",
+      "subtypeOf": [
+        "reciN6k5BN1PawHxI"
+      ]
+    },
+    {
+      "name": "Partnership",
+      "subtypeOf": [
+        "reciN6k5BN1PawHxI"
+      ]
+    }
+  ],
+  "url": "http://www.irs.gov/businesses/small/article/0,,id=98350,00.html"
+}

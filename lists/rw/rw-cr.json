@@ -1,0 +1,20 @@
+{
+  "code": "RW-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Rwanda",
+      "countryCode": "RW"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Office of the Registrar General: Information services",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://org.rdb.rw/inf/Public/Products/EntSearch.aspx"
+}

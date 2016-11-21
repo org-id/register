@@ -1,0 +1,20 @@
+{
+  "code": "CR-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Costa Rica",
+      "countryCode": "CR"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "National Registry",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "https://www.rnpdigital.com/personas_juridicas/index.htm"
+}

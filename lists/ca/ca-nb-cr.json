@@ -1,0 +1,28 @@
+{
+  "availableOnline": "Yes",
+  "code": "CA-NB-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Canada",
+      "countryCode": "CA"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Corporate Registry",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "subnational": [
+    {
+      "country": null,
+      "regionCode": "CA_NB",
+      "regionName": null
+    }
+  ],
+  "url": "https://www.pxw1.snb.ca/snb7001/e/2000/2500e.asp"
+}

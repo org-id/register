@@ -1,0 +1,28 @@
+{
+  "availableOnline": "Yes",
+  "code": "NZ-CR",
+  "dataAccessProperties": [
+    "Available: but details unknown"
+  ],
+  "datasetFeatures": [
+    "Directors / Trustees / Governors",
+    "Shareholders"
+  ],
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "New Zealand",
+      "countryCode": "NZ"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "New Zealand Companies Office",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.business.govt.nz/companies/"
+}

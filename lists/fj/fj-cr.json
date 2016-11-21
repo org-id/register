@@ -1,0 +1,20 @@
+{
+  "code": "FJ-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Fiji",
+      "countryCode": "FJ"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Companies Registry",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "https://www.egov.gov.fj/g2b/Commerce/default.aspx"
+}

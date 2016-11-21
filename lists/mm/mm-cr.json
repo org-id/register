@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "MM-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Myanmar",
+      "countryCode": "MM"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Directorate of Investment and Company Administration - Company Department",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://dica.gov.mm.x-aas.net/"
+}

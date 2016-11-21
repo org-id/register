@@ -1,0 +1,20 @@
+{
+  "code": "BZ-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Belize",
+      "countryCode": "BZ"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "IBCR Belize - International Business Companies Registry",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.ibcbelize.com/"
+}

@@ -1,0 +1,12 @@
+{
+  "code": "IN-MCA",
+  "description": "MCA regulates corporate affairs in India through the Companies Act, 1956, 2013 and other allied Acts, Bills and Rules.",
+  "jurisdiction": [
+    {
+      "country": "India",
+      "countryCode": "IN"
+    }
+  ],
+  "name": "Government of India, Minstry of Corporate Affairs",
+  "url": "http://www.mca.gov.in/"
+}

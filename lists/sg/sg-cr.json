@@ -1,0 +1,20 @@
+{
+  "code": "SG-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Singapore",
+      "countryCode": "SG"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Directory of Registered Entities",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.bizfile.gov.sg/"
+}

@@ -1,0 +1,20 @@
+{
+  "code": "AZ-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Azerbaijan",
+      "countryCode": "AZ"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "The Ministry of Taxes of Azerbaijan Republic - State Register of Commercial Entities",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "https://www.e-taxes.gov.az/ebyn/commersialChecker.jsp"
+}

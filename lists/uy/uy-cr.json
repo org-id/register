@@ -1,0 +1,20 @@
+{
+  "code": "UY-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Uruguay",
+      "countryCode": "UY"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Uruguay General Directorate of Registers",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.dgr.gub.uy/"
+}

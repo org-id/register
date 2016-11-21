@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "PT-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Portugal",
+      "countryCode": "PT"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Portal da Empresa",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "https://www.portaldaempresa.pt/CVE/Services/Online/Pedidos.aspx?service=PNS"
+}

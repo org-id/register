@@ -1,0 +1,20 @@
+{
+  "code": "IS-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Iceland",
+      "countryCode": "IS"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Directorate of Internal Revenue - Company Directory",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "https://www.rsk.is/fyrirtaekjaskra/"
+}

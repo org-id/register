@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "AL-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Albania",
+      "countryCode": "AL"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Albania National Registration Center",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.qkr.gov.al/nrc/default.aspx"
+}

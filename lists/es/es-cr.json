@@ -1,0 +1,20 @@
+{
+  "code": "ES-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Spain",
+      "countryCode": "ES"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Spanish Mercantile Registry",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "https://www.registradores.org/mercantil/jsp/home.jsp"
+}

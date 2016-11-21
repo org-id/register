@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "GB-GOVUK",
+  "confirmed": true,
+  "description": "Use the final segment of the url (below /organisations) as the \"registration number\", converting all \"-\" to \"_\". Keep \"registration number\" portion all lowercase.",
+  "jurisdiction": [
+    {
+      "country": "United Kingdom",
+      "countryCode": "GB"
+    }
+  ],
+  "name": "UK Government Departments, Agencies & Public Bodies",
+  "registerType": "Secondary",
+  "structure": [
+    {
+      "name": "Government Agency",
+      "subtypeOf": null
+    }
+  ],
+  "url": "https://www.gov.uk/government/organisations"
+}

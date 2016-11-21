@@ -1,0 +1,20 @@
+{
+  "code": "MZ-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Mozambique",
+      "countryCode": "MZ"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Mozambique Commercial Registry",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.portaldogoverno.gov.mz/Servicos/NegInvestiment/reg/sociedades/"
+}

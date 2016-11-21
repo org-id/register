@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "IL-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Israel",
+      "countryCode": "IL"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Israeli Corporations Authority, Department of Justice",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://havarot.justice.gov.il/"
+}

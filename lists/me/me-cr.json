@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "ME-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Montenegro",
+      "countryCode": "ME"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Central Register of Business Entities",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://pretraga.crps.me/Home/pretraga"
+}

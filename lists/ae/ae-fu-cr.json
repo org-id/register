@@ -1,0 +1,27 @@
+{
+  "code": "AE-FU-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "United Arab Emirates",
+      "countryCode": "AE"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Fujairah Chamber of Commerce & Industry- Online Directory",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "subnational": [
+    {
+      "country": null,
+      "regionCode": "AE_FU",
+      "regionName": null
+    }
+  ],
+  "url": "http://www.flashgrpclient.com/fujdir/"
+}

@@ -1,0 +1,28 @@
+{
+  "availableOnline": "Yes",
+  "code": "CN-61-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "China",
+      "countryCode": "CN"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Shaanxi Provincial AIC Enterprise Registry",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "subnational": [
+    {
+      "country": null,
+      "regionCode": "CN_61",
+      "regionName": null
+    }
+  ],
+  "url": "http://117.22.252.219:8002/p/ent2"
+}

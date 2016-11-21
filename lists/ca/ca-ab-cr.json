@@ -1,0 +1,27 @@
+{
+  "code": "CA-AB-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Canada",
+      "countryCode": "CA"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Corporate Registry Office",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "subnational": [
+    {
+      "country": null,
+      "regionCode": "CA_AB",
+      "regionName": null
+    }
+  ],
+  "url": "http://www.servicealberta.ca/Corporate_Registry.cfm"
+}

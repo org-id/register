@@ -1,0 +1,22 @@
+{
+  "code": "AU-ACNC",
+  "confirmed": true,
+  "description": "\"In Australia, charities must register with the Australian Charities and Not-for-profits Commission (ACNC) before they can receive charity tax concessions from the Australian Taxation Office (ATO).\"\n\nCharity Status can be applied to organisations that have an Australian Business Number (ABN) and that take a range of legal forms [1] including Australian Private Company, Australian Public Company, State level registered 'Other Incorporated Entity', Discretionary Investment Trust, Fixed Trusts, Co-operatives and Other Unincorporated Identities. \n\n[1]: http://www.acnc.gov.au/ACNC/Register_my_charity/Who_can_register/Legal_structure/ACNC/Reg/Legal_structure.aspx",
+  "jurisdiction": [
+    {
+      "country": "Australia",
+      "countryCode": "AU"
+    }
+  ],
+  "lastUpdated": "2016-09-06",
+  "name": "Australian Charities and Not-for-profits Commission",
+  "registerType": "Secondary",
+  "source": "Primary research",
+  "structure": [
+    {
+      "name": "Charity",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.acnc.gov.au/ACNC/"
+}

@@ -1,0 +1,28 @@
+{
+  "availableOnline": "Yes",
+  "code": "US-NM-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "United States",
+      "countryCode": "US"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Office of the Secretary of State, Business Services Division",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "subnational": [
+    {
+      "country": null,
+      "regionCode": "US_NM",
+      "regionName": null
+    }
+  ],
+  "url": "https://portal.sos.state.nm.us/corps/(S(pw0xbvcenvxfscevwgveqnhv))/Corplookup/Lookdn.aspx"
+}

@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "NL-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Netherlands",
+      "countryCode": "NL"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Trade Register",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.kvk.nl/"
+}

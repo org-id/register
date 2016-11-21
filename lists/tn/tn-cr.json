@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "TN-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Tunisia",
+      "countryCode": "TN"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Tunisian Commercial Register",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.registre-commerce.tn/search/RCCSearch.do?action=getPage&rg_type=PM&search_mode=NORMAL"
+}

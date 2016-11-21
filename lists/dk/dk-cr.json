@@ -1,0 +1,28 @@
+{
+  "availableOnline": "Yes",
+  "code": "DK-CR",
+  "dataAccessProperties": [
+    "Available: but details unknown"
+  ],
+  "datasetFeatures": [
+    "Directors / Trustees / Governors",
+    "Accounts"
+  ],
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Denmark",
+      "countryCode": "DK"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Open License",
+  "name": "Central Business Register, Danish Business Authority",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.cvr.dk"
+}

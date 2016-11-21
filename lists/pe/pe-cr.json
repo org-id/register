@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "PE-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Peru",
+      "countryCode": "PE"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "National Superintendency of Public Registries (SUNARP)",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.sunarp.gob.pe/RelacionS_01.asp"
+}

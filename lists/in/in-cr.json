@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "IN-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "India",
+      "countryCode": "IN"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Ministry of Corporate Affairs - Company/LLP Master Data",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.mca.gov.in/MCA21/Master_data.html"
+}

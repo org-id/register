@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "LS-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Lesotho",
+      "countryCode": "LS"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Ministry of Trade, Registrar of Companies",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "https://www.companies.org.ls/lesotho-companies-br/viewInstance/view.html?id=13c857736aeecb0a09b5d94dcd0806b1fbc38865177758399a303edf5386cceb&_timestamp=1546598047677291"
+}

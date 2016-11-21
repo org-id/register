@@ -1,0 +1,20 @@
+{
+  "code": "AG-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Antigua and Barbuda",
+      "countryCode": "AG"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Intellectual Property and Commerce Office",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.antigua.gov.ag/"
+}

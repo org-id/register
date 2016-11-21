@@ -1,0 +1,27 @@
+{
+  "code": "AE-SH-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "United Arab Emirates",
+      "countryCode": "AE"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Sharjah Chamber of Commerce and Industry- Business Directory",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "subnational": [
+    {
+      "country": null,
+      "regionCode": "AE_SH",
+      "regionName": null
+    }
+  ],
+  "url": "http://www.sharjah.gov.ae/EN/Services/Pages/BusinessDirectory.aspx"
+}

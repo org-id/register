@@ -1,0 +1,27 @@
+{
+  "availableOnline": "Yes",
+  "code": "MD-CR",
+  "dataAccessProperties": [
+    "Available: but details unknown"
+  ],
+  "datasetFeatures": [
+    "Shareholders"
+  ],
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Moldova, Republic of",
+      "countryCode": "MD"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Open License",
+  "name": "Ministry of Information Technology and Communications",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.mtic.gov.md/WebPublic/index.php?action=company&lang=md"
+}

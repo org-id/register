@@ -1,0 +1,20 @@
+{
+  "code": "IT-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Italy",
+      "countryCode": "IT"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Italian Business Register,  Italian Chambers of Commerce",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.registroimprese.it/"
+}

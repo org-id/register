@@ -1,0 +1,20 @@
+{
+  "code": "VE-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Venezuela, Bolivarian Republic of",
+      "countryCode": "VE"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Single Register of Tax Information",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://declaraciones.seniat.gob.ve/portal/page/portal/PORTAL_SENIAT"
+}

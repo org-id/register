@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "PL-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Poland",
+      "countryCode": "PL"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Polish National Court Register",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "https://ems.ms.gov.pl/"
+}

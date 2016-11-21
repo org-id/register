@@ -1,0 +1,20 @@
+{
+  "code": "MK-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Macedonia, the Former Yugoslav Republic of",
+      "countryCode": "MK"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "The Central Register of Macedonia",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.crm.com.mk"
+}

@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "EC-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Ecuador",
+      "countryCode": "EC"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Superintendency of Companies",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.supercias.gob.ec/portalinformacion/portal/"
+}

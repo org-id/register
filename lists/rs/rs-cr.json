@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "RS-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Serbia",
+      "countryCode": "RS"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Serbian Business Registrations Agency",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://pretraga2.apr.gov.rs/ObjedinjenePretrage/Search/Search"
+}

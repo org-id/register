@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "SK-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Slovakia",
+      "countryCode": "SK"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Business Register, Ministry of Justice",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.orsr.sk/search_subjekt.asp?lan=en"
+}

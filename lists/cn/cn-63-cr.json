@@ -1,0 +1,28 @@
+{
+  "availableOnline": "Yes",
+  "code": "CN-63-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "China",
+      "countryCode": "CN"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Qinghai Provincial AIC Enterprise Registry",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "subnational": [
+    {
+      "country": null,
+      "regionCode": "CN_63",
+      "regionName": null
+    }
+  ],
+  "url": "http://gsxt.qhaic.gov.cn/search.jspx"
+}

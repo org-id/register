@@ -1,0 +1,20 @@
+{
+  "code": "CF-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Central African Republic",
+      "countryCode": "CF"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Guichet Unique de formalit\u00c3\u00a9 des Entreprises (GUFE), Commercial Registry (Tribunal)",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.centrafricaine.info/en.html"
+}

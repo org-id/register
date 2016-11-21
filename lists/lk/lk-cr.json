@@ -1,0 +1,20 @@
+{
+  "code": "LK-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Sri Lanka",
+      "countryCode": "LK"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Department of Registrar the of Companies",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.drc.gov.lk/App/comreg.nsf?Open"
+}

@@ -1,0 +1,12 @@
+{
+  "code": "CZ-ICO",
+  "description": "Public registers comprising: the Commercial Register, the Federal Register, the Register of Foundations, the Register\u2019s Institute, and the Register of Public Service Companies. Information on companies is searchable in English and is free-of-charge.",
+  "jurisdiction": [
+    {
+      "country": "Czech Republic",
+      "countryCode": "CZ"
+    }
+  ],
+  "name": "Access to Registers of Economic Subjects / Entities (ARES)",
+  "url": "http://wwwinfo.mfcr.cz/ares/ares_es.html.en"
+}

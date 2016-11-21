@@ -1,0 +1,20 @@
+{
+  "code": "SV-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "El Salvador",
+      "countryCode": "SV"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "El Salvador Trade Register",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "https://www.e.cnr.gob.sv/portal/"
+}

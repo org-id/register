@@ -1,0 +1,31 @@
+{
+  "availableOnline": "Yes",
+  "code": "US-OR-CR",
+  "dataAccessProperties": [
+    "Available: but details unknown"
+  ],
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "United States",
+      "countryCode": "US"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Open License",
+  "name": "Corporation Division, Oregon Secretary of State",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "subnational": [
+    {
+      "country": null,
+      "regionCode": "US_OR",
+      "regionName": null
+    }
+  ],
+  "url": "http://egov.sos.state.or.us/br/pkg_web_name_srch_inq.login"
+}

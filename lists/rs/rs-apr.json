@@ -1,0 +1,12 @@
+{
+  "code": "RS-APR",
+  "description": "The SBRA runs business registers as single, centralized, public electronic databases.",
+  "jurisdiction": [
+    {
+      "country": "Serbia",
+      "countryCode": "RS"
+    }
+  ],
+  "name": "Serbian Business Registrations Agency (APR)",
+  "url": "http://www.apr.gov.rs/eng/Home.aspx"
+}

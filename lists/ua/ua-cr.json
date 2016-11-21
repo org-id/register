@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "UA-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Ukraine",
+      "countryCode": "UA"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "State Enterprise Information Resource Centre",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://irc.gov.ua/ua/Poshuk-v-YeDR.html"
+}

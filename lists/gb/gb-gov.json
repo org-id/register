@@ -1,0 +1,12 @@
+{
+  "code": "GB-GOV",
+  "description": "Codes for use by IATI for UK Government Departments.",
+  "jurisdiction": [
+    {
+      "country": "United Kingdom",
+      "countryCode": "GB"
+    }
+  ],
+  "name": "UK Government Departments Reference Numbers",
+  "url": "http://data.gov.uk/dataset/iati-organisation-identifier-for-uk-government-bodies"
+}

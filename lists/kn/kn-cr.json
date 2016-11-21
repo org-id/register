@@ -1,0 +1,20 @@
+{
+  "code": "KN-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Saint Kitts and Nevis",
+      "countryCode": "KN"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Financial Services Regulatory Commission, Registrar of Companies",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://registry.fsrc.kn/"
+}

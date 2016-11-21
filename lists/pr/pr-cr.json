@@ -1,0 +1,20 @@
+{
+  "code": "PR-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Puerto Rico",
+      "countryCode": "PR"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "PR Department of State - Register of Corporations and Institutions",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "https://prcorpfiling.f1hst.com/CorporationSearch.aspx"
+}

@@ -1,0 +1,20 @@
+{
+  "code": "QA-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Qatar",
+      "countryCode": "QA"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Qatar Chamber of Commerce and Industry - Business Directory",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://qatarchamber.com/site/qmem/"
+}

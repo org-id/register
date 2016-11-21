@@ -1,0 +1,12 @@
+{
+  "code": "ET-MFA",
+  "description": "Charities are registered but no openly searchable database yet available.",
+  "jurisdiction": [
+    {
+      "country": "Ethiopia",
+      "countryCode": "ET"
+    }
+  ],
+  "name": "Ministry of Foreign Affairs",
+  "url": "http://www.mfa.gov.et/"
+}

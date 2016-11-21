@@ -1,0 +1,20 @@
+{
+  "code": "UZ-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Uzbekistan",
+      "countryCode": "UZ"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "State Register of Legal Entities",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "https://my.gov.uz/en/service/121/56"
+}

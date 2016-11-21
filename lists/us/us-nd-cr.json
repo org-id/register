@@ -1,0 +1,28 @@
+{
+  "availableOnline": "Yes",
+  "code": "US-ND-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "United States",
+      "countryCode": "US"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Business Services, Secretary of State's Office",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "subnational": [
+    {
+      "country": null,
+      "regionCode": "US_ND",
+      "regionName": null
+    }
+  ],
+  "url": "https://apps.nd.gov/sc/busnsrch/busnSearch.htm"
+}

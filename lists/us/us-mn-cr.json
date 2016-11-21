@@ -1,0 +1,27 @@
+{
+  "code": "US-MN-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.Minnesota public company identifiers are not unique - specifically early company numbers are duplicates, with different companies of different types having the same number. Because of that, OpenCorporates uses the Minnesota company register guid (the identifier used on URLs), which is not publicly described anywhere, but we believe to be unique",
+  "jurisdiction": [
+    {
+      "country": "United States",
+      "countryCode": "US"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Office of the Minnesota Secretary of State Business & Lien system",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "subnational": [
+    {
+      "country": null,
+      "regionCode": "US_MN",
+      "regionName": null
+    }
+  ],
+  "url": "http://mblsportal.sos.state.mn.us/"
+}

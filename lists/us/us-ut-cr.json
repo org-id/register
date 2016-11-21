@@ -1,0 +1,28 @@
+{
+  "availableOnline": "Yes",
+  "code": "US-UT-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "United States",
+      "countryCode": "US"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Utah Division of Corporations & Commercial Code, Department of Commerce",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "subnational": [
+    {
+      "country": null,
+      "regionCode": "US_UT",
+      "regionName": null
+    }
+  ],
+  "url": "https://secure.utah.gov/bes/"
+}

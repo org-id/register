@@ -1,0 +1,27 @@
+{
+  "code": "US-DC-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.The company numbers for the District of Columbia seem to have been subject to several changes and tweaks and as such Opencorporates now uses the unique URL identifiers as a company number. Full details available on our public wiki: https://wiki.opencorporates.com/qa/qa_public/migrating_company_numbers/us_dc",
+  "jurisdiction": [
+    {
+      "country": "United States",
+      "countryCode": "US"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Department of Consumer and Regulatory Affairs",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "subnational": [
+    {
+      "country": null,
+      "regionCode": "US_DC",
+      "regionName": null
+    }
+  ],
+  "url": "https://corp.dcra.dc.gov/Account.aspx/LogOn?"
+}

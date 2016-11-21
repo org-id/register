@@ -1,0 +1,23 @@
+{
+  "code": "XI-PB",
+  "dataAccessDetails": "http://publicbodies.org/ - CSV download available for Brazil, European Union, Germany, Greece, New Zealand, Switzerland, United Kingdom and United States",
+  "dataAccessProperties": [
+    "csv"
+  ],
+  "description": "Public Bodies aims to provide a unique ID for every part of every government.",
+  "languages": [
+    "pt",
+    "de",
+    "el",
+    "en"
+  ],
+  "name": "Public Bodies",
+  "registerType": "Third-party",
+  "structure": [
+    {
+      "name": "Government Agency",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://publicbodies.org/"
+}

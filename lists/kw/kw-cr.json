@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "KW-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Kuwait",
+      "countryCode": "KW"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Kuwait Chamber of Commerce & Industry",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.kuwaitchamber.org.kw/echamber/website/index.jsp"
+}

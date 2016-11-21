@@ -1,0 +1,12 @@
+{
+  "code": "CN-SAIC",
+  "description": "The database is only available in Chinese language",
+  "jurisdiction": [
+    {
+      "country": "China",
+      "countryCode": "CN"
+    }
+  ],
+  "name": "State Administration for Industry and Commerce (SAIC)",
+  "url": "http://gsxt.saic.gov.cn/"
+}

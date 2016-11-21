@@ -1,0 +1,28 @@
+{
+  "availableOnline": "Yes",
+  "code": "US-HI-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "United States",
+      "countryCode": "US"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Hawai\u00e2\u20ac\u02dci Business Express (HBE), Hawai`i Information Consortium, LLC",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "subnational": [
+    {
+      "country": null,
+      "regionCode": "US_HI",
+      "regionName": null
+    }
+  ],
+  "url": "http://hbe.ehawaii.gov"
+}

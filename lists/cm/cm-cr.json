@@ -1,0 +1,20 @@
+{
+  "code": "CM-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Cameroon",
+      "countryCode": "CM"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Chamber of Commerce, Industry, Mines and Crafts (CCIMA)",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.ccima.net/annuaire_fr.php"
+}

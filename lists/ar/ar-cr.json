@@ -1,0 +1,20 @@
+{
+  "code": "AR-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Argentina",
+      "countryCode": "AR"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Inspecci\u00c3\u00b3n General de Justicia",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.jus.gob.ar/igj/"
+}

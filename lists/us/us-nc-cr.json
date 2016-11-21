@@ -1,0 +1,28 @@
+{
+  "availableOnline": "Yes",
+  "code": "US-NC-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "United States",
+      "countryCode": "US"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Corporations Division, Department of the Secretary of State",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "subnational": [
+    {
+      "country": null,
+      "regionCode": "US_NC",
+      "regionName": null
+    }
+  ],
+  "url": "http://www.secretary.state.nc.us/corporations/CSearch.aspx"
+}

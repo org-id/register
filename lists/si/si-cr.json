@@ -1,0 +1,24 @@
+{
+  "availableOnline": "Yes",
+  "code": "SI-CR",
+  "dataAccessProperties": [
+    "Available: but details unknown"
+  ],
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Slovenia",
+      "countryCode": "SI"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "ePRS Slovenian Business Register",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.ajpes.si/prs/"
+}

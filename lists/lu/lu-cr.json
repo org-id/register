@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "LU-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Luxembourg",
+      "countryCode": "LU"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Registry of Trade and Companies",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.rcsl.lu/"
+}

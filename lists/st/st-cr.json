@@ -1,0 +1,20 @@
+{
+  "code": "ST-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Sao Tome and Principe",
+      "countryCode": "ST"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Ministry of Justice, Guich\u00c3\u00a9 \u00c3\u0161nico Empresas",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.gue-stp.net/"
+}

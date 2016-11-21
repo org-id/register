@@ -1,0 +1,20 @@
+{
+  "code": "HN-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Honduras",
+      "countryCode": "HN"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Registro Mercantil",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://190.5.103.114/clienteremoto/default.aspx"
+}

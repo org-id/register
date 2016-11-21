@@ -1,0 +1,28 @@
+{
+  "availableOnline": "Yes",
+  "code": "CA-NL-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Canada",
+      "countryCode": "CA"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Registry of Companies, Department of Government Services",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "subnational": [
+    {
+      "country": null,
+      "regionCode": "CA_NL",
+      "regionName": null
+    }
+  ],
+  "url": "http://www.servicenl.gov.nl.ca/registries/companies.html"
+}

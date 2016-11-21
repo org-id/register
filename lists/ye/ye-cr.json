@@ -1,0 +1,20 @@
+{
+  "code": "YE-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Yemen",
+      "countryCode": "YE"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Ministry of Industry and Trade - Commercial Register",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.moit.gov.ye/search/"
+}

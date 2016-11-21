@@ -1,0 +1,27 @@
+{
+  "code": "AE-DU-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "United Arab Emirates",
+      "countryCode": "AE"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Dubai Chamber of Commerce and Industry- Commercial Directory",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "subnational": [
+    {
+      "country": null,
+      "regionCode": "AE_DU",
+      "regionName": null
+    }
+  ],
+  "url": "http://www.dubaichamber.com/en/resources/commercial-directory"
+}

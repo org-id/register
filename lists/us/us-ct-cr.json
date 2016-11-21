@@ -1,0 +1,28 @@
+{
+  "availableOnline": "Yes",
+  "code": "US-CT-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "United States",
+      "countryCode": "US"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Secretary of the State's Commercial Recording Division",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "subnational": [
+    {
+      "country": null,
+      "regionCode": "US_CT",
+      "regionName": null
+    }
+  ],
+  "url": "http://www.concord-sots.ct.gov/"
+}

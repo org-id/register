@@ -1,0 +1,27 @@
+{
+  "code": "CA-SK-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Canada",
+      "countryCode": "CA"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Saskatchewan Corporate Registry, Information Services Corporation",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "subnational": [
+    {
+      "country": null,
+      "regionCode": "CA_SK",
+      "regionName": null
+    }
+  ],
+  "url": "http://www.isc.ca/CorporateRegistry/"
+}

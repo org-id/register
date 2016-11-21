@@ -1,0 +1,28 @@
+{
+  "availableOnline": "Yes",
+  "code": "US-AL-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "United States",
+      "countryCode": "US"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Secretary of State's Government Records",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "subnational": [
+    {
+      "country": null,
+      "regionCode": "US_AL",
+      "regionName": null
+    }
+  ],
+  "url": "http://www.sos.alabama.gov/default.aspx"
+}

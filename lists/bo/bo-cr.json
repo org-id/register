@@ -1,0 +1,20 @@
+{
+  "code": "BO-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Bolivia, Plurinational State of",
+      "countryCode": "BO"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Trade Register Bolivia",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.fundempresa.org.bo/inicio/"
+}

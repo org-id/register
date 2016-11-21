@@ -1,0 +1,12 @@
+{
+  "code": "US-USAGOV",
+  "description": "Use the final segment of the url (below /federal and excluding the extension) as the \"registration number\", converting all \"-\" to \"_\". Keep \"registration number\" portion all lowercase.",
+  "jurisdiction": [
+    {
+      "country": "United States",
+      "countryCode": "US"
+    }
+  ],
+  "name": "Index of U.S. Government Departments and Agencies",
+  "url": "http://www.usa.gov/directory/federal/index.shtml"
+}

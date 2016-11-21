@@ -1,0 +1,12 @@
+{
+  "code": "SG-ACRA",
+  "description": "The Accounting and Corporate Regulatory Authority (ACRA) is the national regulator of business entities, public accountants and corporate service providers in Singapore",
+  "jurisdiction": [
+    {
+      "country": "Singapore",
+      "countryCode": "SG"
+    }
+  ],
+  "name": "Accounting and Corporate Regulatory Authority (ACRA)",
+  "url": "http://www.acra.gov.sg/"
+}

@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "PK-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Pakistan",
+      "countryCode": "PK"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Securities and Exchange Commission of Pakistan",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.secp.gov.pk/ns/index.asp"
+}

@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "HR-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Croatia",
+      "countryCode": "HR"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Croatian Chamber of Commerce",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www1.biznet.hr/"
+}

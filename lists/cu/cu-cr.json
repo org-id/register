@@ -1,0 +1,20 @@
+{
+  "code": "CU-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Cuba",
+      "countryCode": "CU"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "National Office of Statistics & Information (ONEI)",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.one.cu/nomencladores.htm"
+}

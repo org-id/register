@@ -1,0 +1,29 @@
+{
+  "availableOnline": "No",
+  "code": "GB-UKPRN",
+  "confirmed": true,
+  "datasetFeatures": [
+    "Registered address",
+    "Website",
+    "E-mail address"
+  ],
+  "description": "A UKPRN is a unique number allocated to a provider on successful registration on the UK Register of Learning Providers. ",
+  "exampleIdentifiers": "10000346, 10010014",
+  "jurisdiction": [
+    {
+      "country": "United Kingdom",
+      "countryCode": "GB"
+    }
+  ],
+  "licenseDetails": "Requests for data must state the intended re-use. ",
+  "licenseStatus": "Closed License",
+  "name": "UK Register of Learning Providers",
+  "onlineAccessDetails": "Requests for data can be made to the UK Register of Learning Providers by e-mail.",
+  "registerType": "Secondary",
+  "sector": [
+    {
+      "name": "Education"
+    }
+  ],
+  "url": "https://www.ukrlp.co.uk/"
+}

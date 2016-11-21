@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "CN-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "China",
+      "countryCode": "CN"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "State Administration for Industry and Commerce (AIC), Enterprise Registry",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://gsxt.saic.gov.cn/zjgs/"
+}

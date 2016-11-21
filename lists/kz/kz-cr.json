@@ -1,0 +1,20 @@
+{
+  "code": "KZ-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Kazakhstan",
+      "countryCode": "KZ"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Ministry of Justice - Database of legal entities",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.adilet.gov.kz/en/baza_zt"
+}

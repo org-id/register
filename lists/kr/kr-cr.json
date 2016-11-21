@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "KR-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Korea, Republic of",
+      "countryCode": "KR"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Land and building registry",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.iros.go.kr/ifrontservlet?cmd=INSEInputNseC&FINDGB=2"
+}

@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "TT-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Trinidad and Tobago",
+      "countryCode": "TT"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Companies Registry, Ministry of Legal Affairs",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://rgd.legalaffairs.gov.tt/"
+}

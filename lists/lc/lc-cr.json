@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "LC-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Saint Lucia",
+      "countryCode": "LC"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Registry of Companies & Intellectual Property (ROCIP)",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.rocip.gov.lc/"
+}

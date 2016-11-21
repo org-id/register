@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "LI-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Liechtenstein",
+      "countryCode": "LI"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Commercial Register Liechtenstein",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.oera.li/hrweb/ger/firmensuche_afj.htm"
+}

@@ -1,0 +1,28 @@
+{
+  "availableOnline": "Yes",
+  "code": "CN-62-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "China",
+      "countryCode": "CN"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Gansu Provincial AIC Enterprise Registry",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "subnational": [
+    {
+      "country": null,
+      "regionCode": "CN_62",
+      "regionName": null
+    }
+  ],
+  "url": "http://xygs.gsaic.gov.cn/gsxygs/"
+}

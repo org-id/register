@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "EE-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Estonia",
+      "countryCode": "EE"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Central Commercial Register",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "https://ariregister.rik.ee"
+}

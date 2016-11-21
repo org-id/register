@@ -1,0 +1,27 @@
+{
+  "code": "AE-RK-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "United Arab Emirates",
+      "countryCode": "AE"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Ras al-Khaimah Chamber of Commerce and Industry",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "subnational": [
+    {
+      "country": null,
+      "regionCode": "AE_RK",
+      "regionName": null
+    }
+  ],
+  "url": "http://www.rakchamber.ae/"
+}

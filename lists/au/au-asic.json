@@ -1,0 +1,34 @@
+{
+  "availableOnline": "Yes",
+  "code": "AU-ASIC",
+  "dataAccessProperties": [
+    "Bulk download"
+  ],
+  "description": "\"An Australian Company Number (usually shortened to ACN) is a unique nine-digit number issued by the Australian Securities and Investments Commission (ASIC) to every company registered under the Commonwealth Corporations Act 2001 as an identifier. The number is usually printed in three groups of three digits. It must be quoted on all correspondence and invoices issued by that company.\" [1]\n\n\n\n[1]: https://en.wikipedia.org/wiki/Australian_Company_Number",
+  "exampleIdentifiers": "059378157",
+  "guidanceOnLocatingIds": "Search at https://connectonline.asic.gov.au/RegistrySearch/ by organisation name.\n\nThe number is usually displayed in three groups of three digits. The spaces should be removed when publishing an identifier. ",
+  "jurisdiction": [
+    {
+      "country": "Australia",
+      "countryCode": "AU"
+    }
+  ],
+  "languages": [
+    "en"
+  ],
+  "lastUpdated": "2016-09-02",
+  "licenseDetails": "https://creativecommons.org/licenses/by/3.0/au/",
+  "licenseStatus": "Open License",
+  "name": "Australian Securities and Investment Commission",
+  "onlineAccessDetails": "Accessible at https://connectonline.asic.gov.au/RegistrySearch/ and in bulk at http://data.gov.au/dataset/asic-companies",
+  "opencorporates": true,
+  "registerType": "Primary",
+  "source": "Open Corporates and Primary research",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "https://connectonline.asic.gov.au/RegistrySearch/"
+}

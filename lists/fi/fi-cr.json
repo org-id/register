@@ -1,0 +1,24 @@
+{
+  "availableOnline": "Yes",
+  "code": "FI-CR",
+  "dataAccessProperties": [
+    "Available: but details unknown"
+  ],
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Finland",
+      "countryCode": "FI"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Finnish Business Information System",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.ytj.fi/"
+}

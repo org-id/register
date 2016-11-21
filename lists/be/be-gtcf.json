@@ -1,0 +1,12 @@
+{
+  "code": "BE-GTCF",
+  "description": "The Registry of the Francophone Brussels Commercial Court",
+  "jurisdiction": [
+    {
+      "country": "Belgium",
+      "countryCode": "BE"
+    }
+  ],
+  "name": "Au Greffe du Tribunal de Commerce Francophone de Bruxelles",
+  "url": "http://www.juridat.be/tribunal_commerce/bruxelles/index.htm"
+}

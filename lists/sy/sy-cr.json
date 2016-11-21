@@ -1,0 +1,20 @@
+{
+  "code": "SY-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Syrian Arab Republic",
+      "countryCode": "SY"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Directorate of Finance, Commercial Register",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.syrianfinance.gov.sy/english/home.html"
+}

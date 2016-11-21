@@ -1,0 +1,20 @@
+{
+  "code": "SL-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Sierra Leone",
+      "countryCode": "SL"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Office of the Administrator and Registrar General",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.oarg.gov.sl/"
+}

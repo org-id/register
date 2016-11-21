@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "ZA-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "South Africa",
+      "countryCode": "ZA"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "South Africa Companies and Intellectual Property Commission",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.cipro.co.za"
+}

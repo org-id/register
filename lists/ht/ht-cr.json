@@ -1,0 +1,20 @@
+{
+  "code": "HT-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Haiti",
+      "countryCode": "HT"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Ministry of Commerce and Industry - Electronic Commerce Registry",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://registre.mci.gouv.ht/documents.php"
+}

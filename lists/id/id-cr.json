@@ -1,0 +1,20 @@
+{
+  "code": "ID-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Indonesia",
+      "countryCode": "ID"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Ministry of Law and Human Rights - Company Information",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://portal.ahu.web.id/info-perseroan"
+}

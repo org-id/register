@@ -1,0 +1,20 @@
+{
+  "code": "SC-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Seychelles",
+      "countryCode": "SC"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Seychelles Business Register",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "https://eservice.egov.sc/BizRegistration/WebSearchBusiness.aspx"
+}

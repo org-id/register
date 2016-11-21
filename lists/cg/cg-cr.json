@@ -1,0 +1,20 @@
+{
+  "code": "CG-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Congo",
+      "countryCode": "CG"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Clerk\u00e2\u20ac\u2122s Office of the Court - Commercial Registrar",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.sgg.cg/"
+}

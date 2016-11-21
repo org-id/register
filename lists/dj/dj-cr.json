@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "DJ-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Djibouti",
+      "countryCode": "DJ"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Djibouti Chamber of Commerce",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.ccd.dj/"
+}

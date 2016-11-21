@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "MU-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Mauritius",
+      "countryCode": "MU"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Ministry of Finance and Economic Development, Companies Division - Companies and Businesses Registration Integrated System",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "https://portalmns.mu/"
+}

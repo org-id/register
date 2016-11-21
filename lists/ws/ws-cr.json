@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "WS-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Samoa",
+      "countryCode": "WS"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Samoa Companies Registry",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.companies.gov.ws/"
+}

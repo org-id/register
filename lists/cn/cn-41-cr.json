@@ -1,0 +1,28 @@
+{
+  "availableOnline": "Yes",
+  "code": "CN-41-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "China",
+      "countryCode": "CN"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Henan Provincial AIC Enterprise Registry",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "subnational": [
+    {
+      "country": null,
+      "regionCode": "CN_41",
+      "regionName": null
+    }
+  ],
+  "url": "http://222.143.24.157/search.jspx"
+}

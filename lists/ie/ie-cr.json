@@ -1,0 +1,24 @@
+{
+  "availableOnline": "Yes",
+  "code": "IE-CR",
+  "dataAccessProperties": [
+    "Available: but details unknown"
+  ],
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Ireland",
+      "countryCode": "IE"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Companies Registration Office, Department of Jobs, Enterprise and Innovation",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.cro.ie/search/"
+}

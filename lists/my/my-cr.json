@@ -1,0 +1,20 @@
+{
+  "code": "MY-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Malaysia",
+      "countryCode": "MY"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Companies Commission of Malaysia",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "https://www.ssm-einfo.my/index.php"
+}

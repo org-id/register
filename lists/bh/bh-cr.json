@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "BH-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Bahrain",
+      "countryCode": "BH"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Ministry of Industry & Commerce",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.moic.gov.bh/En/Pages/Home.aspx"
+}

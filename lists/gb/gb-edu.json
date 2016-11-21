@@ -1,0 +1,12 @@
+{
+  "code": "GB-EDU",
+  "description": "Edubase is provided by the Department of Education and provides a URN for each school, university and other educational establishment in England and Wales",
+  "jurisdiction": [
+    {
+      "country": "United Kingdom",
+      "countryCode": "GB"
+    }
+  ],
+  "name": "Edubase, by the Department of Education",
+  "url": "http://www.education.gov.uk/edubase/home.xhtml"
+}

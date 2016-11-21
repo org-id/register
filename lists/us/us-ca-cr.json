@@ -1,0 +1,28 @@
+{
+  "availableOnline": "Yes",
+  "code": "US-CA-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "United States",
+      "countryCode": "US"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Business Entities Section of the Secretary of State\u00e2\u20ac\u2122s Department",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "subnational": [
+    {
+      "country": null,
+      "regionCode": "US_CA",
+      "regionName": null
+    }
+  ],
+  "url": "http://kepler.sos.ca.gov/"
+}

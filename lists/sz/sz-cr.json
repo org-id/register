@@ -1,0 +1,20 @@
+{
+  "code": "SZ-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Swaziland",
+      "countryCode": "SZ"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Swaziland Investment Promotion Authority, Registrar of Companies",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.sipa.org.sz/index.php?option=com_content&task=view&id=15&Itemid=27"
+}

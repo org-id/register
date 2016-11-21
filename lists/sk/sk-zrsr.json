@@ -1,0 +1,12 @@
+{
+  "code": "SK-ZRSR",
+  "description": "Most organisations (including NGOs) have to be registered with the Ministry of Interior for the Trade Register Of The Slovak Republic (\u017divnostensky Register Slovenskej Republiky) and are allocated a unique registration number",
+  "jurisdiction": [
+    {
+      "country": "Slovakia",
+      "countryCode": "SK"
+    }
+  ],
+  "name": "Slovakia Ministry Of Interior Trade Register",
+  "url": "http://www.zrsr.sk/default.aspx?LANG=en"
+}

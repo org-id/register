@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "CZ-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Czech Republic",
+      "countryCode": "CZ"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Administrative Business Register, Ministry of Finance",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://wwwinfo.mfcr.cz/ares/ares.html.en"
+}

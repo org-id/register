@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "SB-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Solomon Islands",
+      "countryCode": "SB"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Company Haus of Solomon Islands",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.companyhaus.gov.sb/app/search/entity"
+}

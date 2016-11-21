@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "MH-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Marshall Islands",
+      "countryCode": "MH"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Marshall Islands Maritime & Corporate Administrators - International Registries, Inc. Entity Search",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.register-iri.com/miCorporate/"
+}

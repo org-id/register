@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "FR-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "France",
+      "countryCode": "FR"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "LES GREFFES DES TRIBUNAUX DE COMMERCE",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.infogreffe.fr"
+}

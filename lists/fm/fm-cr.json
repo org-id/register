@@ -1,0 +1,20 @@
+{
+  "code": "FM-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Micronesia, Federated States of",
+      "countryCode": "FM"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Registrar of Corporations",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://fsmroc.fm/corps.php"
+}

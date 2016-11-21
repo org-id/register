@@ -1,0 +1,28 @@
+{
+  "availableOnline": "Yes",
+  "code": "US-AR-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "United States",
+      "countryCode": "US"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Business & Commercial Services",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "subnational": [
+    {
+      "country": null,
+      "regionCode": "US_AR",
+      "regionName": null
+    }
+  ],
+  "url": "http://www.sos.arkansas.gov/BCS/"
+}

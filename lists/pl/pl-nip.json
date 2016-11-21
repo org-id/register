@@ -1,0 +1,12 @@
+{
+  "code": "PL-NIP",
+  "description": "Every business entry in Poland is assigned an ID in 3 different registries: business, court, and tax. This is the tax register.",
+  "jurisdiction": [
+    {
+      "country": "Poland",
+      "countryCode": "PL"
+    }
+  ],
+  "name": "Tax Identification Number",
+  "url": "https://ems.ms.gov.pl/krs/wyszukiwaniepodmiotu, https://wyszukiwarkaregon.stat.gov.pl/appBIR/index.aspx"
+}

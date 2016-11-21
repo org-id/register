@@ -1,0 +1,20 @@
+{
+  "code": "TG-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Togo",
+      "countryCode": "TG"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Trade and Personal Property Credit Register (RCCM)",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.republicoftogo.com/Toutes-les-rubriques/Economie/Business-friendly"
+}

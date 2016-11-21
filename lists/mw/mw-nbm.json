@@ -1,0 +1,12 @@
+{
+  "code": "MW-NBM",
+  "description": "There is a pdf file with a list of registered NGOs, but these do not appear to be registration numbers. New database is planned",
+  "jurisdiction": [
+    {
+      "country": "Malawi",
+      "countryCode": "MW"
+    }
+  ],
+  "name": "NGO Board of Malawi",
+  "url": "http://ngoboardmalawi.mw/directory.php"
+}

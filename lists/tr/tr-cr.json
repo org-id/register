@@ -1,0 +1,20 @@
+{
+  "code": "TR-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Turkey",
+      "countryCode": "TR"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Central Registry Number System (MERSIS), Ministry of Customs and Trade",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://mersis.gumrukticaret.gov.tr/Mersis/%C5%9EirketSorgulama.aspx"
+}

@@ -1,0 +1,27 @@
+{
+  "code": "AE-AJ-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "United Arab Emirates",
+      "countryCode": "AE"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Ajman Chamber of Commerce and Industry- Commercial Register",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "subnational": [
+    {
+      "country": null,
+      "regionCode": "AE_AJ",
+      "regionName": null
+    }
+  ],
+  "url": "http://www.ajmanchamber.ae/en/directory?mo=tr"
+}

@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "BN-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Brunei Darussalam",
+      "countryCode": "BN"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Attorney General's Chambers - Registries' Division",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.eregistry.agc.gov.bn/WorkAreaMain/WorkFunctionMain/WebViewMain/Main.aspx"
+}

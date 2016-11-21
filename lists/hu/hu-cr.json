@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "HU-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Hungary",
+      "countryCode": "HU"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Company Information and Electronic Company Registration Service, Ministry of Justice",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://e-beszamolo.kim.gov.hu/kereses-Default.aspx"
+}

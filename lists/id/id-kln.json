@@ -1,0 +1,12 @@
+{
+  "code": "ID-KLN",
+  "description": "International NGO registration is done through Ministry of Foreign affairs/ Kementerian Luar Negeri",
+  "jurisdiction": [
+    {
+      "country": "Indonesia",
+      "countryCode": "ID"
+    }
+  ],
+  "name": "Ministry of Foreign affairs/ Kementerian Luar Negeri",
+  "url": "http://www.kemlu.go.id/"
+}

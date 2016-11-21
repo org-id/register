@@ -1,0 +1,20 @@
+{
+  "code": "LA-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Lao People's Democratic Republic",
+      "countryCode": "LA"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Ministry of Industry and Commerce, Enterprise Registry Office",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.moic.gov.la/?page_id=283&lang=en"
+}

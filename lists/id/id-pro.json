@@ -1,0 +1,12 @@
+{
+  "code": "ID-PRO",
+  "description": "Registration for NGO in Indonesia can be done at the provincial level. Because there is regional autonomy, each provincial has different requirements. Website is just one example",
+  "jurisdiction": [
+    {
+      "country": "Indonesia",
+      "countryCode": "ID"
+    }
+  ],
+  "name": "NGOs registered at Provinicial Level",
+  "url": "http://www.satulayanan.net/layanan/pendaftaran-lsm-atau-ormas/perizinan-lsm-atau-ormas-baru"
+}

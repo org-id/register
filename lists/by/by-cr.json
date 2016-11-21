@@ -1,0 +1,20 @@
+{
+  "code": "BY-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Belarus",
+      "countryCode": "BY"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Ministry of Justice - Unified State Register of Legal Entities and Individual Entrepreneurs",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://egr.gov.by/egrn/index.jsp?content=findname"
+}

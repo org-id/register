@@ -1,0 +1,27 @@
+{
+  "code": "AE-UQ-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "United Arab Emirates",
+      "countryCode": "AE"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Umm al-Quwain Chamber of Commerce and Industry",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "subnational": [
+    {
+      "country": null,
+      "regionCode": "AE_UQ",
+      "regionName": null
+    }
+  ],
+  "url": "http://www.uaqcci.ae/en/index.php?option=com_content&view=article&id=1239"
+}

@@ -1,0 +1,11 @@
+{
+  "code": "SE-BLV",
+  "jurisdiction": [
+    {
+      "country": "Sweden",
+      "countryCode": "SE"
+    }
+  ],
+  "name": "Bolagsverket / Swedish Companies Registration Office",
+  "url": "http://www.bolagsverket.se/"
+}

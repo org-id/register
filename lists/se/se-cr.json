@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "SE-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Sweden",
+      "countryCode": "SE"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Open License",
+  "name": "Swedish Companies Registration Office",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.bolagsverket.se/"
+}

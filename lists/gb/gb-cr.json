@@ -1,0 +1,28 @@
+{
+  "availableOnline": "Yes",
+  "code": "GB-CR",
+  "dataAccessProperties": [
+    "Available: but details unknown"
+  ],
+  "datasetFeatures": [
+    "Directors / Trustees / Governors",
+    "Accounts"
+  ],
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "United Kingdom",
+      "countryCode": "GB"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Open License",
+  "name": "UK Companies House",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://companieshouse.gov.uk/"
+}

@@ -1,0 +1,20 @@
+{
+  "code": "GI-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Gibraltar",
+      "countryCode": "GI"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Companies House Gibraltar",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "https://www.companieshouse.gi/namesearchauth.html"
+}

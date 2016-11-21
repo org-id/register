@@ -1,0 +1,28 @@
+{
+  "availableOnline": "Yes",
+  "code": "US-GA-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.At the end of August 2013 Georgia changed their company register from http://corp.sos.state.ga.us/corp to https://ecorp.sos.ga.gov/BusinessSearch - coinciding with this was a change to the numbering system for companies in Georgia. Company numbers have been migrated to use the new system and old links will redirect to these new company numbers. Full details available on our public wiki: https://wiki.opencorporates.com/qa/qa_public/migrating_company_numbers/us_ga",
+  "jurisdiction": [
+    {
+      "country": "United States",
+      "countryCode": "US"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Georgia Secretary of State Corporations Division",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "subnational": [
+    {
+      "country": null,
+      "regionCode": "US_GA",
+      "regionName": null
+    }
+  ],
+  "url": "https://cgov.sos.state.ga.us"
+}

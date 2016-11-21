@@ -1,0 +1,31 @@
+{
+  "availableOnline": "Yes",
+  "code": "US-CO-CR",
+  "dataAccessProperties": [
+    "Available: but details unknown"
+  ],
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "United States",
+      "countryCode": "US"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Open License",
+  "name": "Business Division of the Secretary of State\u00e2\u20ac\u2122s office",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "subnational": [
+    {
+      "country": null,
+      "regionCode": "US_CO",
+      "regionName": null
+    }
+  ],
+  "url": "http://www.sos.state.co.us/"
+}

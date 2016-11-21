@@ -1,0 +1,20 @@
+{
+  "code": "TD-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Chad",
+      "countryCode": "TD"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Service d\u00e2\u20ac\u2122Enregistrement, des Domaines et du Timbre, Company Register",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.gouvernementdutchad.org/fr/institutions/conseil-economique-social-et-culturel"
+}

@@ -1,0 +1,28 @@
+{
+  "availableOnline": "Yes",
+  "code": "US-IN-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "United States",
+      "countryCode": "US"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Business Services Division, Secretary of State",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "subnational": [
+    {
+      "country": null,
+      "regionCode": "US_IN",
+      "regionName": null
+    }
+  ],
+  "url": "https://secure.in.gov/sos/online_corps/name_search.aspx"
+}

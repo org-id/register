@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "TW-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Taiwan, Province of China",
+      "countryCode": "TW"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Ministry of Economic Affairs, R.O.C - Commerce Industrial Services Portal",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://gcis.nat.gov.tw/pub/cmpy/cmpyInfoListAction.do"
+}

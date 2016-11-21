@@ -1,0 +1,12 @@
+{
+  "code": "MM-MHA",
+  "description": "The MHA assigns a registration number to each NGO - this number is time limited, for example 4 years, after which the registration is reviewed.",
+  "jurisdiction": [
+    {
+      "country": "Myanmar",
+      "countryCode": "MM"
+    }
+  ],
+  "name": "Ministry of Home Affairs - Central Committee for the Registration and Supervision of Organisations",
+  "url": "No url for the ministry (as at 2/10/2013)"
+}

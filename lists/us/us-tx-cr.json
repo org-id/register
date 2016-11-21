@@ -1,0 +1,27 @@
+{
+  "code": "US-TX-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "United States",
+      "countryCode": "US"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Corporations Section, Texas Secretary of State",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "subnational": [
+    {
+      "country": null,
+      "regionCode": "US_TX",
+      "regionName": null
+    }
+  ],
+  "url": "https://direct.sos.state.tx.us/acct/acct-login.asp"
+}

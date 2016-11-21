@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "JM-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Jamaica",
+      "countryCode": "JM"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Companies Office of Jamaica",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "https://www.orcjamaica.com/"
+}

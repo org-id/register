@@ -1,0 +1,34 @@
+{
+  "availableOnline": "No",
+  "code": "CO-CCB",
+  "description": "The Bogota Chamber of Commerce is a private, non-for-profit organization whose goal is to foster a sustainable Bogota-Region in the long term, by promoting its residents' prosperity, through services which enhance and strengthen the enterprise capabilities present in the region, and which improve the business environment with an impact over public policies.",
+  "jurisdiction": [
+    {
+      "country": "Colombia",
+      "countryCode": "CO"
+    }
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "name": "Bogota Chamber of Commerce",
+  "publicDatabase": "None located",
+  "registerType": "Deprecated",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "subnational": [
+    {
+      "country": [
+        "recmu3XbeXbDzHMXI"
+      ],
+      "regionCode": "CO-DC",
+      "regionName": "Distrito Capital de Bogot\u00e1"
+    }
+  ],
+  "url": "http://www.ccb.org.co/"
+}

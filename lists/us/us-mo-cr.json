@@ -1,0 +1,28 @@
+{
+  "availableOnline": "Yes",
+  "code": "US-MO-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "United States",
+      "countryCode": "US"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Corporations Unit, Business Services, Office of the Secretary of State",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "subnational": [
+    {
+      "country": null,
+      "regionCode": "US_MO",
+      "regionName": null
+    }
+  ],
+  "url": "https://bsd.sos.mo.gov/BusinessEntity/BESearch.aspx?SearchType=0"
+}

@@ -1,0 +1,20 @@
+{
+  "code": "PW-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Palau",
+      "countryCode": "PW"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Office of the Attorney General - Corporate Registrar",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://palaugov.org/office-of-the-attorney-general/"
+}

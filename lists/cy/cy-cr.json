@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "CY-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Cyprus",
+      "countryCode": "CY"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Cyprus Department of Registrar of Companies and Official Receiver",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "https://efiling.drcor.mcit.gov.cy/DrcorPublic/SearchForm.aspx?lang=EN&sc=1"
+}

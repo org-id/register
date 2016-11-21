@@ -1,0 +1,28 @@
+{
+  "availableOnline": "Yes",
+  "code": "US-MS-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "United States",
+      "countryCode": "US"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Business Services, Office of the Secretary of State",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "subnational": [
+    {
+      "country": null,
+      "regionCode": "US_MS",
+      "regionName": null
+    }
+  ],
+  "url": "http://www.sos.ms.gov/Pages/Online-Services-Directory.aspx"
+}

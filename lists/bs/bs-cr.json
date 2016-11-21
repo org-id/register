@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "BS-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.Bahamas public company identifiers are not unique - specifically early company numbers are frequently duplicates, with different companies of different types having the same number. Because of that, OpenCorporates uses the company number with a company type suffix, based on the type code mapping on the register's website, which we believe to be unique.",
+  "jurisdiction": [
+    {
+      "country": "Bahamas",
+      "countryCode": "BS"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Registrar General's Department",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://rgd.bahamas.gov.bs:8081/netdata/db2www.pgm/findcompany.ndm/searchcomps"
+}

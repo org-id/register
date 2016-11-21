@@ -1,0 +1,11 @@
+{
+  "code": "NL-KVK",
+  "jurisdiction": [
+    {
+      "country": "Netherlands",
+      "countryCode": "NL"
+    }
+  ],
+  "name": "Kamer van Koophandel",
+  "url": "http://www.kvk.nl/"
+}

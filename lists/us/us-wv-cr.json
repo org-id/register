@@ -1,0 +1,28 @@
+{
+  "availableOnline": "Yes",
+  "code": "US-WV-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "United States",
+      "countryCode": "US"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "West Virginia Secretary of State",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "subnational": [
+    {
+      "country": null,
+      "regionCode": "US_WV",
+      "regionName": null
+    }
+  ],
+  "url": "http://apps.sos.wv.gov/business/corporations/"
+}

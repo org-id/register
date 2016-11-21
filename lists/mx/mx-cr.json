@@ -1,0 +1,20 @@
+{
+  "code": "MX-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Mexico",
+      "countryCode": "MX"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Business Information System of Mexico. Ministry of the Economy",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.siem.gob.mx"
+}

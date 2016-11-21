@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "PG-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Papua New Guinea",
+      "countryCode": "PG"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Investment Promotion Authority - Companies Office - National Registry",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.ipa.gov.pg/"
+}

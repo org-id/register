@@ -1,0 +1,28 @@
+{
+  "availableOnline": "Yes",
+  "code": "US-WI-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "United States",
+      "countryCode": "US"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Corporation Section, Division of Corporate & Consumer Services,  Department of Financial Institutions",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "subnational": [
+    {
+      "country": null,
+      "regionCode": "US_WI",
+      "regionName": null
+    }
+  ],
+  "url": "http://www.wdfi.org/apps/CorpSearch/Search.aspx"
+}

@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "MA-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Morocco",
+      "countryCode": "MA"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Central Trade Registry (OMPIC)",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.directinfo.ma"
+}

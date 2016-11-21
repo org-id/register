@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "KG-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Kyrgyzstan",
+      "countryCode": "KG"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Ministry of Justice - Register of Legal Entities",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "https://register.minjust.gov.kg/register/home.seam"
+}

@@ -1,0 +1,20 @@
+{
+  "code": "TZ-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Tanzania, United Republic of",
+      "countryCode": "TZ"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Business Registrations and Licensing Agency (BRELA)",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.brela-tz.org/"
+}

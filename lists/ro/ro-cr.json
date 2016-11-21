@@ -1,0 +1,24 @@
+{
+  "availableOnline": "Yes",
+  "code": "RO-CR",
+  "dataAccessProperties": [
+    "Available: but details unknown"
+  ],
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Romania",
+      "countryCode": "RO"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Open License",
+  "name": "National Trade Register Office, Ministry of Justice",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.mfinante.ro/pjuridice.html?pagina=domenii"
+}

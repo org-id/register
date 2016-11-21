@@ -1,0 +1,62 @@
+{
+  "availableOnline": "Yes",
+  "code": "GB-COH",
+  "confirmed": true,
+  "dataAccessDetails": "An API is available at https://developer.companieshouse.gov.uk/api/docs/ and bulk data is provided at http://download.companieshouse.gov.uk/en_output.html",
+  "dataAccessProperties": [
+    "Bulk download",
+    "API"
+  ],
+  "datasetFeatures": [
+    "Registered address",
+    "Directors / Trustees / Governors"
+  ],
+  "description": "Companies House is the United Kingdom's register of companies.\n\nIt contains entries for many kinds of companies, including:\n\n* Public limited company (PLC)\n* Private company limited by shares (Ltd, Limited)\n* Private company limited by guarantee, typically a non-commercial membership body such as a charity\n* Private unlimited company (either with or without a share capital)\n* Limited liability partnership (LLP)\n* Limited partnership (LP)\n* Societas Europaea (SE): European Union-wide company structure\n* Companies incorporated by Royal Charter (RC)\n* Community interest company",
+  "exampleIdentifiers": "09506232, 07444723",
+  "jurisdiction": [
+    {
+      "country": "United Kingdom",
+      "countryCode": "GB"
+    }
+  ],
+  "languages": [
+    "en"
+  ],
+  "lastUpdated": "2016-09-17",
+  "licenseDetails": "\u201cSupplied under section 47 and 50 of the Copyright, Designs and Patents Act 1988 and Schedule 1 of the Database Regulations (SI 1997/3032)\u201d",
+  "licenseStatus": "Open License",
+  "name": "Companies House",
+  "opencorporates": true,
+  "registerType": "Primary",
+  "structure": [
+    {
+      "name": "Community Interest Company",
+      "subtypeOf": [
+        "reciN6k5BN1PawHxI"
+      ]
+    },
+    {
+      "name": "Listed company",
+      "subtypeOf": [
+        "reciN6k5BN1PawHxI"
+      ]
+    },
+    {
+      "name": "Limited Company",
+      "subtypeOf": [
+        "reciN6k5BN1PawHxI"
+      ]
+    },
+    {
+      "name": "Partnership",
+      "subtypeOf": [
+        "reciN6k5BN1PawHxI"
+      ]
+    },
+    {
+      "name": "Charity",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.companieshouse.gov.uk/"
+}

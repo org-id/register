@@ -1,0 +1,11 @@
+{
+  "code": "GB-REV",
+  "jurisdiction": [
+    {
+      "country": "United Kingdom",
+      "countryCode": "GB"
+    }
+  ],
+  "name": "HM Revenue and Customs",
+  "url": "http://www.hmrc.gov.uk/"
+}

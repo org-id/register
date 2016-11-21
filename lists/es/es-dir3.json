@@ -1,0 +1,12 @@
+{
+  "code": "ES-DIR3",
+  "description": "EXCEL Tables: http://administracionelectronica.gob.es/ctt/resources/Soluciones/238/Area%20descargas/Listado%20Oficinas%20AGE.xlsx?idIniciativa=238&idElemento=2745",
+  "jurisdiction": [
+    {
+      "country": "Spain",
+      "countryCode": "ES"
+    }
+  ],
+  "name": "Common Directory of Organizational Units and Offices - DIR3",
+  "url": "http://administracionelectronica.gob.es/ctt/dir3/descargas"
+}

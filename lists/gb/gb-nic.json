@@ -1,0 +1,28 @@
+{
+  "code": "GB-NIC",
+  "confirmed": true,
+  "jurisdiction": [
+    {
+      "country": "United Kingdom",
+      "countryCode": "GB"
+    }
+  ],
+  "name": "The Charity Commission for Northern Ireland",
+  "registerType": "Primary",
+  "structure": [
+    {
+      "name": "Charity",
+      "subtypeOf": null
+    }
+  ],
+  "subnational": [
+    {
+      "country": [
+        "recbO0TnMgfxNbDxe"
+      ],
+      "regionCode": "GB-NIR",
+      "regionName": "Northern Ireland"
+    }
+  ],
+  "url": "http://www.charitycommissionni.org.uk/"
+}

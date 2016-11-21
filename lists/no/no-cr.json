@@ -1,0 +1,24 @@
+{
+  "availableOnline": "Yes",
+  "code": "NO-CR",
+  "dataAccessProperties": [
+    "Available: but details unknown"
+  ],
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Norway",
+      "countryCode": "NO"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Open License",
+  "name": "Entity Registry, Br\u00c3\u00b8nn\u00c3\u00b8ysund Register Centre",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://w2.brreg.no/enhet/sok/"
+}

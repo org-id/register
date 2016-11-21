@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "MT-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Malta",
+      "countryCode": "MT"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Registry of Companies, Malta Financial Services Authority",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://rocsupport.mfsa.com.mt/"
+}

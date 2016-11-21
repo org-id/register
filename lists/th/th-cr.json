@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "TH-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Thailand",
+      "countryCode": "TH"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Department of Business Development - Corporate Data Search",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.dbd.go.th/dbdweb_en/main.php?filename=index"
+}

@@ -1,0 +1,20 @@
+{
+  "code": "AT-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Austria",
+      "countryCode": "AT"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Federal Ministry of Justice, Company Register",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.justiz.gv.at/web2013/html/default/8ab4a8a422985de30122a90fc2ca620b.de.html"
+}

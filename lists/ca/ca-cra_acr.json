@@ -1,0 +1,28 @@
+{
+  "code": "CA-CRA_ACR",
+  "description": "The Canada Revenue Agency is where individuals, companies and charities register in Canada. \n\nNot all companies need a Canadian Business Number. Detailed information can be found here - http://www.cra-arc.gc.ca/tx/bsnss/tpcs/bn-ne/wrks-eng.html\n\nBut it would appear that to become a company, you must register with the CRA - http://www.canadabusiness.ca/government/registering-your-business/\n\nNot all non-profit organisations must register to become a charity. Detailed information can be found here - http://www.cra-arc.gc.ca/chrts-gvng/dnrs/rgltn/dffrnc-rc-np-eng.html\n\n\nCRA_ACR is legal requirement for bilingual use",
+  "jurisdiction": [
+    {
+      "country": "Canada",
+      "countryCode": "CA"
+    }
+  ],
+  "name": "Canadian Revenue Agency / Agence du revenu du Canada",
+  "structure": [
+    {
+      "name": "Charity",
+      "subtypeOf": null
+    },
+    {
+      "name": "Company",
+      "subtypeOf": null
+    },
+    {
+      "name": "Community Interest Company",
+      "subtypeOf": [
+        "reciN6k5BN1PawHxI"
+      ]
+    }
+  ],
+  "url": "http://www.cra-arc.gc.ca/"
+}

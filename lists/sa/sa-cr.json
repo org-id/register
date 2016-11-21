@@ -1,0 +1,20 @@
+{
+  "code": "SA-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Saudi Arabia",
+      "countryCode": "SA"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Ministry of Commerce and Industry - Commercial Register",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://eservices.mci.gov.sa/Eservices/Commerce/Corporations.aspx"
+}

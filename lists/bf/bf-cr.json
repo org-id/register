@@ -1,0 +1,20 @@
+{
+  "code": "BF-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Burkina Faso",
+      "countryCode": "BF"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Centre des Formalit\u00c3\u00a9s de Entreprise (CEFORE)",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.me.bf/"
+}

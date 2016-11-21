@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "DE-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Germany",
+      "countryCode": "DE"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Common Register Portal",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "https://www.handelsregister.de/rp_web/welcome.do"
+}

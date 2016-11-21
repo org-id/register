@@ -1,0 +1,28 @@
+{
+  "availableOnline": "Yes",
+  "code": "US-NE-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "United States",
+      "countryCode": "US"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Business Services, Secretary of State",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "subnational": [
+    {
+      "country": null,
+      "regionCode": "US_NE",
+      "regionName": null
+    }
+  ],
+  "url": "https://www.nebraska.gov/sos/corp/corpsearch.cgi"
+}

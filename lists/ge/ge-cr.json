@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "GE-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Georgia",
+      "countryCode": "GE"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "National Agency of Public Registry, Ministry of Justice of Georgia",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "https://enreg.reestri.gov.ge"
+}

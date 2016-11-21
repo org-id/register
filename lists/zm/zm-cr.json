@@ -1,0 +1,20 @@
+{
+  "code": "ZM-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Zambia",
+      "countryCode": "ZM"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Patent And Companies Registration Agency (PACRA)",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.pacra.org.zm/"
+}

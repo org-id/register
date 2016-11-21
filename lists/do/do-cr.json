@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "DO-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Dominican Republic",
+      "countryCode": "DO"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "National Office of Industrial Property",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.onapi.gob.do/busqueda-consulta.html"
+}

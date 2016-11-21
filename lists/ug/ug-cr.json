@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "UG-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Uganda",
+      "countryCode": "UG"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Uganda Registration Service Bureau (URSB)",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.ursb.go.ug/"
+}

@@ -1,0 +1,20 @@
+{
+  "code": "GW-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Guinea-Bissau",
+      "countryCode": "GW"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Center for the Formalization of Enterprises - Company Register",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.guinebissaurepublic.com/"
+}

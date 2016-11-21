@@ -1,0 +1,28 @@
+{
+  "availableOnline": "Yes",
+  "code": "US-MA-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "United States",
+      "countryCode": "US"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Corporations Division, Secretary of the Commonwealth's Office",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "subnational": [
+    {
+      "country": null,
+      "regionCode": "US_MA",
+      "regionName": null
+    }
+  ],
+  "url": "http://corp.sec.state.ma.us/corpweb/corpsearch/CorpSearch.aspx"
+}

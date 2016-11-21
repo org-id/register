@@ -1,0 +1,12 @@
+{
+  "code": "EE-RIK",
+  "description": "You can view the data related to you free-of-charge by logging in with your ID-card.",
+  "jurisdiction": [
+    {
+      "country": "Estonia",
+      "countryCode": "EE"
+    }
+  ],
+  "name": "Centre of Registers and Information Systems (RIK)",
+  "url": "http://www.rik.ee/en/e-business-register"
+}

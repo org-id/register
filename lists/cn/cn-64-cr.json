@@ -1,0 +1,28 @@
+{
+  "availableOnline": "Yes",
+  "code": "CN-64-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "China",
+      "countryCode": "CN"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Ningxia Hui Autonomous Region AIC Enterprise Registry",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "subnational": [
+    {
+      "country": null,
+      "regionCode": "CN_64",
+      "regionName": null
+    }
+  ],
+  "url": "http://gsxt.ngsh.gov.cn/ECPS/ecps.jsp"
+}

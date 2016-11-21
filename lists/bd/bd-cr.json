@@ -1,0 +1,20 @@
+{
+  "code": "BD-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Bangladesh",
+      "countryCode": "BD"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Office of the Registrar of Joint Stock Companies and Firms",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.roc.gov.bd:7781/psp/rjschome"
+}

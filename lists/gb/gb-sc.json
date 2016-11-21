@@ -1,0 +1,27 @@
+{
+  "code": "GB-SC",
+  "jurisdiction": [
+    {
+      "country": "United Kingdom",
+      "countryCode": "GB"
+    }
+  ],
+  "name": "Scottish Charity Register",
+  "registerType": "Primary",
+  "structure": [
+    {
+      "name": "Charity",
+      "subtypeOf": null
+    }
+  ],
+  "subnational": [
+    {
+      "country": [
+        "recbO0TnMgfxNbDxe"
+      ],
+      "regionCode": "GB-SCT",
+      "regionName": "Scotland"
+    }
+  ],
+  "url": "http://www.oscr.org.uk/"
+}

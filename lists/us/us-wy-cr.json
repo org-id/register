@@ -1,0 +1,34 @@
+{
+  "availableOnline": "Yes",
+  "code": "US-WY-CR",
+  "dataAccessProperties": [
+    "Available: but details unknown"
+  ],
+  "datasetFeatures": [
+    "Directors / Trustees / Governors"
+  ],
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "United States",
+      "countryCode": "US"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Business Division, Wyoming Secretary of State",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "subnational": [
+    {
+      "country": null,
+      "regionCode": "US_WY",
+      "regionName": null
+    }
+  ],
+  "url": "http://wyobiz.wy.gov/Business/FilingSearch.aspx"
+}

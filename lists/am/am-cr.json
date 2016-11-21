@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "AM-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Armenia",
+      "countryCode": "AM"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Electronic Register Government of Armenia",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "https://www.e-register.am/en/search"
+}

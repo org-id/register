@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "AW-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Aruba",
+      "countryCode": "AW"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Aruba Chamber of Commerce Registry",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.kvk.aw/registers"
+}

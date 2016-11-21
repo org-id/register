@@ -1,0 +1,28 @@
+{
+  "availableOnline": "Yes",
+  "code": "US-AZ-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "United States",
+      "countryCode": "US"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Arizona Corporation Commission",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "subnational": [
+    {
+      "country": null,
+      "regionCode": "US_AZ",
+      "regionName": null
+    }
+  ],
+  "url": "http://starpas.azcc.gov/scripts/cgiip.exe/WService=wsbroker1/main.p"
+}

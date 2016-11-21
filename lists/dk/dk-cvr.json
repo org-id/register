@@ -1,0 +1,12 @@
+{
+  "code": "DK-CVR",
+  "description": "The Central Business Register at Virk is available with English headings and categories. It can be used to search for information on all Danish businesses.",
+  "jurisdiction": [
+    {
+      "country": "Denmark",
+      "countryCode": "DK"
+    }
+  ],
+  "name": "Danish Central Business Register",
+  "url": "https://datacvr.virk.dk/data/"
+}

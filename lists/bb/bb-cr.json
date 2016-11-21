@@ -1,0 +1,20 @@
+{
+  "code": "BB-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Barbados",
+      "countryCode": "BB"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Corporate Affairs and Intellectual Property Office",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.caipo.gov.bb/site/index.php"
+}

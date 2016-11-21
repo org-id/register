@@ -1,0 +1,31 @@
+{
+  "availableOnline": "Yes",
+  "code": "US-NY-CR",
+  "dataAccessProperties": [
+    "Available: but details unknown"
+  ],
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "United States",
+      "countryCode": "US"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Corporation and Business Entity Database,  Division of Corporations, State Records and UCC, Department of State",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "subnational": [
+    {
+      "country": null,
+      "regionCode": "US_NY",
+      "regionName": null
+    }
+  ],
+  "url": "http://www.dos.ny.gov/corps/bus_entity_search.html"
+}

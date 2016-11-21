@@ -1,0 +1,28 @@
+{
+  "availableOnline": "Yes",
+  "code": "CN-31-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "China",
+      "countryCode": "CN"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Shanghai Municipal AIC Enterprise Registry",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "subnational": [
+    {
+      "country": null,
+      "regionCode": "CN_31",
+      "regionName": null
+    }
+  ],
+  "url": "https://www.sgs.gov.cn/notice"
+}

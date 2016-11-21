@@ -1,0 +1,28 @@
+{
+  "availableOnline": "Yes",
+  "code": "CA-NT-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Canada",
+      "countryCode": "CA"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Corporate Registries Online System (CROS), Department of Justice",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "subnational": [
+    {
+      "country": null,
+      "regionCode": "CA_NT",
+      "regionName": null
+    }
+  ],
+  "url": "http://www.justice.gov.nt.ca/CorporateRegistry/CR_BCA_ETReg.shtml"
+}

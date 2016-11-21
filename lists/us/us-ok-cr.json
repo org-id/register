@@ -1,0 +1,28 @@
+{
+  "availableOnline": "Yes",
+  "code": "US-OK-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "United States",
+      "countryCode": "US"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Business Filing Department, Oklahoma Secretary of State",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "subnational": [
+    {
+      "country": null,
+      "regionCode": "US_OK",
+      "regionName": null
+    }
+  ],
+  "url": "https://www.sos.ok.gov/corp/corpInquiryFind.aspx"
+}

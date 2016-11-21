@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "JO-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Jordan",
+      "countryCode": "JO"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Companies Control Department",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.ccd.gov.jo/en/home/e-services"
+}

@@ -1,0 +1,27 @@
+{
+  "code": "CA-YT-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Canada",
+      "countryCode": "CA"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Corporate Affairs, Department of Community Services",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "subnational": [
+    {
+      "country": null,
+      "regionCode": "CA_YT",
+      "regionName": null
+    }
+  ],
+  "url": "http://www.community.gov.yk.ca/corp/index.html"
+}

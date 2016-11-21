@@ -1,0 +1,7 @@
+{
+  "code": "XI-IATI",
+  "description": "XI-IATI is a list of organisation identifiers that is maintained by the IATI Secretariat. Any publisher may apply to the IATI Technical Team for an identifier to be generated.",
+  "name": "International Aid Transparency Initiative Organisation Identifier",
+  "registerType": "Local",
+  "url": "http://iatistandard.org/codelists/IATIOrganisationIdentifier/"
+}

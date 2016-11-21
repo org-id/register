@@ -1,0 +1,20 @@
+{
+  "code": "MW-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Malawi",
+      "countryCode": "MW"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Ministry of Justice",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.malawi.gov.mw/index.php?option=com_content&view=article&id=43&Itemid=7"
+}

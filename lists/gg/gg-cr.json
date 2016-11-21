@@ -1,0 +1,21 @@
+{
+  "availableOnline": "Yes",
+  "code": "GG-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.Company numbers in Guernsey are not unique across the whole list of companies published by Guernsey Registry, so we've included the company registry ID to make them unique.  Please see <a href=https://wiki.opencorporates.com/qa/qa_public/register_problems/guernsey>following link</a> for more details on how we make them unique.",
+  "jurisdiction": [
+    {
+      "country": "Guernsey",
+      "countryCode": "GG"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "No License",
+  "name": "Guernsey Registry",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://www.guernseyregistry.com/"
+}

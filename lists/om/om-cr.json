@@ -1,0 +1,20 @@
+{
+  "code": "OM-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Oman",
+      "countryCode": "OM"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "Ministry of Commerce and Industry",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "https://www.business.gov.om/wps/portal/pes/services/searchcommercialname/!ut/p/c5/"
+}

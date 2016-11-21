@@ -1,0 +1,20 @@
+{
+  "code": "DM-CR",
+  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
+  "jurisdiction": [
+    {
+      "country": "Dominica",
+      "countryCode": "DM"
+    }
+  ],
+  "lastUpdated": "2016-09-07",
+  "licenseStatus": "Closed License",
+  "name": "The Companies and Intellectual Property Office, Commercial Registry",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "url": "http://cipo.gov.dm/dominica/Name_Search.aspx"
+}

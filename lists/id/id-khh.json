@@ -1,0 +1,12 @@
+{
+  "code": "ID-KHH",
+  "description": "Company registration is done through Ministry of Justice & Human Rights/ Kementerian Hukum Dan Hak",
+  "jurisdiction": [
+    {
+      "country": "Indonesia",
+      "countryCode": "ID"
+    }
+  ],
+  "name": "Ministry of Justice & Human Rights/ Kementerian Hukum Dan Hak",
+  "url": "http://www.kemenkumham.go.id/"
+}
