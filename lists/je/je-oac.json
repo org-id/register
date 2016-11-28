@@ -5,7 +5,7 @@
   "confirmed": null,
   "dataAccessDetails": null,
   "datasetFeatures": null,
-  "deprecated": null,
+  "deprecated": true,
   "exampleIdentifiers": null,
   "guidanceOnLocatingIds": null,
   "opencorporates": null,

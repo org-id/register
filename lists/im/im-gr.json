@@ -1,13 +1,23 @@
 {
   "former_prefixes": null,
-  "dataAccessProperties": null,
-  "availableOnline": null,
-  "confirmed": null,
+  "dataAccessProperties": [
+    "PDF"
+  ],
+  "availableOnline": "Yes",
+  "confirmed": true,
   "dataAccessDetails": null,
-  "datasetFeatures": null,
+  "datasetFeatures": [
+    "Registration Number",
+    "Organisation Name",
+    "Objectives/Purpose",
+    "Registered address",
+    "E-mail address",
+    "Phone Number",
+    "Website"
+  ],
   "deprecated": null,
-  "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": null,
+  "exampleIdentifiers": "1184, 962, 1169",
+  "guidanceOnLocatingIds": "Users can find identifiers by searching the PDF of the public Index of Registered Charities. Once opened, they should use Ctrl-F to search for a name or other detail. Identifiers will be under the column heading 'No'",
   "opencorporates": null,
   "jurisdiction": [
     {
@@ -15,20 +25,22 @@
       "country": "Isle of Man"
     }
   ],
-  "languages": null,
-  "lastUpdated": null,
+  "languages": [
+    "en"
+  ],
+  "lastUpdated": "2016-11-25",
   "structure": null,
-  "licenseDetails": null,
-  "onlineAccessDetails": null,
-  "licenseStatus": null,
-  "registerType": null,
+  "licenseDetails": "Assumed to be the same as https://opencorporates.com/registers/294, as there is even less data accessibility ",
+  "onlineAccessDetails": "Data is available in a searchable PDF file",
+  "licenseStatus": "Closed License",
+  "registerType": "Primary",
   "sector": null,
-  "source": null,
+  "source": "Desk research",
   "subnational": null,
   "wikipedia": null,
   "code": "IM-GR",
-  "description": null,
-  "name": "Isle of Man Index of Registered Charities",
-  "publicDatabase": null,
+  "description": "All charities in the Isle of Man must be registered with the General Registry. The General Registry maintain information about charities in the Index of Registered Isle of Man Charities\n\n\"The General Registry has specific statutory roles in relation to the registration of charities and the receipt of statutory statements, accounts and other documents in relation to charities.\" [1] \n\n\"The General Registry is the department which administers \u2013\n\nthe civil and criminal Courts of the Isle of Man\nthe High Court of Justice of the Isle of Man\nCourts of General Gaol Delivery\ncourts of summary jurisdiction\nthe Registries\nDeeds and Probate Registry\nLand Registry\nCivil Registry, responsible for registration of births, deaths and marriages\nregistration of charities\nLegal Aid\nthe Public Record Office\ncriminal injuries compensation\nregistration of legal practitioners (other than advocates)\" [2]\n\n[1] https://www.gov.im/registries/courts/charities/\n[2] https://en.wikipedia.org/wiki/General_Registry_(Isle_of_Man)",
+  "name": "Isle of Man Index of Registered Charities / Isle of Man General Registry",
+  "publicDatabase": "https://www.gov.im/lib/docs/registries/courts/publicindex_latest.pdf",
   "url": "http://www.gov.im/registries/courts/charities/"
 }

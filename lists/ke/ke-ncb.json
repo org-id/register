@@ -1,13 +1,15 @@
 {
   "former_prefixes": null,
-  "dataAccessProperties": null,
-  "availableOnline": null,
+  "dataAccessProperties": [
+    "Data not available"
+  ],
+  "availableOnline": "No",
   "confirmed": null,
   "dataAccessDetails": null,
   "datasetFeatures": null,
   "deprecated": null,
   "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": null,
+  "guidanceOnLocatingIds": "None available",
   "opencorporates": null,
   "jurisdiction": [
     {
@@ -15,20 +17,27 @@
       "country": "Kenya"
     }
   ],
-  "languages": null,
-  "lastUpdated": null,
-  "structure": null,
+  "languages": [
+    "en"
+  ],
+  "lastUpdated": "2016-11-25",
+  "structure": [
+    {
+      "name": "Charity",
+      "subtypeOf": null
+    }
+  ],
   "licenseDetails": null,
-  "onlineAccessDetails": null,
-  "licenseStatus": null,
-  "registerType": null,
+  "onlineAccessDetails": "There are several links which suggest the user can access data, but they do not lead to a searchable registry e.g. 'Name Search', 'Register of NGOs' and 'Records Search' do not provide access to data",
+  "licenseStatus": "Closed License",
+  "registerType": "Secondary",
   "sector": null,
-  "source": null,
+  "source": "Desk research",
   "subnational": null,
   "wikipedia": null,
   "code": "KE-NCB",
-  "description": null,
+  "description": "The NGO Coordination Board of Kenya registers NGOs and maintains a registry of organisation information. This information can be accessed by through request and after paying a fee.\n\n\"The Board has the responsibility of regulating and enabling the NGO sector in Kenya.\n\nOur Mandate:\n\nTo maintain the register of National and International NGOs operating in Kenya, with the precise sectors, affiliations and locations of their activities.\" [1]\n\n\"Under section 31 of the NGOs Regulations 1992, any member of the public is allowed to inspect the files and the documents therein of any registered organization during normal working hours. They can also obtain copies of documents in the files.\n\n\nTo conduct a records search a letter should be written to the ED of the NGOB stating the name of the applicant as well as the organization whose details they wish to search and the information they seek.\n\nThe applicant can decide whether to carry out the records search themselves or have the Board conduct it on their behalf. This will be upon a requisite payment of Kenya Shillings Three Thousand (KES 3000)\" [2]\n\n[1] http://www.ngobureau.or.ke/\n[2] http://www.ngobureau.or.ke/?page_id=408",
   "name": "NGO's Coordination Board",
-  "publicDatabase": null,
+  "publicDatabase": "None available",
   "url": "http://www.ngobureau.or.ke/"
 }

@@ -1,13 +1,21 @@
 {
   "former_prefixes": null,
-  "dataAccessProperties": null,
-  "availableOnline": null,
-  "confirmed": null,
+  "dataAccessProperties": [
+    "csv",
+    "HTML"
+  ],
+  "availableOnline": "Yes",
+  "confirmed": true,
   "dataAccessDetails": null,
-  "datasetFeatures": null,
+  "datasetFeatures": [
+    "Registered address",
+    "Registration Number",
+    "Organisation Name",
+    "Organisation Type"
+  ],
   "deprecated": null,
-  "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": null,
+  "exampleIdentifiers": "125554, 125756, 134533",
+  "guidanceOnLocatingIds": "Users can search for an educational establishment on this webpage - http://www.education.gov.uk/edubase/home.xhtml\n\nAfter conducting a search and selecting a school, college etc from the search results, the identifier will be next to the subject heading 'URN'\n\nUsers can also download a CSV of the EduBase data by scrolling down the same webpage and clicking on the 'All EduBase data.csv ' link under 'Data Downloads'",
   "opencorporates": null,
   "jurisdiction": [
     {
@@ -15,20 +23,33 @@
       "country": "United Kingdom"
     }
   ],
-  "languages": null,
-  "lastUpdated": null,
-  "structure": null,
+  "languages": [
+    "en"
+  ],
+  "lastUpdated": "2016-11-23",
+  "structure": [
+    {
+      "name": "Public service",
+      "subtypeOf": [
+        "recqv4TKU67OCjRyB"
+      ]
+    }
+  ],
   "licenseDetails": null,
-  "onlineAccessDetails": null,
-  "licenseStatus": null,
-  "registerType": null,
-  "sector": null,
-  "source": null,
+  "onlineAccessDetails": "Users can search using an easy to use form, or downloading the CSV.",
+  "licenseStatus": "Open License",
+  "registerType": "Secondary",
+  "sector": [
+    {
+      "name": "Education"
+    }
+  ],
+  "source": "Desk research",
   "subnational": null,
   "wikipedia": null,
   "code": "GB-EDU",
-  "description": "Edubase is provided by the Department of Education and provides a URN for each school, university and other educational establishment in England and Wales",
+  "description": "All educational establishments in the United Kingdom must be registered with the Department of Education. Edubase is provided by the Department of Education and provides a URN for each school, university and other educational establishment in England and Wales.\n\nHowever, the EduBase CSV contains 4,248 records, and therefore cannot be said to be a complete dataset for all educational establishments in England and Wales. \n\n\"In January 2012, there were 8.2 million pupils attending 24,372 schools in England \" [1] \n\n[1] https://www.gov.uk/government/publications/number-of-schools-teachers-and-students-in-england",
   "name": "Edubase, by the Department of Education",
-  "publicDatabase": null,
+  "publicDatabase": "http://www.education.gov.uk/edubase/home.xhtml",
   "url": "http://www.education.gov.uk/edubase/home.xhtml"
 }

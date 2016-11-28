@@ -1,14 +1,25 @@
 {
   "former_prefixes": null,
-  "dataAccessProperties": null,
-  "availableOnline": null,
-  "confirmed": null,
+  "dataAccessProperties": [
+    "Bulk download",
+    "API",
+    "HTML"
+  ],
+  "availableOnline": "Yes",
+  "confirmed": true,
   "dataAccessDetails": null,
-  "datasetFeatures": null,
+  "datasetFeatures": [
+    "Organisation Type",
+    "Organisation Name",
+    "Registration Number",
+    "Registered address",
+    "Date of registration",
+    "Status"
+  ],
   "deprecated": null,
-  "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": null,
-  "opencorporates": null,
+  "exampleIdentifiers": "123260, 83424, 549061",
+  "guidanceOnLocatingIds": "Users can find identifiers by using this simple, searchable database - https://search.cro.ie/company/\n\nThe identifiers are under the column heading 'Number'",
+  "opencorporates": true,
   "jurisdiction": [
     {
       "countryCode": "IE",
@@ -16,19 +27,24 @@
     }
   ],
   "languages": null,
-  "lastUpdated": null,
-  "structure": null,
-  "licenseDetails": null,
-  "onlineAccessDetails": null,
-  "licenseStatus": null,
-  "registerType": null,
+  "lastUpdated": "2016-11-24",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "licenseDetails": "https://opencorporates.com/registers/118",
+  "onlineAccessDetails": "Data is available, for free, through simple webpage search, and RESTful API (sign up required for latter). Specific company documents and bulk data consisting of information and/or document images of all companies also available for annual fee",
+  "licenseStatus": "Closed License",
+  "registerType": "Primary",
   "sector": null,
-  "source": null,
+  "source": "Desk research",
   "subnational": null,
   "wikipedia": null,
   "code": "IE-CRO",
-  "description": null,
+  "description": "The Companies Registration Office of Ireland is responsible for the incorporation of business operating in Ireland and maintaining an online database of the information. Data is provided for free and also for a fee, depending on the amount/type requested.\n\n\"The CRO has a number of core functions:\n\n* The incorporation of companies and the registration of business names.\n* The receipt and registration of post incorporation documents.\n* The enforcement of the Companies Act 2014  in relation to the filing obligations of companies.\n* Making information available to the public.\" [1]\n\n[1] https://www.cro.ie/About-CRO/Functions-of-the-CRO",
   "name": "Irish CompaniesRegistration Office",
-  "publicDatabase": null,
+  "publicDatabase": "https://search.cro.ie/company/ , https://services.cro.ie/index.aspx, https://www.cro.ie/Publications/Fees/Bulk-Data",
   "url": "http://www.cro.ie/"
 }

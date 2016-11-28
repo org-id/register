@@ -1,34 +1,53 @@
 {
   "former_prefixes": null,
-  "dataAccessProperties": null,
-  "availableOnline": null,
-  "confirmed": null,
+  "dataAccessProperties": [
+    "API",
+    "csv"
+  ],
+  "availableOnline": "Yes",
+  "confirmed": true,
   "dataAccessDetails": null,
-  "datasetFeatures": null,
+  "datasetFeatures": [
+    "Date of registration",
+    "Organisation Name",
+    "Status",
+    "Registration Number",
+    "Organisation Type",
+    "Objectives/Purpose",
+    "Financial Turnover/Details"
+  ],
   "deprecated": null,
-  "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": null,
-  "opencorporates": null,
+  "exampleIdentifiers": "L24111UR1986PLC015895, U01111UR1995PLC017979, U24222UR1975PTC004194",
+  "guidanceOnLocatingIds": "Users can access data on the data.gov.in website and applying the filter for the Ministry of Corporate Affairs. Company data is then represented in a number of dataset. Users can click on the 'Company master data' box, and will be presented with datasets for each Registrar of Companies.\n\nThese datasets can either be accessed through the API or downloaded as a CSV. If downloaded as a CSV, the identifier will be under the column header 'CORPORATE_IDENTIFICATION_NUMBER'",
+  "opencorporates": true,
   "jurisdiction": [
     {
       "countryCode": "IN",
       "country": "India"
     }
   ],
-  "languages": null,
-  "lastUpdated": null,
-  "structure": null,
-  "licenseDetails": null,
-  "onlineAccessDetails": null,
-  "licenseStatus": null,
-  "registerType": null,
+  "languages": [
+    "en",
+    "hi"
+  ],
+  "lastUpdated": "2016-11-25",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "licenseDetails": "https://opencorporates.com/registers/111",
+  "onlineAccessDetails": "Users must go to a different website to access the data available from the Ministry of Corporate Affairs",
+  "licenseStatus": "Closed License",
+  "registerType": "Secondary",
   "sector": null,
-  "source": null,
+  "source": "Desk research",
   "subnational": null,
   "wikipedia": null,
   "code": "IN-MCA",
-  "description": "MCA regulates corporate affairs in India through the Companies Act, 1956, 2013 and other allied Acts, Bills and Rules.",
-  "name": "Government of India, Minstry of Corporate Affairs",
-  "publicDatabase": null,
+  "description": "Companies in India register with the Registrar of Companies in their state. While each Registrar of Companies maintains their own database, the Ministry of Corporate Affairs regulates the corporate sector and maintains a database of national company information. \n\nThis information is accessible in data.gov.in\n\n\"The Registrar of Companies (ROC) is an office under the Indian Ministry of Corporate Affairs that deals with administration of the Companies Act 1956 and Companies Act, 2013. There are currently 22 Registrars of Companies (ROC) operating from offices in all major states of India. Some states, such as Maharashtra and Tamil Nadu, have two ROCs each. Section 609 of the Companies Act, 1956 tasks the ROCs with the primary duty of registering companies and LLPs floated in the respective states and the union territories under their administration.\n\nThe Registrar of Company takes care of company registration (also known as incorporation) in India, completes reporting and regulation of companies and their directors and shareholders, and also oversees government reporting of various matters including the annual filling of various documents.\" [1]\n\n[1] https://en.wikipedia.org/wiki/Registrar_of_Companies,_India\n",
+  "name": "Government of India, Ministry of Corporate Affairs",
+  "publicDatabase": "https://data.gov.in/catalogs/ministry_department/ministry-corporate-affairs",
   "url": "http://www.mca.gov.in/"
 }

@@ -4,7 +4,7 @@
     "PDF"
   ],
   "availableOnline": "Yes",
-  "confirmed": null,
+  "confirmed": true,
   "dataAccessDetails": "http://ngoab.portal.gov.bd/sites/default/files/files/ngoab.portal.gov.bd/page/a86a0782_47b2_4756_b226_58e2fd6a97b4/NGO_LIST%20(19).pdf",
   "datasetFeatures": [
     "Registered address",
@@ -15,7 +15,7 @@
   ],
   "deprecated": null,
   "exampleIdentifiers": "2330, 2830, 2427",
-  "guidanceOnLocatingIds": "http://ngoab.portal.gov.bd/sites/default/files/files/ngoab.portal.gov.bd/page/a86a0782_47b2_4756_b226_58e2fd6a97b4/NGO_LIST%20(19).pdf",
+  "guidanceOnLocatingIds": "Registration numbers are contained in a PDF published by the Bureau. The latest version of this list can be found at http://ngoab.portal.gov.bd/sites/default/files/files/ngoab.portal.gov.bd/page/a86a0782_47b2_4756_b226_58e2fd6a97b4/NGO_LIST%20(19).pdf",
   "opencorporates": null,
   "jurisdiction": [
     {
@@ -37,13 +37,13 @@
   "licenseDetails": null,
   "onlineAccessDetails": "Of the two websites, http://103.234.24.210/ is better built. ",
   "licenseStatus": "No License",
-  "registerType": "Primary",
+  "registerType": "Secondary",
   "sector": null,
   "source": null,
   "subnational": null,
   "wikipedia": null,
   "code": "BD-NAB",
-  "description": "All NGOs wishing to carry out programmes in Bangladesh must gain permission from the Bangladesh NGO Affairs Bureau. The Bureau keeps a list of NGOs, monitors funding and ensures the accountability of NGO projects.\n\n\"Its prime objective is to provide one-stop service to the NGOs operating with foreign assistance and registered under the Foreign Donations (Voluntary Activities) Regulation Ordinance, 1978. In addition, it facilitates the activities of the NGOs in the country, and ensures their accountability to the state and thereby to the people of the country\" [1]\n\n\"Bureau approves the project proposals submitted by NGOs\" [2]\n\n\"NGOs much certify in the project proposal that they receive foreign donation or contribution from legal sources.\" [3]\n\n\"bureau has the responsibility to make sure that money being channelized by NGOs is from legal sources.Bureau also realizes government revenue-both tax (income tax, VAT etc) and non-tax (registration fee).Bureau always coordinates with NGOs, line ministries, different state agencies and development partners in discharging its duty as the regulatory authority. Here the spirit is to facilitate the NGO activities, not to regulate them\" [4]\n\n[1][2][3][4] http://www.ngoab.gov.bd/site/page/092eab90-ba5f-4cba-933f-d9f28863d170/NGO-Bureau-at-a-glance",
+  "description": "All NGOs wishing to carry out programmes in Bangladesh must gain permission from the Bangladesh NGO Affairs Bureau. The Bureau keeps a list of NGOs, monitors funding and ensures the accountability of NGO projects.\n\n\"Its prime objective is to provide one-stop service to the NGOs operating with foreign assistance and registered under the Foreign Donations (Voluntary Activities) Regulation Ordinance, 1978. In addition, it facilitates the activities of the NGOs in the country, and ensures their accountability to the state and thereby to the people of the country\" [1]\n\n\"Bureau approves the project proposals submitted by NGOs\" [2]\n\n\"NGOs much certify in the project proposal that they receive foreign donation or contribution from legal sources.\" [3]\n\n\"Bureau has the responsibility to make sure that money being channelized by NGOs is from legal sources. Bureau also realizes government revenue-both tax (income tax, VAT etc) and non-tax (registration fee). Bureau always coordinates with NGOs, line ministries, different state agencies and development partners in discharging its duty as the regulatory authority. Here the spirit is to facilitate the NGO activities, not to regulate them\" [4]\n\n[1][2][3][4] http://www.ngoab.gov.bd/site/page/092eab90-ba5f-4cba-933f-d9f28863d170/NGO-Bureau-at-a-glance",
   "name": "Bangladesh NGO Affairs Bureau / \u098f\u09a8\u099c\u09bf\u0993 \u09ac\u09bf\u09b7\u09af\u09bc\u0995 \u09ac\u09cd\u09af\u09c1\u09b0\u09cb",
   "publicDatabase": "A list of all NGOs registered with the NGO Affairs Bureau, and thus all NGOs who have projects in Bangladesh, is available on the website",
   "url": "http://www.ngoab.gov.bd , http://103.234.24.210/"

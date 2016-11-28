@@ -1,34 +1,50 @@
 {
   "former_prefixes": null,
-  "dataAccessProperties": null,
-  "availableOnline": null,
-  "confirmed": null,
+  "dataAccessProperties": [
+    "Bulk download",
+    "HTML"
+  ],
+  "availableOnline": "Yes",
+  "confirmed": true,
   "dataAccessDetails": null,
-  "datasetFeatures": null,
+  "datasetFeatures": [
+    "Registered address",
+    "Date of registration",
+    "Registration Number",
+    "Organisation Name",
+    "Status"
+  ],
   "deprecated": null,
-  "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": null,
-  "opencorporates": null,
+  "exampleIdentifiers": "119821, 87846, 1270",
+  "guidanceOnLocatingIds": "Users can find identifiers by using this simple, searchable webpage - https://www.jerseyfsc.org/registry/documentsearch/\n\nThe identifier will be under the column header 'Number'",
+  "opencorporates": true,
   "jurisdiction": [
     {
       "countryCode": "JE",
       "country": "Jersey"
     }
   ],
-  "languages": null,
-  "lastUpdated": null,
-  "structure": null,
-  "licenseDetails": null,
-  "onlineAccessDetails": null,
-  "licenseStatus": null,
-  "registerType": null,
+  "languages": [
+    "en"
+  ],
+  "lastUpdated": "2016-11-25",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "licenseDetails": "https://opencorporates.com/registers/295 , http://index.okfn.org/place/jersey/companies/",
+  "onlineAccessDetails": "Data available through simple search engine, or documents can be downloaded at request for a fee",
+  "licenseStatus": "Closed License",
+  "registerType": "Primary",
   "sector": null,
-  "source": null,
+  "source": "Desk research",
   "subnational": null,
   "wikipedia": null,
   "code": "JE-CR",
-  "description": null,
+  "description": "Companies in Jersey register with the Jersey Companies Registry. This information is maintained in a database and can be searched by users for free, and bulk data and more detailed documents can be accessed for a fee",
   "name": "Jersey Companies Registry",
-  "publicDatabase": null,
+  "publicDatabase": "https://www.jerseyfsc.org/registry/documentsearch/",
   "url": "http://www.jerseyfsc.org/registry/"
 }
