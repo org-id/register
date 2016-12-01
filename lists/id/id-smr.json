@@ -1,0 +1,53 @@
+{
+  "former_prefixes": null,
+  "dataAccessProperties": [
+    "HTML"
+  ],
+  "availableOnline": "Yes",
+  "confirmed": true,
+  "dataAccessDetails": null,
+  "datasetFeatures": [
+    "Organisation Name",
+    "Website",
+    "Registered address",
+    "E-mail address",
+    "Phone Number",
+    "Objectives/Purpose",
+    "Organisation Type",
+    "Activities/Sector Code"
+  ],
+  "deprecated": null,
+  "exampleIdentifiers": null,
+  "guidanceOnLocatingIds": "Organisation identifiers are not provided as part of this database",
+  "opencorporates": null,
+  "jurisdiction": [
+    {
+      "countryCode": "ID",
+      "country": "Indonesia"
+    }
+  ],
+  "languages": [
+    "en",
+    "id"
+  ],
+  "lastUpdated": "2016-11-29",
+  "structure": [
+    {
+      "name": "Charity",
+      "subtypeOf": null
+    }
+  ],
+  "licenseDetails": null,
+  "onlineAccessDetails": "Users can search an NGO by name, province or sector. Ornop - NGO / Provinsi - Province / Sektor kegiatan - Sector activity / Kata kunci lain - Other keywords",
+  "licenseStatus": "No License",
+  "registerType": "Third-party",
+  "sector": null,
+  "source": "Desk research",
+  "subnational": null,
+  "wikipedia": null,
+  "code": "ID-SMR",
+  "description": "The SMERU Research Institute is an independent body which conducts research on social issues in Indonesia. They also maintains a database of NGOs working in Indonesia.\n\n\"The SMERU Research Institute is an independent institution for research and public policy studies. We professionally and proactively provide accurate and timely information, as well as objective analyses, on various socioeconomic and poverty issues considered most urgent and relevant for the people of Indonesia.\" [1]\n\n\"SMERU manages Indonesia's most comprehensive online database of national and regional non-governmental organizations (NGOs). Currently, there are almost 3,000 NGOs in the database, which provides information on the NGOs\u2019 name, address, contact person, vision, mission, legal form, activities, and sector.\" [2]\n\n[1] http://www.smeru.or.id/en/about\n[2] http://www.smeru.or.id/en/content/ngo-database",
+  "name": "The SMERU Research Institute",
+  "publicDatabase": "http://www.smeru.or.id/en/content/ngo-database",
+  "url": "http://www.smeru.or.id/en"
+}

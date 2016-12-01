@@ -1,13 +1,13 @@
 {
   "former_prefixes": null,
   "dataAccessProperties": null,
-  "availableOnline": null,
+  "availableOnline": "Yes",
   "confirmed": null,
   "dataAccessDetails": null,
   "datasetFeatures": null,
   "deprecated": null,
-  "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": null,
+  "exampleIdentifiers": "Corporation Number -  784899-4 / Business Number: 820336113RC0001",
+  "guidanceOnLocatingIds": "Users can find identifiers by using the simple, searchable database which is hosted by the Canadian Government, on a website separate to the Canadian Revenue Agency. The two identifiers available to the user are the Corporate Number and the Business Number. The identifiers will be next to these names, respectively.\n\nPlease note: this registry is incomplete and does not provide results from all companies across Canada",
   "opencorporates": null,
   "jurisdiction": [
     {
@@ -34,16 +34,16 @@
     }
   ],
   "licenseDetails": null,
-  "onlineAccessDetails": null,
+  "onlineAccessDetails": "Data is available on a website separate to the CRA. The database is incomplete",
   "licenseStatus": null,
-  "registerType": null,
+  "registerType": "Secondary",
   "sector": null,
   "source": "Desk research",
   "subnational": null,
   "wikipedia": null,
   "code": "CA-CRA_ACR",
-  "description": "The Canada Revenue Agency is where individuals, companies and charities register in Canada. \n\nNot all companies need a Canadian Business Number. Detailed information can be found here - http://www.cra-arc.gc.ca/tx/bsnss/tpcs/bn-ne/wrks-eng.html\n\nBut it would appear that to become a company, you must register with the CRA - http://www.canadabusiness.ca/government/registering-your-business/\n\nNot all non-profit organisations must register to become a charity. Detailed information can be found here - http://www.cra-arc.gc.ca/chrts-gvng/dnrs/rgltn/dffrnc-rc-np-eng.html",
+  "description": "Companies in Canada register with their provincial authority, e.g. British Columbia, and then if they wish be eligible for a number of national services and/or if they wish to do business with the Canadian government, they have to register with the Canada Revenue Agency and receive a Business Number.\n\nNot all companies need a Canadian Business Number. Detailed information can be found here - http://www.cra-arc.gc.ca/tx/bsnss/tpcs/bn-ne/wrks-eng.html\n\nNot all charities need to register with the Canadian Revenue Agency. Detailed information can be found here - http://www.cra-arc.gc.ca/chrts-gvng/chrts/pplyng/rgstrtn/mnd-eng.html\n\nNot all non-profit organisations must register to become a charity. Detailed information can be found here - http://www.cra-arc.gc.ca/chrts-gvng/dnrs/rgltn/dffrnc-rc-np-eng.html\n\nCompanies can be searched by using the Business Number, as assigned by the CRA, on this incomplete registry hosted by the Canadian govt - https://www.ic.gc.ca/app/scr/cc/CorporationsCanada/fdrlCrpSrch.html?locale=en_CA\n\n\n\"Your Business Number is a nine-digit account number that identifies your business to federal, provincial, and municipal governments. You can open several different accounts for your business through a single registration. The accounts include:\n\nGST/HST\nPayroll deductions\nCorporate income tax\nImport/export\" [1] \n\n[1] http://www.canadabusiness.ca/programs/business-number-bn-1/",
   "name": "Canadian Revenue Agency / Agence du revenu du Canada",
-  "publicDatabase": null,
+  "publicDatabase": "https://www.ic.gc.ca/app/scr/cc/CorporationsCanada/fdrlCrpSrch.html?locale=en_CA",
   "url": "http://www.cra-arc.gc.ca/"
 }
