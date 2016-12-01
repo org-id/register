@@ -1,13 +1,15 @@
 {
   "former_prefixes": null,
-  "dataAccessProperties": null,
-  "availableOnline": null,
-  "confirmed": null,
+  "dataAccessProperties": [
+    "Data not available"
+  ],
+  "availableOnline": "No",
+  "confirmed": true,
   "dataAccessDetails": null,
   "datasetFeatures": null,
   "deprecated": null,
   "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": null,
+  "guidanceOnLocatingIds": "No identifiers returned on OIPA request",
   "opencorporates": null,
   "jurisdiction": [
     {
@@ -16,19 +18,24 @@
     }
   ],
   "languages": null,
-  "lastUpdated": null,
-  "structure": null,
+  "lastUpdated": "2016-11-26",
+  "structure": [
+    {
+      "name": "Charity",
+      "subtypeOf": null
+    }
+  ],
   "licenseDetails": null,
   "onlineAccessDetails": null,
-  "licenseStatus": null,
-  "registerType": null,
+  "licenseStatus": "No License",
+  "registerType": "Secondary",
   "sector": null,
-  "source": null,
+  "source": "Desk research",
   "subnational": null,
   "wikipedia": null,
   "code": "MM-MHA",
-  "description": "The MHA assigns a registration number to each NGO - this number is time limited, for example 4 years, after which the registration is reviewed.",
+  "description": "The MHA assigns a registration number to each NGO - this number is time limited, for example 4 years, after which the registration is reviewed. \n\nThere is no URL for the Ministry, nor is there a publicly available database of NGO information.",
   "name": "Ministry of Home Affairs - Central Committee for the Registration and Supervision of Organisations",
   "publicDatabase": null,
-  "url": "No url for the ministry (as at 2/10/2013)"
+  "url": null
 }

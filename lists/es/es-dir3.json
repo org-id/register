@@ -1,13 +1,21 @@
 {
   "former_prefixes": null,
-  "dataAccessProperties": null,
-  "availableOnline": null,
-  "confirmed": null,
-  "dataAccessDetails": null,
-  "datasetFeatures": null,
+  "dataAccessProperties": [
+    "Bulk download",
+    "Excel",
+    "RDF"
+  ],
+  "availableOnline": "Yes",
+  "confirmed": true,
+  "dataAccessDetails": "Data is available online, but is hard to find on the website. Users must go to the homepage for the DIR3 - http://administracionelectronica.gob.es/es/ctt/dir3?idioma=en# - and look under Shortcuts for the link to 'DIR3 reusable Data (datos.gob)'. This opens a list. The correct spreadsheet is 'Listado de informaci\u00f3n b\u00e1sica de oficinas de la AGE'",
+  "datasetFeatures": [
+    "Organisation Name",
+    "Registration Number",
+    "Date of registration"
+  ],
   "deprecated": null,
-  "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": null,
+  "exampleIdentifiers": "E04100802, E00142804, E00003301",
+  "guidanceOnLocatingIds": "Users can download a dataset containing information on government agencies in Spain using this link - http://administracionelectronica.gob.es/ctt/resources/Soluciones/238/Area%20descargas/Listado%20Oficinas%20AGE.xlsx?idIniciativa=238&idElemento=2745\n\nIdentifiers are under Column Header - C_ID_UNIDAD_RESPONSABLE\n\nUsers can find this spreadsheet by going to this publically available website, and scrolling down for 'Listado de informaci\u00f3n b\u00e1sica de oficinas de la AGE' - http://datos.gob.es/catalogo/directorio-comun-de-unidades-organicas-oficinas-dir3",
   "opencorporates": null,
   "jurisdiction": [
     {
@@ -15,20 +23,28 @@
       "country": "Spain"
     }
   ],
-  "languages": null,
-  "lastUpdated": null,
-  "structure": null,
-  "licenseDetails": null,
+  "languages": [
+    "en",
+    "es"
+  ],
+  "lastUpdated": "2016-11-22",
+  "structure": [
+    {
+      "name": "Government Agency",
+      "subtypeOf": null
+    }
+  ],
+  "licenseDetails": "Custom Spanish Government License - http://administracionelectronica.gob.es/pae_Home/pae_Informacion/pae_AvisoLegal.html#.WDYW1qKLTXE",
   "onlineAccessDetails": null,
-  "licenseStatus": null,
-  "registerType": null,
+  "licenseStatus": "Open License",
+  "registerType": "Secondary",
   "sector": null,
-  "source": null,
+  "source": "Desk research",
   "subnational": null,
   "wikipedia": null,
   "code": "ES-DIR3",
-  "description": "EXCEL Tables: http://administracionelectronica.gob.es/ctt/resources/Soluciones/238/Area%20descargas/Listado%20Oficinas%20AGE.xlsx?idIniciativa=238&idElemento=2745",
+  "description": "The Common Directory of Organizational Units and Offices (DIR3) is a project to improve interoperability between public administration units in Spain. As a part of this, a list of all the public bodies is maintained by the Centro de Transferencia de Tecnolog\u00eda (Technology Transfer Centre).\n\n\"The Common Directory is conceived as a Inventory information on the organizational structure of the public administration, and its citizens care offices. That is, a catalogue of functional units, public agencies and registry offices and attention to the citizen of the administration\" [1] \n\n[1] http://administracionelectronica.gob.es/pae_Home/pae_Estrategias/Racionaliza_y_Comparte/sistemas_informacion_transversales/DIR3.html?idioma=en#.WDTAPaIrL8o\n\nEXCEL Tables: http://administracionelectronica.gob.es/ctt/resources/Soluciones/238/Area%20descargas/Listado%20Oficinas%20AGE.xlsx?idIniciativa=238&idElemento=2745",
   "name": "Common Directory of Organizational Units and Offices - DIR3",
-  "publicDatabase": null,
+  "publicDatabase": "http://administracionelectronica.gob.es/ctt/resources/Soluciones/238/Area%20descargas/Listado%20Oficinas%20AGE.xlsx?idIniciativa=238&idElemento=2745",
   "url": "http://administracionelectronica.gob.es/ctt/dir3/descargas"
 }

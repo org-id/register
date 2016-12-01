@@ -1,13 +1,27 @@
 {
   "former_prefixes": null,
-  "dataAccessProperties": null,
-  "availableOnline": null,
-  "confirmed": null,
-  "dataAccessDetails": null,
-  "datasetFeatures": null,
+  "dataAccessProperties": [
+    "csv",
+    "Bulk download",
+    "HTML"
+  ],
+  "availableOnline": "Yes",
+  "confirmed": true,
+  "dataAccessDetails": "http://www.oscr.org.uk/charities/search-scottish-charity-register/charity-register-download",
+  "datasetFeatures": [
+    "Organisation Name",
+    "Date of registration",
+    "Registration Number",
+    "AKAs",
+    "Status",
+    "Directors / Trustees / Governors",
+    "Website",
+    "Post Code/ZIP Code",
+    "Objectives/Purpose"
+  ],
   "deprecated": null,
-  "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": null,
+  "exampleIdentifiers": "SC042386, SC025693, SC000587",
+  "guidanceOnLocatingIds": "Users can find identifiers using the easy, searchable database at this webpage - http://www.oscr.org.uk/public/search-scottish-charity-register\n\nIdentifiers are located on the left under the column heading 'Charity Number'\n\nUsers can also download a CSV of the dataset at this webpage - http://www.oscr.org.uk/charities/search-scottish-charity-register/charity-register-download\n\nThey will need to accept the Terms and Conditions, and then open the resulting zip file. Identifiers are under the column header ' Charity Number'",
   "opencorporates": null,
   "jurisdiction": [
     {
@@ -15,20 +29,22 @@
       "country": "United Kingdom"
     }
   ],
-  "languages": null,
-  "lastUpdated": null,
+  "languages": [
+    "en"
+  ],
+  "lastUpdated": "2016-11-23",
   "structure": [
     {
       "name": "Charity",
       "subtypeOf": null
     }
   ],
-  "licenseDetails": null,
+  "licenseDetails": "Open Government Licence v.2.0. ",
   "onlineAccessDetails": null,
-  "licenseStatus": null,
+  "licenseStatus": "Open License",
   "registerType": "Primary",
   "sector": null,
-  "source": null,
+  "source": "Desk research",
   "subnational": [
     {
       "regionCode": "GB-SCT",
@@ -40,8 +56,8 @@
   ],
   "wikipedia": null,
   "code": "GB-SC",
-  "description": null,
+  "description": "The Office of the Scottish Charity Register (OSCR) regulates charities in Scotland and maintains a public registry of these charities.\n\n\"The OSCR perform a range of functions which includes:[5]\n\nDetermining whether bodies are charities.\nKeeping a public Register of charities.\nFacilitating compliance by charities with the legislation.\nInvestigating any apparent misconduct in the administration of charities.\nGiving information or advice to Scottish Ministers.\" [1]\n\n[1] https://en.wikipedia.org/wiki/Office_of_the_Scottish_Charity_Regulator",
   "name": "Scottish Charity Register",
-  "publicDatabase": null,
+  "publicDatabase": "http://www.oscr.org.uk/public/search-scottish-charity-register",
   "url": "http://www.oscr.org.uk/"
 }

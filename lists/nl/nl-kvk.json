@@ -1,34 +1,53 @@
 {
   "former_prefixes": null,
-  "dataAccessProperties": null,
-  "availableOnline": null,
-  "confirmed": null,
-  "dataAccessDetails": null,
-  "datasetFeatures": null,
+  "dataAccessProperties": [
+    "HTML"
+  ],
+  "availableOnline": "Yes",
+  "confirmed": true,
+  "dataAccessDetails": "Basic information available for free. Detailed company records can be downloaded for a fee",
+  "datasetFeatures": [
+    "Website",
+    "Registration Number",
+    "Organisation Name",
+    "Registered address"
+  ],
   "deprecated": null,
-  "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": null,
-  "opencorporates": null,
+  "exampleIdentifiers": "41202535, 54416485, 66140285",
+  "guidanceOnLocatingIds": "Users can find the identifiers by using the publicly searchable database on the Chamber of Commerce website. The identifier will be next to 'KvK', or 'Chamber of Commerce' in English.",
+  "opencorporates": true,
   "jurisdiction": [
     {
       "countryCode": "NL",
       "country": "Netherlands"
     }
   ],
-  "languages": null,
-  "lastUpdated": null,
-  "structure": null,
-  "licenseDetails": null,
-  "onlineAccessDetails": null,
-  "licenseStatus": null,
-  "registerType": null,
+  "languages": [
+    "nl",
+    "en"
+  ],
+  "lastUpdated": "2016-11-30",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    },
+    {
+      "name": "Charity",
+      "subtypeOf": null
+    }
+  ],
+  "licenseDetails": "https://opencorporates.com/registers/175",
+  "onlineAccessDetails": "Basic company data is available on the KvK website for free. More detailed information is available for download for a fee.",
+  "licenseStatus": "Closed License",
+  "registerType": "Primary",
   "sector": null,
-  "source": null,
+  "source": "Desk research",
   "subnational": null,
   "wikipedia": null,
   "code": "NL-KVK",
-  "description": null,
-  "name": "Kamer van Koophandel",
-  "publicDatabase": null,
-  "url": "http://www.kvk.nl/"
+  "description": "All companies and entities (including most NGOs) in the Netherlands must enrol with the Commercial Register, which is hosted by the Dutch Chamber of Commerce. Each entity receives a Chamber of Commerce number upon registration, which is the appropriate identifier Dutch companies and NPOs.\n\nBasic company information is available for free, detailed info can be downloaded for a fee.\n\n\"All companies and entities in the Netherlands must enroll in the Commercial Register. By law, you have a business if you provide common goods or services to others with the intent to make a profit.\" [1] \n\n\"Recipient companies can consult www.kvk.nl/waadi to check if agencies are registered on the Chamber of Commerce website. They can do this simply by entering their Chamber or Commerce number, which is assigned to all companies and legal entities upon registration in the Business Register.\" [2] \n\n\"The major forms of Dutch non-profit organization are the associations, the foundations and the churches... Associations registered in The Netherlands are unions between two or more individuals, physical persons or corporate bodies that pursue certain goals stated in the Articles of Association and that cannot divide profit among its members... There are two types of associations that can be set up in the Netherlands: with complete authority under the law (in this case the articles of associations are drawn by a civil notary and it\u2019s mandatory in this case that the association is registered at the Dutch Chamber of Commerce trade register) and with limited authority under the law (when the articles are not drawn up by a notary and the registration is not mandatory).\" [3] \n\n[1] https://www.kvk.nl/inschrijven-en-wijzigen/inschrijven/?block=420250\n[2] https://www.kvk.nl/english/how-to-register-deregister-and-report-changes/registering-with-the-chamber-of-commerce/hiring-or-provision-of-workers-in-the-netherlands/\n[3] http://www.bridgewest.eu/article/register-non-profit-organization-netherlands",
+  "name": "Chamber of Commerce / Kamer van Koophandel",
+  "publicDatabase": "https://www.kvk.nl/producten-bestellen/",
+  "url": "http://www.kvk.nl/ , https://www.kvk.nl/english/"
 }

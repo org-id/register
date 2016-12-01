@@ -7,7 +7,7 @@
   "datasetFeatures": null,
   "deprecated": null,
   "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": null,
+  "guidanceOnLocatingIds": "Public search is currently unavailable, the link does not work.\n\nOIPA ",
   "opencorporates": null,
   "jurisdiction": [
     {
@@ -17,18 +17,27 @@
   ],
   "languages": null,
   "lastUpdated": null,
-  "structure": null,
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    },
+    {
+      "name": "Charity",
+      "subtypeOf": null
+    }
+  ],
   "licenseDetails": null,
   "onlineAccessDetails": null,
   "licenseStatus": null,
-  "registerType": null,
+  "registerType": "Primary",
   "sector": null,
   "source": null,
   "subnational": null,
   "wikipedia": null,
   "code": "NG-CAC",
-  "description": null,
+  "description": "All companies operating in Nigeria must register with the Corporate Affairs Commission. NGOs also register with the Commission. This database is available through a searchable webpage. \n\n\"The Corporate Affairs Commission (CAC) of Nigeria was established in 1990 vide Companies and Allied Matters Decree no 1 (CAMD) 1990 as amended, now on Act cap C20 Laws of federation of Nigeria. It is an autonomous body charged with the responsibility to regulate the formation and management of companies in Nigeria.\" [1]\n\n\"In Nigeria NGOs may be registered as a company limited by guarantee or as incorporated trustees (by which trustees of the NGO, rather than the NGO itself, obtains the status of a body corporate)... The duly completed application is then submitted to the Corporate Affairs Commission.\" [2]\n\n[1] https://en.wikipedia.org/wiki/Corporate_Affairs_Commission,_Nigeria\n[2] http://www.nigeriaformations.com/charities-and-NGOs.php",
   "name": "Nigerian Corporate Affairs Commission",
-  "publicDatabase": null,
+  "publicDatabase": "http://publicsearch.cac.gov.ng:8080/comsearch/test.php",
   "url": "http://new.cac.gov.ng/home/"
 }

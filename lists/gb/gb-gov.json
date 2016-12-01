@@ -1,13 +1,19 @@
 {
   "former_prefixes": null,
-  "dataAccessProperties": null,
-  "availableOnline": null,
-  "confirmed": null,
+  "dataAccessProperties": [
+    "csv",
+    "ODS"
+  ],
+  "availableOnline": "Yes",
+  "confirmed": true,
   "dataAccessDetails": null,
-  "datasetFeatures": null,
+  "datasetFeatures": [
+    "Organisation Name",
+    "Registration Number"
+  ],
   "deprecated": null,
-  "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": null,
+  "exampleIdentifiers": "GB-GOV-1, GB-GOV-4",
+  "guidanceOnLocatingIds": "Users can download an ODS file at this webpage - https://data.gov.uk/dataset/iati-organisation-identifier-for-uk-government-bodies\n\nThe identifiers for use are under the column headers 'IATI 2.x'.",
   "opencorporates": null,
   "jurisdiction": [
     {
@@ -15,20 +21,27 @@
       "country": "United Kingdom"
     }
   ],
-  "languages": null,
-  "lastUpdated": null,
-  "structure": null,
+  "languages": [
+    "en"
+  ],
+  "lastUpdated": "2016-11-23",
+  "structure": [
+    {
+      "name": "Government Agency",
+      "subtypeOf": null
+    }
+  ],
   "licenseDetails": null,
-  "onlineAccessDetails": null,
-  "licenseStatus": null,
-  "registerType": null,
+  "onlineAccessDetails": "Available as ODS file",
+  "licenseStatus": "Open License",
+  "registerType": "Secondary",
   "sector": null,
-  "source": null,
+  "source": "Desk research",
   "subnational": null,
   "wikipedia": null,
   "code": "GB-GOV",
-  "description": "Codes for use by IATI for UK Government Departments.",
+  "description": "IATI Version 2.x codes for use by IATI for UK Government Departments.",
   "name": "UK Government Departments Reference Numbers",
-  "publicDatabase": null,
+  "publicDatabase": "https://data.gov.uk/dataset/iati-organisation-identifier-for-uk-government-bodies",
   "url": "http://data.gov.uk/dataset/iati-organisation-identifier-for-uk-government-bodies"
 }

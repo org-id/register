@@ -1,13 +1,15 @@
 {
   "former_prefixes": null,
-  "dataAccessProperties": null,
-  "availableOnline": null,
-  "confirmed": null,
+  "dataAccessProperties": [
+    "Data not available"
+  ],
+  "availableOnline": "No",
+  "confirmed": true,
   "dataAccessDetails": null,
   "datasetFeatures": null,
-  "deprecated": null,
+  "deprecated": true,
   "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": null,
+  "guidanceOnLocatingIds": "OIPA search returned no results",
   "opencorporates": null,
   "jurisdiction": [
     {
@@ -15,19 +17,26 @@
       "country": "Malawi"
     }
   ],
-  "languages": null,
-  "lastUpdated": null,
-  "structure": null,
+  "languages": [
+    "en"
+  ],
+  "lastUpdated": "2016-11-26",
+  "structure": [
+    {
+      "name": "Government Agency",
+      "subtypeOf": null
+    }
+  ],
   "licenseDetails": null,
   "onlineAccessDetails": null,
-  "licenseStatus": null,
-  "registerType": null,
+  "licenseStatus": "No License",
+  "registerType": "Deprecated",
   "sector": null,
-  "source": null,
+  "source": "Desk research",
   "subnational": null,
   "wikipedia": null,
   "code": "MW-MRA",
-  "description": null,
+  "description": "The Malawi Revenue Authority is responsible for processing tax payments and investigating cases of tax evasion in Malawi. They do not appear to be responsible for the registration of companies or maintaining a database of organisations.\n\nCompany registration in Malawi is done through the Department of Registrar General, under the Ministry of Justice and Constitutional Affairs.\n\n\"The Ministry of Industry and Trade is responsible for providing application forms for Registration of Business Name.\nApplications may be submitted to the Department of Registrar General\u2019s Head Office in Blantyre and its Regional Office in Lilongwe.\" [1]\n\n[1] https://www.wikiprocedure.com/index.php/Malawi_-_Register_Business_Name",
   "name": "Malawi Revenue Authority",
   "publicDatabase": null,
   "url": "http://www.mra.mw/"

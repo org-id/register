@@ -1,13 +1,15 @@
 {
   "former_prefixes": null,
-  "dataAccessProperties": null,
-  "availableOnline": null,
-  "confirmed": null,
+  "dataAccessProperties": [
+    "Data not available"
+  ],
+  "availableOnline": "No",
+  "confirmed": true,
   "dataAccessDetails": null,
   "datasetFeatures": null,
-  "deprecated": null,
+  "deprecated": true,
   "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": null,
+  "guidanceOnLocatingIds": "No identifiers returned on OIPA request",
   "opencorporates": null,
   "jurisdiction": [
     {
@@ -15,19 +17,26 @@
       "country": "Lesotho"
     }
   ],
-  "languages": null,
-  "lastUpdated": null,
-  "structure": null,
+  "languages": [
+    "en"
+  ],
+  "lastUpdated": "2016-11-26",
+  "structure": [
+    {
+      "name": "Charity",
+      "subtypeOf": null
+    }
+  ],
   "licenseDetails": null,
   "onlineAccessDetails": null,
-  "licenseStatus": null,
-  "registerType": null,
+  "licenseStatus": "Closed License",
+  "registerType": "Deprecated",
   "sector": null,
   "source": null,
   "subnational": null,
   "wikipedia": null,
   "code": "LS-LCN",
-  "description": null,
+  "description": "The Lesotho Council of NGOs provides a range of support services and advocacy to civil society organisations  in Lesotho. They do not appear to have the responsibility of either registering NGOs or maintaining a database of identifiers.\n\n\"The Lesotho Council of Non-Governmental Organisations (LCN) is an umbrella organizations for NGOs in Lesotho. It was established in May 1990 with an objective of providing supportive services to the NGO Community. The Council implements this through networking and leadership training and development, information dissemination, capacity building, coordination, advocacy and representation when dealing with the government and the international community.\" [1]\n\n[1] http://www.lcn.org.ls/about/default.php",
   "name": "Lesotho Council of Non Governmental Organisations",
   "publicDatabase": null,
   "url": "http://www.lcn.org.ls/"
