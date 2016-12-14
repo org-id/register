@@ -1,13 +1,22 @@
 {
   "former_prefixes": null,
-  "dataAccessProperties": null,
-  "availableOnline": null,
-  "confirmed": null,
+  "dataAccessProperties": [
+    "HTML"
+  ],
+  "availableOnline": "Yes",
+  "confirmed": true,
   "dataAccessDetails": null,
-  "datasetFeatures": null,
+  "datasetFeatures": [
+    "Registered address",
+    "Organisation Name",
+    "AKAs",
+    "Tax ID Number",
+    "Organisation Type",
+    "Status"
+  ],
   "deprecated": null,
-  "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": null,
+  "exampleIdentifiers": "06115403, 20203641, 29500258",
+  "guidanceOnLocatingIds": "Users can find identifiers by using the simple, searchable database. The database is provided in Serbian.\n\nIn the search results, identifiers will be under the column heading '\u041c\u0430\u0442\u0438\u0447\u043d\u0438 \u0431\u0440\u043e\u0458' or 'Identification Number' in English.\n\nCompanies of different types appear to have similar identification structure.",
   "opencorporates": null,
   "jurisdiction": [
     {
@@ -15,20 +24,27 @@
       "country": "Serbia"
     }
   ],
-  "languages": null,
-  "lastUpdated": null,
-  "structure": null,
+  "languages": [
+    "sr"
+  ],
+  "lastUpdated": "2016-12-07",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
   "licenseDetails": null,
-  "onlineAccessDetails": null,
-  "licenseStatus": null,
-  "registerType": null,
+  "onlineAccessDetails": "Data available through simple, searchable database. Search terms and results are in Serbian, so English speakers will need to use translation service",
+  "licenseStatus": "Closed License",
+  "registerType": "Primary",
   "sector": null,
-  "source": null,
+  "source": "Desk research",
   "subnational": null,
   "wikipedia": null,
   "code": "RS-APR",
-  "description": "The SBRA runs business registers as single, centralized, public electronic databases.",
-  "name": "Serbian Business Registrations Agency (APR)",
-  "publicDatabase": null,
+  "description": "The Serbian Business Registrations Agency (APR) provides a single place of registration for all companies and individuals - domestic and foreign - operating in Serbia. Each entity is given an identification number and a tax number. The \u041c\u0430\u0442\u0438\u0447\u043d\u0438 \u0431\u0440\u043e\u0458 / identification number should be used for identifiers.\n\nA database of these registries is available online.\n\n\"The SBRA runs business registers as single, centralized, public electronic databases:\n\nThe Business Register, in accordance with the Law on Business Entities Registration (operative as of 1/1/2005):\n\n *Register of Companies (in effect as of 1 January 2005)\n* Register of Entrepreneurs (in effect as of 1 January 2006)\n* Register of foreign parties (in effect as of 1 January 2006)\" [1]\n\n\"Serbian term or phrase:\tmati\u010dni broj / identification number\nThis is the identification number contained in the Company Register \" [2]\n\n[1] http://www.apr.gov.rs/eng/AboutAgency/AllRegistersatOnePlace.aspx\n[2] http://www.proz.com/kudoz/serbian_to_english/law_contracts/2614508-maticni_broj.html",
+  "name": "Serbian Business Registrations Agency / \u0410\u0433\u0435\u043d\u0446\u0438\u0458\u0430 \u0437\u0430 \u0441\u0440\u043f\u0441\u043a\u0438 \u043f\u043e\u0441\u043b\u043e\u0432\u043d\u0438 \u041f\u0440\u0438\u0458\u0430\u0432\u0435",
+  "publicDatabase": "http://pretraga2.apr.gov.rs/ObjedinjenePretrage/Search/Search",
   "url": "http://www.apr.gov.rs/eng/Home.aspx"
 }

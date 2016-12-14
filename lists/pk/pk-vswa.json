@@ -1,7 +1,9 @@
 {
   "former_prefixes": null,
-  "dataAccessProperties": null,
-  "availableOnline": null,
+  "dataAccessProperties": [
+    "Data not available"
+  ],
+  "availableOnline": "No",
   "confirmed": null,
   "dataAccessDetails": null,
   "datasetFeatures": null,
@@ -15,20 +17,27 @@
       "country": "Pakistan"
     }
   ],
-  "languages": null,
-  "lastUpdated": null,
-  "structure": null,
+  "languages": [
+    "en"
+  ],
+  "lastUpdated": "2016-12-05",
+  "structure": [
+    {
+      "name": "Charity",
+      "subtypeOf": null
+    }
+  ],
   "licenseDetails": null,
   "onlineAccessDetails": null,
-  "licenseStatus": null,
-  "registerType": null,
+  "licenseStatus": "No License",
+  "registerType": "Primary",
   "sector": null,
   "source": null,
   "subnational": null,
   "wikipedia": null,
   "code": "PK-VSWA",
-  "description": "All NGOs are required to register with their local Voluntary Social Welfare department",
+  "description": "All NGOs are required to register with their local Voluntary Social Welfare department.\n\n\"Any person intending to establish an agency, and any person\nintending that an agency already in existence should be\ncontinued as such, shall, in the prescribed form, and on payment\nof the prescribed fee, make an application to the Registration\nAuthority\" [1] \n\n\"9.Registration, professional guidance and financial assistance to voluntary Social Welfare agencies for strengthening, improving and promoting their activities, coordination amongst NGOs / Donors and concerned government departments.\" [2] \n\n[1] http://www.ilo.org/dyn/natlex/docs/ELECTRONIC/81785/88956/F1282834913/PAK81785.pdf\n[2] http://www.swkpk.gov.pk/",
   "name": "Pakistan Voluntary Social Welfare Agency",
   "publicDatabase": null,
-  "url": "No Website available"
+  "url": "http://www.swkpk.gov.pk/ , http://social_welfare.kp.gov.pk/"
 }

@@ -1,13 +1,15 @@
 {
   "former_prefixes": null,
-  "dataAccessProperties": null,
-  "availableOnline": null,
-  "confirmed": null,
+  "dataAccessProperties": [
+    "Data not available"
+  ],
+  "availableOnline": "No",
+  "confirmed": true,
   "dataAccessDetails": null,
   "datasetFeatures": null,
   "deprecated": null,
   "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": "Public search is currently unavailable, the link does not work.\n\nOIPA ",
+  "guidanceOnLocatingIds": "Public search is currently unavailable, the link does not work.",
   "opencorporates": null,
   "jurisdiction": [
     {
@@ -16,7 +18,7 @@
     }
   ],
   "languages": null,
-  "lastUpdated": null,
+  "lastUpdated": "2016-12-14",
   "structure": [
     {
       "name": "Company",
@@ -27,12 +29,12 @@
       "subtypeOf": null
     }
   ],
-  "licenseDetails": null,
+  "licenseDetails": "http://index.okfn.org/place/nigeria/companies/",
   "onlineAccessDetails": null,
-  "licenseStatus": null,
+  "licenseStatus": "Closed License",
   "registerType": "Primary",
   "sector": null,
-  "source": null,
+  "source": "Desk research",
   "subnational": null,
   "wikipedia": null,
   "code": "NG-CAC",

@@ -1,13 +1,15 @@
 {
   "former_prefixes": null,
-  "dataAccessProperties": null,
-  "availableOnline": null,
+  "dataAccessProperties": [
+    "Data not available"
+  ],
+  "availableOnline": "No",
   "confirmed": null,
   "dataAccessDetails": null,
   "datasetFeatures": null,
   "deprecated": null,
   "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": null,
+  "guidanceOnLocatingIds": "None available",
   "opencorporates": null,
   "jurisdiction": [
     {
@@ -16,19 +18,24 @@
     }
   ],
   "languages": null,
-  "lastUpdated": null,
-  "structure": null,
+  "lastUpdated": "2016-12-02",
+  "structure": [
+    {
+      "name": "Charity",
+      "subtypeOf": null
+    }
+  ],
   "licenseDetails": null,
   "onlineAccessDetails": null,
-  "licenseStatus": null,
+  "licenseStatus": "No License",
   "registerType": null,
   "sector": null,
-  "source": null,
+  "source": "Desk research",
   "subnational": null,
   "wikipedia": null,
   "code": "MZ-MOJ",
-  "description": "The Mozambique Ministry of Justice does not appear to be associated with the registration process for companies. There is also no website for the Ministry by which this could be confirmed or denied.\n\nCompany registration takes place with the Conservatory of Legal Entities (Conservat\u00f3ria do Registo das Entidades Legais)\n\n\"The registration process comprises the following steps:\n\u2022 Company name reservation at the Conservatory of Legal Entities Registration\" [1]\n\n[1] http://www.mozambiquehighcommission.org.uk/?id_w=7&id_w1=33",
+  "description": "Local NGOs in Mozambique must register with the Ministry of Justice.\n\n\"Domestic NGOs are required to register with the Ministry of Justice.\" [1]\n\n[1] http://www.commonwealthofnations.org/sectors-mozambique/civil_society/national_ngos_civil_society/\n",
   "name": "Mozambique Ministry of Justice",
-  "publicDatabase": null,
-  "url": null
+  "publicDatabase": "None available",
+  "url": "None available"
 }

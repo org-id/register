@@ -1,34 +1,48 @@
 {
   "former_prefixes": null,
-  "dataAccessProperties": null,
-  "availableOnline": null,
-  "confirmed": null,
-  "dataAccessDetails": null,
-  "datasetFeatures": null,
+  "dataAccessProperties": [
+    "HTML"
+  ],
+  "availableOnline": "Yes",
+  "confirmed": true,
+  "dataAccessDetails": "Basic information is searchable for fee, more detailed company information can be downloaded for a fee",
+  "datasetFeatures": [
+    "Registration Number",
+    "Registered address",
+    "Status",
+    "Organisation Name"
+  ],
   "deprecated": null,
-  "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": null,
-  "opencorporates": null,
+  "exampleIdentifiers": "199100421C, 201528336R, 52813269E",
+  "guidanceOnLocatingIds": "Users can find identifiers by using the simple, searchable database hosted on a third-party website. Users will have to complete a Captcha box in order to see search results.\n\nThe identifiers will be under the column heading 'UEN'.\n\n",
+  "opencorporates": true,
   "jurisdiction": [
     {
       "countryCode": "SG",
       "country": "Singapore"
     }
   ],
-  "languages": null,
-  "lastUpdated": null,
-  "structure": null,
-  "licenseDetails": null,
-  "onlineAccessDetails": null,
-  "licenseStatus": null,
-  "registerType": null,
+  "languages": [
+    "en"
+  ],
+  "lastUpdated": "2016-12-07",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "licenseDetails": "https://opencorporates.com/registers/233",
+  "onlineAccessDetails": "Users can be directed to the third-party website from the ACRA homepage. They will need to follow a link from the box 'SEARCH Directory of Registered Entities'",
+  "licenseStatus": "Closed License",
+  "registerType": "Primary",
   "sector": null,
-  "source": null,
+  "source": "Desk research",
   "subnational": null,
   "wikipedia": null,
   "code": "SG-ACRA",
-  "description": "The Accounting and Corporate Regulatory Authority (ACRA) is the national regulator of business entities, public accountants and corporate service providers in Singapore",
+  "description": "The Accounting and Corporate Regulatory Authority (ACRA) is the national regulator of business entities, public accountants and corporate service providers in Singapore. Each corporate entity receives a Unique Entity Number (UEN), which should be used as the identifier.\n\n\"Registering or setting up a company in Singapore is accomplished through contacting Accounting and Corporate Regulatory Authority (ACRA).\" [1] \n\n\"From 1 January 2009, all entities that are registered in Singapore, such as\nbusinesses, local companies, limited liability partnerships (LLPs), societies,\nrepresentative offices, healthcare institutions and trade unions, will have a\nUnique Entity Number (UEN) as its identification number. \" [2] \n\n[1] https://www.wikiprocedure.com/index.php/Singapore_-_Registering_or_Setting_up_Local_Company\n[2] https://www.ipos.gov.sg/Portals/0/about%20IP/copyrights/UENFAQs2.pdf",
   "name": "Accounting and Corporate Regulatory Authority (ACRA)",
-  "publicDatabase": null,
+  "publicDatabase": "https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/BizfileHomepage.jspx?_afrLoop=335483016357989&_afrWindowMode=0&_afrWindowId=null#%40%3F_afrWindowId%3Dnull%26_afrLoop%3D335483016357989%26_afrWindowMode%3D0%26_adf.ctrl-state%3D13fqtwn2la_4",
   "url": "http://www.acra.gov.sg/"
 }
