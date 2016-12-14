@@ -1,34 +1,44 @@
 {
   "former_prefixes": null,
-  "dataAccessProperties": null,
-  "availableOnline": null,
+  "dataAccessProperties": [
+    "Data not available"
+  ],
+  "availableOnline": "No",
   "confirmed": null,
   "dataAccessDetails": null,
   "datasetFeatures": null,
   "deprecated": null,
   "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": null,
-  "opencorporates": null,
+  "guidanceOnLocatingIds": "None available",
+  "opencorporates": true,
   "jurisdiction": [
     {
       "countryCode": "TZ",
       "country": "Tanzania, United Republic of"
     }
   ],
-  "languages": null,
-  "lastUpdated": null,
-  "structure": null,
-  "licenseDetails": null,
+  "languages": [
+    "en",
+    "sw"
+  ],
+  "lastUpdated": "2016-12-07",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "licenseDetails": "https://opencorporates.com/registers/255",
   "onlineAccessDetails": null,
-  "licenseStatus": null,
-  "registerType": null,
+  "licenseStatus": "Closed License",
+  "registerType": "Primary",
   "sector": null,
-  "source": null,
+  "source": "Desk research",
   "subnational": null,
   "wikipedia": null,
   "code": "TZ-BRLA",
-  "description": null,
+  "description": "The Business Registrations and Licensing Agency (BRELA) registers companies in Tanzania. Following registration, companies must apply to the Tanzanian Revenue Agency (TRA) to receive a tax identification number (TIN). \n\nCompany information is not freely searchable or available online. Users must sign up for a fee to search company names.\n\n\"The Business Registrations and Licensing Agency (BRELA) is an Executive Agency under the Ministry of Industry and Trade responsible for business administration and regulation of the laws; namely Companies Registration, Business Names Registration, Trade and Service Marks Registration, granting of Patents and issuing of Industrial License.\" [1] \n\n\"The Business Registrations and Licencing Agency (BRELA) is the government agency that has started recently to list registered companies in Tanzania. (http://www.brela.go.tz/) Previously there was a company name search feature available on its website, but this appears to have gone, and there is no other form of company data in evidence.\" [2] \n\n[1] http://www.brela.go.tz/index.php/about/introduction\n[2] http://index.okfn.org/place/tanzania/companies/",
   "name": "Tanzania Business Registrations and Licensing Agency",
-  "publicDatabase": null,
+  "publicDatabase": "https://ors.brela.go.tz/login / https://opencorporates.com/companies/tz/",
   "url": "http://www.brela.go.tz/"
 }

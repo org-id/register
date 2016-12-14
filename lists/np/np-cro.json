@@ -1,13 +1,15 @@
 {
   "former_prefixes": null,
-  "dataAccessProperties": null,
-  "availableOnline": null,
-  "confirmed": null,
+  "dataAccessProperties": [
+    "HTML"
+  ],
+  "availableOnline": "Yes",
+  "confirmed": true,
   "dataAccessDetails": null,
   "datasetFeatures": null,
   "deprecated": null,
-  "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": null,
+  "exampleIdentifiers": "45995, 34774, 105299",
+  "guidanceOnLocatingIds": "Users can search for identifiers using the simple, searchable database on the Office website. Identifiers will be under the column heading 'Registration No' on the search results.\n\nCompany numbers are sometimes reported in the format: 45995-063-064\n\nThis is made up of two parts. A CRO number and a registration year.\n\nFor example:\n\nSearching for 45995 in the Registrar database returns Young Innovations. This is their CRO number.\n\n063-064 refers to the financial year that Young Innovations was registered. When included within the identifier, this could be reported with a dash-separator, and not slash. ",
   "opencorporates": null,
   "jurisdiction": [
     {
@@ -15,20 +17,28 @@
       "country": "Nepal"
     }
   ],
-  "languages": null,
-  "lastUpdated": null,
-  "structure": null,
-  "licenseDetails": null,
-  "onlineAccessDetails": null,
-  "licenseStatus": null,
-  "registerType": null,
+  "languages": [
+    "en",
+    "ne"
+  ],
+  "lastUpdated": "2016-12-02",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
+  "licenseDetails": "http://index.okfn.org/place/nepal/companies/",
+  "onlineAccessDetails": "Data available for free from search on Office website homepage",
+  "licenseStatus": "Closed License",
+  "registerType": "Primary",
   "sector": null,
-  "source": null,
+  "source": "Desk research",
   "subnational": null,
   "wikipedia": null,
   "code": "NP-CRO",
-  "description": null,
+  "description": "All companies operating in Nepal must register with the Office of the Company Registrar Office. This database is available for search on the Office homepage.\n\n\"To register a company, the promoter must submit an application as prescribed by the Ministry of Industry, Commerce, and Supplies. Online filing of the required documents has been introduced and made mandatory. After the online filing, entrepreneurs are required to visit the Office of Company Registrar and submit all the original documents for further verification.\" [1]\n\n[1] http://www.doingbusiness.org/data/exploreeconomies/nepal#starting-a-business",
   "name": "Company Registrar Office",
-  "publicDatabase": null,
+  "publicDatabase": "http://www.ocr.gov.np/index.php/en/",
   "url": "http://www.cro.gov.np/"
 }

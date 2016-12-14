@@ -1,13 +1,21 @@
 {
   "former_prefixes": null,
-  "dataAccessProperties": null,
-  "availableOnline": null,
-  "confirmed": null,
+  "dataAccessProperties": [
+    "HTML"
+  ],
+  "availableOnline": "Yes",
+  "confirmed": true,
   "dataAccessDetails": null,
-  "datasetFeatures": null,
+  "datasetFeatures": [
+    "Registered address",
+    "Organisation Name",
+    "Phone Number",
+    "Registration Number",
+    "Activities/Sector Code"
+  ],
   "deprecated": null,
-  "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": null,
+  "exampleIdentifiers": "37625, 14902, 28632",
+  "guidanceOnLocatingIds": "Users can find identifiers on the simple, searchable database on the SWC website. Identifiers will be under the column heading 'Swc Aff No'",
   "opencorporates": null,
   "jurisdiction": [
     {
@@ -15,20 +23,28 @@
       "country": "Nepal"
     }
   ],
-  "languages": null,
-  "lastUpdated": null,
-  "structure": null,
+  "languages": [
+    "en",
+    "ne"
+  ],
+  "lastUpdated": "2016-12-02",
+  "structure": [
+    {
+      "name": "Charity",
+      "subtypeOf": null
+    }
+  ],
   "licenseDetails": null,
-  "onlineAccessDetails": null,
-  "licenseStatus": null,
-  "registerType": null,
+  "onlineAccessDetails": "Data available in simple, searchable databse",
+  "licenseStatus": "Closed License",
+  "registerType": "Secondary",
   "sector": null,
-  "source": null,
+  "source": "Desk research",
   "subnational": null,
   "wikipedia": null,
   "code": "NP-SWC",
-  "description": null,
-  "name": "NGO registration",
-  "publicDatabase": null,
+  "description": "International NGOs wishing to operate in Nepal must register with the Social Welfare Council. Upon registration, these INGOs receive an Affiliation Certificate and an SWC Affiliation Number. This database can be searched on the website.\n\nLocal NGOs do not need to be associated with the SWC, but may register with their local District Administration Office (DAO). The SWC list is thus not a complete list of all NGOs working in Nepal.\n\n\"1. As laid down in article 12, Section 1, of the Social Welfare Act 2049, the international non-governmental organizations (INGOs) seeking to work in the Kingdom of Nepal must apply to the Social Welfare Council and seek permission prior to starting work.\" [1] \n\n[1] Document available for download at - http://www.swc.org.np/?page_id=47",
+  "name": "Social Welfare Council Nepal",
+  "publicDatabase": "http://www.swc.org.np/?p=228",
   "url": "http://www.swc.org.np/"
 }

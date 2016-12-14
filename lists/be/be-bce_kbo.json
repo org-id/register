@@ -31,7 +31,20 @@
     "nl"
   ],
   "lastUpdated": "2016-11-18",
-  "structure": null,
+  "structure": [
+    {
+      "name": "Unincorporated body",
+      "subtypeOf": null
+    },
+    {
+      "name": "Company",
+      "subtypeOf": null
+    },
+    {
+      "name": "Charity",
+      "subtypeOf": null
+    }
+  ],
   "licenseDetails": null,
   "onlineAccessDetails": "Bulk access is only available for a fee http://economie.fgov.be/fr/entreprises/BCE/pub/reutilisation/",
   "licenseStatus": "Closed License",

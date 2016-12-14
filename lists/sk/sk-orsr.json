@@ -8,11 +8,11 @@
   "dataAccessDetails": null,
   "datasetFeatures": [
     "Registered address",
-    "Registration Number",
     "Date of registration",
+    "Registration Number",
     "Directors / Trustees / Governors",
-    "Organisation Type",
     "Accounts",
+    "Organisation Type",
     "Objectives/Purpose"
   ],
   "deprecated": null,
@@ -30,18 +30,23 @@
     "sk"
   ],
   "lastUpdated": "2016-12-07",
-  "structure": null,
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
   "licenseDetails": "https://opencorporates.com/registers/234",
-  "onlineAccessDetails": "Database can be searched using the simple search. ",
+  "onlineAccessDetails": null,
   "licenseStatus": "Closed License",
-  "registerType": null,
+  "registerType": "Primary",
   "sector": null,
   "source": "Desk research",
   "subnational": null,
   "wikipedia": null,
-  "code": "SK-ZRSR",
-  "description": null,
-  "name": "Slovakia Ministry Of Interior Trade Register",
+  "code": "SK-ORSR",
+  "description": "\"The companies register is administered by the Ministry of Justice. Entry to the register is obligatory for companies, cooperatives and for some specific physical entities stated by law. Information in the register is searchable by trade name, identification number, registered office, registration number and name of a person.\" [1]\n\n\"The Obchodn\u00fd register (commercial register) is a public list containing statutory data concerning entrepreneurs, companies and other legal entities, where this is laid down by separate legislation.\nThe list is administered by the Ministry of Justice of the Slovak Republic.\" [2]\n\n[1] http://www.company-registers.info/en/european-union/slovakia.html\n[2] https://e-justice.europa.eu/content_business_registers_in_member_states-106-sk-en.do?member=1",
+  "name": "Ministry of Justice Business Register",
   "publicDatabase": "http://www.orsr.sk/search_subjekt.asp?lan=en",
   "url": "http://www.orsr.sk/search_subjekt.asp?lan=en"
 }
