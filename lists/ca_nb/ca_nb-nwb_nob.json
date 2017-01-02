@@ -2,7 +2,7 @@
   "former_prefixes": null,
   "dataAccessProperties": null,
   "availableOnline": "Yes",
-  "confirmed": null,
+  "confirmed": true,
   "dataAccessDetails": null,
   "datasetFeatures": null,
   "deprecated": null,
@@ -15,8 +15,11 @@
       "country": "Canada"
     }
   ],
-  "languages": null,
-  "lastUpdated": "2016-09-07",
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "lastUpdated": "2016-12-14",
   "structure": [
     {
       "name": "Company",
@@ -25,21 +28,21 @@
   ],
   "licenseDetails": null,
   "onlineAccessDetails": null,
-  "licenseStatus": "No License",
-  "registerType": null,
+  "licenseStatus": "Closed License",
+  "registerType": "Primary",
   "sector": null,
-  "source": null,
+  "source": "Desk research",
   "subnational": [
     {
-      "regionCode": "CA_QC",
+      "regionCode": "CA_NB",
       "country": null,
       "regionName": null
     }
   ],
   "wikipedia": null,
-  "code": "CA-QC-CR",
+  "code": "CA_NB-NWB_NOB",
   "description": "This entry was imported from the Open Corporates Jurisdiction List.",
-  "name": "Quebec Registraire des entreprises",
-  "publicDatabase": null,
-  "url": "http://www.registreentreprises.gouv.qc.ca/"
+  "name": "Corporate Registry / Registre corporatif",
+  "publicDatabase": "http://www.snb.ca/e/6000/6600e.asp",
+  "url": "https://www.pxw1.snb.ca/snb7001/e/2000/2500e.asp"
 }

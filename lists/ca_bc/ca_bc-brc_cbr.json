@@ -1,8 +1,8 @@
 {
   "former_prefixes": null,
   "dataAccessProperties": null,
-  "availableOnline": "Yes",
-  "confirmed": null,
+  "availableOnline": null,
+  "confirmed": true,
   "dataAccessDetails": null,
   "datasetFeatures": null,
   "deprecated": null,
@@ -15,8 +15,10 @@
       "country": "Canada"
     }
   ],
-  "languages": null,
-  "lastUpdated": "2016-09-07",
+  "languages": [
+    "en"
+  ],
+  "lastUpdated": "2016-12-14",
   "structure": [
     {
       "name": "Company",
@@ -25,21 +27,21 @@
   ],
   "licenseDetails": null,
   "onlineAccessDetails": null,
-  "licenseStatus": "No License",
-  "registerType": null,
+  "licenseStatus": "Closed License",
+  "registerType": "Primary",
   "sector": null,
-  "source": null,
+  "source": "Desk research",
   "subnational": [
     {
-      "regionCode": "CA_PE",
+      "regionCode": "CA_BC",
       "country": null,
       "regionName": null
     }
   ],
   "wikipedia": null,
-  "code": "CA-PE-CR",
+  "code": "CA_BC-BRC_CBR",
   "description": "This entry was imported from the Open Corporates Jurisdiction List.",
-  "name": "Prince Edward Island Corporate/Business Names Registry",
+  "name": "British Columbia Corporate Registry / Registre des soci\u00e9t\u00e9s",
   "publicDatabase": null,
-  "url": "http://www.gov.pe.ca/corporations/index.php"
+  "url": "http://www.bcregistryservices.gov.bc.ca/bcreg/corppg/index.page"
 }

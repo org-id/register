@@ -1,41 +1,81 @@
 {
   "former_prefixes": null,
   "dataAccessProperties": [
-    "csv"
+    "csv",
+    "HTML",
+    "JSON"
   ],
-  "availableOnline": null,
-  "confirmed": null,
+  "availableOnline": "Yes",
+  "confirmed": true,
   "dataAccessDetails": "http://publicbodies.org/ - CSV download available for Brazil, European Union, Germany, Greece, New Zealand, Switzerland, United Kingdom and United States",
-  "datasetFeatures": null,
+  "datasetFeatures": [
+    "Registration Number",
+    "Organisation Name",
+    "Objectives/Purpose",
+    "Organisation Type",
+    "Registered address",
+    "Website",
+    "Date of foundation",
+    "E-mail address"
+  ],
   "deprecated": null,
-  "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": null,
+  "exampleIdentifiers": "gb/aberdeen-city-council, de/14-panzergrenadierdivision-hanse, ch/bundesrat-eidgenoessisches-departement-fuer-auswaertige-angelegenheiten-direktion-fuer-ressourcen-logistik-eda-bundesreisezentrale-pool-2-evd-edi-uvek-vbs-ejpd",
+  "guidanceOnLocatingIds": "Users can click on the link for a country profile to access a webpage with a list of public bodies from that country. Once they open a link to a specific body, the data is available in JSON format. Identifiers will be under the tag 'id'.\n\nUsers can also download a CSV file which contains information on each public body. Identifiers will be under the column header 'id'.",
   "opencorporates": null,
-  "jurisdiction": null,
+  "jurisdiction": [
+    {
+      "countryCode": "BR",
+      "country": "Brazil"
+    },
+    {
+      "countryCode": "CH",
+      "country": "Switzerland"
+    },
+    {
+      "countryCode": "GR",
+      "country": "Greece"
+    },
+    {
+      "countryCode": "US",
+      "country": "United States"
+    },
+    {
+      "countryCode": "DE",
+      "country": "Germany"
+    },
+    {
+      "countryCode": "GB",
+      "country": "United Kingdom"
+    },
+    {
+      "countryCode": "NZ",
+      "country": "New Zealand"
+    }
+  ],
   "languages": [
     "pt",
     "de",
     "el",
     "en"
   ],
-  "lastUpdated": null,
+  "lastUpdated": "2016-12-28",
   "structure": [
     {
       "name": "Government Agency",
       "subtypeOf": null
     }
   ],
-  "licenseDetails": null,
+  "licenseDetails": "http://opendatacommons.org/licenses/pddl/1.0/",
   "onlineAccessDetails": null,
-  "licenseStatus": null,
+  "licenseStatus": "Open License",
   "registerType": "Third-party",
   "sector": null,
-  "source": null,
+  "source": "Desk research",
   "subnational": null,
   "wikipedia": null,
   "code": "XI-PB",
-  "description": "Public Bodies aims to provide a unique ID for every part of every government.",
-  "name": "Public Bodies",
-  "publicDatabase": null,
+  "description": "Public Bodies is an Open Knowledge Foundation (OKF) project that aims to provide a unique ID for every part of every government. The main website is a portal for linking to profile pages for countries whose public bodies OKF has recorded. There are also links to directly download CSVs of this information.\n\nData available on the following countries/regions - Brazil, European Union, Germany, Greece, New Zealand, Switzerland, United Kingdom, United States ",
+  "name": "Public Bodies - Open Knowledge Foundation ",
+  "publicDatabase": "http://publicbodies.org/",
   "url": "http://publicbodies.org/"
 }

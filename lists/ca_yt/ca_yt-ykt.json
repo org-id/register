@@ -1,8 +1,8 @@
 {
   "former_prefixes": null,
   "dataAccessProperties": null,
-  "availableOnline": "Yes",
-  "confirmed": null,
+  "availableOnline": null,
+  "confirmed": true,
   "dataAccessDetails": null,
   "datasetFeatures": null,
   "deprecated": null,
@@ -15,8 +15,11 @@
       "country": "Canada"
     }
   ],
-  "languages": null,
-  "lastUpdated": "2016-09-07",
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "lastUpdated": "2016-12-14",
   "structure": [
     {
       "name": "Company",
@@ -26,20 +29,20 @@
   "licenseDetails": null,
   "onlineAccessDetails": null,
   "licenseStatus": "Closed License",
-  "registerType": null,
+  "registerType": "Primary",
   "sector": null,
-  "source": null,
+  "source": "Desk research",
   "subnational": [
     {
-      "regionCode": "CA_NT",
+      "regionCode": "CA_YT",
       "country": null,
       "regionName": null
     }
   ],
   "wikipedia": null,
-  "code": "CA-NT-CR",
+  "code": "CA_YT-YKT",
   "description": "This entry was imported from the Open Corporates Jurisdiction List.",
-  "name": "Corporate Registries Online System (CROS), Department of Justice",
+  "name": "Yukon Corporate Affairs / Direction des entreprises, associations et coop\u00e9ratives",
   "publicDatabase": null,
-  "url": "http://www.justice.gov.nt.ca/CorporateRegistry/CR_BCA_ETReg.shtml"
+  "url": "http://www.community.gov.yk.ca/corp/index.html"
 }

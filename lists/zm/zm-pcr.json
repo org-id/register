@@ -1,13 +1,15 @@
 {
   "former_prefixes": null,
-  "dataAccessProperties": null,
-  "availableOnline": null,
-  "confirmed": null,
-  "dataAccessDetails": null,
+  "dataAccessProperties": [
+    "Available: stated as available, but unable to access"
+  ],
+  "availableOnline": "Yes",
+  "confirmed": true,
+  "dataAccessDetails": "Currently unavailable due to website maintenance",
   "datasetFeatures": null,
   "deprecated": null,
   "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": null,
+  "guidanceOnLocatingIds": "It is stated on the government website that there is a database which can be search for company names, but this is currently unavailable and results in Error 404. It is possible this is because the PACRA website is undergoing maintenance.\n\n\"The System is under going maintenace. Please note that online services will not be available during this time. We regret the inconvinience caused.\" [1]\n\n[1] https://www.pacra.org.zm/#/",
   "opencorporates": null,
   "jurisdiction": [
     {
@@ -15,20 +17,27 @@
       "country": "Zambia"
     }
   ],
-  "languages": null,
-  "lastUpdated": null,
-  "structure": null,
+  "languages": [
+    "en"
+  ],
+  "lastUpdated": "2016-12-21",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
   "licenseDetails": null,
-  "onlineAccessDetails": null,
-  "licenseStatus": null,
-  "registerType": null,
+  "onlineAccessDetails": "Currently unavailable due to website maintenance",
+  "licenseStatus": "No License",
+  "registerType": "Primary",
   "sector": null,
-  "source": null,
+  "source": "Desk research",
   "subnational": null,
   "wikipedia": null,
   "code": "ZM-PCR",
-  "description": null,
+  "description": "The Patents and Companies Registration Agency (PACRA) is responsible for company registration in Zambia. \n\n\"The Patents and Companies Registration Agency (PACRA) is a semi-autonomous executive agency of the Zambian Ministry of Commerce, Trade and Industry. Its principal functions are to operate a legal system for registration and protection of commercial and industrial property and to serve as a legal depository of the information tendered for registration..\" [1] \n\n[1] https://www.pacra.org.zm/#/html/About/",
   "name": "Patents and Companies Registration Agency",
-  "publicDatabase": null,
+  "publicDatabase": "http://www.onlinepacra.org.zm/pacranc/default.aspx?UR=http://www.pacra.org.zm/index.php?option=com_content&view=article&id=95&Itemid=136",
   "url": "http://www.pacra.org.zm/"
 }

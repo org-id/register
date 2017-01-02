@@ -1,13 +1,24 @@
 {
   "former_prefixes": null,
-  "dataAccessProperties": null,
-  "availableOnline": null,
-  "confirmed": null,
+  "dataAccessProperties": [
+    "HTML"
+  ],
+  "availableOnline": "Yes",
+  "confirmed": true,
   "dataAccessDetails": null,
-  "datasetFeatures": null,
+  "datasetFeatures": [
+    "Date of registration",
+    "Registration Number",
+    "Organisation Name",
+    "Organisation Type",
+    "Registered address",
+    "Directors / Trustees / Governors",
+    "Phone Number",
+    "E-mail address"
+  ],
   "deprecated": null,
-  "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": null,
+  "exampleIdentifiers": "181-465, 015-712, 56-058",
+  "guidanceOnLocatingIds": "Users can find identifiers by using the simple, searchable database. Identifiers will be under the column header 'Registration No.'\n\nUsers should note that they do not need to attach \"NPO\" to the end of the identifier.",
   "opencorporates": null,
   "jurisdiction": [
     {
@@ -15,20 +26,27 @@
       "country": "South Africa"
     }
   ],
-  "languages": null,
-  "lastUpdated": null,
-  "structure": null,
+  "languages": [
+    "en"
+  ],
+  "lastUpdated": "2016-12-21",
+  "structure": [
+    {
+      "name": "Charity",
+      "subtypeOf": null
+    }
+  ],
   "licenseDetails": null,
   "onlineAccessDetails": null,
-  "licenseStatus": null,
-  "registerType": null,
+  "licenseStatus": "No License",
+  "registerType": "Secondary",
   "sector": null,
-  "source": null,
+  "source": "Desk research",
   "subnational": null,
   "wikipedia": null,
   "code": "ZA-NPO",
-  "description": null,
-  "name": "Association for Non-Profit Organisations",
-  "publicDatabase": null,
+  "description": "The Nonprofit Organisation Directorate is held under the South African Department of Social Development. NPOs register with the Nonprofit Organisation Directorate and are assigned a registration number. Users can refer to ZA-NPO for unique identifiers for NGOs in South Africa. The database can be searched for free.\n\nUsers should note that they should not include \"NPO\" to the end of the identifier.\n\n\"The Nonprofit Organisations Directorate was established in terms of the Nonprofit Organisations Act 71 of 1997 to essentially administer the Register of Nonprofit Organisations in South Africa.  \n\nThe Register of Nonprofit Organisations (NPOs) is a voluntary registration facility that enhances the credibility of the registered NPO as it reports to a public office. The NPO Directorate, as a public office, holds information about registered NPOs for the public to access. \" [1]\n\n[1] http://www.dsd.gov.za/npo/",
+  "name": "Nonprofit Organisation Directorate - South African Department of Social Development",
+  "publicDatabase": "http://www.npo.gov.za/PublicNpo/Npo",
   "url": "http://www.npo.gov.za/"
 }

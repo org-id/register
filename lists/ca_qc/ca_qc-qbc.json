@@ -1,8 +1,8 @@
 {
   "former_prefixes": null,
   "dataAccessProperties": null,
-  "availableOnline": null,
-  "confirmed": null,
+  "availableOnline": "Yes",
+  "confirmed": true,
   "dataAccessDetails": null,
   "datasetFeatures": null,
   "deprecated": null,
@@ -15,8 +15,11 @@
       "country": "Canada"
     }
   ],
-  "languages": null,
-  "lastUpdated": "2016-09-07",
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "lastUpdated": "2016-12-14",
   "structure": [
     {
       "name": "Company",
@@ -25,21 +28,21 @@
   ],
   "licenseDetails": null,
   "onlineAccessDetails": null,
-  "licenseStatus": "Closed License",
-  "registerType": null,
+  "licenseStatus": "No License",
+  "registerType": "Primary",
   "sector": null,
-  "source": null,
+  "source": "Desk research",
   "subnational": [
     {
-      "regionCode": "CA_BC",
+      "regionCode": "CA_QC",
       "country": null,
       "regionName": null
     }
   ],
   "wikipedia": null,
-  "code": "CA-BC-CR",
+  "code": "CA_QC-QBC",
   "description": "This entry was imported from the Open Corporates Jurisdiction List.",
-  "name": "British Columbia Corporate Registry",
+  "name": "Quebec Business Registrar / Registraire des entreprises",
   "publicDatabase": null,
-  "url": "http://www.bcregistryservices.gov.bc.ca/bcreg/corppg/index.page"
+  "url": "http://www.registreentreprises.gouv.qc.ca/"
 }

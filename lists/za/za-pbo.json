@@ -1,13 +1,15 @@
 {
   "former_prefixes": null,
-  "dataAccessProperties": null,
-  "availableOnline": null,
-  "confirmed": null,
+  "dataAccessProperties": [
+    "Data not available"
+  ],
+  "availableOnline": "No",
+  "confirmed": true,
   "dataAccessDetails": null,
   "datasetFeatures": null,
-  "deprecated": null,
+  "deprecated": true,
   "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": null,
+  "guidanceOnLocatingIds": "None available",
   "opencorporates": null,
   "jurisdiction": [
     {
@@ -15,20 +17,27 @@
       "country": "South Africa"
     }
   ],
-  "languages": null,
-  "lastUpdated": null,
-  "structure": null,
+  "languages": [
+    "en"
+  ],
+  "lastUpdated": "2016-12-21",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
   "licenseDetails": null,
   "onlineAccessDetails": null,
-  "licenseStatus": null,
-  "registerType": null,
+  "licenseStatus": "No License",
+  "registerType": "Deprecated",
   "sector": null,
-  "source": null,
+  "source": "Desk research",
   "subnational": null,
   "wikipedia": null,
   "code": "ZA-PBO",
-  "description": null,
+  "description": "Non-profit organisations (NPOs) can apply for Public Benefit Organisation (PBO) status from the South Africa Revenue Service in order to become tax exempt. However, not all NPOs will be awarded this status, therefore the ZA-PBO should not be referred to as the Primary list of unique identifiers for NPOs in South Africa.\n\nNo searchable database of PBOs has been found.\n\n\"The mere fact that an organisation has a non-profit motive or is established or registered as an NPO registered under the NPO Act, or is established as an NPC, does not mean that it automatically qualifies for preferential tax treatment or approval as a PBO.\n\nAn organisation will enjoy preferential tax treatment only after it has applied for and been granted approval as a PBO by the Commissioner, and continues to comply with the relevant prescribed requirements. \" [1] \n\n[1] http://www.sars.gov.za/AllDocs/OpsDocs/Guides/LAPD-IT-G16%20-%20Basic%20Guide%20to%20Income%20Tax%20for%20Public%20Benefit%20Organisations%20-%20External%20Guide.pdf",
   "name": "SA Revenue Service Tax Exemption Unit / Public Benefit Organisations",
-  "publicDatabase": null,
+  "publicDatabase": "None available",
   "url": "http://www.sars.gov.za/home.asp?pid=170"
 }

@@ -2,7 +2,7 @@
   "former_prefixes": null,
   "dataAccessProperties": null,
   "availableOnline": null,
-  "confirmed": null,
+  "confirmed": true,
   "dataAccessDetails": null,
   "datasetFeatures": null,
   "deprecated": null,
@@ -15,8 +15,10 @@
       "country": "Canada"
     }
   ],
-  "languages": null,
-  "lastUpdated": "2016-09-07",
+  "languages": [
+    "en"
+  ],
+  "lastUpdated": "2016-12-14",
   "structure": [
     {
       "name": "Company",
@@ -26,20 +28,20 @@
   "licenseDetails": null,
   "onlineAccessDetails": null,
   "licenseStatus": "Closed License",
-  "registerType": null,
+  "registerType": "Primary",
   "sector": null,
-  "source": null,
+  "source": "Desk research",
   "subnational": [
     {
-      "regionCode": "CA_AB",
+      "regionCode": "CA_SK",
       "country": null,
       "regionName": null
     }
   ],
   "wikipedia": null,
-  "code": "CA-AB-CR",
+  "code": "CA_SK-SKN",
   "description": "This entry was imported from the Open Corporates Jurisdiction List.",
-  "name": "Corporate Registry Office",
+  "name": "Saskatchewan Corporate Registry / Registre des soci\u00e9t\u00e9s",
   "publicDatabase": null,
-  "url": "http://www.servicealberta.ca/Corporate_Registry.cfm"
+  "url": "http://www.isc.ca/CorporateRegistry/"
 }

@@ -1,29 +1,49 @@
 {
   "former_prefixes": null,
-  "dataAccessProperties": null,
-  "availableOnline": null,
-  "confirmed": null,
-  "dataAccessDetails": null,
-  "datasetFeatures": null,
+  "dataAccessProperties": [
+    "Excel"
+  ],
+  "availableOnline": "Yes",
+  "confirmed": true,
+  "dataAccessDetails": "Data is available in Excel file that contains much formatting.",
+  "datasetFeatures": [
+    "Organisation Name"
+  ],
   "deprecated": null,
-  "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": null,
+  "exampleIdentifiers": "7, 104, 914, 1312",
+  "guidanceOnLocatingIds": "Users can download an Excel file of the DAC and CRS codes from the OECD website. Organisation identifiers can be found in the tabs 'See Donor', 'Agency' and 'Delivery Channel' codes. Identifiers will be under 'Donor code' and 'Channel ID' respectively.\n\nUsers should not that the data is available in a Excel file that contains much formatting.",
   "opencorporates": null,
   "jurisdiction": null,
-  "languages": null,
-  "lastUpdated": null,
-  "structure": null,
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "lastUpdated": "2016-12-27",
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    },
+    {
+      "name": "Government Agency",
+      "subtypeOf": null
+    },
+    {
+      "name": "Charity",
+      "subtypeOf": null
+    }
+  ],
   "licenseDetails": null,
   "onlineAccessDetails": null,
-  "licenseStatus": null,
-  "registerType": null,
+  "licenseStatus": "No License",
+  "registerType": "Third-party",
   "sector": null,
-  "source": null,
+  "source": "Desk research",
   "subnational": null,
   "wikipedia": null,
   "code": "XM-DAC",
-  "description": "See Donor, Agency, and Delivery Channel codes",
+  "description": "The Organisation for Economic Co-operation and Development (OECD) Development Assistance Committee (DAC) has created a list of organisations whom are involved in the transfer of financial flows within the work of the OECD DAC. A list of all the Donors, Agencies and Recipients can be downloaded from the OECD website. This list is updated every three years.\n\nSee Donor, Agency and Delivery Channel codes.\n\n\"The overarching objective of the DAC for 2011-2015  is to promote development co-operation and other policies so as to contribute to sustainable development, including pro-poor economic growth, poverty reduction, improvement of living standards in developing countries, and to a future in which no country will depend on aid.\" [1]\n\n\"The DAC revises the list every three years. Countries that have exceeded the high-income threshold for three consecutive years at the time of the review are removed.\" [2] \n\n[1] http://www.oecd.org/dac/thedevelopmentassistancecommitteesmandate.htm\n[2] http://www.oecd.org/dac/stats/daclist.htm",
   "name": "OECD Development Assistance Committee",
-  "publicDatabase": null,
+  "publicDatabase": "http://www.oecd.org/dac/stats/dacandcrscodelists.htm / http://www.oecd.org/dac/stats/documentupload/Codelist_July_2016.xls",
   "url": "http://www.oecd.org/dac/stats/dacandcrscodelists.htm"
 }

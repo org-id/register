@@ -4,7 +4,7 @@
     "HTML"
   ],
   "availableOnline": "Yes",
-  "confirmed": null,
+  "confirmed": true,
   "dataAccessDetails": null,
   "datasetFeatures": [
     "Registered address",
@@ -15,7 +15,7 @@
     "Accounts",
     "Objectives/Purpose"
   ],
-  "deprecated": null,
+  "deprecated": true,
   "exampleIdentifiers": "35919043, 47364319, 36781673",
   "guidanceOnLocatingIds": "Users can find identifiers using the simple, searchable online database. Users will have to click on the link for 'Aktu\u00e1lny' or '\u00dapln\u00fd' under the column heading V\u00fdpis - or in English,  for 'Actual' or 'Full' under the column heading 'Extract' - of one of the companies in the search results in order to see company details.\n\nIdentifiers will be next to the heading 'I\u010cO' or 'Identification' in English",
   "opencorporates": true,
@@ -30,17 +30,22 @@
     "sk"
   ],
   "lastUpdated": "2016-12-07",
-  "structure": null,
+  "structure": [
+    {
+      "name": "Company",
+      "subtypeOf": null
+    }
+  ],
   "licenseDetails": "https://opencorporates.com/registers/234",
   "onlineAccessDetails": "Database can be searched using the simple search. ",
   "licenseStatus": "Closed License",
-  "registerType": null,
+  "registerType": "Deprecated",
   "sector": null,
   "source": "Desk research",
   "subnational": null,
   "wikipedia": null,
   "code": "SK-ZRSR",
-  "description": null,
+  "description": "The Ministry of Interior Trade Register does have a database of companies, but users should refer to the Ministry of Justice Business Register in SK-ORSR for the unique identifier list for Slovakia. \n\nThe Ministry of Justice has been shown to be the organisation responsible for company registration, and thus SK-ZRSR has been deprecated in favour of SK-ORSR.",
   "name": "Slovakia Ministry Of Interior Trade Register",
   "publicDatabase": "http://www.orsr.sk/search_subjekt.asp?lan=en",
   "url": "http://www.orsr.sk/search_subjekt.asp?lan=en"

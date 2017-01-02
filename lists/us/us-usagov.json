@@ -1,13 +1,22 @@
 {
   "former_prefixes": null,
-  "dataAccessProperties": null,
-  "availableOnline": null,
+  "dataAccessProperties": [
+    "HTML"
+  ],
+  "availableOnline": "No",
   "confirmed": null,
   "dataAccessDetails": null,
-  "datasetFeatures": null,
+  "datasetFeatures": [
+    "Registered address",
+    "E-mail address",
+    "Phone Number",
+    "Website",
+    "Organisation Name",
+    "Organisation Type"
+  ],
   "deprecated": null,
   "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": null,
+  "guidanceOnLocatingIds": "Use the final segment of the url (below /federal and excluding the extension) as the \u201cregistration number\u201d, converting all \u201c-\u201d to \u201c_\u201d. Keep \u201cregistration number\u201d portion all lowercase.\n\nADD EXAMPLE",
   "opencorporates": null,
   "jurisdiction": [
     {
@@ -15,20 +24,28 @@
       "country": "United States"
     }
   ],
-  "languages": null,
-  "lastUpdated": null,
-  "structure": null,
+  "languages": [
+    "en",
+    "es"
+  ],
+  "lastUpdated": "2016-12-27",
+  "structure": [
+    {
+      "name": "Government Agency",
+      "subtypeOf": null
+    }
+  ],
   "licenseDetails": null,
   "onlineAccessDetails": null,
-  "licenseStatus": null,
-  "registerType": null,
+  "licenseStatus": "No License",
+  "registerType": "Third-party",
   "sector": null,
-  "source": null,
+  "source": "Desk research",
   "subnational": null,
   "wikipedia": null,
   "code": "US-USAGOV",
-  "description": "Use the final segment of the url (below /federal and excluding the extension) as the \"registration number\", converting all \"-\" to \"_\". Keep \"registration number\" portion all lowercase.",
+  "description": "The U.S. Government website has an index of departments and agencies. This index can be searched, and the URL paths for agencies used to construct government agency identifiers. \n\n",
   "name": "Index of U.S. Government Departments and Agencies",
-  "publicDatabase": null,
-  "url": "http://www.usa.gov/directory/federal/index.shtml"
+  "publicDatabase": "http://www.usa.gov/directory/federal/index.shtml",
+  "url": "https://www.usa.gov/"
 }

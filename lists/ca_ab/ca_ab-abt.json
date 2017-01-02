@@ -2,7 +2,7 @@
   "former_prefixes": null,
   "dataAccessProperties": null,
   "availableOnline": null,
-  "confirmed": null,
+  "confirmed": true,
   "dataAccessDetails": null,
   "datasetFeatures": null,
   "deprecated": null,
@@ -15,8 +15,10 @@
       "country": "Canada"
     }
   ],
-  "languages": null,
-  "lastUpdated": "2016-09-07",
+  "languages": [
+    "en"
+  ],
+  "lastUpdated": "2016-12-14",
   "structure": [
     {
       "name": "Company",
@@ -26,20 +28,20 @@
   "licenseDetails": null,
   "onlineAccessDetails": null,
   "licenseStatus": "Closed License",
-  "registerType": null,
+  "registerType": "Primary",
   "sector": null,
-  "source": null,
+  "source": "Desk research",
   "subnational": [
     {
-      "regionCode": "CA_MB",
+      "regionCode": "CA_AB",
       "country": null,
       "regionName": null
     }
   ],
   "wikipedia": null,
-  "code": "CA-MB-CR",
+  "code": "CA_AB-ABT",
   "description": "This entry was imported from the Open Corporates Jurisdiction List.",
-  "name": "Companies Office, Department of Entrepreneurship, Training and Trade",
+  "name": "Corporate Registry Office / Bureau d'enregistrement des soci\u00e9t\u00e9s",
   "publicDatabase": null,
-  "url": "https://direct.gov.mb.ca/mbohtml/html/internet/en/mb_online.html"
+  "url": "http://www.servicealberta.ca/Corporate_Registry.cfm"
 }

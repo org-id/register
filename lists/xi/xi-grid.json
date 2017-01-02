@@ -1,0 +1,47 @@
+{
+  "former_prefixes": null,
+  "dataAccessProperties": [
+    "Bulk download",
+    "API"
+  ],
+  "availableOnline": "Yes",
+  "confirmed": null,
+  "dataAccessDetails": null,
+  "datasetFeatures": [
+    "Contact address",
+    "Website",
+    "Organisation Type",
+    "Date of foundation",
+    "AKAs"
+  ],
+  "deprecated": null,
+  "exampleIdentifiers": "grid.17063.33, grid.419696.5, grid.1957.a",
+  "guidanceOnLocatingIds": "A search of identifiers is available at https://www.grid.ac/institutes\n\nIdentifier numbers should be presented in their full form:\n\nE.g. XI-GRID-grid.17063.33",
+  "opencorporates": null,
+  "jurisdiction": null,
+  "languages": [
+    "en"
+  ],
+  "lastUpdated": "2016-12-30",
+  "structure": null,
+  "licenseDetails": "The dataset is accessible under Creative Commons Attribution 4.0 International licence. API access is a premium service.",
+  "onlineAccessDetails": "An online search and database download are both available. ",
+  "licenseStatus": "Open License",
+  "registerType": "Third-party",
+  "sector": [
+    {
+      "name": "Education"
+    },
+    {
+      "name": "Research"
+    }
+  ],
+  "source": "Desk research",
+  "subnational": null,
+  "wikipedia": null,
+  "code": "XI-GRID",
+  "description": "The Global Research Identifiers Database collects information on research institutions and assigns them a unique identifier.\n\nIt draws on information from funding datasets, and claims over 90% coverage of institutions. \n\nIt records information on the nature of the research organisation, covering companies, education establishments, healthcare, non-profits, government and other entity types. \n\nGRID also records parent-child relationships between entities, and 'related relationships' for cross-linkages. \n\nIt includes cross-linkages to a range of other identifier sources. ",
+  "name": "Global Research Identifiers Database",
+  "publicDatabase": "https://www.grid.ac/downloads",
+  "url": "https://www.grid.ac/"
+}

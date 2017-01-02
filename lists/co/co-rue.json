@@ -2,7 +2,7 @@
   "former_prefixes": null,
   "dataAccessProperties": null,
   "availableOnline": "Yes",
-  "confirmed": null,
+  "confirmed": true,
   "dataAccessDetails": null,
   "datasetFeatures": [
     "Industry classifications",
@@ -11,8 +11,8 @@
     "Legal representatives"
   ],
   "deprecated": null,
-  "exampleIdentifiers": "900876653, 900620562",
-  "guidanceOnLocatingIds": "Search through the online interface. \n\nSome identifiers are provided with a checksum (e.g. 900876653-3). ",
+  "exampleIdentifiers": "830093516, 900563742",
+  "guidanceOnLocatingIds": "Users can find identifiers by searching the simple database. The identifier will be under the column header 'N\u00famero Identificaci\u00f3n'. The database is available in Spanish.\n\nUsers should note that some identifiers are provided with a checksum (e.g. 900876653-3).  Details on how this number is formed can be found in Spanish on Wikipedia - https://es.wikipedia.org/wiki/N%C3%BAmero_de_Identificaci%C3%B3n_Tributaria\n\nYou should provide the identifier without the checksum. ",
   "opencorporates": null,
   "jurisdiction": [
     {
@@ -23,14 +23,8 @@
   "languages": [
     "es"
   ],
-  "lastUpdated": "2016-09-02",
+  "lastUpdated": "2016-12-19",
   "structure": [
-    {
-      "name": "Sole trader",
-      "subtypeOf": [
-        "reciN6k5BN1PawHxI"
-      ]
-    },
     {
       "name": "Company",
       "subtypeOf": null
@@ -45,12 +39,12 @@
   "licenseStatus": "No License",
   "registerType": "Secondary",
   "sector": null,
-  "source": "Primary research",
+  "source": "Desk research",
   "subnational": null,
   "wikipedia": null,
   "code": "CO-RUE",
-  "description": "The Single Business Registration (RUE) was created by Article 11 of Law 590 of 2000, in November 2013, and integrates the Commercial Register and the National Register of Bidders, and will also incorporate and integrate the following records:\n\n* Registration of Non-Profit Institutions\n* Public National Register of vendors Games of chance\n* Public Registry of citizen oversight\n* National Tourism Registry\n* Register of Foreign Entities of Private Law Non-Profit\n* Registration Solidarity Economy\n* Unified Offeror Registry (RUP)\n\nThe Single Business Registration and Social (RUES) is administered by the Chambers of Commerce. ",
-  "name": "Single Business Register / Al Registro \u00danico Empresarial",
+  "description": "The Unified Commercial and Social Registry (RUES) integrates multiple commercial registries, including the NIT (N\u00famero de Identificaci\u00f3n Tributaria) which can be used as the unique identifier. \n\nThis database can be searched online for free.\n\n\"The CCB hereby informs that, in accordance with Resolution 71029 issued by the Superintendence of Industry and Commerce, starting as of November 13, 2013, entrepreneurs must fill out the new Unified Commercial and Social Registry (RUES), a form that integrates the information from the following forms and records:\n\n* Merchant's Certificate.\n* Unified Offeror Registry.\n* Non-For-Profit Organizations Registry.\n* Common Regime (Associations, Foundations and Corporations) and * Solidary Economy Institutions (Cooperatives, Precooperatives, Employee Funds and Mutual Associations).\n* Activity, games and gambling Registry.\n* Citizen Oversight Associations Registry (applicable only when registering or signing-up).\n* Solidarity Economy Registry.\" [1]\n\n[1] http://www.ccb.org.co/en/Registrations-and-renewals/Merchant-s-certificate/Unified-Commercial-and-Social-Registry-RUES",
+  "name": "Unified Commercial and Social Registry (RUES) / Registro \u00danico Empresarial y Social",
   "publicDatabase": "http://www.rues.org.co/RUES_Web/",
   "url": "http://www.rues.org.co/RUES_Web/"
 }

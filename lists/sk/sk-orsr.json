@@ -4,7 +4,7 @@
     "HTML"
   ],
   "availableOnline": "Yes",
-  "confirmed": null,
+  "confirmed": true,
   "dataAccessDetails": null,
   "datasetFeatures": [
     "Registered address",

@@ -2,7 +2,7 @@
   "former_prefixes": null,
   "dataAccessProperties": null,
   "availableOnline": null,
-  "confirmed": null,
+  "confirmed": true,
   "dataAccessDetails": null,
   "datasetFeatures": null,
   "deprecated": null,
@@ -15,8 +15,10 @@
       "country": "Canada"
     }
   ],
-  "languages": null,
-  "lastUpdated": "2016-09-07",
+  "languages": [
+    "en"
+  ],
+  "lastUpdated": "2016-12-14",
   "structure": [
     {
       "name": "Company",
@@ -26,9 +28,9 @@
   "licenseDetails": null,
   "onlineAccessDetails": null,
   "licenseStatus": "Closed License",
-  "registerType": null,
+  "registerType": "Primary",
   "sector": null,
-  "source": null,
+  "source": "Desk research",
   "subnational": [
     {
       "regionCode": "CA_NU",
@@ -37,9 +39,9 @@
     }
   ],
   "wikipedia": null,
-  "code": "CA-NU-CR",
+  "code": "CA_NU-NNV",
   "description": "This entry was imported from the Open Corporates Jurisdiction List.",
-  "name": "Department of Justice - Corporate Registries",
+  "name": "Nunavut Department of Justice - Corporate Registries",
   "publicDatabase": null,
   "url": "http://nunavutlegalregistries.ca/cr_index_en.shtml"
 }

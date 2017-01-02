@@ -9,12 +9,7 @@
   "exampleIdentifiers": null,
   "guidanceOnLocatingIds": null,
   "opencorporates": null,
-  "jurisdiction": [
-    {
-      "countryCode": "ZW",
-      "country": "Zimbabwe"
-    }
-  ],
+  "jurisdiction": null,
   "languages": null,
   "lastUpdated": null,
   "structure": null,
@@ -26,9 +21,9 @@
   "source": null,
   "subnational": null,
   "wikipedia": null,
-  "code": "ZW-PVO",
-  "description": "\"NGOs in Zimbabwe are mainly registered under the Private Voluntary Organization Act (PVO Act). Registration is done through the Department of Social Welfare under the Ministry of Public Service Labour and Social Welfare.\" [1]\n\n[1] http://www.kanokangalawfirm.net/setting-ngo-zimbabwe/",
-  "name": "Private Voluntary Organisations Council",
+  "code": "XI-WIKIDATA",
+  "description": "Research required. ",
+  "name": "Wikidata",
   "publicDatabase": null,
   "url": null
 }

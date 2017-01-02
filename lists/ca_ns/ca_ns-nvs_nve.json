@@ -1,8 +1,10 @@
 {
   "former_prefixes": null,
-  "dataAccessProperties": null,
-  "availableOnline": null,
-  "confirmed": null,
+  "dataAccessProperties": [
+    "HTML"
+  ],
+  "availableOnline": "Yes",
+  "confirmed": true,
   "dataAccessDetails": null,
   "datasetFeatures": null,
   "deprecated": null,
@@ -15,7 +17,10 @@
       "country": "Canada"
     }
   ],
-  "languages": null,
+  "languages": [
+    "en",
+    "fr"
+  ],
   "lastUpdated": "2016-09-07",
   "structure": [
     {
@@ -26,20 +31,20 @@
   "licenseDetails": null,
   "onlineAccessDetails": null,
   "licenseStatus": "Closed License",
-  "registerType": null,
+  "registerType": "Primary",
   "sector": null,
-  "source": null,
+  "source": "Desk research",
   "subnational": [
     {
-      "regionCode": "CA_SK",
+      "regionCode": "CA_NS",
       "country": null,
       "regionName": null
     }
   ],
   "wikipedia": null,
-  "code": "CA-SK-CR",
+  "code": "CA_NS-NVS_NVE",
   "description": "This entry was imported from the Open Corporates Jurisdiction List.",
-  "name": "Saskatchewan Corporate Registry, Information Services Corporation",
-  "publicDatabase": null,
-  "url": "http://www.isc.ca/CorporateRegistry/"
+  "name": "Nova Scotia Registry of Joint Stock Companies / Registre des soci\u00e9t\u00e9s de capitaux",
+  "publicDatabase": "https://rjsc.gov.ns.ca/rjsc/search/doSearch.do",
+  "url": "http://novascotia.ca/sns/access/business/registry-joint-stock-companies.asp"
 }

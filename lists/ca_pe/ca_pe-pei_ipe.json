@@ -2,7 +2,7 @@
   "former_prefixes": null,
   "dataAccessProperties": null,
   "availableOnline": "Yes",
-  "confirmed": null,
+  "confirmed": true,
   "dataAccessDetails": null,
   "datasetFeatures": null,
   "deprecated": null,
@@ -16,7 +16,7 @@
     }
   ],
   "languages": null,
-  "lastUpdated": "2016-09-07",
+  "lastUpdated": "2016-12-14",
   "structure": [
     {
       "name": "Company",
@@ -25,21 +25,21 @@
   ],
   "licenseDetails": null,
   "onlineAccessDetails": null,
-  "licenseStatus": "Closed License",
-  "registerType": null,
+  "licenseStatus": "No License",
+  "registerType": "Primary",
   "sector": null,
-  "source": null,
+  "source": "Desk research",
   "subnational": [
     {
-      "regionCode": "CA_NS",
+      "regionCode": "CA_PE",
       "country": null,
       "regionName": null
     }
   ],
   "wikipedia": null,
-  "code": "CA-NS-CR",
+  "code": "CA_PE-PEI_IPE",
   "description": "This entry was imported from the Open Corporates Jurisdiction List.",
-  "name": "Nova Scotia Registry of Joint Stock Companies",
-  "publicDatabase": null,
-  "url": "https://rjsc.gov.ns.ca/rjsc/"
+  "name": "Prince Edward Island Corporate/Business Names Registry",
+  "publicDatabase": "https://www.registreentreprises.gouv.qc.ca/RQAnonymeGR/GR/GR03/GR03A2_19A_PIU_RechEnt_PC/PageRechSimple.aspx?T1.CodeService=S00436&Clng=F&WT.co_f=2c711dfd08c3696dc2c1481744819355",
+  "url": "http://www.gov.pe.ca/corporations/index.php"
 }

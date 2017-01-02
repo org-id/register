@@ -1,8 +1,8 @@
 {
   "former_prefixes": null,
   "dataAccessProperties": null,
-  "availableOnline": null,
-  "confirmed": null,
+  "availableOnline": "Yes",
+  "confirmed": true,
   "dataAccessDetails": null,
   "datasetFeatures": null,
   "deprecated": null,
@@ -15,8 +15,10 @@
       "country": "Canada"
     }
   ],
-  "languages": null,
-  "lastUpdated": "2016-09-07",
+  "languages": [
+    "en"
+  ],
+  "lastUpdated": "2016-12-14",
   "structure": [
     {
       "name": "Company",
@@ -26,20 +28,20 @@
   "licenseDetails": null,
   "onlineAccessDetails": null,
   "licenseStatus": "Closed License",
-  "registerType": null,
+  "registerType": "Primary",
   "sector": null,
-  "source": null,
+  "source": "Desk research",
   "subnational": [
     {
-      "regionCode": "CA_YT",
+      "regionCode": "CA_NL",
       "country": null,
       "regionName": null
     }
   ],
   "wikipedia": null,
-  "code": "CA-YT-CR",
+  "code": "CA_NL-NFL_TNL",
   "description": "This entry was imported from the Open Corporates Jurisdiction List.",
-  "name": "Corporate Affairs, Department of Community Services",
+  "name": "Registry of Companies, Department of Government Services",
   "publicDatabase": null,
-  "url": "http://www.community.gov.yk.ca/corp/index.html"
+  "url": "http://www.servicenl.gov.nl.ca/registries/companies.html"
 }

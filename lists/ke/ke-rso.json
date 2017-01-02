@@ -1,13 +1,15 @@
 {
   "former_prefixes": null,
-  "dataAccessProperties": null,
-  "availableOnline": null,
-  "confirmed": null,
+  "dataAccessProperties": [
+    "Data not available"
+  ],
+  "availableOnline": "No",
+  "confirmed": true,
   "dataAccessDetails": null,
   "datasetFeatures": null,
-  "deprecated": null,
+  "deprecated": true,
   "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": null,
+  "guidanceOnLocatingIds": "None available",
   "opencorporates": null,
   "jurisdiction": [
     {
@@ -15,20 +17,31 @@
       "country": "Kenya"
     }
   ],
-  "languages": null,
-  "lastUpdated": null,
-  "structure": null,
+  "languages": [
+    "en"
+  ],
+  "lastUpdated": "2016-12-27",
+  "structure": [
+    {
+      "name": "Unincorporated body",
+      "subtypeOf": null
+    },
+    {
+      "name": "Charity",
+      "subtypeOf": null
+    }
+  ],
   "licenseDetails": null,
   "onlineAccessDetails": null,
-  "licenseStatus": null,
-  "registerType": null,
+  "licenseStatus": "No License",
+  "registerType": "Deprecated",
   "sector": null,
-  "source": null,
+  "source": "Desk research",
   "subnational": null,
   "wikipedia": null,
   "code": "KE-RSO",
-  "description": null,
+  "description": "The Registrar of Societies is held under the Office of the Attorney General and Department of Justice. Interest groups in Kenya apply to the Registrar of Societies for both registration and exemption from registration of being a 'society'. But there is no indication that societies have legal/corporate foundation. There is also no publicly available database of the Registrar of Societies.\n\nFor Kenya's NGO registry list, users should look to KE-NCB. Please note there is currently no publicly available dataset for this registry.\n\n\"In summary, State Law Office and Department of Justice is mandated to promote the rule of law and public participation; support Government\u2019s investment in socio-economic development; promote transparency, accountability, ethics and integrity; spearhead policy, legal and institutional reforms; promote economic governance and empowerment; promotion, fulfillment and protection of human rights; undertake administrative management; capacity building; and enhance access to justice.\" [1]\n\n[1] http://www.statelaw.go.ke/about-office-of-the-attorney-general-and-department-of-justice/",
   "name": "Registrar of Societies",
-  "publicDatabase": null,
+  "publicDatabase": "None available",
   "url": "http://www.attorney-general.go.ke/"
 }
