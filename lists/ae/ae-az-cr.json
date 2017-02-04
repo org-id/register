@@ -1,45 +1,52 @@
 {
-  "former_prefixes": null,
-  "dataAccessProperties": null,
-  "availableOnline": null,
-  "confirmed": null,
-  "dataAccessDetails": null,
-  "datasetFeatures": null,
-  "deprecated": null,
-  "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": null,
-  "opencorporates": null,
-  "jurisdiction": [
-    {
-      "countryCode": "AE",
-      "country": "United Arab Emirates"
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://www.abudhabichamber.ae/English/E-Services/Pages/EServices-Page.aspx?sm=1%20&ty=s",
+    "name": {
+        "en": "Abu Dhabi Chamber of Commerce and Industry- Online Commercial Directory",
+        "local": ""
+    },
+    "jurisdiction": [
+        [
+            "AE"
+        ]
+    ],
+    "code": "AE-AZ-CR",
+    "formerPrefixes": null,
+    "subnationalJurisdiction": [
+        [
+            "AE_AZ"
+        ]
+    ],
+    "confirmed": null,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": "no_license",
+        "availability": null
+    },
+    "deprecated": null,
+    "structure": [
+        "company"
+    ],
+    "description": {
+        "en": "This entry was imported from the Open Corporates Jurisdiction List."
+    },
+    "meta": {
+        "lastUpdated": "2016-09-07",
+        "source": null
+    },
+    "registerType": null,
+    "access": {
+        "languages": null,
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": null,
+        "availableOnline": false,
+        "guidanceOnLocatingIds": null
     }
-  ],
-  "languages": null,
-  "lastUpdated": "2016-09-07",
-  "structure": [
-    {
-      "name": "Company",
-      "subtypeOf": null
-    }
-  ],
-  "licenseDetails": null,
-  "onlineAccessDetails": null,
-  "licenseStatus": "No License",
-  "registerType": null,
-  "sector": null,
-  "source": null,
-  "subnational": [
-    {
-      "regionCode": "AE_AZ",
-      "country": null,
-      "regionName": null
-    }
-  ],
-  "wikipedia": null,
-  "code": "AE-AZ-CR",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
-  "name": "Abu Dhabi Chamber of Commerce and Industry- Online Commercial Directory",
-  "publicDatabase": null,
-  "url": "http://www.abudhabichamber.ae/English/E-Services/Pages/EServices-Page.aspx?sm=1%20&ty=s"
 }

@@ -1,34 +1,48 @@
 {
-  "former_prefixes": null,
-  "dataAccessProperties": null,
-  "availableOnline": null,
-  "confirmed": true,
-  "dataAccessDetails": null,
-  "datasetFeatures": null,
-  "deprecated": true,
-  "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": null,
-  "opencorporates": null,
-  "jurisdiction": [
-    {
-      "countryCode": "FR",
-      "country": "France"
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://www.insee.fr/fr/service/default.asp?page=entreprises/entreprise.htm",
+    "name": {
+        "en": "The National Institute of Statistics and Economic Studies ",
+        "local": " Institute National de la Statistique et des etudes economiques"
+    },
+    "jurisdiction": [
+        [
+            "FR"
+        ]
+    ],
+    "code": "FR-INSEE",
+    "formerPrefixes": null,
+    "subnationalJurisdiction": [
+        null
+    ],
+    "confirmed": true,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": null,
+        "availability": null
+    },
+    "deprecated": true,
+    "structure": null,
+    "description": {
+        "en": "The National Institute of Statistics and Economic Studies provide a registration service for companies and associations with details being held on the SIRENE database.\n\nInformation from INSEE is also contained in the RCS dataset, and so this organisation list is deprecated in favour of FR-RCS. "
+    },
+    "meta": {
+        "lastUpdated": null,
+        "source": null
+    },
+    "registerType": "deprecated",
+    "access": {
+        "languages": null,
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": null,
+        "availableOnline": false,
+        "guidanceOnLocatingIds": null
     }
-  ],
-  "languages": null,
-  "lastUpdated": null,
-  "structure": null,
-  "licenseDetails": null,
-  "onlineAccessDetails": null,
-  "licenseStatus": null,
-  "registerType": "Deprecated",
-  "sector": null,
-  "source": null,
-  "subnational": null,
-  "wikipedia": null,
-  "code": "FR-INSEE",
-  "description": "The National Institute of Statistics and Economic Studies provide a registration service for companies and associations with details being held on the SIRENE database.\n\nInformation from INSEE is also contained in the RCS dataset, and so this organisation list is deprecated in favour of FR-RCS. ",
-  "name": "The National Institute of Statistics and Economic Studies / Institute National de la Statistique et des etudes economiques",
-  "publicDatabase": null,
-  "url": "http://www.insee.fr/fr/service/default.asp?page=entreprises/entreprise.htm"
 }

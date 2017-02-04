@@ -1,41 +1,52 @@
 {
-  "former_prefixes": null,
-  "dataAccessProperties": [
-    "Available: but details unknown"
-  ],
-  "availableOnline": "Yes",
-  "confirmed": null,
-  "dataAccessDetails": null,
-  "datasetFeatures": null,
-  "deprecated": null,
-  "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": null,
-  "opencorporates": null,
-  "jurisdiction": [
-    {
-      "countryCode": "IE",
-      "country": "Ireland"
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://www.cro.ie/search/",
+    "name": {
+        "en": "Companies Registration Office, Department of Jobs, Enterprise and Innovation",
+        "local": ""
+    },
+    "jurisdiction": [
+        [
+            "IE"
+        ]
+    ],
+    "code": "IE-CR",
+    "formerPrefixes": null,
+    "subnationalJurisdiction": [
+        null
+    ],
+    "confirmed": null,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": "no_license",
+        "availability": [
+            "available:_but_details_unknown"
+        ]
+    },
+    "deprecated": null,
+    "structure": [
+        "company"
+    ],
+    "description": {
+        "en": "This entry was imported from the Open Corporates Jurisdiction List."
+    },
+    "meta": {
+        "lastUpdated": "2016-09-07",
+        "source": null
+    },
+    "registerType": null,
+    "access": {
+        "languages": null,
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": null,
+        "availableOnline": false,
+        "guidanceOnLocatingIds": null
     }
-  ],
-  "languages": null,
-  "lastUpdated": "2016-09-07",
-  "structure": [
-    {
-      "name": "Company",
-      "subtypeOf": null
-    }
-  ],
-  "licenseDetails": null,
-  "onlineAccessDetails": null,
-  "licenseStatus": "No License",
-  "registerType": null,
-  "sector": null,
-  "source": null,
-  "subnational": null,
-  "wikipedia": null,
-  "code": "IE-CR",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
-  "name": "Companies Registration Office, Department of Jobs, Enterprise and Innovation",
-  "publicDatabase": null,
-  "url": "http://www.cro.ie/search/"
 }

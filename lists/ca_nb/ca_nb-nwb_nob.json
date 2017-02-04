@@ -1,48 +1,55 @@
 {
-  "former_prefixes": null,
-  "dataAccessProperties": null,
-  "availableOnline": "Yes",
-  "confirmed": true,
-  "dataAccessDetails": null,
-  "datasetFeatures": null,
-  "deprecated": null,
-  "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": null,
-  "opencorporates": null,
-  "jurisdiction": [
-    {
-      "countryCode": "CA",
-      "country": "Canada"
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "https://www.pxw1.snb.ca/snb7001/e/2000/2500e.asp",
+    "name": {
+        "en": "Corporate Registry ",
+        "local": " Registre corporatif"
+    },
+    "jurisdiction": [
+        [
+            "CA"
+        ]
+    ],
+    "code": "CA_NB-NWB_NOB",
+    "formerPrefixes": null,
+    "subnationalJurisdiction": [
+        [
+            "CA_NB"
+        ]
+    ],
+    "confirmed": true,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": "closed_license",
+        "availability": null
+    },
+    "deprecated": null,
+    "structure": [
+        "company"
+    ],
+    "description": {
+        "en": "This entry was imported from the Open Corporates Jurisdiction List."
+    },
+    "meta": {
+        "lastUpdated": "2016-12-14",
+        "source": "Desk research"
+    },
+    "registerType": "primary",
+    "access": {
+        "languages": [
+            "en",
+            "fr"
+        ],
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": "http://www.snb.ca/e/6000/6600e.asp",
+        "availableOnline": false,
+        "guidanceOnLocatingIds": null
     }
-  ],
-  "languages": [
-    "en",
-    "fr"
-  ],
-  "lastUpdated": "2016-12-14",
-  "structure": [
-    {
-      "name": "Company",
-      "subtypeOf": null
-    }
-  ],
-  "licenseDetails": null,
-  "onlineAccessDetails": null,
-  "licenseStatus": "Closed License",
-  "registerType": "Primary",
-  "sector": null,
-  "source": "Desk research",
-  "subnational": [
-    {
-      "regionCode": "CA_NB",
-      "country": null,
-      "regionName": null
-    }
-  ],
-  "wikipedia": null,
-  "code": "CA_NB-NWB_NOB",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
-  "name": "Corporate Registry / Registre corporatif",
-  "publicDatabase": "http://www.snb.ca/e/6000/6600e.asp",
-  "url": "https://www.pxw1.snb.ca/snb7001/e/2000/2500e.asp"
 }

@@ -1,39 +1,50 @@
 {
-  "former_prefixes": null,
-  "dataAccessProperties": null,
-  "availableOnline": null,
-  "confirmed": null,
-  "dataAccessDetails": null,
-  "datasetFeatures": null,
-  "deprecated": null,
-  "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": null,
-  "opencorporates": null,
-  "jurisdiction": [
-    {
-      "countryCode": "BM",
-      "country": "Bermuda"
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "https://www.roc.gov.bm/roc/rocweb.nsf/ReviewPublicRegA-Z?OpenForm",
+    "name": {
+        "en": "Bermuda Registrar of Companies",
+        "local": ""
+    },
+    "jurisdiction": [
+        [
+            "BM"
+        ]
+    ],
+    "code": "BM-CR",
+    "formerPrefixes": null,
+    "subnationalJurisdiction": [
+        null
+    ],
+    "confirmed": null,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": "closed_license",
+        "availability": null
+    },
+    "deprecated": null,
+    "structure": [
+        "company"
+    ],
+    "description": {
+        "en": "This entry was imported from the Open Corporates Jurisdiction List."
+    },
+    "meta": {
+        "lastUpdated": "2016-09-07",
+        "source": null
+    },
+    "registerType": null,
+    "access": {
+        "languages": null,
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": null,
+        "availableOnline": false,
+        "guidanceOnLocatingIds": null
     }
-  ],
-  "languages": null,
-  "lastUpdated": "2016-09-07",
-  "structure": [
-    {
-      "name": "Company",
-      "subtypeOf": null
-    }
-  ],
-  "licenseDetails": null,
-  "onlineAccessDetails": null,
-  "licenseStatus": "Closed License",
-  "registerType": null,
-  "sector": null,
-  "source": null,
-  "subnational": null,
-  "wikipedia": null,
-  "code": "BM-CR",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
-  "name": "Bermuda Registrar of Companies",
-  "publicDatabase": null,
-  "url": "https://www.roc.gov.bm/roc/rocweb.nsf/ReviewPublicRegA-Z?OpenForm"
 }

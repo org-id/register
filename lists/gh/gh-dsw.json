@@ -1,43 +1,54 @@
 {
-  "former_prefixes": null,
-  "dataAccessProperties": [
-    "Data not available"
-  ],
-  "availableOnline": "No",
-  "confirmed": true,
-  "dataAccessDetails": "The DSW website does not refer to NGO registration",
-  "datasetFeatures": null,
-  "deprecated": null,
-  "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": null,
-  "opencorporates": null,
-  "jurisdiction": [
-    {
-      "countryCode": "GH",
-      "country": "Ghana"
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": null,
+    "name": {
+        "en": "Department of Social Welfare",
+        "local": ""
+    },
+    "jurisdiction": [
+        [
+            "GH"
+        ]
+    ],
+    "code": "GH-DSW",
+    "formerPrefixes": null,
+    "subnationalJurisdiction": [
+        null
+    ],
+    "confirmed": true,
+    "data": {
+        "features": null,
+        "dataAccessDetails": "The DSW website does not refer to NGO registration",
+        "licenseDetails": null,
+        "licenseStatus": "closed_license",
+        "availability": [
+            "data_not_available"
+        ]
+    },
+    "deprecated": null,
+    "structure": [
+        "charity"
+    ],
+    "description": {
+        "en": "All NGOs wishing to operate in Ghana must first register with the General Registrar's Office, and then apply for NGO status from the Department of Social Welfare (DSW).\n\nThere is no database available for search.\n\n\"The Social Welfare Department is the regulator of NGOs in Ghana and is therefore mandated to issue certificates of\nrecognition to organizations to operate as NGOs. \" [1]\n\n[1] http://g-lishfoundation.org/wp-content/uploads/2011/02/HOW-TO-START-AN-NGO-IN-GHANA.pdf"
+    },
+    "meta": {
+        "lastUpdated": "2016-12-27",
+        "source": "Desk research"
+    },
+    "registerType": "secondary",
+    "access": {
+        "languages": [
+            "en"
+        ],
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": "None available",
+        "availableOnline": false,
+        "guidanceOnLocatingIds": null
     }
-  ],
-  "languages": [
-    "en"
-  ],
-  "lastUpdated": "2016-12-27",
-  "structure": [
-    {
-      "name": "Charity",
-      "subtypeOf": null
-    }
-  ],
-  "licenseDetails": null,
-  "onlineAccessDetails": null,
-  "licenseStatus": "Closed License",
-  "registerType": "Secondary",
-  "sector": null,
-  "source": "Desk research",
-  "subnational": null,
-  "wikipedia": null,
-  "code": "GH-DSW",
-  "description": "All NGOs wishing to operate in Ghana must first register with the General Registrar's Office, and then apply for NGO status from the Department of Social Welfare (DSW).\n\nThere is no database available for search.\n\n\"The Social Welfare Department is the regulator of NGOs in Ghana and is therefore mandated to issue certificates of\nrecognition to organizations to operate as NGOs. \" [1]\n\n[1] http://g-lishfoundation.org/wp-content/uploads/2011/02/HOW-TO-START-AN-NGO-IN-GHANA.pdf",
-  "name": "Department of Social Welfare",
-  "publicDatabase": "None available",
-  "url": null
 }

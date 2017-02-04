@@ -1,56 +1,64 @@
 {
-  "former_prefixes": null,
-  "dataAccessProperties": [
-    "PDF",
-    "HTML"
-  ],
-  "availableOnline": "Yes",
-  "confirmed": true,
-  "dataAccessDetails": null,
-  "datasetFeatures": [
-    "Registered address",
-    "Organisation Type",
-    "Organisation Name",
-    "Registration Number",
-    "Status",
-    "Date of registration",
-    "AKAs"
-  ],
-  "deprecated": null,
-  "exampleIdentifiers": "Companies - 56234, 14392, 28419 / Charities - CH1, CH144, CH545 / NPOs - NP3, NP126, NP219",
-  "guidanceOnLocatingIds": "For Companies:\n\nUsers can find identifiers using the simple, searchable database - https://www.greg.gg/webCompSearch.aspx\n\nThe identifier will be under the column heading 'Entity Reg Number' on the results returned, and if the user clicks on document icon to the left, more details will be shown. The identifier will be shown next to 'Company Reg Number'\n\nFor Charities and NPOs:\n\nUsers can scroll down the two public lists to search for an organisation, or they can use 'Ctrl-F' to search for a name. The identifier can be found in the left hand column under the header 'Number'\n\nOIPA search returns zero results",
-  "opencorporates": true,
-  "jurisdiction": [
-    {
-      "countryCode": "GG",
-      "country": "Guernsey"
-    }
-  ],
-  "languages": [
-    "en"
-  ],
-  "lastUpdated": "2016-11-29",
-  "structure": [
-    {
-      "name": "Company",
-      "subtypeOf": null
+    "links": {
+        "wikipedia": null,
+        "opencorporates": "http://opencorporates.com/companies/gg"
     },
-    {
-      "name": "Charity",
-      "subtypeOf": null
+    "sector": null,
+    "url": "http://www.guernseyregistry.com/ , http://www.guernseyregistry.com/charities",
+    "name": {
+        "en": "Guernsey Registry",
+        "local": ""
+    },
+    "jurisdiction": [
+        [
+            "GG"
+        ]
+    ],
+    "code": "GG-RCE",
+    "formerPrefixes": null,
+    "subnationalJurisdiction": [
+        null
+    ],
+    "confirmed": true,
+    "data": {
+        "features": [
+            "registered_address",
+            "organisation_type",
+            "organisation_name",
+            "registration_number",
+            "status",
+            "date_of_registration",
+            "akas"
+        ],
+        "dataAccessDetails": null,
+        "licenseDetails": "https://opencorporates.com/registers/298",
+        "licenseStatus": "closed_license",
+        "availability": [
+            "pdf",
+            "html"
+        ]
+    },
+    "deprecated": null,
+    "structure": [
+        "company",
+        "charity"
+    ],
+    "description": {
+        "en": "All companies in Guernsey must register with the Guernsey Registry. This also applies to most charities and NPOs. The Guernsey Registry maintain a registry of all companies, charities and all NPOs in Guernsey. These are recorded in a publicly searchable webpage database for companies and also two separate lists for charities and NPOs.\n\nPlease Note: According to OpenCorporates, the identifiers are not unique across the Guernsey Registry, as there a five separate registries that can be assigned to organisation information and up to five companies my have the same identifier. OC have thus added their own identifier number based on each registry type. Further details available here - qa_public/register_problems/guernsey\n\n\"All Guernsey companies must file an Annual Validation submission with the Registry during January 2017 (unless incorporated in December 2016). Submissions received after 31 January 2017 will be subject to a \u00a3100 late filing fee.\" [1]\n\n\"The Charities and Non Profit Organisation (Registration) (Guernsey) Law, 2008 requires all Non Profit organisations based in the Islands of Guernsey, Alderney, Herm and Jethou to register with the Office of the Registrar. A failure to do so is an offence.\n\nHowever there is an exemption from this requirement. This applies to Non Profit organisations based in the Islands of Guernsey, Alderney, Herm and Jethou with gross assets and funds of less than \u00a310,000, or gross annual income of less than \u00a35,000.\" [2]\n\n[1] http://www.guernseyregistry.com/\n[2] http://www.guernseyregistry.com/article/112911/Do-I-need-to-register-a-Charity-or-Non-Profit-organisation-"
+    },
+    "meta": {
+        "lastUpdated": "2016-11-29",
+        "source": "Desk research"
+    },
+    "registerType": "primary",
+    "access": {
+        "languages": [
+            "en"
+        ],
+        "exampleIdentifiers": "Companies - 56234, 14392, 28419 / Charities - CH1, CH144, CH545 / NPOs - NP3, NP126, NP219",
+        "onlineAccessDetails": "Data for companies available in a free, simple search. Further details and documents can be requested at a fee. Users can search for a charity or NPO and then download a PDF of the charity/NPO statement",
+        "publicDatabase": "Companies - https://www.greg.gg/webCompSearch.aspx Charities - http://www.guernseyregistry.com/article/112909/Charities-Register NPOs - http://www.guernseyregistry.com/article/112771/NPO-Register",
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "For Companies:\n\nUsers can find identifiers using the simple, searchable database - https://www.greg.gg/webCompSearch.aspx\n\nThe identifier will be under the column heading 'Entity Reg Number' on the results returned, and if the user clicks on document icon to the left, more details will be shown. The identifier will be shown next to 'Company Reg Number'\n\nFor Charities and NPOs:\n\nUsers can scroll down the two public lists to search for an organisation, or they can use 'Ctrl-F' to search for a name. The identifier can be found in the left hand column under the header 'Number'\n\nOIPA search returns zero results"
     }
-  ],
-  "licenseDetails": "https://opencorporates.com/registers/298",
-  "onlineAccessDetails": "Data for companies available in a free, simple search. Further details and documents can be requested at a fee. Users can search for a charity or NPO and then download a PDF of the charity/NPO statement",
-  "licenseStatus": "Closed License",
-  "registerType": "Primary",
-  "sector": null,
-  "source": "Desk research",
-  "subnational": null,
-  "wikipedia": null,
-  "code": "GG-RCE",
-  "description": "All companies in Guernsey must register with the Guernsey Registry. This also applies to most charities and NPOs. The Guernsey Registry maintain a registry of all companies, charities and all NPOs in Guernsey. These are recorded in a publicly searchable webpage database for companies and also two separate lists for charities and NPOs.\n\nPlease Note: According to OpenCorporates, the identifiers are not unique across the Guernsey Registry, as there a five separate registries that can be assigned to organisation information and up to five companies my have the same identifier. OC have thus added their own identifier number based on each registry type. Further details available here - qa_public/register_problems/guernsey\n\n\"All Guernsey companies must file an Annual Validation submission with the Registry during January 2017 (unless incorporated in December 2016). Submissions received after 31 January 2017 will be subject to a \u00a3100 late filing fee.\" [1]\n\n\"The Charities and Non Profit Organisation (Registration) (Guernsey) Law, 2008 requires all Non Profit organisations based in the Islands of Guernsey, Alderney, Herm and Jethou to register with the Office of the Registrar. A failure to do so is an offence.\n\nHowever there is an exemption from this requirement. This applies to Non Profit organisations based in the Islands of Guernsey, Alderney, Herm and Jethou with gross assets and funds of less than \u00a310,000, or gross annual income of less than \u00a35,000.\" [2]\n\n[1] http://www.guernseyregistry.com/\n[2] http://www.guernseyregistry.com/article/112911/Do-I-need-to-register-a-Charity-or-Non-Profit-organisation-",
-  "name": "Guernsey Registry",
-  "publicDatabase": "Companies - https://www.greg.gg/webCompSearch.aspx Charities - http://www.guernseyregistry.com/article/112909/Charities-Register NPOs - http://www.guernseyregistry.com/article/112771/NPO-Register",
-  "url": "http://www.guernseyregistry.com/ , http://www.guernseyregistry.com/charities"
 }

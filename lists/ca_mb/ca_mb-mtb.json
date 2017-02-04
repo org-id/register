@@ -1,48 +1,55 @@
 {
-  "former_prefixes": null,
-  "dataAccessProperties": null,
-  "availableOnline": null,
-  "confirmed": true,
-  "dataAccessDetails": null,
-  "datasetFeatures": null,
-  "deprecated": null,
-  "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": null,
-  "opencorporates": null,
-  "jurisdiction": [
-    {
-      "countryCode": "CA",
-      "country": "Canada"
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "https://direct.gov.mb.ca/mbohtml/html/internet/en/mb_online.html",
+    "name": {
+        "en": "Manitoba Companies Office, Department of Entrepreneurship, Training and Trade ",
+        "local": " Bureau des entreprises du Manitoba, minist\u00e8re de l'Entrepreneuriat, de la Formation et du Commerce"
+    },
+    "jurisdiction": [
+        [
+            "CA"
+        ]
+    ],
+    "code": "CA_MB-MTB",
+    "formerPrefixes": null,
+    "subnationalJurisdiction": [
+        [
+            "CA_MB"
+        ]
+    ],
+    "confirmed": true,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": "closed_license",
+        "availability": null
+    },
+    "deprecated": null,
+    "structure": [
+        "company"
+    ],
+    "description": {
+        "en": "This entry was imported from the Open Corporates Jurisdiction List."
+    },
+    "meta": {
+        "lastUpdated": "2016-12-14",
+        "source": "Desk research"
+    },
+    "registerType": "primary",
+    "access": {
+        "languages": [
+            "en",
+            "fr"
+        ],
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": null,
+        "availableOnline": false,
+        "guidanceOnLocatingIds": null
     }
-  ],
-  "languages": [
-    "en",
-    "fr"
-  ],
-  "lastUpdated": "2016-12-14",
-  "structure": [
-    {
-      "name": "Company",
-      "subtypeOf": null
-    }
-  ],
-  "licenseDetails": null,
-  "onlineAccessDetails": null,
-  "licenseStatus": "Closed License",
-  "registerType": "Primary",
-  "sector": null,
-  "source": "Desk research",
-  "subnational": [
-    {
-      "regionCode": "CA_MB",
-      "country": null,
-      "regionName": null
-    }
-  ],
-  "wikipedia": null,
-  "code": "CA_MB-MTB",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
-  "name": "Manitoba Companies Office, Department of Entrepreneurship, Training and Trade / Bureau des entreprises du Manitoba, minist\u00e8re de l'Entrepreneuriat, de la Formation et du Commerce",
-  "publicDatabase": null,
-  "url": "https://direct.gov.mb.ca/mbohtml/html/internet/en/mb_online.html"
 }

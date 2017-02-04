@@ -1,0 +1,59 @@
+{
+    "availability":[
+        {
+            "code":"data_not_available",
+            "title":{
+                "en":"Data not available"
+            }
+        },
+        {
+            "code":"api",
+            "title":{
+                "en":"API"
+            }
+        },
+        {
+            "code":"bulk",
+            "title":{
+                "en":"Bulk download"
+            }
+        },
+        {
+            "code":"csv",
+            "title":{
+                "en":"CSV format"
+            }
+        },
+        {
+            "code":"xml",
+            "title":{
+                "en":"XML format"
+            }
+        },
+        {
+            "code":"json",
+            "title":{
+                "en":"JSON format"
+            }
+        },
+        {
+            "code":"excel",
+            "title":{
+                "en":"Excel format"
+            }
+        },
+        {
+            "code":"pdf",
+            "title":{
+                "en":"PDF format"
+            }
+        },
+        {
+            "code":"rdf",
+            "title":{
+                "en":"RDF format"
+            }
+        }
+
+    ]
+}

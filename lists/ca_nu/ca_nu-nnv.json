@@ -1,47 +1,54 @@
 {
-  "former_prefixes": null,
-  "dataAccessProperties": null,
-  "availableOnline": null,
-  "confirmed": true,
-  "dataAccessDetails": null,
-  "datasetFeatures": null,
-  "deprecated": null,
-  "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": null,
-  "opencorporates": null,
-  "jurisdiction": [
-    {
-      "countryCode": "CA",
-      "country": "Canada"
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://nunavutlegalregistries.ca/cr_index_en.shtml",
+    "name": {
+        "en": "Nunavut Department of Justice - Corporate Registries",
+        "local": ""
+    },
+    "jurisdiction": [
+        [
+            "CA"
+        ]
+    ],
+    "code": "CA_NU-NNV",
+    "formerPrefixes": null,
+    "subnationalJurisdiction": [
+        [
+            "CA_NU"
+        ]
+    ],
+    "confirmed": true,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": "closed_license",
+        "availability": null
+    },
+    "deprecated": null,
+    "structure": [
+        "company"
+    ],
+    "description": {
+        "en": "This entry was imported from the Open Corporates Jurisdiction List."
+    },
+    "meta": {
+        "lastUpdated": "2016-12-14",
+        "source": "Desk research"
+    },
+    "registerType": "primary",
+    "access": {
+        "languages": [
+            "en"
+        ],
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": null,
+        "availableOnline": false,
+        "guidanceOnLocatingIds": null
     }
-  ],
-  "languages": [
-    "en"
-  ],
-  "lastUpdated": "2016-12-14",
-  "structure": [
-    {
-      "name": "Company",
-      "subtypeOf": null
-    }
-  ],
-  "licenseDetails": null,
-  "onlineAccessDetails": null,
-  "licenseStatus": "Closed License",
-  "registerType": "Primary",
-  "sector": null,
-  "source": "Desk research",
-  "subnational": [
-    {
-      "regionCode": "CA_NU",
-      "country": null,
-      "regionName": null
-    }
-  ],
-  "wikipedia": null,
-  "code": "CA_NU-NNV",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
-  "name": "Nunavut Department of Justice - Corporate Registries",
-  "publicDatabase": null,
-  "url": "http://nunavutlegalregistries.ca/cr_index_en.shtml"
 }

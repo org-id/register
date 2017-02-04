@@ -1,55 +1,63 @@
 {
-  "former_prefixes": null,
-  "dataAccessProperties": [
-    "csv",
-    "HTML",
-    "JSON",
-    "XML"
-  ],
-  "availableOnline": "Yes",
-  "confirmed": true,
-  "dataAccessDetails": null,
-  "datasetFeatures": [
-    "Registration Number",
-    "Organisation Name",
-    "Objectives/Purpose",
-    "Organisation Type",
-    "Website"
-  ],
-  "deprecated": null,
-  "exampleIdentifiers": "XI-IATI-IADB, XI-IATI-WAI, XI-IATI-1001",
-  "guidanceOnLocatingIds": "Users can find the codelist in three formats - CSV, JSON and XML - from the IATI Organisation Identifier website. The codelist is also available in the three different versions of the IATI Standard.\n\nOnce users have downloaded the file, the identifiers will be under the column header/tag \"code\"",
-  "opencorporates": null,
-  "jurisdiction": null,
-  "languages": [
-    "en"
-  ],
-  "lastUpdated": "2016-12-27",
-  "structure": [
-    {
-      "name": "Company",
-      "subtypeOf": null
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
     },
-    {
-      "name": "Government Agency",
-      "subtypeOf": null
+    "sector": null,
+    "url": "http://iatistandard.org/codelists/IATIOrganisationIdentifier/",
+    "name": {
+        "en": "International Aid Transparency Initiative Organisation Identifier",
+        "local": ""
     },
-    {
-      "name": "Charity",
-      "subtypeOf": null
+    "jurisdiction": [
+        null
+    ],
+    "code": "XI-IATI",
+    "formerPrefixes": null,
+    "subnationalJurisdiction": [
+        null
+    ],
+    "confirmed": true,
+    "data": {
+        "features": [
+            "registration_number",
+            "organisation_name",
+            "objectives/purpose",
+            "organisation_type",
+            "website"
+        ],
+        "dataAccessDetails": null,
+        "licenseDetails": "http://iatistandard.org/202/license/",
+        "licenseStatus": "open_license",
+        "availability": [
+            "csv",
+            "html",
+            "json",
+            "xml"
+        ]
+    },
+    "deprecated": null,
+    "structure": [
+        "company",
+        "government_agency",
+        "charity"
+    ],
+    "description": {
+        "en": "XI-IATI is a list of organisation identifiers that is maintained by the IATI Secretariat. Any publisher may apply to the IATI Technical Team for an identifier to be generated.\n\n\"If a bona fide organisation is not registered with any recognised or appropriate registration agency (http://iatistandard.org/202/codelists/OrganisationRegistrationAgency/) they should contact the IATI Technical Team who will exceptionally allocate an organisation identifier using the XI-IATI prefix.\n\nWhile some of these identifiers have been derived from DAC codes, this \u2018meaning\u2019 is not carried forward. i.e. IATI generated identifiers have no intrinsic meaning.\n\nFor general guidance about constructing Organisation Identifiers, please see http://iatistandard.org/organisation-identifiers/\" [1]\n\n[1] http://iatistandard.org/202/codelists/IATIOrganisationIdentifier/"
+    },
+    "meta": {
+        "lastUpdated": "2016-12-27",
+        "source": "Desk research"
+    },
+    "registerType": "third-party",
+    "access": {
+        "languages": [
+            "en"
+        ],
+        "exampleIdentifiers": "XI-IATI-IADB, XI-IATI-WAI, XI-IATI-1001",
+        "onlineAccessDetails": null,
+        "publicDatabase": "http://iatistandard.org/202/codelists/IATIOrganisationIdentifier/",
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "Users can find the codelist in three formats - CSV, JSON and XML - from the IATI Organisation Identifier website. The codelist is also available in the three different versions of the IATI Standard.\n\nOnce users have downloaded the file, the identifiers will be under the column header/tag \"code\""
     }
-  ],
-  "licenseDetails": "http://iatistandard.org/202/license/",
-  "onlineAccessDetails": null,
-  "licenseStatus": "Open License",
-  "registerType": "Third-party",
-  "sector": null,
-  "source": "Desk research",
-  "subnational": null,
-  "wikipedia": null,
-  "code": "XI-IATI",
-  "description": "XI-IATI is a list of organisation identifiers that is maintained by the IATI Secretariat. Any publisher may apply to the IATI Technical Team for an identifier to be generated.\n\n\"If a bona fide organisation is not registered with any recognised or appropriate registration agency (http://iatistandard.org/202/codelists/OrganisationRegistrationAgency/) they should contact the IATI Technical Team who will exceptionally allocate an organisation identifier using the XI-IATI prefix.\n\nWhile some of these identifiers have been derived from DAC codes, this \u2018meaning\u2019 is not carried forward. i.e. IATI generated identifiers have no intrinsic meaning.\n\nFor general guidance about constructing Organisation Identifiers, please see http://iatistandard.org/organisation-identifiers/\" [1]\n\n[1] http://iatistandard.org/202/codelists/IATIOrganisationIdentifier/",
-  "name": "International Aid Transparency Initiative Organisation Identifier",
-  "publicDatabase": "http://iatistandard.org/202/codelists/IATIOrganisationIdentifier/",
-  "url": "http://iatistandard.org/codelists/IATIOrganisationIdentifier/"
 }

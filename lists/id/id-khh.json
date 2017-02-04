@@ -1,34 +1,48 @@
 {
-  "former_prefixes": null,
-  "dataAccessProperties": null,
-  "availableOnline": null,
-  "confirmed": null,
-  "dataAccessDetails": null,
-  "datasetFeatures": null,
-  "deprecated": null,
-  "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": null,
-  "opencorporates": null,
-  "jurisdiction": [
-    {
-      "countryCode": "ID",
-      "country": "Indonesia"
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://www.kemenkumham.go.id/",
+    "name": {
+        "en": "Ministry of Justice & Human Rights",
+        "local": " Kementerian Hukum Dan Hak"
+    },
+    "jurisdiction": [
+        [
+            "ID"
+        ]
+    ],
+    "code": "ID-KHH",
+    "formerPrefixes": null,
+    "subnationalJurisdiction": [
+        null
+    ],
+    "confirmed": null,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": null,
+        "availability": null
+    },
+    "deprecated": null,
+    "structure": null,
+    "description": {
+        "en": "Company registration is done through Ministry of Justice & Human Rights/ Kementerian Hukum Dan Hak"
+    },
+    "meta": {
+        "lastUpdated": null,
+        "source": null
+    },
+    "registerType": null,
+    "access": {
+        "languages": null,
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": null,
+        "availableOnline": false,
+        "guidanceOnLocatingIds": null
     }
-  ],
-  "languages": null,
-  "lastUpdated": null,
-  "structure": null,
-  "licenseDetails": null,
-  "onlineAccessDetails": null,
-  "licenseStatus": null,
-  "registerType": null,
-  "sector": null,
-  "source": null,
-  "subnational": null,
-  "wikipedia": null,
-  "code": "ID-KHH",
-  "description": "Company registration is done through Ministry of Justice & Human Rights/ Kementerian Hukum Dan Hak",
-  "name": "Ministry of Justice & Human Rights/ Kementerian Hukum Dan Hak",
-  "publicDatabase": null,
-  "url": "http://www.kemenkumham.go.id/"
 }

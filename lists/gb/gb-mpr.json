@@ -1,43 +1,52 @@
 {
-  "former_prefixes": null,
-  "dataAccessProperties": null,
-  "availableOnline": "Yes",
-  "confirmed": true,
-  "dataAccessDetails": null,
-  "datasetFeatures": [
-    "Registered address"
-  ],
-  "deprecated": null,
-  "exampleIdentifiers": "235C, IP031455",
-  "guidanceOnLocatingIds": null,
-  "opencorporates": true,
-  "jurisdiction": [
-    {
-      "countryCode": "GB",
-      "country": "United Kingdom"
+    "links": {
+        "wikipedia": null,
+        "opencorporates": "http://opencorporates.com/companies/gb"
+    },
+    "sector": null,
+    "url": "https://mutuals.fsa.gov.uk/",
+    "name": {
+        "en": "Mutuals Public Register",
+        "local": ""
+    },
+    "jurisdiction": [
+        [
+            "GB"
+        ]
+    ],
+    "code": "GB-MPR",
+    "formerPrefixes": null,
+    "subnationalJurisdiction": [
+        null
+    ],
+    "confirmed": true,
+    "data": {
+        "features": [
+            "registered_address"
+        ],
+        "dataAccessDetails": null,
+        "licenseDetails": "Copyright information on the site places restrictions on re-use.",
+        "licenseStatus": "closed_license",
+        "availability": null
+    },
+    "deprecated": null,
+    "structure": [
+        "company/mutual"
+    ],
+    "description": {
+        "en": "The Mutuals Public Register is the public record of registered mutual societies:\n\n* building societies\n* credit unions\n* friendly societies\n* registered societies\n\nIt contains:\n\n* details of societies\u2019 registered offices and contact information\nthe services they offer\n* public documents such as yearly returns and accounts"
+    },
+    "meta": {
+        "lastUpdated": null,
+        "source": null
+    },
+    "registerType": "primary",
+    "access": {
+        "languages": null,
+        "exampleIdentifiers": "235C, IP031455",
+        "onlineAccessDetails": "It is possible to search the register online, but documents and bulk download of data are not freely available.",
+        "publicDatabase": null,
+        "availableOnline": false,
+        "guidanceOnLocatingIds": null
     }
-  ],
-  "languages": null,
-  "lastUpdated": null,
-  "structure": [
-    {
-      "name": "Mutual",
-      "subtypeOf": [
-        "reciN6k5BN1PawHxI"
-      ]
-    }
-  ],
-  "licenseDetails": "Copyright information on the site places restrictions on re-use.",
-  "onlineAccessDetails": "It is possible to search the register online, but documents and bulk download of data are not freely available.",
-  "licenseStatus": "Closed License",
-  "registerType": "Primary",
-  "sector": null,
-  "source": null,
-  "subnational": null,
-  "wikipedia": null,
-  "code": "GB-MPR",
-  "description": "The Mutuals Public Register is the public record of registered mutual societies:\n\n* building societies\n* credit unions\n* friendly societies\n* registered societies\n\nIt contains:\n\n* details of societies\u2019 registered offices and contact information\nthe services they offer\n* public documents such as yearly returns and accounts",
-  "name": "Mutuals Public Register",
-  "publicDatabase": null,
-  "url": "https://mutuals.fsa.gov.uk/"
 }

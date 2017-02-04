@@ -1,52 +1,60 @@
 {
-  "former_prefixes": null,
-  "dataAccessProperties": null,
-  "availableOnline": "Yes",
-  "confirmed": true,
-  "dataAccessDetails": null,
-  "datasetFeatures": [
-    "Registered address",
-    "Registration Number",
-    "Organisation Name",
-    "Organisation Type",
-    "Date of registration",
-    "Status"
-  ],
-  "deprecated": null,
-  "exampleIdentifiers": "RC_119821, RC_87846, RBN_94687",
-  "guidanceOnLocatingIds": "Users can find company identifiers by using the simple, searchable online database. Identifiers will be under the column heading 'Number'. Users can find more information by clicking on one of the search results.\n\nUsers should be aware that the identifier numbers are not unique, as there are multiple types of companies and identifiers can be repeated. For example, there are two companies with the number '1381' - an LP (limited partnership) and an RC (Registered Private Company)\n\nIt is recommended that those creating identifiers for JSFC use the business codes as part of the identifier. For example, the limited partnership company described above should have the identifier:\n\nJE-FSC-LP_1381\n\nOpen Corporates adopt a slightly different approach, using the URL of the company register entry to generate an identifier. See https://wiki.opencorporates.com/qa/qa_public/migrating_company_numbers/jersey ",
-  "opencorporates": true,
-  "jurisdiction": [
-    {
-      "countryCode": "JE",
-      "country": "Jersey"
-    }
-  ],
-  "languages": [
-    "en"
-  ],
-  "lastUpdated": "2016-12-02",
-  "structure": [
-    {
-      "name": "Company",
-      "subtypeOf": null
+    "links": {
+        "wikipedia": null,
+        "opencorporates": "http://opencorporates.com/companies/je"
     },
-    {
-      "name": "Charity",
-      "subtypeOf": null
+    "sector": null,
+    "url": "http://www.jerseyfsc.org/index.asp",
+    "name": {
+        "en": "Jersey Financial Services Commission (JFSC)",
+        "local": ""
+    },
+    "jurisdiction": [
+        [
+            "JE"
+        ]
+    ],
+    "code": "JE-FSC",
+    "formerPrefixes": null,
+    "subnationalJurisdiction": [
+        null
+    ],
+    "confirmed": true,
+    "data": {
+        "features": [
+            "registered_address",
+            "registration_number",
+            "organisation_name",
+            "organisation_type",
+            "date_of_registration",
+            "status"
+        ],
+        "dataAccessDetails": null,
+        "licenseDetails": "http://index.okfn.org/place/jersey/companies/ , https://opencorporates.com/registers/295",
+        "licenseStatus": "closed_license",
+        "availability": null
+    },
+    "deprecated": null,
+    "structure": [
+        "company",
+        "charity"
+    ],
+    "description": {
+        "en": "Companies and Non Profit Organisations operating in Jersey register with the Financial Services Commission (JFSC). A search of company information is freely available on the Commission website. There was no search available for NPOs at the time of last checks.\n\nUsers should be aware that the identifier numbers are not unique, as there are multiple types of companies and identifiers can be repeated. For example, there are two companies with the number '1381' - an LP (limited partnership) and an RC (Registered Private Company)\n\nIt is recommended that those creating identifiers for JSFC use the business codes as part of the identifier. For example, the limited partnership company described above should have the identifier:\n\nJE-FSC-LP_1381\n\n\n\"The Non-Profit Organizations (Jersey) Law 2008 (the \u201cNPO Law\u201d) was registered by the Royal Court on 25 July 2008 and came into effect on 8 August 2008.  This legislation requires NPOs to register with the Commission in certain circumstances.  The definition of an NPO, as provided by Article 1 of the NPO Law, is given below:\n\n\u201cAn organization is a non-profit organization for the purposes of this Law if \u2013 \n(a) it is established solely or primarily for charitable, religious, cultural, educational, social,\n    or fraternal purposes with the intention of benefiting the public or a section of the public; and\n(b) it raises or disburses funds in pursuance of those purposes.\u201d \" [1]\n\n[1] http://www.jerseyfsc.org/anti-money_laundering/forms/NPO/index.asp"
+    },
+    "meta": {
+        "lastUpdated": "2016-12-02",
+        "source": null
+    },
+    "registerType": "primary",
+    "access": {
+        "languages": [
+            "en"
+        ],
+        "exampleIdentifiers": "RC_119821, RC_87846, RBN_94687",
+        "onlineAccessDetails": "Data is available for search for free, and records are available for download for a fee",
+        "publicDatabase": "https://www.jerseyfsc.org/registry/documentsearch/",
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "Users can find company identifiers by using the simple, searchable online database. Identifiers will be under the column heading 'Number'. Users can find more information by clicking on one of the search results.\n\nUsers should be aware that the identifier numbers are not unique, as there are multiple types of companies and identifiers can be repeated. For example, there are two companies with the number '1381' - an LP (limited partnership) and an RC (Registered Private Company)\n\nIt is recommended that those creating identifiers for JSFC use the business codes as part of the identifier. For example, the limited partnership company described above should have the identifier:\n\nJE-FSC-LP_1381\n\nOpen Corporates adopt a slightly different approach, using the URL of the company register entry to generate an identifier. See https://wiki.opencorporates.com/qa/qa_public/migrating_company_numbers/jersey "
     }
-  ],
-  "licenseDetails": "http://index.okfn.org/place/jersey/companies/ , https://opencorporates.com/registers/295",
-  "onlineAccessDetails": "Data is available for search for free, and records are available for download for a fee",
-  "licenseStatus": "Closed License",
-  "registerType": "Primary",
-  "sector": null,
-  "source": null,
-  "subnational": null,
-  "wikipedia": null,
-  "code": "JE-FSC",
-  "description": "Companies and Non Profit Organisations operating in Jersey register with the Financial Services Commission (JFSC). A search of company information is freely available on the Commission website. There was no search available for NPOs at the time of last checks.\n\nUsers should be aware that the identifier numbers are not unique, as there are multiple types of companies and identifiers can be repeated. For example, there are two companies with the number '1381' - an LP (limited partnership) and an RC (Registered Private Company)\n\nIt is recommended that those creating identifiers for JSFC use the business codes as part of the identifier. For example, the limited partnership company described above should have the identifier:\n\nJE-FSC-LP_1381\n\n\n\"The Non-Profit Organizations (Jersey) Law 2008 (the \u201cNPO Law\u201d) was registered by the Royal Court on 25 July 2008 and came into effect on 8 August 2008.  This legislation requires NPOs to register with the Commission in certain circumstances.  The definition of an NPO, as provided by Article 1 of the NPO Law, is given below:\n\n\u201cAn organization is a non-profit organization for the purposes of this Law if \u2013 \n(a) it is established solely or primarily for charitable, religious, cultural, educational, social,\n    or fraternal purposes with the intention of benefiting the public or a section of the public; and\n(b) it raises or disburses funds in pursuance of those purposes.\u201d \" [1]\n\n[1] http://www.jerseyfsc.org/anti-money_laundering/forms/NPO/index.asp",
-  "name": "Jersey Financial Services Commission (JFSC)",
-  "publicDatabase": "https://www.jerseyfsc.org/registry/documentsearch/",
-  "url": "http://www.jerseyfsc.org/index.asp"
 }

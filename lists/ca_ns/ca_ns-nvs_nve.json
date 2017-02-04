@@ -1,50 +1,57 @@
 {
-  "former_prefixes": null,
-  "dataAccessProperties": [
-    "HTML"
-  ],
-  "availableOnline": "Yes",
-  "confirmed": true,
-  "dataAccessDetails": null,
-  "datasetFeatures": null,
-  "deprecated": null,
-  "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": null,
-  "opencorporates": null,
-  "jurisdiction": [
-    {
-      "countryCode": "CA",
-      "country": "Canada"
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://novascotia.ca/sns/access/business/registry-joint-stock-companies.asp",
+    "name": {
+        "en": "Nova Scotia Registry of Joint Stock Companies ",
+        "local": " Registre des soci\u00e9t\u00e9s de capitaux"
+    },
+    "jurisdiction": [
+        [
+            "CA"
+        ]
+    ],
+    "code": "CA_NS-NVS_NVE",
+    "formerPrefixes": null,
+    "subnationalJurisdiction": [
+        [
+            "CA_NS"
+        ]
+    ],
+    "confirmed": true,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": "closed_license",
+        "availability": [
+            "html"
+        ]
+    },
+    "deprecated": null,
+    "structure": [
+        "company"
+    ],
+    "description": {
+        "en": "This entry was imported from the Open Corporates Jurisdiction List."
+    },
+    "meta": {
+        "lastUpdated": "2016-09-07",
+        "source": "Desk research"
+    },
+    "registerType": "primary",
+    "access": {
+        "languages": [
+            "en",
+            "fr"
+        ],
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": "https://rjsc.gov.ns.ca/rjsc/search/doSearch.do",
+        "availableOnline": false,
+        "guidanceOnLocatingIds": null
     }
-  ],
-  "languages": [
-    "en",
-    "fr"
-  ],
-  "lastUpdated": "2016-09-07",
-  "structure": [
-    {
-      "name": "Company",
-      "subtypeOf": null
-    }
-  ],
-  "licenseDetails": null,
-  "onlineAccessDetails": null,
-  "licenseStatus": "Closed License",
-  "registerType": "Primary",
-  "sector": null,
-  "source": "Desk research",
-  "subnational": [
-    {
-      "regionCode": "CA_NS",
-      "country": null,
-      "regionName": null
-    }
-  ],
-  "wikipedia": null,
-  "code": "CA_NS-NVS_NVE",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
-  "name": "Nova Scotia Registry of Joint Stock Companies / Registre des soci\u00e9t\u00e9s de capitaux",
-  "publicDatabase": "https://rjsc.gov.ns.ca/rjsc/search/doSearch.do",
-  "url": "http://novascotia.ca/sns/access/business/registry-joint-stock-companies.asp"
 }

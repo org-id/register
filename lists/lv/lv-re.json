@@ -1,51 +1,62 @@
 {
-  "former_prefixes": null,
-  "dataAccessProperties": [
-    "csv",
-    "HTML"
-  ],
-  "availableOnline": "Yes",
-  "confirmed": true,
-  "dataAccessDetails": "Link to CSV download found at http://index.okfn.org/place/latvia/companies/   , Link to Lursoft found at https://opencorporates.com/registers/137 . More detailed information in Lursoft, and Lursoft is in English, whereas ur.gov.lv is in Latvian",
-  "datasetFeatures": [
-    "Registered address",
-    "Organisation Name",
-    "Date of registration",
-    "Registration Number",
-    "Organisation Type"
-  ],
-  "deprecated": null,
-  "exampleIdentifiers": "40008124830, 51203041201, 40008124830",
-  "guidanceOnLocatingIds": "Users can find identifiers by using the search bar which is present near the top of every page on the website. Users must have a name or key word, and select 'Company / Organisation' on the drop-down box to the right of the search bar.\n\nThe identifier will be next to the heading 'Registration number' in the results shown.\n\nUsers can also download a CSV of the entire registry.\n\nUsers can also use the search on the Lursoft website. After opening one of the results, the identifier can be found next to the heading 'Registration number'.",
-  "opencorporates": true,
-  "jurisdiction": [
-    {
-      "countryCode": "LV",
-      "country": "Latvia"
+    "links": {
+        "wikipedia": null,
+        "opencorporates": "http://opencorporates.com/companies/lv"
+    },
+    "sector": null,
+    "url": "http://www.ur.gov.lv/",
+    "name": {
+        "en": "Register of Enterprises of the Republic of Latvia",
+        "local": ""
+    },
+    "jurisdiction": [
+        [
+            "LV"
+        ]
+    ],
+    "code": "LV-RE",
+    "formerPrefixes": null,
+    "subnationalJurisdiction": [
+        null
+    ],
+    "confirmed": true,
+    "data": {
+        "features": [
+            "registered_address",
+            "organisation_name",
+            "date_of_registration",
+            "registration_number",
+            "organisation_type"
+        ],
+        "dataAccessDetails": "Link to CSV download found at http://index.okfn.org/place/latvia/companies/   , Link to Lursoft found at https://opencorporates.com/registers/137 . More detailed information in Lursoft, and Lursoft is in English, whereas ur.gov.lv is in Latvian",
+        "licenseDetails": "https://opencorporates.com/registers/137 , http://index.okfn.org/place/latvia/companies/",
+        "licenseStatus": "open_license",
+        "availability": [
+            "csv",
+            "html"
+        ]
+    },
+    "deprecated": null,
+    "structure": [
+        "company"
+    ],
+    "description": {
+        "en": "The Register of Enterprises registers companies and maintains a database of organisation information. This information is searchable on the website and can be found in CSV form.\n\n\"Register of Enterprises is the central institution which keeps all data and records up to date. It is mandatory to submit incorporation documents with the registry at the moment of company establishment, as well as to file all amendments in the company board (directors) or shareholder registry.\n\nThe unified register is also available electronically.\n\nThe Register of Enterprises has the following functions:\nto register undertakings and their branches, representative offices and representatives of foreign undertakings and organisations, co-operative companies,\" [1]\n\n[1] http://www.baltic-legal.com/commercial-register-of-latvia-eng.htm\n\nFree of charge information includes type of legal entity; registered office; new or current name or trade name and previously registered or historical name or trade name; registration number; Single Euro Payment Area beneficiary identification code (if allocated); registration date; date of deletion of the legal entity from the register (or the date of reorganisation if the reason for the deletion is a reorganisation); deadline for registration of religious organisations that are subject to re-registration."
+    },
+    "meta": {
+        "lastUpdated": "2016-11-26",
+        "source": "Desk research"
+    },
+    "registerType": "primary",
+    "access": {
+        "languages": [
+            "en",
+            "lv"
+        ],
+        "exampleIdentifiers": "40008124830, 51203041201, 40008124830",
+        "onlineAccessDetails": "Data is available through simple, searchable function on government webpage, on an alternative website (Lursoft) and also as CSV download",
+        "publicDatabase": "http://www.ur.gov.lv/ , http://www.lursoft.lv/?v=en, http://dati.ur.gov.lv/register/",
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "Users can find identifiers by using the search bar which is present near the top of every page on the website. Users must have a name or key word, and select 'Company / Organisation' on the drop-down box to the right of the search bar.\n\nThe identifier will be next to the heading 'Registration number' in the results shown.\n\nUsers can also download a CSV of the entire registry.\n\nUsers can also use the search on the Lursoft website. After opening one of the results, the identifier can be found next to the heading 'Registration number'."
     }
-  ],
-  "languages": [
-    "en",
-    "lv"
-  ],
-  "lastUpdated": "2016-11-26",
-  "structure": [
-    {
-      "name": "Company",
-      "subtypeOf": null
-    }
-  ],
-  "licenseDetails": "https://opencorporates.com/registers/137 , http://index.okfn.org/place/latvia/companies/",
-  "onlineAccessDetails": "Data is available through simple, searchable function on government webpage, on an alternative website (Lursoft) and also as CSV download",
-  "licenseStatus": "Open License",
-  "registerType": "Primary",
-  "sector": null,
-  "source": "Desk research",
-  "subnational": null,
-  "wikipedia": null,
-  "code": "LV-RE",
-  "description": "The Register of Enterprises registers companies and maintains a database of organisation information. This information is searchable on the website and can be found in CSV form.\n\n\"Register of Enterprises is the central institution which keeps all data and records up to date. It is mandatory to submit incorporation documents with the registry at the moment of company establishment, as well as to file all amendments in the company board (directors) or shareholder registry.\n\nThe unified register is also available electronically.\n\nThe Register of Enterprises has the following functions:\nto register undertakings and their branches, representative offices and representatives of foreign undertakings and organisations, co-operative companies,\" [1]\n\n[1] http://www.baltic-legal.com/commercial-register-of-latvia-eng.htm\n\nFree of charge information includes type of legal entity; registered office; new or current name or trade name and previously registered or historical name or trade name; registration number; Single Euro Payment Area beneficiary identification code (if allocated); registration date; date of deletion of the legal entity from the register (or the date of reorganisation if the reason for the deletion is a reorganisation); deadline for registration of religious organisations that are subject to re-registration.",
-  "name": "Register of Enterprises of the Republic of Latvia",
-  "publicDatabase": "http://www.ur.gov.lv/ , http://www.lursoft.lv/?v=en, http://dati.ur.gov.lv/register/",
-  "url": "http://www.ur.gov.lv/"
 }

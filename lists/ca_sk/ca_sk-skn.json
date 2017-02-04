@@ -1,47 +1,54 @@
 {
-  "former_prefixes": null,
-  "dataAccessProperties": null,
-  "availableOnline": null,
-  "confirmed": true,
-  "dataAccessDetails": null,
-  "datasetFeatures": null,
-  "deprecated": null,
-  "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": null,
-  "opencorporates": null,
-  "jurisdiction": [
-    {
-      "countryCode": "CA",
-      "country": "Canada"
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://www.isc.ca/CorporateRegistry/",
+    "name": {
+        "en": "Saskatchewan Corporate Registry ",
+        "local": " Registre des soci\u00e9t\u00e9s"
+    },
+    "jurisdiction": [
+        [
+            "CA"
+        ]
+    ],
+    "code": "CA_SK-SKN",
+    "formerPrefixes": null,
+    "subnationalJurisdiction": [
+        [
+            "CA_SK"
+        ]
+    ],
+    "confirmed": true,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": "closed_license",
+        "availability": null
+    },
+    "deprecated": null,
+    "structure": [
+        "company"
+    ],
+    "description": {
+        "en": "This entry was imported from the Open Corporates Jurisdiction List."
+    },
+    "meta": {
+        "lastUpdated": "2016-12-14",
+        "source": "Desk research"
+    },
+    "registerType": "primary",
+    "access": {
+        "languages": [
+            "en"
+        ],
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": null,
+        "availableOnline": false,
+        "guidanceOnLocatingIds": null
     }
-  ],
-  "languages": [
-    "en"
-  ],
-  "lastUpdated": "2016-12-14",
-  "structure": [
-    {
-      "name": "Company",
-      "subtypeOf": null
-    }
-  ],
-  "licenseDetails": null,
-  "onlineAccessDetails": null,
-  "licenseStatus": "Closed License",
-  "registerType": "Primary",
-  "sector": null,
-  "source": "Desk research",
-  "subnational": [
-    {
-      "regionCode": "CA_SK",
-      "country": null,
-      "regionName": null
-    }
-  ],
-  "wikipedia": null,
-  "code": "CA_SK-SKN",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
-  "name": "Saskatchewan Corporate Registry / Registre des soci\u00e9t\u00e9s",
-  "publicDatabase": null,
-  "url": "http://www.isc.ca/CorporateRegistry/"
 }

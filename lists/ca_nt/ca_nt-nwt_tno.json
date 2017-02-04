@@ -1,50 +1,57 @@
 {
-  "former_prefixes": null,
-  "dataAccessProperties": [
-    "Available: stated as available, but unable to access"
-  ],
-  "availableOnline": "Yes",
-  "confirmed": true,
-  "dataAccessDetails": null,
-  "datasetFeatures": null,
-  "deprecated": null,
-  "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": "Log-in required for business search",
-  "opencorporates": null,
-  "jurisdiction": [
-    {
-      "countryCode": "CA",
-      "country": "Canada"
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "https://www.justice.gov.nt.ca/en/divisions/legal-registries-division/corporate-registries/",
+    "name": {
+        "en": "Canadian Provincial Corporate Registration - Northwest Territories ",
+        "local": " Territoires du Nord-Ouest"
+    },
+    "jurisdiction": [
+        [
+            "CA"
+        ]
+    ],
+    "code": "CA_NT-NWT_TNO",
+    "formerPrefixes": null,
+    "subnationalJurisdiction": [
+        [
+            "CA_NT"
+        ]
+    ],
+    "confirmed": true,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": "closed_license",
+        "availability": [
+            "available:_stated_as_available,_but_unable_to_access"
+        ]
+    },
+    "deprecated": null,
+    "structure": [
+        "company"
+    ],
+    "description": {
+        "en": "This entry was imported from the Open Corporates Jurisdiction List."
+    },
+    "meta": {
+        "lastUpdated": "2016-12-14",
+        "source": "Desk research"
+    },
+    "registerType": "primary",
+    "access": {
+        "languages": [
+            "en",
+            "fr"
+        ],
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": "https://www.justice.gov.nt.ca/en/corporate-registry-searches/",
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "Log-in required for business search"
     }
-  ],
-  "languages": [
-    "en",
-    "fr"
-  ],
-  "lastUpdated": "2016-12-14",
-  "structure": [
-    {
-      "name": "Company",
-      "subtypeOf": null
-    }
-  ],
-  "licenseDetails": null,
-  "onlineAccessDetails": null,
-  "licenseStatus": "Closed License",
-  "registerType": "Primary",
-  "sector": null,
-  "source": "Desk research",
-  "subnational": [
-    {
-      "regionCode": "CA_NT",
-      "country": null,
-      "regionName": null
-    }
-  ],
-  "wikipedia": null,
-  "code": "CA_NT-NWT_TNO",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
-  "name": "Canadian Provincial Corporate Registration - Northwest Territories / Territoires du Nord-Ouest",
-  "publicDatabase": "https://www.justice.gov.nt.ca/en/corporate-registry-searches/",
-  "url": "https://www.justice.gov.nt.ca/en/divisions/legal-registries-division/corporate-registries/"
 }

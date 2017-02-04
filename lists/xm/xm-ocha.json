@@ -1,41 +1,56 @@
 {
-  "former_prefixes": null,
-  "dataAccessProperties": [
-    "XML",
-    "API"
-  ],
-  "availableOnline": "Yes",
-  "confirmed": true,
-  "dataAccessDetails": "A list of identifiers is available via an XML API. ",
-  "datasetFeatures": [
-    "AKAs",
-    "Organisation Name"
-  ],
-  "deprecated": null,
-  "exampleIdentifiers": "FTS8908, FTS5191",
-  "guidanceOnLocatingIds": "A list of identifiers is available in XML form from the UN OCHA Financial Tracking Service API [1] at http://fts.unocha.org/api/v1/Organization.xml\n\nThe identifier, following the UNOCHA pattern of usage, is made up of the id field from the XML, prefixed with 'FTS' to give identifiers of the form:\n\n> XM-OCHA-FTS8908\n\n[1]: http://fts.unocha.org/api/Files/APIUserdocumentation.htm",
-  "opencorporates": null,
-  "jurisdiction": null,
-  "languages": [
-    "en"
-  ],
-  "lastUpdated": "2016-12-27",
-  "structure": null,
-  "licenseDetails": "No explicit license is given, though the terms and conditions encourage attribution (https://fts.unocha.org/pageloader.aspx?page=contact-ContactUs&select=3) and note that the data may contain contributions from multiple sources.",
-  "onlineAccessDetails": "A list of identifiers is available via an XML API. ",
-  "licenseStatus": "No License",
-  "registerType": "Local",
-  "sector": [
-    {
-      "name": "Humanitarian Relief"
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": [
+        "humanitarian_relief"
+    ],
+    "url": "http://www.unocha.org",
+    "name": {
+        "en": "United Nations Office for the Coordination of Humanitarian Affairs - Financial Tracking Services Identifiers",
+        "local": ""
+    },
+    "jurisdiction": [
+        null
+    ],
+    "code": "XM-OCHA",
+    "formerPrefixes": null,
+    "subnationalJurisdiction": [
+        null
+    ],
+    "confirmed": true,
+    "data": {
+        "features": [
+            "akas",
+            "organisation_name"
+        ],
+        "dataAccessDetails": "A list of identifiers is available via an XML API. ",
+        "licenseDetails": "No explicit license is given, though the terms and conditions encourage attribution (https://fts.unocha.org/pageloader.aspx?page=contact-ContactUs&select=3) and note that the data may contain contributions from multiple sources.",
+        "licenseStatus": "no_license",
+        "availability": [
+            "xml",
+            "api"
+        ]
+    },
+    "deprecated": null,
+    "structure": null,
+    "description": {
+        "en": "OCHA (Office for the Coordination of Humanitarian Affairs) is the part of the United Nations Secretariat responsible for bringing together humanitarian actors to ensure a coherent response to emergencies.  \n\nThe Financial Tracking Service assigns it's own organisation identifiers to parties involved in funding or delivery of humanitarian work, which are used in UN OCHA data, and may be used by some third-parties.\n\n"
+    },
+    "meta": {
+        "lastUpdated": "2016-12-27",
+        "source": "Desk research"
+    },
+    "registerType": "local",
+    "access": {
+        "languages": [
+            "en"
+        ],
+        "exampleIdentifiers": "FTS8908, FTS5191",
+        "onlineAccessDetails": "A list of identifiers is available via an XML API. ",
+        "publicDatabase": "https://fts.unocha.org/",
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "A list of identifiers is available in XML form from the UN OCHA Financial Tracking Service API [1] at http://fts.unocha.org/api/v1/Organization.xml\n\nThe identifier, following the UNOCHA pattern of usage, is made up of the id field from the XML, prefixed with 'FTS' to give identifiers of the form:\n\n> XM-OCHA-FTS8908\n\n[1]: http://fts.unocha.org/api/Files/APIUserdocumentation.htm"
     }
-  ],
-  "source": "Desk research",
-  "subnational": null,
-  "wikipedia": null,
-  "code": "XM-OCHA",
-  "description": "OCHA (Office for the Coordination of Humanitarian Affairs) is the part of the United Nations Secretariat responsible for bringing together humanitarian actors to ensure a coherent response to emergencies.  \n\nThe Financial Tracking Service assigns it's own organisation identifiers to parties involved in funding or delivery of humanitarian work, which are used in UN OCHA data, and may be used by some third-parties.\n\n",
-  "name": "United Nations Office for the Coordination of Humanitarian Affairs - Financial Tracking Services Identifiers",
-  "publicDatabase": "https://fts.unocha.org/",
-  "url": "http://www.unocha.org"
 }

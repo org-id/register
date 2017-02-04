@@ -1,43 +1,54 @@
 {
-  "former_prefixes": null,
-  "dataAccessProperties": [
-    "Data not available"
-  ],
-  "availableOnline": "No",
-  "confirmed": true,
-  "dataAccessDetails": null,
-  "datasetFeatures": null,
-  "deprecated": null,
-  "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": "The VSWA number should be used as a unique identifier, but users should be aware that the entire sequence is needed (number and year), as it is possible that the number is unique to the year of registration, but is repeated for other years, i.e, 511-2007 is ASFP, but there may be another org with 511-1998.",
-  "opencorporates": null,
-  "jurisdiction": [
-    {
-      "countryCode": "PK",
-      "country": "Pakistan"
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://www.swkpk.gov.pk/ , http://social_welfare.kp.gov.pk/",
+    "name": {
+        "en": "Pakistan Voluntary Social Welfare Agency",
+        "local": ""
+    },
+    "jurisdiction": [
+        [
+            "PK"
+        ]
+    ],
+    "code": "PK-VSWA",
+    "formerPrefixes": null,
+    "subnationalJurisdiction": [
+        null
+    ],
+    "confirmed": true,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": "no_license",
+        "availability": [
+            "data_not_available"
+        ]
+    },
+    "deprecated": null,
+    "structure": [
+        "charity"
+    ],
+    "description": {
+        "en": "All NGOs are required to register with their local Voluntary Social Welfare (VSWA) department. The VSWA assigns each organisation with an organisation identifier that is made up of a number and the year of registration. There is no searchable database.\n\nThe VSWA number should be used as a unique identifier, but users should be aware that the entire sequence is needed (number and year), as it is possible that the number is unique to the year of registration, but is repeated for other years, i.e, 511-2007 is ASFP, but there may be another org with 511-1998.\n\n\"Any person intending to establish an agency, and any person\nintending that an agency already in existence should be\ncontinued as such, shall, in the prescribed form, and on payment\nof the prescribed fee, make an application to the Registration\nAuthority\" [1] \n\n\"9.Registration, professional guidance and financial assistance to voluntary Social Welfare agencies for strengthening, improving and promoting their activities, coordination amongst NGOs / Donors and concerned government departments.\" [2] \n\n[1] http://www.ilo.org/dyn/natlex/docs/ELECTRONIC/81785/88956/F1282834913/PAK81785.pdf\n[2] http://www.swkpk.gov.pk/"
+    },
+    "meta": {
+        "lastUpdated": "2016-12-16",
+        "source": "Desk research"
+    },
+    "registerType": "primary",
+    "access": {
+        "languages": [
+            "en"
+        ],
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": null,
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "The VSWA number should be used as a unique identifier, but users should be aware that the entire sequence is needed (number and year), as it is possible that the number is unique to the year of registration, but is repeated for other years, i.e, 511-2007 is ASFP, but there may be another org with 511-1998."
     }
-  ],
-  "languages": [
-    "en"
-  ],
-  "lastUpdated": "2016-12-16",
-  "structure": [
-    {
-      "name": "Charity",
-      "subtypeOf": null
-    }
-  ],
-  "licenseDetails": null,
-  "onlineAccessDetails": null,
-  "licenseStatus": "No License",
-  "registerType": "Primary",
-  "sector": null,
-  "source": "Desk research",
-  "subnational": null,
-  "wikipedia": null,
-  "code": "PK-VSWA",
-  "description": "All NGOs are required to register with their local Voluntary Social Welfare (VSWA) department. The VSWA assigns each organisation with an organisation identifier that is made up of a number and the year of registration. There is no searchable database.\n\nThe VSWA number should be used as a unique identifier, but users should be aware that the entire sequence is needed (number and year), as it is possible that the number is unique to the year of registration, but is repeated for other years, i.e, 511-2007 is ASFP, but there may be another org with 511-1998.\n\n\"Any person intending to establish an agency, and any person\nintending that an agency already in existence should be\ncontinued as such, shall, in the prescribed form, and on payment\nof the prescribed fee, make an application to the Registration\nAuthority\" [1] \n\n\"9.Registration, professional guidance and financial assistance to voluntary Social Welfare agencies for strengthening, improving and promoting their activities, coordination amongst NGOs / Donors and concerned government departments.\" [2] \n\n[1] http://www.ilo.org/dyn/natlex/docs/ELECTRONIC/81785/88956/F1282834913/PAK81785.pdf\n[2] http://www.swkpk.gov.pk/",
-  "name": "Pakistan Voluntary Social Welfare Agency",
-  "publicDatabase": null,
-  "url": "http://www.swkpk.gov.pk/ , http://social_welfare.kp.gov.pk/"
 }

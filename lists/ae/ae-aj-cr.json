@@ -1,45 +1,52 @@
 {
-  "former_prefixes": null,
-  "dataAccessProperties": null,
-  "availableOnline": null,
-  "confirmed": null,
-  "dataAccessDetails": null,
-  "datasetFeatures": null,
-  "deprecated": null,
-  "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": null,
-  "opencorporates": null,
-  "jurisdiction": [
-    {
-      "countryCode": "AE",
-      "country": "United Arab Emirates"
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://www.ajmanchamber.ae/en/directory?mo=tr",
+    "name": {
+        "en": "Ajman Chamber of Commerce and Industry- Commercial Register",
+        "local": ""
+    },
+    "jurisdiction": [
+        [
+            "AE"
+        ]
+    ],
+    "code": "AE-AJ-CR",
+    "formerPrefixes": null,
+    "subnationalJurisdiction": [
+        [
+            "AE_AJ"
+        ]
+    ],
+    "confirmed": null,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": "closed_license",
+        "availability": null
+    },
+    "deprecated": null,
+    "structure": [
+        "company"
+    ],
+    "description": {
+        "en": "This entry was imported from the Open Corporates Jurisdiction List."
+    },
+    "meta": {
+        "lastUpdated": "2016-09-07",
+        "source": null
+    },
+    "registerType": null,
+    "access": {
+        "languages": null,
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": null,
+        "availableOnline": false,
+        "guidanceOnLocatingIds": null
     }
-  ],
-  "languages": null,
-  "lastUpdated": "2016-09-07",
-  "structure": [
-    {
-      "name": "Company",
-      "subtypeOf": null
-    }
-  ],
-  "licenseDetails": null,
-  "onlineAccessDetails": null,
-  "licenseStatus": "Closed License",
-  "registerType": null,
-  "sector": null,
-  "source": null,
-  "subnational": [
-    {
-      "regionCode": "AE_AJ",
-      "country": null,
-      "regionName": null
-    }
-  ],
-  "wikipedia": null,
-  "code": "AE-AJ-CR",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
-  "name": "Ajman Chamber of Commerce and Industry- Commercial Register",
-  "publicDatabase": null,
-  "url": "http://www.ajmanchamber.ae/en/directory?mo=tr"
 }

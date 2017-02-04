@@ -1,44 +1,55 @@
 {
-  "former_prefixes": null,
-  "dataAccessProperties": [
-    "Data not available"
-  ],
-  "availableOnline": "No",
-  "confirmed": true,
-  "dataAccessDetails": null,
-  "datasetFeatures": null,
-  "deprecated": null,
-  "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": "The identifiers are the Tax Identification Numbers, but they are not publicly available.",
-  "opencorporates": null,
-  "jurisdiction": [
-    {
-      "countryCode": "AF",
-      "country": "Afghanistan"
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://acbr.gov.af/",
+    "name": {
+        "en": "Afghanistan Central Business Registry",
+        "local": ""
+    },
+    "jurisdiction": [
+        [
+            "AF"
+        ]
+    ],
+    "code": "AF-CBR",
+    "formerPrefixes": null,
+    "subnationalJurisdiction": [
+        null
+    ],
+    "confirmed": true,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": "no_license",
+        "availability": [
+            "data_not_available"
+        ]
+    },
+    "deprecated": null,
+    "structure": [
+        "company"
+    ],
+    "description": {
+        "en": "The Afghan Central Business Registry is a service which allows a single place to register a business in Afghanistan. All companies, groups and individuals are required to register at the ACBR, where they receive confirmation of their registration, become published in the ACBR Gazette and receive the Tax Identification Number. \n\n\"The new Central Registry is a one stop shop to register your business. It brings together all of the functions previously done by the commercial courts, the Ministry of Justice and the Ministry of Finance.\" [1]\n\n\"ACBR exists to provide services to businesses in Afghanistan intending to register their names and protect their intellectual property rights.\" [2]\n\n\"All corporations, partnerships, limited liability companies and sole proprietorships doing Trade are required to register with ACBR, which facilitates the registration process, including assistance for completing the application form, paying fees, publishing key business information in the Official Gazette and reporting specification of businesses to the Revenue Department of MoF. Registration is required only one time unless a business makes major changes (i.e., change in ownership, executive management, or location or if the initial capital increases or decreases).\n\nBusinesses are referred to ACBR from either the Trader License office located in the Ministry of Commerce and Industry, from AISA, or from any other license departments after they acquire a business license.\" [3]\n\n[1] http://acbr.gov.af/FAQ.html\n[2] http://acbr.gov.af/index.html\n[3] http://acbr.gov.af/registration.html"
+    },
+    "meta": {
+        "lastUpdated": "2016-11-24",
+        "source": "Desk research"
+    },
+    "registerType": "primary",
+    "access": {
+        "languages": [
+            "en",
+            "ar"
+        ],
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": "Information about companies registered with ACBR is recorded in the Official Gazette (written in Arabic), but there is no public database - http://www.moj.gov.af/content/files/OfficialGazette/0401/OG_0455.pdf",
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "The identifiers are the Tax Identification Numbers, but they are not publicly available."
     }
-  ],
-  "languages": [
-    "en",
-    "ar"
-  ],
-  "lastUpdated": "2016-11-24",
-  "structure": [
-    {
-      "name": "Company",
-      "subtypeOf": null
-    }
-  ],
-  "licenseDetails": null,
-  "onlineAccessDetails": null,
-  "licenseStatus": "No License",
-  "registerType": "Primary",
-  "sector": null,
-  "source": "Desk research",
-  "subnational": null,
-  "wikipedia": null,
-  "code": "AF-CBR",
-  "description": "The Afghan Central Business Registry is a service which allows a single place to register a business in Afghanistan. All companies, groups and individuals are required to register at the ACBR, where they receive confirmation of their registration, become published in the ACBR Gazette and receive the Tax Identification Number. \n\n\"The new Central Registry is a one stop shop to register your business. It brings together all of the functions previously done by the commercial courts, the Ministry of Justice and the Ministry of Finance.\" [1]\n\n\"ACBR exists to provide services to businesses in Afghanistan intending to register their names and protect their intellectual property rights.\" [2]\n\n\"All corporations, partnerships, limited liability companies and sole proprietorships doing Trade are required to register with ACBR, which facilitates the registration process, including assistance for completing the application form, paying fees, publishing key business information in the Official Gazette and reporting specification of businesses to the Revenue Department of MoF. Registration is required only one time unless a business makes major changes (i.e., change in ownership, executive management, or location or if the initial capital increases or decreases).\n\nBusinesses are referred to ACBR from either the Trader License office located in the Ministry of Commerce and Industry, from AISA, or from any other license departments after they acquire a business license.\" [3]\n\n[1] http://acbr.gov.af/FAQ.html\n[2] http://acbr.gov.af/index.html\n[3] http://acbr.gov.af/registration.html",
-  "name": "Afghanistan Central Business Registry",
-  "publicDatabase": "Information about companies registered with ACBR is recorded in the Official Gazette (written in Arabic), but there is no public database - http://www.moj.gov.af/content/files/OfficialGazette/0401/OG_0455.pdf",
-  "url": "http://acbr.gov.af/"
 }

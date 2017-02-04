@@ -1,39 +1,50 @@
 {
-  "former_prefixes": null,
-  "dataAccessProperties": null,
-  "availableOnline": "Yes",
-  "confirmed": true,
-  "dataAccessDetails": null,
-  "datasetFeatures": null,
-  "deprecated": null,
-  "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": null,
-  "opencorporates": null,
-  "jurisdiction": [
-    {
-      "countryCode": "GB",
-      "country": "United Kingdom"
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "https://www.gov.uk/government/organisations",
+    "name": {
+        "en": "UK Government Departments, Agencies & Public Bodies",
+        "local": ""
+    },
+    "jurisdiction": [
+        [
+            "GB"
+        ]
+    ],
+    "code": "GB-GOVUK",
+    "formerPrefixes": null,
+    "subnationalJurisdiction": [
+        null
+    ],
+    "confirmed": true,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": null,
+        "availability": null
+    },
+    "deprecated": null,
+    "structure": [
+        "government_agency"
+    ],
+    "description": {
+        "en": "Use the final segment of the url (below /organisations) as the \"registration number\", converting all \"-\" to \"_\". Keep \"registration number\" portion all lowercase."
+    },
+    "meta": {
+        "lastUpdated": null,
+        "source": null
+    },
+    "registerType": "secondary",
+    "access": {
+        "languages": null,
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": null,
+        "availableOnline": false,
+        "guidanceOnLocatingIds": null
     }
-  ],
-  "languages": null,
-  "lastUpdated": null,
-  "structure": [
-    {
-      "name": "Government Agency",
-      "subtypeOf": null
-    }
-  ],
-  "licenseDetails": null,
-  "onlineAccessDetails": null,
-  "licenseStatus": null,
-  "registerType": "Secondary",
-  "sector": null,
-  "source": null,
-  "subnational": null,
-  "wikipedia": null,
-  "code": "GB-GOVUK",
-  "description": "Use the final segment of the url (below /organisations) as the \"registration number\", converting all \"-\" to \"_\". Keep \"registration number\" portion all lowercase.",
-  "name": "UK Government Departments, Agencies & Public Bodies",
-  "publicDatabase": null,
-  "url": "https://www.gov.uk/government/organisations"
 }

@@ -1,0 +1,96 @@
+{
+    "structure":[
+  {
+    "title": {
+      "en": "Charity"
+    },
+    "parent": null,
+    "code": "charity"
+  },
+  {
+    "title": {
+      "en": "Company"
+    },
+    "parent": null,
+    "code": "company"
+  },
+  {
+    "title": {
+      "en": "Company > Community Interest Company"
+    },
+    "parent": "company",
+    "code": "company/community_interest_company"
+  },
+  {
+    "title": {
+      "en": "Company > Limited Company"
+    },
+    "parent": "company",
+    "code": "company/limited_company"
+  },
+  {
+    "title": {
+      "en": "Company > Listed company"
+    },
+    "parent": "company",
+    "code": "company/listed_company"
+  },
+  {
+    "title": {
+      "en": "Company > Mutual"
+    },
+    "parent": "company",
+    "code": "company/mutual"
+  },
+  {
+    "title": {
+      "en": "Company > Partnership"
+    },
+    "parent": "company",
+    "code": "company/partnership"
+  },
+  {
+    "title": {
+      "en": "Company >  Sole trader"
+    },
+    "parent": "company",
+    "code": "company/sole_trader"
+  },
+  {
+    "title": {
+      "en": "Government Agency"
+    },
+    "parent": null,
+    "code": "government_agency"
+  },
+  {
+    "title": {
+      "en": "Government Agency > Local Government"
+    },
+    "parent": "government_agency",
+    "code": "government_agency/local_government"
+  },
+  {
+    "title": {
+      "en": "Government Agency > Public service"
+    },
+    "parent": "government_agency",
+    "code": "government_agency/public_service"
+  },
+  {
+    "title": {
+      "en": "Trust"
+    },
+    "parent": null,
+    "code": "trust"
+  },
+  {
+    "title": {
+      "en": "Unincorporated body"
+    },
+    "parent": null,
+    "code": "unincorporated_body"
+  }
+]
+
+}

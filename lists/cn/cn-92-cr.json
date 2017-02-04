@@ -1,45 +1,52 @@
 {
-  "former_prefixes": null,
-  "dataAccessProperties": null,
-  "availableOnline": null,
-  "confirmed": null,
-  "dataAccessDetails": null,
-  "datasetFeatures": null,
-  "deprecated": null,
-  "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": null,
-  "opencorporates": null,
-  "jurisdiction": [
-    {
-      "countryCode": "CN",
-      "country": "China"
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://www.dsaj.gov.mo/",
+    "name": {
+        "en": "Services Bureau of Justice Affairs - Commercial Register",
+        "local": ""
+    },
+    "jurisdiction": [
+        [
+            "CN"
+        ]
+    ],
+    "code": "CN-92-CR",
+    "formerPrefixes": null,
+    "subnationalJurisdiction": [
+        [
+            "CN_92"
+        ]
+    ],
+    "confirmed": null,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": "closed_license",
+        "availability": null
+    },
+    "deprecated": null,
+    "structure": [
+        "company"
+    ],
+    "description": {
+        "en": "This entry was imported from the Open Corporates Jurisdiction List."
+    },
+    "meta": {
+        "lastUpdated": "2016-09-07",
+        "source": null
+    },
+    "registerType": null,
+    "access": {
+        "languages": null,
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": null,
+        "availableOnline": false,
+        "guidanceOnLocatingIds": null
     }
-  ],
-  "languages": null,
-  "lastUpdated": "2016-09-07",
-  "structure": [
-    {
-      "name": "Company",
-      "subtypeOf": null
-    }
-  ],
-  "licenseDetails": null,
-  "onlineAccessDetails": null,
-  "licenseStatus": "Closed License",
-  "registerType": null,
-  "sector": null,
-  "source": null,
-  "subnational": [
-    {
-      "regionCode": "CN_92",
-      "country": null,
-      "regionName": null
-    }
-  ],
-  "wikipedia": null,
-  "code": "CN-92-CR",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
-  "name": "Services Bureau of Justice Affairs - Commercial Register",
-  "publicDatabase": null,
-  "url": "http://www.dsaj.gov.mo/"
 }

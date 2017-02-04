@@ -1,47 +1,54 @@
 {
-  "former_prefixes": null,
-  "dataAccessProperties": [
-    "Available: but details unknown"
-  ],
-  "availableOnline": "Yes",
-  "confirmed": null,
-  "dataAccessDetails": null,
-  "datasetFeatures": null,
-  "deprecated": null,
-  "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": null,
-  "opencorporates": null,
-  "jurisdiction": [
-    {
-      "countryCode": "US",
-      "country": "United States"
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://sos.iowa.gov/search/business/",
+    "name": {
+        "en": "Business Services Division, Secretary of State",
+        "local": ""
+    },
+    "jurisdiction": [
+        [
+            "US"
+        ]
+    ],
+    "code": "US-IA-CR",
+    "formerPrefixes": null,
+    "subnationalJurisdiction": [
+        [
+            "US_IA"
+        ]
+    ],
+    "confirmed": null,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": "open_license",
+        "availability": [
+            "available:_but_details_unknown"
+        ]
+    },
+    "deprecated": null,
+    "structure": [
+        "company"
+    ],
+    "description": {
+        "en": "This entry was imported from the Open Corporates Jurisdiction List."
+    },
+    "meta": {
+        "lastUpdated": "2016-09-07",
+        "source": null
+    },
+    "registerType": null,
+    "access": {
+        "languages": null,
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": null,
+        "availableOnline": false,
+        "guidanceOnLocatingIds": null
     }
-  ],
-  "languages": null,
-  "lastUpdated": "2016-09-07",
-  "structure": [
-    {
-      "name": "Company",
-      "subtypeOf": null
-    }
-  ],
-  "licenseDetails": null,
-  "onlineAccessDetails": null,
-  "licenseStatus": "Open License",
-  "registerType": null,
-  "sector": null,
-  "source": null,
-  "subnational": [
-    {
-      "regionCode": "US_IA",
-      "country": null,
-      "regionName": null
-    }
-  ],
-  "wikipedia": null,
-  "code": "US-IA-CR",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
-  "name": "Business Services Division, Secretary of State",
-  "publicDatabase": null,
-  "url": "http://sos.iowa.gov/search/business/"
 }

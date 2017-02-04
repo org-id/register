@@ -1,45 +1,52 @@
 {
-  "former_prefixes": null,
-  "dataAccessProperties": null,
-  "availableOnline": "Yes",
-  "confirmed": null,
-  "dataAccessDetails": null,
-  "datasetFeatures": null,
-  "deprecated": null,
-  "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": null,
-  "opencorporates": null,
-  "jurisdiction": [
-    {
-      "countryCode": "CN",
-      "country": "China"
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://wsgs.fjaic.gov.cn/creditpub/home",
+    "name": {
+        "en": "Fujian Provincial AIC Enterprise Registry",
+        "local": ""
+    },
+    "jurisdiction": [
+        [
+            "CN"
+        ]
+    ],
+    "code": "CN-35-CR",
+    "formerPrefixes": null,
+    "subnationalJurisdiction": [
+        [
+            "CN_35"
+        ]
+    ],
+    "confirmed": null,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": "no_license",
+        "availability": null
+    },
+    "deprecated": null,
+    "structure": [
+        "company"
+    ],
+    "description": {
+        "en": "This entry was imported from the Open Corporates Jurisdiction List."
+    },
+    "meta": {
+        "lastUpdated": "2016-09-07",
+        "source": null
+    },
+    "registerType": null,
+    "access": {
+        "languages": null,
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": null,
+        "availableOnline": false,
+        "guidanceOnLocatingIds": null
     }
-  ],
-  "languages": null,
-  "lastUpdated": "2016-09-07",
-  "structure": [
-    {
-      "name": "Company",
-      "subtypeOf": null
-    }
-  ],
-  "licenseDetails": null,
-  "onlineAccessDetails": null,
-  "licenseStatus": "No License",
-  "registerType": null,
-  "sector": null,
-  "source": null,
-  "subnational": [
-    {
-      "regionCode": "CN_35",
-      "country": null,
-      "regionName": null
-    }
-  ],
-  "wikipedia": null,
-  "code": "CN-35-CR",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
-  "name": "Fujian Provincial AIC Enterprise Registry",
-  "publicDatabase": null,
-  "url": "http://wsgs.fjaic.gov.cn/creditpub/home"
 }

@@ -1,41 +1,52 @@
 {
-  "former_prefixes": null,
-  "dataAccessProperties": [
-    "Data not available"
-  ],
-  "availableOnline": "No",
-  "confirmed": null,
-  "dataAccessDetails": null,
-  "datasetFeatures": null,
-  "deprecated": null,
-  "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": "None available",
-  "opencorporates": null,
-  "jurisdiction": [
-    {
-      "countryCode": "MZ",
-      "country": "Mozambique"
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "None available",
+    "name": {
+        "en": "Mozambique Ministry of Justice",
+        "local": ""
+    },
+    "jurisdiction": [
+        [
+            "MZ"
+        ]
+    ],
+    "code": "MZ-MOJ",
+    "formerPrefixes": null,
+    "subnationalJurisdiction": [
+        null
+    ],
+    "confirmed": null,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": "no_license",
+        "availability": [
+            "data_not_available"
+        ]
+    },
+    "deprecated": null,
+    "structure": [
+        "charity"
+    ],
+    "description": {
+        "en": "Local NGOs in Mozambique must register with the Ministry of Justice.\n\n\"Domestic NGOs are required to register with the Ministry of Justice.\" [1]\n\n[1] http://www.commonwealthofnations.org/sectors-mozambique/civil_society/national_ngos_civil_society/\n"
+    },
+    "meta": {
+        "lastUpdated": "2016-12-02",
+        "source": "Desk research"
+    },
+    "registerType": null,
+    "access": {
+        "languages": null,
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": "None available",
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "None available"
     }
-  ],
-  "languages": null,
-  "lastUpdated": "2016-12-02",
-  "structure": [
-    {
-      "name": "Charity",
-      "subtypeOf": null
-    }
-  ],
-  "licenseDetails": null,
-  "onlineAccessDetails": null,
-  "licenseStatus": "No License",
-  "registerType": null,
-  "sector": null,
-  "source": "Desk research",
-  "subnational": null,
-  "wikipedia": null,
-  "code": "MZ-MOJ",
-  "description": "Local NGOs in Mozambique must register with the Ministry of Justice.\n\n\"Domestic NGOs are required to register with the Ministry of Justice.\" [1]\n\n[1] http://www.commonwealthofnations.org/sectors-mozambique/civil_society/national_ngos_civil_society/\n",
-  "name": "Mozambique Ministry of Justice",
-  "publicDatabase": "None available",
-  "url": "None available"
 }

@@ -1,49 +1,60 @@
 {
-  "former_prefixes": null,
-  "dataAccessProperties": [
-    "HTML"
-  ],
-  "availableOnline": "Yes",
-  "confirmed": true,
-  "dataAccessDetails": null,
-  "datasetFeatures": [
-    "Registration Number",
-    "Organisation Name",
-    "Objectives/Purpose",
-    "Status",
-    "Organisation Type"
-  ],
-  "deprecated": null,
-  "exampleIdentifiers": "556698-6849, 769611-2163, 969698-3833",
-  "guidanceOnLocatingIds": "Users can find identifiers by using the simple, searchable database. This database is presented in Swedish.\n\nIn the search results, the identifiers can be found under the column heading 'Organisations-nummer' or 'Corporate registration number' in English.\n\n",
-  "opencorporates": true,
-  "jurisdiction": [
-    {
-      "countryCode": "SE",
-      "country": "Sweden"
+    "links": {
+        "wikipedia": null,
+        "opencorporates": "http://opencorporates.com/companies/se"
+    },
+    "sector": null,
+    "url": "http://www.bolagsverket.se/",
+    "name": {
+        "en": "Bolagsverket ",
+        "local": " Swedish Companies Registration Office"
+    },
+    "jurisdiction": [
+        [
+            "SE"
+        ]
+    ],
+    "code": "SE-BLV",
+    "formerPrefixes": null,
+    "subnationalJurisdiction": [
+        null
+    ],
+    "confirmed": true,
+    "data": {
+        "features": [
+            "registration_number",
+            "organisation_name",
+            "objectives/purpose",
+            "status",
+            "organisation_type"
+        ],
+        "dataAccessDetails": null,
+        "licenseDetails": "https://opencorporates.com/registers/249",
+        "licenseStatus": "open_license",
+        "availability": [
+            "html"
+        ]
+    },
+    "deprecated": null,
+    "structure": [
+        "company"
+    ],
+    "description": {
+        "en": "The Swedish Companies Registration Office (Bolagsverket) registers all business operating in Sweden, except for sole traders. This registry is available to search online. All entities are given an organisation number that can be used as an identifer.\n\n\"All forms of business enterprise except for sole traders have to be registered with the Swedish Companies Registration Office before starting to operate.\" [1]\n\n[1] https://www.verksamt.se/en/web/international/starting/get-started-business-registration-and-tax"
+    },
+    "meta": {
+        "lastUpdated": "2016-12-07",
+        "source": "Desk research"
+    },
+    "registerType": "primary",
+    "access": {
+        "languages": [
+            "sv"
+        ],
+        "exampleIdentifiers": "556698-6849, 769611-2163, 969698-3833",
+        "onlineAccessDetails": "Data available in online database. Default language is Swedish",
+        "publicDatabase": "https://www.verksamt.se/sok-foretagsnamn",
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "Users can find identifiers by using the simple, searchable database. This database is presented in Swedish.\n\nIn the search results, the identifiers can be found under the column heading 'Organisations-nummer' or 'Corporate registration number' in English.\n\n"
     }
-  ],
-  "languages": [
-    "sv"
-  ],
-  "lastUpdated": "2016-12-07",
-  "structure": [
-    {
-      "name": "Company",
-      "subtypeOf": null
-    }
-  ],
-  "licenseDetails": "https://opencorporates.com/registers/249",
-  "onlineAccessDetails": "Data available in online database. Default language is Swedish",
-  "licenseStatus": "Open License",
-  "registerType": "Primary",
-  "sector": null,
-  "source": "Desk research",
-  "subnational": null,
-  "wikipedia": null,
-  "code": "SE-BLV",
-  "description": "The Swedish Companies Registration Office (Bolagsverket) registers all business operating in Sweden, except for sole traders. This registry is available to search online. All entities are given an organisation number that can be used as an identifer.\n\n\"All forms of business enterprise except for sole traders have to be registered with the Swedish Companies Registration Office before starting to operate.\" [1]\n\n[1] https://www.verksamt.se/en/web/international/starting/get-started-business-registration-and-tax",
-  "name": "Bolagsverket / Swedish Companies Registration Office",
-  "publicDatabase": "https://www.verksamt.se/sok-foretagsnamn",
-  "url": "http://www.bolagsverket.se/"
 }

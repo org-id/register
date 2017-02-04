@@ -1,34 +1,48 @@
 {
-  "former_prefixes": null,
-  "dataAccessProperties": null,
-  "availableOnline": null,
-  "confirmed": true,
-  "dataAccessDetails": null,
-  "datasetFeatures": null,
-  "deprecated": true,
-  "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": null,
-  "opencorporates": null,
-  "jurisdiction": [
-    {
-      "countryCode": "BE",
-      "country": "Belgium"
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://www.juridat.be/tribunal_commerce/bruxelles/index.htm",
+    "name": {
+        "en": "Au Greffe du Tribunal de Commerce Francophone de Bruxelles",
+        "local": ""
+    },
+    "jurisdiction": [
+        [
+            "BE"
+        ]
+    ],
+    "code": "BE-GTCF",
+    "formerPrefixes": null,
+    "subnationalJurisdiction": [
+        null
+    ],
+    "confirmed": true,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": null,
+        "availability": null
+    },
+    "deprecated": true,
+    "structure": null,
+    "description": {
+        "en": "'The Registry of the Francophone Brussels Commercial Court' does not appear to be an organisation registration agency.\n\nThe one identifier we have found in use for this list appears to be derived instead from the BE-BCE_KBO register. "
+    },
+    "meta": {
+        "lastUpdated": null,
+        "source": null
+    },
+    "registerType": "deprecated",
+    "access": {
+        "languages": null,
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": null,
+        "availableOnline": false,
+        "guidanceOnLocatingIds": null
     }
-  ],
-  "languages": null,
-  "lastUpdated": null,
-  "structure": null,
-  "licenseDetails": null,
-  "onlineAccessDetails": null,
-  "licenseStatus": null,
-  "registerType": "Deprecated",
-  "sector": null,
-  "source": null,
-  "subnational": null,
-  "wikipedia": null,
-  "code": "BE-GTCF",
-  "description": "'The Registry of the Francophone Brussels Commercial Court' does not appear to be an organisation registration agency.\n\nThe one identifier we have found in use for this list appears to be derived instead from the BE-BCE_KBO register. ",
-  "name": "Au Greffe du Tribunal de Commerce Francophone de Bruxelles",
-  "publicDatabase": null,
-  "url": "http://www.juridat.be/tribunal_commerce/bruxelles/index.htm"
 }

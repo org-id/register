@@ -1,0 +1,40 @@
+{
+    "listType":[
+        {
+            "code":"primary",
+            "title":{
+                "en":"Primary"
+            },
+            "description":{
+                "en":"This is is provided by an official registrar. Organisations were assigned the identifier on this list at the time they were first created. The list has near to 100% coverage of the legal type in a jurisdiction (e.g. list contains all, or almost all, companies)"
+            }
+        },
+        {
+            "code":"secondary",
+            "title":{
+                "en":"Seccondary"
+            },
+            "description":{
+                "en":"This is list managed by an official source. Examples of secondary lists are VAT or Tax identifiers, or employer identification numbers.  Not all organisations of a given legal type will have these identifiers (for example, if they don't pay tax for a tax ID), and it may be possible to a single organisation to have more than one identifier from this list, or it's identifier to change at certain points in time. Being on this list relies upon some status the organisation has, or some official transactions it has engaged in."
+            }
+        },
+        {
+            "code":"third_party",
+            "title":{
+                "en":"Third Party"
+            },
+            "description":{
+                "en":"This list is maintained by a third-party who may or may not have had interactions or transactions with the organiastions listed. The list may be based on official records, but identifiers are assigned separately from official processes. The list is unlikely to be comprehensive, and instead is populated according to the needs of the third-pary who created it. However, a number of different databases or systems may draw upon this list for their organisation identifiers. "
+            }
+        },
+        {
+            "code":"local",
+            "title":{
+                "en":"Local"
+            },
+            "description":{
+                "en":"This list is maintained by a single organisation for their own business purpose. Only organisations the list owner has interacted with will be on the list.  The identifiers, and related data elements, are created and updated solely based on the needs of the list owner. An example of a local list is the internal supplier database of a single government agency. "
+            }
+        }
+    ]
+}

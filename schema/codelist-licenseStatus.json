@@ -1,0 +1,22 @@
+{
+    "licenseStatus":[
+        {
+            "code":"open_license",
+            "title":{
+                "en":"Open License"
+            }
+        },
+        {
+            "code":"no_license",
+            "title":{
+                "en":"No License"
+            }
+        },
+        {
+            "code":"closed_license",
+            "title":{
+                "en":"Closed License"
+            }
+        }
+    ]
+}

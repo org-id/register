@@ -1,59 +1,61 @@
 {
-  "former_prefixes": null,
-  "dataAccessProperties": [
-    "Bulk download",
-    "API"
-  ],
-  "availableOnline": "Yes",
-  "confirmed": true,
-  "dataAccessDetails": "Bulk downloads are provided at http://data.gov.au/dataset/abn-bulk-extract in XML format, and an API is provided at http://abr.business.gov.au/Webservices.aspx",
-  "datasetFeatures": [
-    "AKAs",
-    "Date of registration"
-  ],
-  "deprecated": null,
-  "exampleIdentifiers": "52093617380",
-  "guidanceOnLocatingIds": "It is possible to search for identifiers at http://abr.business.gov.au/\n\nThe Australian Business Number (ABN) is a unique 11 digit identifier issued to all entities registered in the Australian Business Register (ABR). The 11 digit ABN is structured as a 9 digit identifier with two \nleading check digits.\n\nThe identifiers are displayed on the website with spaces in the number. All the spaces should be removed when making use of the number within an identifier.",
-  "opencorporates": null,
-  "jurisdiction": [
-    {
-      "countryCode": "AU",
-      "country": "Australia"
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://abr.business.gov.au/",
+    "name": {
+        "en": "Australian Business Register",
+        "local": ""
+    },
+    "jurisdiction": [
+        [
+            "AU"
+        ]
+    ],
+    "code": "AU-ABN",
+    "formerPrefixes": null,
+    "subnationalJurisdiction": [
+        null
+    ],
+    "confirmed": true,
+    "data": {
+        "features": [
+            "akas",
+            "date_of_registration"
+        ],
+        "dataAccessDetails": "Bulk downloads are provided at http://data.gov.au/dataset/abn-bulk-extract in XML format, and an API is provided at http://abr.business.gov.au/Webservices.aspx",
+        "licenseDetails": "https://creativecommons.org/licenses/by/3.0/au/",
+        "licenseStatus": "open_license",
+        "availability": [
+            "bulk_download",
+            "api"
+        ]
+    },
+    "deprecated": null,
+    "structure": [
+        "unincorporated_body",
+        "trust",
+        "company",
+        "charity"
+    ],
+    "description": {
+        "en": "\"The Australian Business Number (ABN) enables businesses in Australia to deal with a range of government departments and agencies using a single identification number. The ABN is a public number which does not replace an organisations tax file number.\"\n\n\"ABN registration details become part of the Australian Business Register (ABR)\"\n\nEach ABN should equate to a single 'business structure', although that structure may be used to carry out a range of business activities.  A range of kinds of entity are issued ABNs, including individuals, corporations, partnerships, unincorporated associations, trusts and superannuation funds. Entities must be carrying on a business in or connection to Australia to receive an ABN."
+    },
+    "meta": {
+        "lastUpdated": "2016-09-02",
+        "source": "IATI + Additional Reseach"
+    },
+    "registerType": "secondary",
+    "access": {
+        "languages": [
+            "en"
+        ],
+        "exampleIdentifiers": "52093617380",
+        "onlineAccessDetails": null,
+        "publicDatabase": null,
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "It is possible to search for identifiers at http://abr.business.gov.au/\n\nThe Australian Business Number (ABN) is a unique 11 digit identifier issued to all entities registered in the Australian Business Register (ABR). The 11 digit ABN is structured as a 9 digit identifier with two \nleading check digits.\n\nThe identifiers are displayed on the website with spaces in the number. All the spaces should be removed when making use of the number within an identifier."
     }
-  ],
-  "languages": [
-    "en"
-  ],
-  "lastUpdated": "2016-09-02",
-  "structure": [
-    {
-      "name": "Unincorporated body",
-      "subtypeOf": null
-    },
-    {
-      "name": "Trust",
-      "subtypeOf": null
-    },
-    {
-      "name": "Company",
-      "subtypeOf": null
-    },
-    {
-      "name": "Charity",
-      "subtypeOf": null
-    }
-  ],
-  "licenseDetails": "https://creativecommons.org/licenses/by/3.0/au/",
-  "onlineAccessDetails": null,
-  "licenseStatus": "Open License",
-  "registerType": "Secondary",
-  "sector": null,
-  "source": "IATI + Additional Reseach",
-  "subnational": null,
-  "wikipedia": null,
-  "code": "AU-ABN",
-  "description": "\"The Australian Business Number (ABN) enables businesses in Australia to deal with a range of government departments and agencies using a single identification number. The ABN is a public number which does not replace an organisations tax file number.\"\n\n\"ABN registration details become part of the Australian Business Register (ABR)\"\n\nEach ABN should equate to a single 'business structure', although that structure may be used to carry out a range of business activities.  A range of kinds of entity are issued ABNs, including individuals, corporations, partnerships, unincorporated associations, trusts and superannuation funds. Entities must be carrying on a business in or connection to Australia to receive an ABN.",
-  "name": "Australian Business Register",
-  "publicDatabase": null,
-  "url": "http://abr.business.gov.au/"
 }

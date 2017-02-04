@@ -1,59 +1,70 @@
 {
-  "former_prefixes": null,
-  "dataAccessProperties": [
-    "Bulk download",
-    "csv",
-    "Excel",
-    "JSON",
-    "GeoJSON",
-    "KML",
-    "shapeFile",
-    "HTML"
-  ],
-  "availableOnline": "Yes",
-  "confirmed": true,
-  "dataAccessDetails": "Basic company informaiton is available using the home page search bar, but for more detailed information, users should go to the datainfogreffe portal, or pay for bulk download",
-  "datasetFeatures": [
-    "Registered address",
-    "Date of registration",
-    "Registration Number",
-    "Organisation Name",
-    "Activities/Sector Code",
-    "Financial Turnover/Details",
-    "Organisation Type"
-  ],
-  "deprecated": null,
-  "exampleIdentifiers": "*799 640 131 00014 (SIRET) = 799 640 131 (SIREN) - 00014 (NIC)* , 512 788 308 00025, 798 620 860 00022",
-  "guidanceOnLocatingIds": "Users can find identifiers using the simple, search bar present near the top of every webpage on the Infogreffe website - https://www.infogreffe.com/societes/\n\nAfter searching for a company, address, director or number, the identifier is under the column header 'SIREN / SIRET' \n\nPlease note : users may have to click on the record in order to see the full SIRET identifier number\n\nUsers can also analyse datasets on the Infogreffe Open Data portal - https://datainfogreffe.fr/explore/?sort=modified&q=\n\nThe Identifier is under the column header 'SIREN'",
-  "opencorporates": null,
-  "jurisdiction": [
-    {
-      "countryCode": "FR",
-      "country": "France"
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://www.infogreffe.fr",
+    "name": {
+        "en": "Trade and Companies Register ",
+        "local": " Les Greffes des Tribunaux de Commerce"
+    },
+    "jurisdiction": [
+        [
+            "FR"
+        ]
+    ],
+    "code": "FR-RCS",
+    "formerPrefixes": null,
+    "subnationalJurisdiction": [
+        null
+    ],
+    "confirmed": true,
+    "data": {
+        "features": [
+            "registered_address",
+            "date_of_registration",
+            "registration_number",
+            "organisation_name",
+            "activities/sector_code",
+            "financial_turnover/details",
+            "organisation_type"
+        ],
+        "dataAccessDetails": "Basic company informaiton is available using the home page search bar, but for more detailed information, users should go to the datainfogreffe portal, or pay for bulk download",
+        "licenseDetails": "https://www.etalab.gouv.fr/licence-ouverte-open-licence",
+        "licenseStatus": "open_license",
+        "availability": [
+            "bulk_download",
+            "csv",
+            "excel",
+            "json",
+            "geojson",
+            "kml",
+            "shapefile",
+            "html"
+        ]
+    },
+    "deprecated": null,
+    "structure": [
+        "company"
+    ],
+    "description": {
+        "en": "In France, companies register through a number of institutions, predominantly the local centres de formalit\u00e9s des entreprises, but all companies must eventually be registered with the Trade and Companies Register. Once registered, companies receive a SIREN or SIRET number, which is a unique business identifier.\n\nThis information is maintained by Infogreffe. Infogreffe provide a basic overview of company information for free, and bulk download of data for a fee.\n\nA note on identifiers: \n\nA SIRET number is constituted by the SIREN number, plus the NIC code. \n\nThe SIREN number relates to a business, whereas a SIRET number relates to a specific geographically located establishment which will be owned by a business.\n\n\"A SIREN number is your unique French business identification number. This 9 digit number will be requested by all French administration when dealing with you.. It is a proof that you are a fully registered French business\" [1]\n\n\"The SIRET code/number is an INSEE code which allows the geographic identification of any French establishment or business.\n\nThe 14-digit number consists of three parts:\n\n- first, the SIREN code of the business (or legal unit or person) that owns the unit represented by the SIRET code,\n- second, the NIC (French: Num\u00e9ro interne de classement), is a sequential four-digit number unique to the establishment,\n- and finally, a check digit that verifies the entire SIRET number.\n\nFor example, 732 829 320 00074 would refer to the seventh establishment of the business with SIREN number 732 829 320.\" [2]\n\n\"Registration is administered by local centres de formalit\u00e9s des entreprises ( CFE), which checks your application and submits details to the relevant agencies (for a small fee). The CFE will provide you with a form M0, which is for the creation of a company.\" [3] \n\n\"Creating a company requires that it is registered with the Trade and Companies Register (RCS).\" [4] \n\n\"WHAT SOURCE IS USED FOR INFORMATION AVAILABLE ON THE INFOGREFFE WEBSITE?\n\nInformation concerning companies entered on the Trade and Companies Register with Registries of the Commercial Courts is taken directly from public registers held by said registries. \n\nInformation concerning companies entered on the Trade and Companies Register with other jurisdictions (district courts with commercial jurisdiction, mixed commercial courts in the overseas departments and territories) is provided by the National Industrial Property Institute (INPI).\n\nInformation concerning companies not entered on the Trade and Companies Register is taken from data on the SIRENE listing held by INSEE.\" [5]\n\n\"WHAT DOCUMENTS ARE AVAILABLE ON THE INFOGREFFE WEBSITE?\nInfogreffe makes the following information available to the general public:\n\nFree information\n\u2022    Company search and information form\n\u2022    Key figures concerning a company\n\u2022    Implementing tracking (free alert, paid consultation).\n\u2022    Lists of articles of association and company deeds available.\n\u2022    Your formalities with online help to be incorporated on the Trade and Companies Register.\n\nPaid information\nView, download, order\" [6]\n\n[1] http://www.startbusinessinfrance.com/blog/post/tip-what-is-a-siren-or-siret-number\n[2] https://en.wikipedia.org/wiki/SIRET_code\n[3] https://www.justlanded.com/english/France/France-Guide/Business/Paperwork\n[4][5] https://www.infogreffe.com/societes/formalites-entreprise/immatriculation-entreprise.html\n[6] https://www.infogreffe.com/societes/informations-et-dossiers-entreprises/aide-faq.html#1"
+    },
+    "meta": {
+        "lastUpdated": "2016-11-25",
+        "source": "Desk research"
+    },
+    "registerType": "secondary",
+    "access": {
+        "languages": [
+            "en",
+            "fr"
+        ],
+        "exampleIdentifiers": "*799 640 131 00014 (SIRET) = 799 640 131 (SIREN) - 00014 (NIC)* , 512 788 308 00025, 798 620 860 00022",
+        "onlineAccessDetails": "Data is available through a simple search for free, a bulk download of more detailed documentation for a fee, and also through an open data portal",
+        "publicDatabase": "https://www.infogreffe.com/societes/ , https://datainfogreffe.fr/explore/?sort=modified&q=",
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "Users can find identifiers using the simple, search bar present near the top of every webpage on the Infogreffe website - https://www.infogreffe.com/societes/\n\nAfter searching for a company, address, director or number, the identifier is under the column header 'SIREN / SIRET' \n\nPlease note : users may have to click on the record in order to see the full SIRET identifier number\n\nUsers can also analyse datasets on the Infogreffe Open Data portal - https://datainfogreffe.fr/explore/?sort=modified&q=\n\nThe Identifier is under the column header 'SIREN'"
     }
-  ],
-  "languages": [
-    "en",
-    "fr"
-  ],
-  "lastUpdated": "2016-11-25",
-  "structure": [
-    {
-      "name": "Company",
-      "subtypeOf": null
-    }
-  ],
-  "licenseDetails": "https://www.etalab.gouv.fr/licence-ouverte-open-licence",
-  "onlineAccessDetails": "Data is available through a simple search for free, a bulk download of more detailed documentation for a fee, and also through an open data portal",
-  "licenseStatus": "Open License",
-  "registerType": "Secondary",
-  "sector": null,
-  "source": "Desk research",
-  "subnational": null,
-  "wikipedia": null,
-  "code": "FR-RCS",
-  "description": "In France, companies register through a number of institutions, predominantly the local centres de formalit\u00e9s des entreprises, but all companies must eventually be registered with the Trade and Companies Register. Once registered, companies receive a SIREN or SIRET number, which is a unique business identifier.\n\nThis information is maintained by Infogreffe. Infogreffe provide a basic overview of company information for free, and bulk download of data for a fee.\n\nA note on identifiers: \n\nA SIRET number is constituted by the SIREN number, plus the NIC code. \n\nThe SIREN number relates to a business, whereas a SIRET number relates to a specific geographically located establishment which will be owned by a business.\n\n\"A SIREN number is your unique French business identification number. This 9 digit number will be requested by all French administration when dealing with you.. It is a proof that you are a fully registered French business\" [1]\n\n\"The SIRET code/number is an INSEE code which allows the geographic identification of any French establishment or business.\n\nThe 14-digit number consists of three parts:\n\n- first, the SIREN code of the business (or legal unit or person) that owns the unit represented by the SIRET code,\n- second, the NIC (French: Num\u00e9ro interne de classement), is a sequential four-digit number unique to the establishment,\n- and finally, a check digit that verifies the entire SIRET number.\n\nFor example, 732 829 320 00074 would refer to the seventh establishment of the business with SIREN number 732 829 320.\" [2]\n\n\"Registration is administered by local centres de formalit\u00e9s des entreprises ( CFE), which checks your application and submits details to the relevant agencies (for a small fee). The CFE will provide you with a form M0, which is for the creation of a company.\" [3] \n\n\"Creating a company requires that it is registered with the Trade and Companies Register (RCS).\" [4] \n\n\"WHAT SOURCE IS USED FOR INFORMATION AVAILABLE ON THE INFOGREFFE WEBSITE?\n\nInformation concerning companies entered on the Trade and Companies Register with Registries of the Commercial Courts is taken directly from public registers held by said registries. \n\nInformation concerning companies entered on the Trade and Companies Register with other jurisdictions (district courts with commercial jurisdiction, mixed commercial courts in the overseas departments and territories) is provided by the National Industrial Property Institute (INPI).\n\nInformation concerning companies not entered on the Trade and Companies Register is taken from data on the SIRENE listing held by INSEE.\" [5]\n\n\"WHAT DOCUMENTS ARE AVAILABLE ON THE INFOGREFFE WEBSITE?\nInfogreffe makes the following information available to the general public:\n\nFree information\n\u2022    Company search and information form\n\u2022    Key figures concerning a company\n\u2022    Implementing tracking (free alert, paid consultation).\n\u2022    Lists of articles of association and company deeds available.\n\u2022    Your formalities with online help to be incorporated on the Trade and Companies Register.\n\nPaid information\nView, download, order\" [6]\n\n[1] http://www.startbusinessinfrance.com/blog/post/tip-what-is-a-siren-or-siret-number\n[2] https://en.wikipedia.org/wiki/SIRET_code\n[3] https://www.justlanded.com/english/France/France-Guide/Business/Paperwork\n[4][5] https://www.infogreffe.com/societes/formalites-entreprise/immatriculation-entreprise.html\n[6] https://www.infogreffe.com/societes/informations-et-dossiers-entreprises/aide-faq.html#1",
-  "name": "Trade and Companies Register / Les Greffes des Tribunaux de Commerce",
-  "publicDatabase": "https://www.infogreffe.com/societes/ , https://datainfogreffe.fr/explore/?sort=modified&q=",
-  "url": "http://www.infogreffe.fr"
 }

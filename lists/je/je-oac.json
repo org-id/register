@@ -1,43 +1,54 @@
 {
-  "former_prefixes": null,
-  "dataAccessProperties": [
-    "Data not available"
-  ],
-  "availableOnline": "No",
-  "confirmed": true,
-  "dataAccessDetails": null,
-  "datasetFeatures": null,
-  "deprecated": true,
-  "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": "None available ",
-  "opencorporates": null,
-  "jurisdiction": [
-    {
-      "countryCode": "JE",
-      "country": "Jersey"
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://www.jerseyoverseasaid.org.je/",
+    "name": {
+        "en": "Jersey Overseas Aid Commission",
+        "local": ""
+    },
+    "jurisdiction": [
+        [
+            "JE"
+        ]
+    ],
+    "code": "JE-OAC",
+    "formerPrefixes": null,
+    "subnationalJurisdiction": [
+        null
+    ],
+    "confirmed": true,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": "no_license",
+        "availability": [
+            "data_not_available"
+        ]
+    },
+    "deprecated": true,
+    "structure": [
+        "charity"
+    ],
+    "description": {
+        "en": "The Jersey Overseas Aid Commission is responsible for distributing international development funds from Jersey. But they are not responsible for registration of NGOs. No database for organisation identifiers has been found.\n\n\"Jersey has been funding international aid and development since 1968, but the current \u2018Jersey Overseas Aid Commission\u2019 was established by law in 2005. It is an independent body within the responsibilities of the Chief Minister. It is governed by three States Commissioners and three non-States Commissioners, all of whom are appointed by the States of Jersey.\" [1]\n\n\"The Non-Profit Organizations (Jersey) Law 2008 (the \u201cNPO Law\u201d) was registered by the Royal Court on 25 July 2008 and came into effect on 8 August 2008. This legislation requires NPOs to register with the Commission in certain circumstances. \" [2]\n\n[1] https://www.joa.je/the-commission/\n[2] http://www.jerseyfsc.org/anti-money_laundering/forms/NPO/index.asp"
+    },
+    "meta": {
+        "lastUpdated": "2016-12-27",
+        "source": "Desk research"
+    },
+    "registerType": "deprecated",
+    "access": {
+        "languages": [
+            "en"
+        ],
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": "None available ",
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "None available "
     }
-  ],
-  "languages": [
-    "en"
-  ],
-  "lastUpdated": "2016-12-27",
-  "structure": [
-    {
-      "name": "Charity",
-      "subtypeOf": null
-    }
-  ],
-  "licenseDetails": null,
-  "onlineAccessDetails": null,
-  "licenseStatus": "No License",
-  "registerType": "Deprecated",
-  "sector": null,
-  "source": "Desk research",
-  "subnational": null,
-  "wikipedia": null,
-  "code": "JE-OAC",
-  "description": "The Jersey Overseas Aid Commission is responsible for distributing international development funds from Jersey. But they are not responsible for registration of NGOs. No database for organisation identifiers has been found.\n\n\"Jersey has been funding international aid and development since 1968, but the current \u2018Jersey Overseas Aid Commission\u2019 was established by law in 2005. It is an independent body within the responsibilities of the Chief Minister. It is governed by three States Commissioners and three non-States Commissioners, all of whom are appointed by the States of Jersey.\" [1]\n\n\"The Non-Profit Organizations (Jersey) Law 2008 (the \u201cNPO Law\u201d) was registered by the Royal Court on 25 July 2008 and came into effect on 8 August 2008. This legislation requires NPOs to register with the Commission in certain circumstances. \" [2]\n\n[1] https://www.joa.je/the-commission/\n[2] http://www.jerseyfsc.org/anti-money_laundering/forms/NPO/index.asp",
-  "name": "Jersey Overseas Aid Commission",
-  "publicDatabase": "None available ",
-  "url": "http://www.jerseyoverseasaid.org.je/"
 }

@@ -1,71 +1,62 @@
 {
-  "former_prefixes": null,
-  "dataAccessProperties": [
-    "Bulk download",
-    "API"
-  ],
-  "availableOnline": "Yes",
-  "confirmed": true,
-  "dataAccessDetails": "An API is available at https://developer.companieshouse.gov.uk/api/docs/ and bulk data is provided at http://download.companieshouse.gov.uk/en_output.html",
-  "datasetFeatures": [
-    "Registered address",
-    "Directors / Trustees / Governors"
-  ],
-  "deprecated": null,
-  "exampleIdentifiers": "09506232, 07444723",
-  "guidanceOnLocatingIds": null,
-  "opencorporates": true,
-  "jurisdiction": [
-    {
-      "countryCode": "GB",
-      "country": "United Kingdom"
+    "links": {
+        "wikipedia": null,
+        "opencorporates": "http://opencorporates.com/companies/gb"
+    },
+    "sector": null,
+    "url": "http://www.companieshouse.gov.uk/",
+    "name": {
+        "en": "Companies House",
+        "local": ""
+    },
+    "jurisdiction": [
+        [
+            "GB"
+        ]
+    ],
+    "code": "GB-COH",
+    "formerPrefixes": null,
+    "subnationalJurisdiction": [
+        null
+    ],
+    "confirmed": true,
+    "data": {
+        "features": [
+            "registered_address",
+            "directors_trustees_governors"
+        ],
+        "dataAccessDetails": "An API is available at https://developer.companieshouse.gov.uk/api/docs/ and bulk data is provided at http://download.companieshouse.gov.uk/en_output.html",
+        "licenseDetails": "\u201cSupplied under section 47 and 50 of the Copyright, Designs and Patents Act 1988 and Schedule 1 of the Database Regulations (SI 1997/3032)\u201d",
+        "licenseStatus": "open_license",
+        "availability": [
+            "bulk_download",
+            "api"
+        ]
+    },
+    "deprecated": null,
+    "structure": [
+        "company/listed_company",
+        "company/community_interest_company",
+        "company/partnership",
+        "company/limited_company",
+        "charity"
+    ],
+    "description": {
+        "en": "Companies House is the United Kingdom's register of companies.\n\nIt contains entries for many kinds of companies, including:\n\n* Public limited company (PLC)\n* Private company limited by shares (Ltd, Limited)\n* Private company limited by guarantee, typically a non-commercial membership body such as a charity\n* Private unlimited company (either with or without a share capital)\n* Limited liability partnership (LLP)\n* Limited partnership (LP)\n* Societas Europaea (SE): European Union-wide company structure\n* Companies incorporated by Royal Charter (RC)\n* Community interest company"
+    },
+    "meta": {
+        "lastUpdated": "2016-09-17",
+        "source": null
+    },
+    "registerType": "primary",
+    "access": {
+        "languages": [
+            "en"
+        ],
+        "exampleIdentifiers": "09506232, 07444723",
+        "onlineAccessDetails": null,
+        "publicDatabase": null,
+        "availableOnline": false,
+        "guidanceOnLocatingIds": null
     }
-  ],
-  "languages": [
-    "en"
-  ],
-  "lastUpdated": "2016-09-17",
-  "structure": [
-    {
-      "name": "Listed company",
-      "subtypeOf": [
-        "reciN6k5BN1PawHxI"
-      ]
-    },
-    {
-      "name": "Community Interest Company",
-      "subtypeOf": [
-        "reciN6k5BN1PawHxI"
-      ]
-    },
-    {
-      "name": "Partnership",
-      "subtypeOf": [
-        "reciN6k5BN1PawHxI"
-      ]
-    },
-    {
-      "name": "Limited Company",
-      "subtypeOf": [
-        "reciN6k5BN1PawHxI"
-      ]
-    },
-    {
-      "name": "Charity",
-      "subtypeOf": null
-    }
-  ],
-  "licenseDetails": "\u201cSupplied under section 47 and 50 of the Copyright, Designs and Patents Act 1988 and Schedule 1 of the Database Regulations (SI 1997/3032)\u201d",
-  "onlineAccessDetails": null,
-  "licenseStatus": "Open License",
-  "registerType": "Primary",
-  "sector": null,
-  "source": null,
-  "subnational": null,
-  "wikipedia": null,
-  "code": "GB-COH",
-  "description": "Companies House is the United Kingdom's register of companies.\n\nIt contains entries for many kinds of companies, including:\n\n* Public limited company (PLC)\n* Private company limited by shares (Ltd, Limited)\n* Private company limited by guarantee, typically a non-commercial membership body such as a charity\n* Private unlimited company (either with or without a share capital)\n* Limited liability partnership (LLP)\n* Limited partnership (LP)\n* Societas Europaea (SE): European Union-wide company structure\n* Companies incorporated by Royal Charter (RC)\n* Community interest company",
-  "name": "Companies House",
-  "publicDatabase": null,
-  "url": "http://www.companieshouse.gov.uk/"
 }

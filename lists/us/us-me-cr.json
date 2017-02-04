@@ -1,45 +1,52 @@
 {
-  "former_prefixes": null,
-  "dataAccessProperties": null,
-  "availableOnline": "Yes",
-  "confirmed": null,
-  "dataAccessDetails": null,
-  "datasetFeatures": null,
-  "deprecated": null,
-  "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": null,
-  "opencorporates": null,
-  "jurisdiction": [
-    {
-      "countryCode": "US",
-      "country": "United States"
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "https://icrs.informe.org/nei-sos-icrs/ICRS?MainPage=x",
+    "name": {
+        "en": "Division of Corporations, UCC and Commissions, Bureau of Corporations, Elections & Commissions, Department of the Secretary of State",
+        "local": ""
+    },
+    "jurisdiction": [
+        [
+            "US"
+        ]
+    ],
+    "code": "US-ME-CR",
+    "formerPrefixes": null,
+    "subnationalJurisdiction": [
+        [
+            "US_ME"
+        ]
+    ],
+    "confirmed": null,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": "no_license",
+        "availability": null
+    },
+    "deprecated": null,
+    "structure": [
+        "company"
+    ],
+    "description": {
+        "en": "This entry was imported from the Open Corporates Jurisdiction List."
+    },
+    "meta": {
+        "lastUpdated": "2016-09-07",
+        "source": null
+    },
+    "registerType": null,
+    "access": {
+        "languages": null,
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": null,
+        "availableOnline": false,
+        "guidanceOnLocatingIds": null
     }
-  ],
-  "languages": null,
-  "lastUpdated": "2016-09-07",
-  "structure": [
-    {
-      "name": "Company",
-      "subtypeOf": null
-    }
-  ],
-  "licenseDetails": null,
-  "onlineAccessDetails": null,
-  "licenseStatus": "No License",
-  "registerType": null,
-  "sector": null,
-  "source": null,
-  "subnational": [
-    {
-      "regionCode": "US_ME",
-      "country": null,
-      "regionName": null
-    }
-  ],
-  "wikipedia": null,
-  "code": "US-ME-CR",
-  "description": "This entry was imported from the Open Corporates Jurisdiction List.",
-  "name": "Division of Corporations, UCC and Commissions, Bureau of Corporations, Elections & Commissions, Department of the Secretary of State",
-  "publicDatabase": null,
-  "url": "https://icrs.informe.org/nei-sos-icrs/ICRS?MainPage=x"
 }

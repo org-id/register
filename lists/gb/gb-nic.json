@@ -1,47 +1,52 @@
 {
-  "former_prefixes": null,
-  "dataAccessProperties": null,
-  "availableOnline": null,
-  "confirmed": true,
-  "dataAccessDetails": null,
-  "datasetFeatures": null,
-  "deprecated": null,
-  "exampleIdentifiers": null,
-  "guidanceOnLocatingIds": null,
-  "opencorporates": null,
-  "jurisdiction": [
-    {
-      "countryCode": "GB",
-      "country": "United Kingdom"
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://www.charitycommissionni.org.uk/",
+    "name": {
+        "en": "The Charity Commission for Northern Ireland",
+        "local": ""
+    },
+    "jurisdiction": [
+        [
+            "GB"
+        ]
+    ],
+    "code": "GB-NIC",
+    "formerPrefixes": null,
+    "subnationalJurisdiction": [
+        [
+            "GB-NIR"
+        ]
+    ],
+    "confirmed": true,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": null,
+        "availability": null
+    },
+    "deprecated": null,
+    "structure": [
+        "charity"
+    ],
+    "description": {
+        "en": null
+    },
+    "meta": {
+        "lastUpdated": null,
+        "source": null
+    },
+    "registerType": "primary",
+    "access": {
+        "languages": null,
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": null,
+        "availableOnline": false,
+        "guidanceOnLocatingIds": null
     }
-  ],
-  "languages": null,
-  "lastUpdated": null,
-  "structure": [
-    {
-      "name": "Charity",
-      "subtypeOf": null
-    }
-  ],
-  "licenseDetails": null,
-  "onlineAccessDetails": null,
-  "licenseStatus": null,
-  "registerType": "Primary",
-  "sector": null,
-  "source": null,
-  "subnational": [
-    {
-      "regionCode": "GB-NIR",
-      "country": [
-        "recbO0TnMgfxNbDxe"
-      ],
-      "regionName": "Northern Ireland"
-    }
-  ],
-  "wikipedia": null,
-  "code": "GB-NIC",
-  "description": null,
-  "name": "The Charity Commission for Northern Ireland",
-  "publicDatabase": null,
-  "url": "http://www.charitycommissionni.org.uk/"
 }
