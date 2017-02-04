@@ -1,0 +1,316 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "description": "Organisation identifier lists contain names, identifiers and other information about entities such as companies, charities, government agencies or associations. This schema sets out key meta-data to record about such lists in order to support data publishers and users to select appropriate lists to use, or to interpret information provided by a particular list.",
+    "properties": {
+        "name": {
+            "title": "List name",
+            "description": "Provide the name of this list in English, and then the local language, if applicable.",
+            "propertyOrder":1,
+            "minLength": 1,
+            "type": "object",
+            "properties":{
+                "en":{
+                    "type":"string",
+                    "title":"English"
+                },
+                "local":{
+                    "type":"string",
+                    "title":"Local language",
+                    "description":"If this list has a local language name, please provide that here. If local law requires the name to be provided in multiple languages, separate these with '/'."
+                }
+            }
+        },
+        "url": {
+                    "title": "List URL",
+                    "description": "Provide a URL where further information about this list can be found (e.g. the homepage of the relevant registar or list maintainer).",
+                    "propertyOrder":1.5,
+                    "default": "http://",
+                    "type": "string",
+                    "format":"uri"
+        },
+        "description": {
+            "title": "List description",
+            "description": "The list description should be written in plain text or markdown, and should contain the following paragraphs: (1) A description of the kinds of organisations that will be found on this list (this should be summarised from official websites/information where available); (2) A short (1-2 sentence) explanation of how organisations end up on this list (e.g. relevant information on registration procedures); and (3) Any essential considerations for users of this list. Numbered footnotes can be included using markdown syntax (e.g. [1] in-line to indicate a footnote, and list of citations at the bottom of the text each on their own line formatted as '[1]: Citation' etc.).",
+            "propertyOrder":2,
+            "minLength": 100,
+            "type": "string",
+            "format":"textarea"
+        },
+        "jurisdiction": {
+            "title": "Jurisdiction",
+            "description": "Which jurisdiction does this organisation list cover? For any list which contains entries only from a given country, or a defined list of countries, the ISO 2-digit country code(s) should be used. For lists that contain entries from multiple countries (but not a restricted list), one of the following codes should be used: XM for Multilateral/international agencies; XI for International; XR for Regional and ZZ for publisher created lists with no particular jurisdictional focus.",
+            "propertyOrder":3,
+            "type": "array",
+            "items": {
+                "description": "The ISO 2-digit country code.",
+                "enum": [
+                    "--this field is populated with update.py--"
+                ],
+                "maxLength": 2,
+                "minLength": 2,
+                "title": "Country Code",
+                "type": [
+                    "string"
+                ]
+            },
+
+            "uniqueItems": true
+        },
+        "subnationalJurisdictions": {
+            "title": "Subnational jurisdiction",
+            "description": "If this list does not cover a whole country, but **only** covers one or more sub-national territories, enter the ISO 3166-2 Subdivision Assigned Code.",
+            "propertyOrder":4,
+            "type": "array",
+            "items": {
+                "description": "The ISO 3166-2 Subdivision Assigned code.",
+                "enum": [
+                    "--this field is populated with update.py--"
+                ],
+                "maxLength": 8,
+                "minLength": 2,
+                "title": "ISO 3166-2 Subdivision Code",
+                "type": [
+                    "string"
+                ]
+            }
+        },
+        "structure": {
+            "title": "Legal structure",
+            "description": "Select all the legal structures which this list covers. Note that legal structures are organised hierarchically in the dataset. So, for example, ‘Sole Trader’ is a kind of company.",
+            "format": "table",
+            "propertyOrder":5,
+            "type": "array",
+            "items": {
+                "title": "Legal Structure Code",
+                "description": "The codelist entry for this legal structure.",
+                "enum": [
+                    "--this field is populated with update.py--"
+                ],
+                "type": [
+                    "string"
+                ]
+            },
+            "uniqueItems": true
+        },
+        "sector": {
+            "title": "Sector",
+            "description": "If this list is specific to a particular sector, you can declare that here. If the list is not specific to a particular sector, leave this field blank.",
+            "propertyOrder":6,
+            "type": "array",
+            "items": {
+                "title": "Sector code",
+                "description": "The codelist entry for this sector.",
+                "enum": [
+                    "--this field is populated with update.py--"
+                ],
+                "type": [
+                    "string",
+                    "null"
+                ]
+            },
+            "uniqueItems": true
+        },
+        "code": {
+            "title": "List code",
+            "description": "Each organisation list code is made up of two parts: (1) a jurisdiction code; and (2) a list code. The list code should be: between 2 and 7 characters long; using a recognisable acronym or contraction of the name of the organisation list; based on the local language version of the list name; and memorable wherever possible.",
+            "propertyOrder":7,
+            "id": "code",
+            "minLength": 4,
+            "type": "string"
+        },
+        "confirmed": {
+            "title": "List reviewed?",
+            "description": "Once this list has been reviewed by an administrator, this value can be set as true. Only reviewed codes should be included in production systems, and non-confirmed codes should be treated as drafts.",
+            "propertyOrder":8,
+            "type": "boolean",
+            "default":false
+        },
+        "deprecated": {
+            "title": "Deprecated?",
+            "description": "If this list has been removed from active use, deprecated should be set to true. The description of the list should be updated to explain the reason for deprecation. Systems should warn users against using deprecated lists.",
+            "propertyOrder":9,
+            "type": "boolean",
+            "default":false
+        },
+        "listType": {
+            "title": "List type",
+            "description": "You will need to determine if this list is a primary identifier list or whether it has secondary, third-party or local status.",
+            "propertyOrder":10,
+            "type": "string",
+            "enum":["--populated by update--"]
+        },
+        "access":{
+            "title":"Access information",
+            "description":"Information about access to this list, the identifiers and additional information it contains.",
+            "propertyOrder":10,
+            "type":"object",
+            "properties":{
+                "availableOnline": {
+                    "title": "Available online?",
+                    "description": "Is is possible to access this list online in any form (search / bulk download etc.)",
+                    "propertyOrder":10.1,
+                    "type": "string",
+                    "enum":["yes","no"]
+                },
+                "onlineAccessDetails": {
+                    "title": "Online access details",
+                    "description": "An optional description of how to access this list online, including details of any registration requirements or other limitations on free access.",
+                    "propertyOrder":10.3,
+                    "format":"textarea",
+                    "type": ["string","null"]
+                },
+                "publicDatabase": {
+                    "title": "List URL",
+                    "description": "Where should users go to search or access this list?",
+                    "propertyOrder":10.35,
+                    "id": "publicDatabase",
+                    "type": "string",
+                    "format":"url",
+                    "default":"http://"
+                },              
+                "guidanceOnLocatingIds": {
+                    "title": "How to locate identifiers",
+                    "description": "Provide brief guidance on how someone visiting the URL for this list should locate an identifier. This should include a description of any steps that need to be taken for format the identifier that is returned.",
+                    "propertyOrder":10.4,
+                    "format":"textarea",
+                    "type": "string"
+                },
+                "exampleIdentifiers": {
+                    "title": "Example identifiers",
+                    "description": "Please give a short list (3 - 5 entries) with example identifiers from this register. These should be formatted for use in an org-id string (e.g. removing spaces, or special characters). Where a list contains a range of different kinds of identifiers, try to provide a representative sample.",
+                    "propertyOrder":10.5,
+                    "type": "string"
+                },
+                "languages": {
+                    "title": "Languages",
+                    "description": "Which languages is this list, and/or the interfaces to access it, available in?",
+                    "propertyOrder":10.6,
+                    "type": "array",
+                    "items": {
+                        "minLength": 1,
+                        "title": "ISO 2-digit language code",
+                        "type": "string"
+                    },
+                    "uniqueItems": true
+                }
+            }
+        },
+        "data":{
+            "title":"Dataset access",
+            "description":"Details of whether or not an open dataset is available for this list.",
+            "propertyOrder":11,
+            "type":"object",
+            "properties":{
+                        "dataAccessProperties": {
+                            "description": "An explanation about the purpose of this instance.",
+                            "id": "dataAccessProperties",
+                            "items": {
+                                "default": "API",
+                                "description": "An explanation about the purpose of this instance.",
+                                "minLength": 1,
+                                "title": "1 schema.",
+                                "type": "string"
+                            },
+                            "title": "DataAccessProperties schema.",
+                            "type": "array",
+                            "uniqueItems": false
+                        }, 
+                        "datasetFeatures": {
+                            "description": "An explanation about the purpose of this instance.",
+                            "id": "datasetFeatures",
+                            "items": {
+                                "default": "Directors / Trustees / Governors",
+                                "description": "An explanation about the purpose of this instance.",
+                                "minLength": 1,
+                                "title": "1 schema.",
+                                "type": "string"
+                            },
+                            "title": "DatasetFeatures schema.",
+                            "type": "array",
+                            "uniqueItems": false
+                        },
+                        "dataAccessDetails": {
+                            "default": "An API is available at https://developer.companieshouse.gov.uk/api/docs/ and bulk data is provided at http://download.companieshouse.gov.uk/en_output.html",
+                            "description": "An explanation about the purpose of this instance.",
+                            "id": "dataAccessDetails",
+                            "minLength": 1,
+                            "title": "DataAccessDetails schema.",
+                            "type": "string"
+                        },
+                        
+                        "licenseDetails": {
+                            "default": "“Supplied under section 47 and 50 of the Copyright, Designs and Patents Act 1988 and Schedule 1 of the Database Regulations (SI 1997/3032)”",
+                            "description": "An explanation about the purpose of this instance.",
+                            "id": "licenseDetails",
+                            "minLength": 1,
+                            "title": "LicenseDetails schema.",
+                            "type": "string"
+                        },
+                        "licenseStatus": {
+                            "default": "Open License",
+                            "description": "An explanation about the purpose of this instance.",
+                            "id": "licenseStatus",
+                            "minLength": 1,
+                            "title": "LicenseStatus schema.",
+                            "type": "string"
+                        }
+                    }
+        },
+        "meta":{
+            "title":"Metadata",
+            "description":"Information about this list description",
+            "type":"object",
+            "properties":{
+              "source": {
+                    "default": null,
+                    "description": "An explanation about the purpose of this instance.",
+                    "id": "source",
+                    "title": "Source schema.",
+                    "type": "null"
+                },
+               "lastUpdated": {
+                    "default": "2016-09-17",
+                    "description": "An explanation about the purpose of this instance.",
+                    "id": "lastUpdated",
+                    "minLength": 1,
+                    "title": "LastUpdated schema.",
+                    "type": "string"
+                }
+            }
+        },
+        "links":{
+            "title":"Links",
+            "description":"",
+            "type":"object",
+            "properies":{
+               "opencorporates": {
+                    "default": true,
+                    "description": "An explanation about the purpose of this instance.",
+                    "id": "opencorporates",
+                    "title": "Opencorporates schema.",
+                    "type": "boolean"
+                },
+                "wikipedia": {
+                    "default": null,
+                    "description": "An explanation about the purpose of this instance.",
+                    "id": "wikipedia",
+                    "title": "Wikipedia schema.",
+                    "type": "null"
+                }
+            }
+        },
+
+        
+    
+     
+        "former_prefixes": {
+            "default": null,
+            "description": "An explanation about the purpose of this instance.",
+            "id": "former_prefixes",
+            "title": "Former_prefixes schema.",
+            "type": "null"
+        }
+    },
+    "title": "Root schema.",
+    "type": "object"
+}

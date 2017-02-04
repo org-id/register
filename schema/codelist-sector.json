@@ -1,0 +1,17 @@
+{"sector":[
+    {
+        "code":"education",
+        "title":{ 
+        "en": "Education"}
+    },
+    {
+        "code":"humantiarian_relief",
+        "title": {
+                "en": "Humanitarian Relief"}
+    },
+    {
+        "code":"research",
+        "title":{
+                "en": "Research"}
+    }
+]}
