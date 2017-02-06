@@ -1,6 +1,9 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema#",
     "description": "Organisation identifier lists contain names, identifiers and other information about entities such as companies, charities, government agencies or associations. This schema sets out key meta-data to record about such lists in order to support data publishers and users to select appropriate lists to use, or to interpret information provided by a particular list.",
+    "title": "Organisation identifier list description",
+    "description":"",
+    "type": "object",
     "properties": {
         "name": {
             "title": "List name",
@@ -43,7 +46,7 @@
             "type": "array",
             "items": {
                 "description": "The ISO 2-digit country code.",
-                "enum": [
+                "options":{ "enum_titles":[] },"enum": [
                     "--this field is populated with update.py--"
                 ],
                 "maxLength": 2,
@@ -56,14 +59,14 @@
 
             "uniqueItems": true
         },
-        "subnationalJurisdictions": {
+        "subnationalJurisdiction": {
             "title": "Subnational jurisdiction",
             "description": "If this list does not cover a whole country, but **only** covers one or more sub-national territories, enter the ISO 3166-2 Subdivision Assigned Code.",
             "propertyOrder":4,
             "type": "array",
             "items": {
                 "description": "The ISO 3166-2 Subdivision Assigned code.",
-                "enum": [
+                "options":{ "enum_titles":[] },"enum": [
                     "--this field is populated with update.py--"
                 ],
                 "maxLength": 8,
@@ -83,7 +86,7 @@
             "items": {
                 "title": "Legal Structure Code",
                 "description": "The codelist entry for this legal structure.",
-                "enum": [
+                "options":{ "enum_titles":[] },"enum": [
                     "--this field is populated with update.py--"
                 ],
                 "type": [
@@ -100,7 +103,7 @@
             "items": {
                 "title": "Sector code",
                 "description": "The codelist entry for this sector.",
-                "enum": [
+                "options":{ "enum_titles":[] },"enum": [
                     "--this field is populated with update.py--"
                 ],
                 "type": [
@@ -137,7 +140,7 @@
             "description": "You will need to determine if this list is a primary identifier list or whether it has secondary, third-party or local status.",
             "propertyOrder":10,
             "type": "string",
-            "enum":["--populated by update--"]
+            "options":{ "enum_titles":[] },"enum":["--populated by update--"]
         },
         "access":{
             "title":"Access information",
@@ -150,7 +153,7 @@
                     "description": "Is is possible to access this list online in any form (search / bulk download etc.)",
                     "propertyOrder":10.1,
                     "type": "string",
-                    "enum":["yes","no"]
+                    "options":{ "enum_titles":[] },"enum":["yes","no"]
                 },
                 "onlineAccessDetails": {
                     "title": "Online access details",
@@ -201,116 +204,101 @@
             "propertyOrder":11,
             "type":"object",
             "properties":{
-                        "dataAccessProperties": {
-                            "description": "An explanation about the purpose of this instance.",
-                            "id": "dataAccessProperties",
-                            "items": {
-                                "default": "API",
-                                "description": "An explanation about the purpose of this instance.",
-                                "minLength": 1,
-                                "title": "1 schema.",
-                                "type": "string"
-                            },
-                            "title": "DataAccessProperties schema.",
+                        "availability": {
+                            "title": "Data availability (was DataAccessProperties)",
+                            "description": "Is structured data available from this list in the following formats or mechanisms?",
                             "type": "array",
-                            "uniqueItems": false
+                            "propertyOrder":11.1,
+                            "items": {
+                                "type":"string",
+                                "title":"Properties",
+                                "options":{ "enum_titles":[] },"enum":["--populated by update.py--"]
+                            },
+                            "uniqueItems": true
                         }, 
-                        "datasetFeatures": {
-                            "description": "An explanation about the purpose of this instance.",
-                            "id": "datasetFeatures",
-                            "items": {
-                                "default": "Directors / Trustees / Governors",
-                                "description": "An explanation about the purpose of this instance.",
-                                "minLength": 1,
-                                "title": "1 schema.",
-                                "type": "string"
-                            },
-                            "title": "DatasetFeatures schema.",
-                            "type": "array",
-                            "uniqueItems": false
-                        },
                         "dataAccessDetails": {
-                            "default": "An API is available at https://developer.companieshouse.gov.uk/api/docs/ and bulk data is provided at http://download.companieshouse.gov.uk/en_output.html",
-                            "description": "An explanation about the purpose of this instance.",
-                            "id": "dataAccessDetails",
-                            "minLength": 1,
-                            "title": "DataAccessDetails schema.",
-                            "type": "string"
+                            "title": "Data access details (was dataAccessDetails)",
+                            "description": "Please describe how to access data in the formats listed above. Include additional URLs where neccessary.",
+                            "propertyOrder":11.2,
+                            "type": "string",
+                            "format":"textarea"
                         },
-                        
-                        "licenseDetails": {
-                            "default": "“Supplied under section 47 and 50 of the Copyright, Designs and Patents Act 1988 and Schedule 1 of the Database Regulations (SI 1997/3032)”",
-                            "description": "An explanation about the purpose of this instance.",
-                            "id": "licenseDetails",
-                            "minLength": 1,
-                            "title": "LicenseDetails schema.",
-                            "type": "string"
+                        "features": {
+                            "title": "Dataset features (was datasetFeatures)",
+                            "description": "Does the data available from this list (in any format) contain the following?",
+                            "propertyOrder":11.3,
+                            "type": "array",
+                            "items": {
+                                "title": "Dataset feature",
+                                "type": "string",
+                                "options":{ "enum_titles":[] },"enum":["--populated by update.py--"]
+                            },
+                            "uniqueItems": true
                         },
                         "licenseStatus": {
-                            "default": "Open License",
-                            "description": "An explanation about the purpose of this instance.",
-                            "id": "licenseStatus",
-                            "minLength": 1,
-                            "title": "LicenseStatus schema.",
+                            "title": "License status",
+                            "description": "Is the data described above available under an open license?",
+                            "propertyOrder":11.4,
+                            "type": "string",
+                            "options":{ "enum_titles":[] },"enum":["--populated by update.py--"]
+                        },
+                        "licenseDetails": {
+                            "title": "License details",
+                            "description": "Details of the license, including a link to the license where applicable.",
                             "type": "string"
                         }
                     }
         },
         "meta":{
             "title":"Metadata",
-            "description":"Information about this list description",
+            "description":"Every list should be supported by a meta-data record",
+            "propertyOrder":15,
             "type":"object",
             "properties":{
               "source": {
-                    "default": null,
-                    "description": "An explanation about the purpose of this instance.",
-                    "id": "source",
-                    "title": "Source schema.",
-                    "type": "null"
+                    "title": "Source",
+                    "description": "Please briefly describe the source of the information (e.g. original research; official records etc.).",
+                    "propertyOrder":15.1,
+                    "type":"string"
                 },
                "lastUpdated": {
-                    "default": "2016-09-17",
-                    "description": "An explanation about the purpose of this instance.",
-                    "id": "lastUpdated",
-                    "minLength": 1,
-                    "title": "LastUpdated schema.",
-                    "type": "string"
+                    "title": "Last updated",
+                    "description": "A timestamp to the last update to this record",
+                    "propertyOrder":15.2,
+                    "type":"string",
+                    "format":"datetime"
                 }
             }
         },
         "links":{
             "title":"Links",
-            "description":"",
+            "description":"For links to supporting information, or other database records, about this list ",
+            "propertyOrder":12,
             "type":"object",
             "properies":{
                "opencorporates": {
-                    "default": true,
-                    "description": "An explanation about the purpose of this instance.",
-                    "id": "opencorporates",
-                    "title": "Opencorporates schema.",
-                    "type": "boolean"
+                    "title": "Open Corporates",
+                    "description": "A link to the Open Corporates page for this identifier should be provide **only when** Open Corporates has dataset for this list.",
+                    "type": "string",
+                    "format":"url"
                 },
                 "wikipedia": {
-                    "default": null,
-                    "description": "An explanation about the purpose of this instance.",
-                    "id": "wikipedia",
-                    "title": "Wikipedia schema.",
-                    "type": "null"
+                    "title": "Wikipedia page",
+                    "description": "If there is a wikipedia page that provides context to this this list (e.g. page describing the registrar behind the list) the link should be included here.",
+                    "type": "string",
+                    "format":"url"
                 }
             }
         },
-
-        
-    
-     
         "former_prefixes": {
-            "default": null,
-            "description": "An explanation about the purpose of this instance.",
-            "id": "former_prefixes",
-            "title": "Former_prefixes schema.",
-            "type": "null"
+            "title": "Former list codes",
+            "description": "In some cases a list code may be changed. This field will list former deprecated codes for this list.",
+            "propertyOrder":14,
+            "type": "array",
+            "items":{
+                "title":"List code",
+                "type":"string"
+            }
         }
-    },
-    "title": "Root schema.",
-    "type": "object"
+    }
 }
