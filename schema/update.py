@@ -47,4 +47,3 @@ schema = update_schema(schema,"codelist-licenseStatus.json","licenseStatus","dat
 
 with open("list-schema.json","w") as schema_file:
     schema_file.write(json.dumps(schema,indent=4))
-    
