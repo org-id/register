@@ -43,15 +43,18 @@
                 }
             }
         },
-        "jurisdiction": {
-            "title": "Jurisdiction",
-            "description": "Which jurisdiction does this organisation list cover? For any list which contains entries only from a given country, or a defined list of countries, the ISO 2-digit country code(s) should be used. For lists that contain entries from multiple countries (but not a restricted list), one of the following codes should be used: XM for Multilateral/international agencies; XI for International; XR for Regional and ZZ for publisher created lists with no particular jurisdictional focus.",
+        "coverage": {
+            "title": "Geographic coverage",
+            "description": "Which country, countries or kind of region does this organisation list cover? For any list which contains entries only from a given country, or a defined list of countries, the ISO 2-digit country code(s) should be used. For lists that contain entries from multiple countries (but not a restricted list), one of the following codes should be used: XM for Multilateral/international agencies; XI for International; XR for Regional and ZZ for publisher created lists with no particular jurisdictional focus.",
             "propertyOrder": 3,
             "type": "array",
             "items": {
                 "description": "The ISO 2-digit country code.",
                 "options": {
                     "enum_titles": [
+                        "(Non-country) International lists",
+                        "(Non-country) List of multilateral / international agencies",
+                        "(Non-country) Regional list",
                         "Andorra",
                         "United Arab Emirates",
                         "Afghanistan",
@@ -296,9 +299,6 @@
                         "Vanuatu",
                         "Wallis and Futuna",
                         "Samoa",
-                        "(Non-country) International lists",
-                        "(Non-country) List of multilateral / international agencies",
-                        "(Non-country) Regional list",
                         "Yemen",
                         "Mayotte",
                         "South Africa",
@@ -307,6 +307,9 @@
                     ]
                 },
                 "enum": [
+                    "XI",
+                    "XM",
+                    "XR",
                     "AD",
                     "AE",
                     "AF",
@@ -551,9 +554,6 @@
                     "VU",
                     "WF",
                     "WS",
-                    "XI",
-                    "XM",
-                    "XR",
                     "YE",
                     "YT",
                     "ZA",

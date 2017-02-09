@@ -1,6 +1,5 @@
 # This script updates the schema with new enumerations from the jurisdictions list
 import json
-import jsonmerge 
 import collections
 
 def update_schema(schema,filename,codelist,target,array=True):
@@ -36,8 +35,8 @@ with open("list-schema.json") as schema_file:
     schema = json.loads(schema_file.read(),object_pairs_hook=collections.OrderedDict)
 
 
-schema = update_schema(schema,"codelist-jurisdictions.json","national","jurisdiction")
-schema = update_schema(schema,"codelist-jurisdictions.json","subnational","subnationalJurisdiction")
+schema = update_schema(schema,"codelist-coverage.json","coverage","coverage")
+schema = update_schema(schema,"codelist-coverage.json","subnational","subnationalJurisdiction")
 schema = update_schema(schema,"codelist-structure.json","structure","structure")
 schema = update_schema(schema,"codelist-sector.json","sector","sector")
 schema = update_schema(schema,"codelist-listType.json","listType","listType",False) 

@@ -1,5 +1,23 @@
 {
-    "national": [
+    "coverage": [
+  {
+    "code": "XI",
+    "title": {
+      "en": "(Non-country) International lists"
+    }
+  },
+  {
+    "code": "XM",
+    "title": {
+      "en": "(Non-country) List of multilateral / international agencies"
+    }
+  },
+  {
+    "code": "XR",
+    "title": {
+      "en": "(Non-country) Regional list"
+    }
+  },
   {
     "code": "AD",
     "title": {
@@ -1462,24 +1480,6 @@
     "code": "WS",
     "title": {
       "en": "Samoa"
-    }
-  },
-  {
-    "code": "XI",
-    "title": {
-      "en": "(Non-country) International lists"
-    }
-  },
-  {
-    "code": "XM",
-    "title": {
-      "en": "(Non-country) List of multilateral / international agencies"
-    }
-  },
-  {
-    "code": "XR",
-    "title": {
-      "en": "(Non-country) Regional list"
     }
   },
   {
