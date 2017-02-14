@@ -12,14 +12,9 @@
         "en": "Global Research Identifiers Database",
         "local": ""
     },
-    "coverage": [
-        null
-    ],
+    "coverage": null,
     "code": "XI-GRID",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        null
-    ],
     "confirmed": null,
     "data": {
         "features": [
@@ -56,5 +51,6 @@
         "publicDatabase": "https://www.grid.ac/downloads",
         "availableOnline": false,
         "guidanceOnLocatingIds": "A search of identifiers is available at https://www.grid.ac/institutes\n\nIdentifier numbers should be presented in their full form:\n\nE.g. XI-GRID-grid.17063.33"
-    }
+    },
+    "subnationalCoverage": null
 }

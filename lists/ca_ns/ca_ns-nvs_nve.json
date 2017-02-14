@@ -10,17 +10,10 @@
         "local": " Registre des soci\u00e9t\u00e9s de capitaux"
     },
     "coverage": [
-        [
-            "CA"
-        ]
+        "CA"
     ],
     "code": "CA_NS-NVS_NVE",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        [
-            "CA_NS"
-        ]
-    ],
     "confirmed": true,
     "data": {
         "features": null,
@@ -53,5 +46,8 @@
         "publicDatabase": "https://rjsc.gov.ns.ca/rjsc/search/doSearch.do",
         "availableOnline": false,
         "guidanceOnLocatingIds": null
-    }
+    },
+    "subnationalCoverage": [
+        "CA_NS"
+    ]
 }

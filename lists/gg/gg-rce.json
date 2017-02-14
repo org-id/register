@@ -10,15 +10,10 @@
         "local": ""
     },
     "coverage": [
-        [
-            "GG"
-        ]
+        "GG"
     ],
     "code": "GG-RCE",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        null
-    ],
     "confirmed": true,
     "data": {
         "features": [
@@ -60,5 +55,6 @@
         "publicDatabase": "Companies - https://www.greg.gg/webCompSearch.aspx Charities - http://www.guernseyregistry.com/article/112909/Charities-Register NPOs - http://www.guernseyregistry.com/article/112771/NPO-Register",
         "availableOnline": false,
         "guidanceOnLocatingIds": "For Companies:\n\nUsers can find identifiers using the simple, searchable database - https://www.greg.gg/webCompSearch.aspx\n\nThe identifier will be under the column heading 'Entity Reg Number' on the results returned, and if the user clicks on document icon to the left, more details will be shown. The identifier will be shown next to 'Company Reg Number'\n\nFor Charities and NPOs:\n\nUsers can scroll down the two public lists to search for an organisation, or they can use 'Ctrl-F' to search for a name. The identifier can be found in the left hand column under the header 'Number'\n\nOIPA search returns zero results"
-    }
+    },
+    "subnationalCoverage": null
 }

@@ -10,17 +10,10 @@
         "local": ""
     },
     "coverage": [
-        [
-            "AE"
-        ]
+        "AE"
     ],
     "code": "AE-SH-CR",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        [
-            "AE_SH"
-        ]
-    ],
     "confirmed": null,
     "data": {
         "features": null,
@@ -48,5 +41,8 @@
         "publicDatabase": null,
         "availableOnline": false,
         "guidanceOnLocatingIds": null
-    }
+    },
+    "subnationalCoverage": [
+        "AE_SH"
+    ]
 }

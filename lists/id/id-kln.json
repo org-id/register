@@ -10,15 +10,10 @@
         "local": " Kementerian Luar Negeri"
     },
     "coverage": [
-        [
-            "ID"
-        ]
+        "ID"
     ],
     "code": "ID-KLN",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        null
-    ],
     "confirmed": true,
     "data": {
         "features": null,
@@ -49,5 +44,6 @@
         "publicDatabase": "http://www.smeru.or.id/en/content/ngo-database",
         "availableOnline": false,
         "guidanceOnLocatingIds": "No identifiers found.\n\nOIPA search returns zero results"
-    }
+    },
+    "subnationalCoverage": null
 }

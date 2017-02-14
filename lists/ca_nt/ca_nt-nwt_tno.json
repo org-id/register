@@ -10,17 +10,10 @@
         "local": " Territoires du Nord-Ouest"
     },
     "coverage": [
-        [
-            "CA"
-        ]
+        "CA"
     ],
     "code": "CA_NT-NWT_TNO",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        [
-            "CA_NT"
-        ]
-    ],
     "confirmed": true,
     "data": {
         "features": null,
@@ -53,5 +46,8 @@
         "publicDatabase": "https://www.justice.gov.nt.ca/en/corporate-registry-searches/",
         "availableOnline": false,
         "guidanceOnLocatingIds": "Log-in required for business search"
-    }
+    },
+    "subnationalCoverage": [
+        "CA_NT"
+    ]
 }

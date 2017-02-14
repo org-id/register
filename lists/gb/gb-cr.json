@@ -10,15 +10,10 @@
         "local": ""
     },
     "coverage": [
-        [
-            "GB"
-        ]
+        "GB"
     ],
     "code": "GB-CR",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        null
-    ],
     "confirmed": null,
     "data": {
         "features": [
@@ -51,5 +46,6 @@
         "publicDatabase": null,
         "availableOnline": false,
         "guidanceOnLocatingIds": null
-    }
+    },
+    "subnationalCoverage": null
 }

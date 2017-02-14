@@ -10,15 +10,10 @@
         "local": " Institute National de la Statistique et des etudes economiques"
     },
     "coverage": [
-        [
-            "FR"
-        ]
+        "FR"
     ],
     "code": "FR-INSEE",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        null
-    ],
     "confirmed": true,
     "data": {
         "features": null,
@@ -44,5 +39,6 @@
         "publicDatabase": null,
         "availableOnline": false,
         "guidanceOnLocatingIds": null
-    }
+    },
+    "subnationalCoverage": null
 }

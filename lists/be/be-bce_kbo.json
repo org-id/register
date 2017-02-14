@@ -10,15 +10,10 @@
         "local": " Banque Carrefour des entreprises "
     },
     "coverage": [
-        [
-            "BE"
-        ]
+        "BE"
     ],
     "code": "BE-BCE_KBO",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        null
-    ],
     "confirmed": true,
     "data": {
         "features": [
@@ -62,5 +57,6 @@
         "publicDatabase": "http://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?lang=en&nummer=&actionLu=Research",
         "availableOnline": false,
         "guidanceOnLocatingIds": "Company information is available in various search methods - by number, by name, by activity, by license or by address -  http://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?lang=en&nummer=&actionLu=Research"
-    }
+    },
+    "subnationalCoverage": null
 }

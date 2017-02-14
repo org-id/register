@@ -10,15 +10,10 @@
         "local": ""
     },
     "coverage": [
-        [
-            "IE"
-        ]
+        "IE"
     ],
     "code": "IE-CHY",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        null
-    ],
     "confirmed": true,
     "data": {
         "features": [
@@ -60,5 +55,6 @@
         "publicDatabase": "https://www.charitiesregulatoryauthority.ie/en/cra/pages/CharitySearch , http://charitiesregulatoryauthority.ie/en/cra/pages/search_a_charity",
         "availableOnline": false,
         "guidanceOnLocatingIds": "Users can find an identifier by using the simple, searchable database on this webpage - https://www.charitiesregulatoryauthority.ie/en/cra/pages/CharitySearch\n\nThe identifier will appear to the right of the organisations name, in the box with the search results. Users can also click onto the organisation for more details, and the identifier will appear next to the heading 'Registered Charity Number'\n\nUsers can also download an Excel spreadsheet of the registry from this webpage - http://charitiesregulatoryauthority.ie/en/cra/pages/search_a_charity\n\nIdentifiers can be found under the column header 'Registered Charity Number'"
-    }
+    },
+    "subnationalCoverage": null
 }

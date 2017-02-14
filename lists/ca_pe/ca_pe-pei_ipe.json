@@ -10,17 +10,10 @@
         "local": "Business Names Registry"
     },
     "coverage": [
-        [
-            "CA"
-        ]
+        "CA"
     ],
     "code": "CA_PE-PEI_IPE",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        [
-            "CA_PE"
-        ]
-    ],
     "confirmed": true,
     "data": {
         "features": null,
@@ -48,5 +41,8 @@
         "publicDatabase": "https://www.registreentreprises.gouv.qc.ca/RQAnonymeGR/GR/GR03/GR03A2_19A_PIU_RechEnt_PC/PageRechSimple.aspx?T1.CodeService=S00436&Clng=F&WT.co_f=2c711dfd08c3696dc2c1481744819355",
         "availableOnline": false,
         "guidanceOnLocatingIds": null
-    }
+    },
+    "subnationalCoverage": [
+        "CA_PE"
+    ]
 }

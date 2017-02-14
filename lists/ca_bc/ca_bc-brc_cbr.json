@@ -10,17 +10,10 @@
         "local": " Registre des soci\u00e9t\u00e9s"
     },
     "coverage": [
-        [
-            "CA"
-        ]
+        "CA"
     ],
     "code": "CA_BC-BRC_CBR",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        [
-            "CA_BC"
-        ]
-    ],
     "confirmed": true,
     "data": {
         "features": null,
@@ -50,5 +43,8 @@
         "publicDatabase": null,
         "availableOnline": false,
         "guidanceOnLocatingIds": null
-    }
+    },
+    "subnationalCoverage": [
+        "CA_BC"
+    ]
 }

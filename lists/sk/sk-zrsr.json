@@ -10,15 +10,10 @@
         "local": ""
     },
     "coverage": [
-        [
-            "SK"
-        ]
+        "SK"
     ],
     "code": "SK-ZRSR",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        null
-    ],
     "confirmed": true,
     "data": {
         "features": [
@@ -59,5 +54,6 @@
         "publicDatabase": "http://www.orsr.sk/search_subjekt.asp?lan=en",
         "availableOnline": false,
         "guidanceOnLocatingIds": "Users can find identifiers using the simple, searchable online database. Users will have to click on the link for 'Aktu\u00e1lny' or '\u00dapln\u00fd' under the column heading V\u00fdpis - or in English,  for 'Actual' or 'Full' under the column heading 'Extract' - of one of the companies in the search results in order to see company details.\n\nIdentifiers will be next to the heading 'I\u010cO' or 'Identification' in English"
-    }
+    },
+    "subnationalCoverage": null
 }

@@ -10,17 +10,10 @@
         "local": " C\u00e1mara de Comercio de Bogota"
     },
     "coverage": [
-        [
-            "CO"
-        ]
+        "CO"
     ],
     "code": "CO-CCB",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        [
-            "CO-DC"
-        ]
-    ],
     "confirmed": true,
     "data": {
         "features": null,
@@ -53,5 +46,8 @@
         "publicDatabase": "None located",
         "availableOnline": false,
         "guidanceOnLocatingIds": null
-    }
+    },
+    "subnationalCoverage": [
+        "CO-DC"
+    ]
 }

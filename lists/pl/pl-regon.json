@@ -10,15 +10,10 @@
         "local": ""
     },
     "coverage": [
-        [
-            "PL"
-        ]
+        "PL"
     ],
     "code": "PL-REGON",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        null
-    ],
     "confirmed": null,
     "data": {
         "features": null,
@@ -44,5 +39,6 @@
         "publicDatabase": null,
         "availableOnline": false,
         "guidanceOnLocatingIds": null
-    }
+    },
+    "subnationalCoverage": null
 }

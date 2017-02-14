@@ -10,15 +10,10 @@
         "local": ""
     },
     "coverage": [
-        [
-            "KE"
-        ]
+        "KE"
     ],
     "code": "KE-NCB",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        null
-    ],
     "confirmed": true,
     "data": {
         "features": null,
@@ -50,5 +45,6 @@
         "publicDatabase": "None available",
         "availableOnline": false,
         "guidanceOnLocatingIds": "A unified registry list of NGO identifiers not found. But other organisations have referred to NGO identifiers.\n\nAn OIPA search returns example ID KE-NCB-200201282375. Searching on the second part of that finds http://www.idealist.org/view/nonprofit/kCM3mWt8k6W4/ . Which has a slightly different format of ID: OP.218/051/2002/0128/2375. \n\nThere are also some IDs in the dataset with the OP component such as KE-NCB-OP-218-051-9399-80\n\nIt is possible that the government issues them with slashes, but people are replacing that with different characters, and stripping some parts off in cases.\n\nWe recommend following the pattern of stripping out the slashes, and removing the preceding OP component. "
-    }
+    },
+    "subnationalCoverage": null
 }

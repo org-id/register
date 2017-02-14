@@ -10,17 +10,10 @@
         "local": ""
     },
     "coverage": [
-        [
-            "US"
-        ]
+        "US"
     ],
     "code": "US-AK-CR",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        [
-            "US_AK"
-        ]
-    ],
     "confirmed": null,
     "data": {
         "features": [
@@ -52,5 +45,8 @@
         "publicDatabase": null,
         "availableOnline": false,
         "guidanceOnLocatingIds": null
-    }
+    },
+    "subnationalCoverage": [
+        "US_AK"
+    ]
 }

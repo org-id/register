@@ -10,17 +10,10 @@
         "local": ""
     },
     "coverage": [
-        [
-            "US"
-        ]
+        "US"
     ],
     "code": "US-PA-CR",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        [
-            "US_PA"
-        ]
-    ],
     "confirmed": null,
     "data": {
         "features": null,
@@ -48,5 +41,8 @@
         "publicDatabase": null,
         "availableOnline": false,
         "guidanceOnLocatingIds": null
-    }
+    },
+    "subnationalCoverage": [
+        "US_PA"
+    ]
 }

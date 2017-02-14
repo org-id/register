@@ -10,17 +10,10 @@
         "local": " Registraire des entreprises"
     },
     "coverage": [
-        [
-            "CA"
-        ]
+        "CA"
     ],
     "code": "CA_QC-QBC",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        [
-            "CA_QC"
-        ]
-    ],
     "confirmed": true,
     "data": {
         "features": null,
@@ -51,5 +44,8 @@
         "publicDatabase": null,
         "availableOnline": false,
         "guidanceOnLocatingIds": null
-    }
+    },
+    "subnationalCoverage": [
+        "CA_QC"
+    ]
 }

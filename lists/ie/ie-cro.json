@@ -10,15 +10,10 @@
         "local": ""
     },
     "coverage": [
-        [
-            "IE"
-        ]
+        "IE"
     ],
     "code": "IE-CRO",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        null
-    ],
     "confirmed": true,
     "data": {
         "features": [
@@ -57,5 +52,6 @@
         "publicDatabase": "https://search.cro.ie/company/ , https://services.cro.ie/index.aspx, https://www.cro.ie/Publications/Fees/Bulk-Data",
         "availableOnline": false,
         "guidanceOnLocatingIds": "Users can find identifiers by using this simple, searchable database - https://search.cro.ie/company/\n\nThe identifiers are under the column heading 'Number'"
-    }
+    },
+    "subnationalCoverage": null
 }

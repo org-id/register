@@ -10,15 +10,10 @@
         "local": ""
     },
     "coverage": [
-        [
-            "NG"
-        ]
+        "NG"
     ],
     "code": "NG-CAC",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        null
-    ],
     "confirmed": true,
     "data": {
         "features": null,
@@ -49,5 +44,6 @@
         "publicDatabase": "http://publicsearch.cac.gov.ng:8080/comsearch/test.php",
         "availableOnline": false,
         "guidanceOnLocatingIds": "Public search is currently unavailable, the link does not work."
-    }
+    },
+    "subnationalCoverage": null
 }

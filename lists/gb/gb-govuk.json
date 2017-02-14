@@ -10,15 +10,10 @@
         "local": ""
     },
     "coverage": [
-        [
-            "GB"
-        ]
+        "GB"
     ],
     "code": "GB-GOVUK",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        null
-    ],
     "confirmed": true,
     "data": {
         "features": null,
@@ -46,5 +41,6 @@
         "publicDatabase": null,
         "availableOnline": false,
         "guidanceOnLocatingIds": null
-    }
+    },
+    "subnationalCoverage": null
 }

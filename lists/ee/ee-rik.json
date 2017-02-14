@@ -10,15 +10,10 @@
         "local": ""
     },
     "coverage": [
-        [
-            "EE"
-        ]
+        "EE"
     ],
     "code": "EE-RIK",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        null
-    ],
     "confirmed": true,
     "data": {
         "features": [
@@ -61,5 +56,6 @@
         "publicDatabase": "http://avaandmed.rik.ee/andmed/ARIREGISTER/",
         "availableOnline": false,
         "guidanceOnLocatingIds": "Users can search for a company using the E-BUSINESS REGISTER search bar on the homepage - http://www.rik.ee/en . \n\nUsers can also download the Commercial Register as a file from this list of open datasets - http://www.rik.ee/en/open-data\n\nThe data is available as either a CSV or XML zip file, which can then be opened and searched. The file is approx. 42mb. The identifiers will be under the column header 'ariregistri_kood'"
-    }
+    },
+    "subnationalCoverage": null
 }

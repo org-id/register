@@ -10,15 +10,10 @@
         "local": ""
     },
     "coverage": [
-        [
-            "MR"
-        ]
+        "MR"
     ],
     "code": "MR-CR",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        null
-    ],
     "confirmed": null,
     "data": {
         "features": null,
@@ -46,5 +41,6 @@
         "publicDatabase": null,
         "availableOnline": false,
         "guidanceOnLocatingIds": null
-    }
+    },
+    "subnationalCoverage": null
 }

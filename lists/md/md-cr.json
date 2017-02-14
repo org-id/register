@@ -10,15 +10,10 @@
         "local": ""
     },
     "coverage": [
-        [
-            "MD"
-        ]
+        "MD"
     ],
     "code": "MD-CR",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        null
-    ],
     "confirmed": null,
     "data": {
         "features": [
@@ -50,5 +45,6 @@
         "publicDatabase": null,
         "availableOnline": false,
         "guidanceOnLocatingIds": null
-    }
+    },
+    "subnationalCoverage": null
 }

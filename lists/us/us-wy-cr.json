@@ -10,17 +10,10 @@
         "local": ""
     },
     "coverage": [
-        [
-            "US"
-        ]
+        "US"
     ],
     "code": "US-WY-CR",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        [
-            "US_WY"
-        ]
-    ],
     "confirmed": null,
     "data": {
         "features": [
@@ -52,5 +45,8 @@
         "publicDatabase": null,
         "availableOnline": false,
         "guidanceOnLocatingIds": null
-    }
+    },
+    "subnationalCoverage": [
+        "US_WY"
+    ]
 }

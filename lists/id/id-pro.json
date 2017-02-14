@@ -10,15 +10,10 @@
         "local": ""
     },
     "coverage": [
-        [
-            "ID"
-        ]
+        "ID"
     ],
     "code": "ID-PRO",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        null
-    ],
     "confirmed": true,
     "data": {
         "features": null,
@@ -48,5 +43,6 @@
         "publicDatabase": "None available",
         "availableOnline": false,
         "guidanceOnLocatingIds": "None available"
-    }
+    },
+    "subnationalCoverage": null
 }

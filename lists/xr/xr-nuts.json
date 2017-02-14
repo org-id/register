@@ -10,41 +10,36 @@
         "local": ""
     },
     "coverage": [
-        [
-            "HR",
-            "PT",
-            "AT",
-            "SK",
-            "NL",
-            "MT",
-            "ES",
-            "LT",
-            "GR",
-            "IE",
-            "EE",
-            "CY",
-            "CZ",
-            "FI",
-            "DE",
-            "LV",
-            "GB",
-            "SI",
-            "BG",
-            "SE",
-            "FR",
-            "HU",
-            "PL",
-            "LU",
-            "BE",
-            "IT",
-            "RO"
-        ]
+        "HR",
+        "PT",
+        "AT",
+        "SK",
+        "NL",
+        "MT",
+        "ES",
+        "LT",
+        "GR",
+        "IE",
+        "EE",
+        "CY",
+        "CZ",
+        "FI",
+        "DE",
+        "LV",
+        "GB",
+        "SI",
+        "BG",
+        "SE",
+        "FR",
+        "HU",
+        "PL",
+        "LU",
+        "BE",
+        "IT",
+        "RO"
     ],
     "code": "XR-NUTS",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        null
-    ],
     "confirmed": null,
     "data": {
         "features": null,
@@ -72,5 +67,6 @@
         "publicDatabase": "http://ec.europa.eu/eurostat/web/nuts/local-administrative-units",
         "availableOnline": false,
         "guidanceOnLocatingIds": null
-    }
+    },
+    "subnationalCoverage": null
 }

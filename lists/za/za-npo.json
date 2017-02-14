@@ -10,15 +10,10 @@
         "local": ""
     },
     "coverage": [
-        [
-            "ZA"
-        ]
+        "ZA"
     ],
     "code": "ZA-NPO",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        null
-    ],
     "confirmed": true,
     "data": {
         "features": [
@@ -59,5 +54,6 @@
         "publicDatabase": "http://www.npo.gov.za/PublicNpo/Npo",
         "availableOnline": false,
         "guidanceOnLocatingIds": "Users can find identifiers by using the simple, searchable database. Identifiers will be under the column header 'Registration No.'\n\nUsers should note that they do not need to attach \"NPO\" to the end of the identifier."
-    }
+    },
+    "subnationalCoverage": null
 }

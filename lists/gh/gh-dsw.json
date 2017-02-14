@@ -10,15 +10,10 @@
         "local": ""
     },
     "coverage": [
-        [
-            "GH"
-        ]
+        "GH"
     ],
     "code": "GH-DSW",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        null
-    ],
     "confirmed": true,
     "data": {
         "features": null,
@@ -50,5 +45,6 @@
         "publicDatabase": "None available",
         "availableOnline": false,
         "guidanceOnLocatingIds": null
-    }
+    },
+    "subnationalCoverage": null
 }

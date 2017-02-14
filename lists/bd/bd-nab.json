@@ -10,15 +10,10 @@
         "local": " \u098f\u09a8\u099c\u09bf\u0993 \u09ac\u09bf\u09b7\u09af\u09bc\u0995 \u09ac\u09cd\u09af\u09c1\u09b0\u09cb"
     },
     "coverage": [
-        [
-            "BD"
-        ]
+        "BD"
     ],
     "code": "BD-NAB",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        null
-    ],
     "confirmed": true,
     "data": {
         "features": [
@@ -57,5 +52,6 @@
         "publicDatabase": "A list of all NGOs registered with the NGO Affairs Bureau, and thus all NGOs who have projects in Bangladesh, is available on the website",
         "availableOnline": false,
         "guidanceOnLocatingIds": "Registration numbers are contained in a PDF published by the Bureau. The latest version of this list can be found at http://ngoab.portal.gov.bd/sites/default/files/files/ngoab.portal.gov.bd/page/a86a0782_47b2_4756_b226_58e2fd6a97b4/NGO_LIST%20(19).pdf"
-    }
+    },
+    "subnationalCoverage": null
 }

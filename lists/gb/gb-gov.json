@@ -10,15 +10,10 @@
         "local": ""
     },
     "coverage": [
-        [
-            "GB"
-        ]
+        "GB"
     ],
     "code": "GB-GOV",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        null
-    ],
     "confirmed": true,
     "data": {
         "features": [
@@ -54,5 +49,6 @@
         "publicDatabase": "https://data.gov.uk/dataset/iati-organisation-identifier-for-uk-government-bodies",
         "availableOnline": false,
         "guidanceOnLocatingIds": "Users can download an ODS file at this webpage - https://data.gov.uk/dataset/iati-organisation-identifier-for-uk-government-bodies\n\nThe identifiers for use are under the column headers 'IATI 2.x'."
-    }
+    },
+    "subnationalCoverage": null
 }

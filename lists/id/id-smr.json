@@ -10,15 +10,10 @@
         "local": ""
     },
     "coverage": [
-        [
-            "ID"
-        ]
+        "ID"
     ],
     "code": "ID-SMR",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        null
-    ],
     "confirmed": true,
     "data": {
         "features": [
@@ -60,5 +55,6 @@
         "publicDatabase": "http://www.smeru.or.id/en/content/ngo-database",
         "availableOnline": false,
         "guidanceOnLocatingIds": "Organisation identifiers are not provided as part of this database"
-    }
+    },
+    "subnationalCoverage": null
 }

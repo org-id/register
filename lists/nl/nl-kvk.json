@@ -10,15 +10,10 @@
         "local": " Kamer van Koophandel"
     },
     "coverage": [
-        [
-            "NL"
-        ]
+        "NL"
     ],
     "code": "NL-KVK",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        null
-    ],
     "confirmed": true,
     "data": {
         "features": [
@@ -57,5 +52,6 @@
         "publicDatabase": "https://www.kvk.nl/producten-bestellen/",
         "availableOnline": false,
         "guidanceOnLocatingIds": "Users can find the identifiers by using the publicly searchable database on the Chamber of Commerce website. The identifier will be next to 'KvK', or 'Chamber of Commerce' in English."
-    }
+    },
+    "subnationalCoverage": null
 }

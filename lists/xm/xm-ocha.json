@@ -11,14 +11,9 @@
         "en": "United Nations Office for the Coordination of Humanitarian Affairs - Financial Tracking Services Identifiers",
         "local": ""
     },
-    "coverage": [
-        null
-    ],
+    "coverage": null,
     "code": "XM-OCHA",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        null
-    ],
     "confirmed": true,
     "data": {
         "features": [
@@ -52,5 +47,6 @@
         "publicDatabase": "https://fts.unocha.org/",
         "availableOnline": false,
         "guidanceOnLocatingIds": "A list of identifiers is available in XML form from the UN OCHA Financial Tracking Service API [1] at http://fts.unocha.org/api/v1/Organization.xml\n\nThe identifier, following the UNOCHA pattern of usage, is made up of the id field from the XML, prefixed with 'FTS' to give identifiers of the form:\n\n> XM-OCHA-FTS8908\n\n[1]: http://fts.unocha.org/api/Files/APIUserdocumentation.htm"
-    }
+    },
+    "subnationalCoverage": null
 }

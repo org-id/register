@@ -10,17 +10,10 @@
         "local": ""
     },
     "coverage": [
-        [
-            "US"
-        ]
+        "US"
     ],
     "code": "US-MN-CR",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        [
-            "US_MN"
-        ]
-    ],
     "confirmed": null,
     "data": {
         "features": null,
@@ -48,5 +41,8 @@
         "publicDatabase": null,
         "availableOnline": false,
         "guidanceOnLocatingIds": null
-    }
+    },
+    "subnationalCoverage": [
+        "US_MN"
+    ]
 }

@@ -10,15 +10,10 @@
         "local": ""
     },
     "coverage": [
-        [
-            "NO"
-        ]
+        "NO"
     ],
     "code": "NO-BRC",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        null
-    ],
     "confirmed": true,
     "data": {
         "features": [
@@ -64,5 +59,6 @@
         "publicDatabase": "https://www.brreg.no/home/ , https://www.brreg.no/produkter-og-tjenester/apne-data/",
         "availableOnline": false,
         "guidanceOnLocatingIds": "Users can find identifiers by searching on the homepage of the Br\u00f8nn\u00f8ysundregistren. Identifiers will be under the column heading 'Orgnr.'. If the user clicks on the result for more details, the identifier will be next to 'Organisasjonsnummer' , or 'Organisation number' in English.\n\nUsers can also search the database before downloading extracts (or the entire dataset). The identifiers will be under the column heading 'Organisasjonsnummer' , or 'Organisation number' in English."
-    }
+    },
+    "subnationalCoverage": null
 }

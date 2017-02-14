@@ -10,15 +10,10 @@
         "local": ""
     },
     "coverage": [
-        [
-            "PK"
-        ]
+        "PK"
     ],
     "code": "PK-PCP",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        null
-    ],
     "confirmed": true,
     "data": {
         "features": [
@@ -60,5 +55,6 @@
         "publicDatabase": "http://pcp.org.pk/index.php",
         "availableOnline": false,
         "guidanceOnLocatingIds": "NGOs do not receive an identifier after being certified by the PCP. Unique identifiers are not available on the CSO list."
-    }
+    },
+    "subnationalCoverage": null
 }

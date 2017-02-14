@@ -10,17 +10,10 @@
         "local": ""
     },
     "coverage": [
-        [
-            "GB"
-        ]
+        "GB"
     ],
     "code": "GB-SC",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        [
-            "GB-SCT"
-        ]
-    ],
     "confirmed": true,
     "data": {
         "features": [
@@ -64,5 +57,8 @@
         "publicDatabase": "http://www.oscr.org.uk/public/search-scottish-charity-register",
         "availableOnline": false,
         "guidanceOnLocatingIds": "Users can find identifiers using the easy, searchable database at this webpage - http://www.oscr.org.uk/public/search-scottish-charity-register\n\nIdentifiers are located on the left under the column heading 'Charity Number'\n\nUsers can also download a CSV of the dataset at this webpage - http://www.oscr.org.uk/charities/search-scottish-charity-register/charity-register-download\n\nThey will need to accept the Terms and Conditions, and then open the resulting zip file. Identifiers are under the column header ' Charity Number'"
-    }
+    },
+    "subnationalCoverage": [
+        "GB-SCT"
+    ]
 }

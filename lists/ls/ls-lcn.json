@@ -10,15 +10,10 @@
         "local": ""
     },
     "coverage": [
-        [
-            "LS"
-        ]
+        "LS"
     ],
     "code": "LS-LCN",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        null
-    ],
     "confirmed": true,
     "data": {
         "features": null,
@@ -50,5 +45,6 @@
         "publicDatabase": null,
         "availableOnline": false,
         "guidanceOnLocatingIds": "No identifiers returned on OIPA request"
-    }
+    },
+    "subnationalCoverage": null
 }

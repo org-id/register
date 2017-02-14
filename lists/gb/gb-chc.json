@@ -10,18 +10,10 @@
         "local": ""
     },
     "coverage": [
-        [
-            "GB"
-        ]
+        "GB"
     ],
     "code": "GB-CHC",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        [
-            "GB-WLS",
-            "GB-ENG"
-        ]
-    ],
     "confirmed": true,
     "data": {
         "features": [
@@ -53,5 +45,9 @@
         "publicDatabase": null,
         "availableOnline": false,
         "guidanceOnLocatingIds": null
-    }
+    },
+    "subnationalCoverage": [
+        "GB-WLS",
+        "GB-ENG"
+    ]
 }

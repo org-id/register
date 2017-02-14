@@ -10,15 +10,10 @@
         "local": ""
     },
     "coverage": [
-        [
-            "ZA"
-        ]
+        "ZA"
     ],
     "code": "ZA-CIP",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        null
-    ],
     "confirmed": true,
     "data": {
         "features": [
@@ -53,5 +48,6 @@
         "publicDatabase": "http://www.cipro.co.za/products_services/name_search.asp, https://eservices.cipc.co.za/ , https://opencorporates.com/companies/za?page=1",
         "availableOnline": false,
         "guidanceOnLocatingIds": "Users can search for identifiers using the Cipro name. Identifiers will be under the Column header 'Enterprise number'.\n\nUsers should note that this is a very basic search function, and current research finds that only Search Option 1 works, thus users must have the exact name of the corporate entity to find an identifier number. The resulting data is very basic.\n\nUsers can also search the OpenCorporates database."
-    }
+    },
+    "subnationalCoverage": null
 }

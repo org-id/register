@@ -10,17 +10,10 @@
         "local": ""
     },
     "coverage": [
-        [
-            "CA"
-        ]
+        "CA"
     ],
     "code": "CA_NU-NNV",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        [
-            "CA_NU"
-        ]
-    ],
     "confirmed": true,
     "data": {
         "features": null,
@@ -50,5 +43,8 @@
         "publicDatabase": null,
         "availableOnline": false,
         "guidanceOnLocatingIds": null
-    }
+    },
+    "subnationalCoverage": [
+        "CA_NU"
+    ]
 }

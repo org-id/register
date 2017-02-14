@@ -9,14 +9,9 @@
         "en": "OECD Development Assistance Committee",
         "local": ""
     },
-    "coverage": [
-        null
-    ],
+    "coverage": null,
     "code": "XM-DAC",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        null
-    ],
     "confirmed": true,
     "data": {
         "features": [
@@ -53,5 +48,6 @@
         "publicDatabase": "http://www.oecd.org/dac/stats/dacandcrscodelists.htm / http://www.oecd.org/dac/stats/documentupload/Codelist_July_2016.xls",
         "availableOnline": false,
         "guidanceOnLocatingIds": "Users can download an Excel file of the DAC and CRS codes from the OECD website. Organisation identifiers can be found in the tabs 'See Donor', 'Agency' and 'Delivery Channel' codes. Identifiers will be under 'Donor code' and 'Channel ID' respectively.\n\nUsers should not that the data is available in a Excel file that contains much formatting."
-    }
+    },
+    "subnationalCoverage": null
 }

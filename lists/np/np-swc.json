@@ -10,15 +10,10 @@
         "local": ""
     },
     "coverage": [
-        [
-            "NP"
-        ]
+        "NP"
     ],
     "code": "NP-SWC",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        null
-    ],
     "confirmed": true,
     "data": {
         "features": [
@@ -57,5 +52,6 @@
         "publicDatabase": "http://www.swc.org.np/?p=228",
         "availableOnline": false,
         "guidanceOnLocatingIds": "Users can find identifiers on the simple, searchable database on the SWC website. Identifiers will be under the column heading 'Swc Aff No'"
-    }
+    },
+    "subnationalCoverage": null
 }

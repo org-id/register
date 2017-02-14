@@ -10,15 +10,10 @@
         "local": " Kementerian Hukum Dan Hak"
     },
     "coverage": [
-        [
-            "ID"
-        ]
+        "ID"
     ],
     "code": "ID-KHH",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        null
-    ],
     "confirmed": null,
     "data": {
         "features": null,
@@ -44,5 +39,6 @@
         "publicDatabase": null,
         "availableOnline": false,
         "guidanceOnLocatingIds": null
-    }
+    },
+    "subnationalCoverage": null
 }

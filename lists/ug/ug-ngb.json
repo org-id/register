@@ -10,15 +10,10 @@
         "local": ""
     },
     "coverage": [
-        [
-            "UG"
-        ]
+        "UG"
     ],
     "code": "UG-NGB",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        null
-    ],
     "confirmed": true,
     "data": {
         "features": [
@@ -56,5 +51,6 @@
         "publicDatabase": "http://brs.ursb.go.ug/brs/pro/bnr/searchname#SearchNamePub",
         "availableOnline": false,
         "guidanceOnLocatingIds": "Users can search for NGO identifiers on the Uganda Registration Services Bureau database.\n\nUsers should note that current research has not found this database to work when selecting 'NGO' on the 'Business type' drop-down menu. It is possible to search for NGO names and find results.\n\nUsers should be aware that identifiers are not formed in a uniform manner, and use slashes and hyphens."
-    }
+    },
+    "subnationalCoverage": null
 }

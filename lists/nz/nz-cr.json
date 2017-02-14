@@ -10,15 +10,10 @@
         "local": ""
     },
     "coverage": [
-        [
-            "NZ"
-        ]
+        "NZ"
     ],
     "code": "NZ-CR",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        null
-    ],
     "confirmed": null,
     "data": {
         "features": [
@@ -51,5 +46,6 @@
         "publicDatabase": null,
         "availableOnline": false,
         "guidanceOnLocatingIds": null
-    }
+    },
+    "subnationalCoverage": null
 }

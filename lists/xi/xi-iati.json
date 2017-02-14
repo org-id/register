@@ -9,14 +9,9 @@
         "en": "International Aid Transparency Initiative Organisation Identifier",
         "local": ""
     },
-    "coverage": [
-        null
-    ],
+    "coverage": null,
     "code": "XI-IATI",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        null
-    ],
     "confirmed": true,
     "data": {
         "features": [
@@ -59,5 +54,6 @@
         "publicDatabase": "http://iatistandard.org/202/codelists/IATIOrganisationIdentifier/",
         "availableOnline": false,
         "guidanceOnLocatingIds": "Users can find the codelist in three formats - CSV, JSON and XML - from the IATI Organisation Identifier website. The codelist is also available in the three different versions of the IATI Standard.\n\nOnce users have downloaded the file, the identifiers will be under the column header/tag \"code\""
-    }
+    },
+    "subnationalCoverage": null
 }

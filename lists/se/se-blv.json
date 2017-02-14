@@ -10,15 +10,10 @@
         "local": " Swedish Companies Registration Office"
     },
     "coverage": [
-        [
-            "SE"
-        ]
+        "SE"
     ],
     "code": "SE-BLV",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        null
-    ],
     "confirmed": true,
     "data": {
         "features": [
@@ -56,5 +51,6 @@
         "publicDatabase": "https://www.verksamt.se/sok-foretagsnamn",
         "availableOnline": false,
         "guidanceOnLocatingIds": "Users can find identifiers by using the simple, searchable database. This database is presented in Swedish.\n\nIn the search results, the identifiers can be found under the column heading 'Organisations-nummer' or 'Corporate registration number' in English.\n\n"
-    }
+    },
+    "subnationalCoverage": null
 }

@@ -10,15 +10,10 @@
         "local": ""
     },
     "coverage": [
-        [
-            "GB"
-        ]
+        "GB"
     ],
     "code": "GB-REV",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        null
-    ],
     "confirmed": true,
     "data": {
         "features": null,
@@ -48,5 +43,6 @@
         "publicDatabase": null,
         "availableOnline": false,
         "guidanceOnLocatingIds": "HMRC do not publish a list of these numbers. "
-    }
+    },
+    "subnationalCoverage": null
 }

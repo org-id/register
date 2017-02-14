@@ -10,17 +10,10 @@
         "local": " Registre corporatif"
     },
     "coverage": [
-        [
-            "CA"
-        ]
+        "CA"
     ],
     "code": "CA_NB-NWB_NOB",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        [
-            "CA_NB"
-        ]
-    ],
     "confirmed": true,
     "data": {
         "features": null,
@@ -51,5 +44,8 @@
         "publicDatabase": "http://www.snb.ca/e/6000/6600e.asp",
         "availableOnline": false,
         "guidanceOnLocatingIds": null
-    }
+    },
+    "subnationalCoverage": [
+        "CA_NB"
+    ]
 }

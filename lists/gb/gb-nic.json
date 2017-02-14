@@ -10,17 +10,10 @@
         "local": ""
     },
     "coverage": [
-        [
-            "GB"
-        ]
+        "GB"
     ],
     "code": "GB-NIC",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        [
-            "GB-NIR"
-        ]
-    ],
     "confirmed": true,
     "data": {
         "features": null,
@@ -48,5 +41,8 @@
         "publicDatabase": null,
         "availableOnline": false,
         "guidanceOnLocatingIds": null
-    }
+    },
+    "subnationalCoverage": [
+        "GB-NIR"
+    ]
 }

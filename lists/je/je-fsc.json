@@ -10,15 +10,10 @@
         "local": ""
     },
     "coverage": [
-        [
-            "JE"
-        ]
+        "JE"
     ],
     "code": "JE-FSC",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        null
-    ],
     "confirmed": true,
     "data": {
         "features": [
@@ -56,5 +51,6 @@
         "publicDatabase": "https://www.jerseyfsc.org/registry/documentsearch/",
         "availableOnline": false,
         "guidanceOnLocatingIds": "Users can find company identifiers by using the simple, searchable online database. Identifiers will be under the column heading 'Number'. Users can find more information by clicking on one of the search results.\n\nUsers should be aware that the identifier numbers are not unique, as there are multiple types of companies and identifiers can be repeated. For example, there are two companies with the number '1381' - an LP (limited partnership) and an RC (Registered Private Company)\n\nIt is recommended that those creating identifiers for JSFC use the business codes as part of the identifier. For example, the limited partnership company described above should have the identifier:\n\nJE-FSC-LP_1381\n\nOpen Corporates adopt a slightly different approach, using the URL of the company register entry to generate an identifier. See https://wiki.opencorporates.com/qa/qa_public/migrating_company_numbers/jersey "
-    }
+    },
+    "subnationalCoverage": null
 }

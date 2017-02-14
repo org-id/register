@@ -10,15 +10,10 @@
         "local": ""
     },
     "coverage": [
-        [
-            "MZ"
-        ]
+        "MZ"
     ],
     "code": "MZ-MOJ",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        null
-    ],
     "confirmed": null,
     "data": {
         "features": null,
@@ -48,5 +43,6 @@
         "publicDatabase": "None available",
         "availableOnline": false,
         "guidanceOnLocatingIds": "None available"
-    }
+    },
+    "subnationalCoverage": null
 }

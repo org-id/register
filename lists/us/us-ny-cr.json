@@ -10,17 +10,10 @@
         "local": ""
     },
     "coverage": [
-        [
-            "US"
-        ]
+        "US"
     ],
     "code": "US-NY-CR",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        [
-            "US_NY"
-        ]
-    ],
     "confirmed": null,
     "data": {
         "features": null,
@@ -50,5 +43,8 @@
         "publicDatabase": null,
         "availableOnline": false,
         "guidanceOnLocatingIds": null
-    }
+    },
+    "subnationalCoverage": [
+        "US_NY"
+    ]
 }

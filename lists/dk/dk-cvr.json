@@ -10,15 +10,10 @@
         "local": ""
     },
     "coverage": [
-        [
-            "DK"
-        ]
+        "DK"
     ],
     "code": "DK-CVR",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        null
-    ],
     "confirmed": true,
     "data": {
         "features": [
@@ -60,5 +55,6 @@
         "publicDatabase": "https://datacvr.virk.dk/data/",
         "availableOnline": false,
         "guidanceOnLocatingIds": "It is possible to search for identifiers on this database - https://datacvr.virk.dk/data/\n\nThis is the English version - https://datacvr.virk.dk/data/?language=en-gb&\n\nIdentifiers are underneath the CVR heading.\n\nExtracts from the register are also available: https://datacvr.virk.dk/data/cvr-hj%C3%A6lp/cvr-udtr%C3%A6k "
-    }
+    },
+    "subnationalCoverage": null
 }

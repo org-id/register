@@ -9,14 +9,9 @@
         "en": "Wikidata",
         "local": ""
     },
-    "coverage": [
-        null
-    ],
+    "coverage": null,
     "code": "XI-WIKIDATA",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        null
-    ],
     "confirmed": null,
     "data": {
         "features": null,
@@ -42,5 +37,6 @@
         "publicDatabase": null,
         "availableOnline": false,
         "guidanceOnLocatingIds": null
-    }
+    },
+    "subnationalCoverage": null
 }

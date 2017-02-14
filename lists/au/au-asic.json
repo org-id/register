@@ -10,15 +10,10 @@
         "local": ""
     },
     "coverage": [
-        [
-            "AU"
-        ]
+        "AU"
     ],
     "code": "AU-ASIC",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        null
-    ],
     "confirmed": null,
     "data": {
         "features": null,
@@ -50,5 +45,6 @@
         "publicDatabase": null,
         "availableOnline": false,
         "guidanceOnLocatingIds": "Search at https://connectonline.asic.gov.au/RegistrySearch/ by organisation name.\n\nThe number is usually displayed in three groups of three digits. The spaces should be removed when publishing an identifier. "
-    }
+    },
+    "subnationalCoverage": null
 }

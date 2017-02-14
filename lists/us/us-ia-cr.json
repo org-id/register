@@ -10,17 +10,10 @@
         "local": ""
     },
     "coverage": [
-        [
-            "US"
-        ]
+        "US"
     ],
     "code": "US-IA-CR",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        [
-            "US_IA"
-        ]
-    ],
     "confirmed": null,
     "data": {
         "features": null,
@@ -50,5 +43,8 @@
         "publicDatabase": null,
         "availableOnline": false,
         "guidanceOnLocatingIds": null
-    }
+    },
+    "subnationalCoverage": [
+        "US_IA"
+    ]
 }

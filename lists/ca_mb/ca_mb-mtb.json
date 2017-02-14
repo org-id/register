@@ -10,17 +10,10 @@
         "local": " Bureau des entreprises du Manitoba, minist\u00e8re de l'Entrepreneuriat, de la Formation et du Commerce"
     },
     "coverage": [
-        [
-            "CA"
-        ]
+        "CA"
     ],
     "code": "CA_MB-MTB",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        [
-            "CA_MB"
-        ]
-    ],
     "confirmed": true,
     "data": {
         "features": null,
@@ -51,5 +44,8 @@
         "publicDatabase": null,
         "availableOnline": false,
         "guidanceOnLocatingIds": null
-    }
+    },
+    "subnationalCoverage": [
+        "CA_MB"
+    ]
 }

@@ -10,17 +10,10 @@
         "local": " Minist\u00e8re des Services gouvernementaux"
     },
     "coverage": [
-        [
-            "CA"
-        ]
+        "CA"
     ],
     "code": "CA_ON-ONT",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        [
-            "CA_ON"
-        ]
-    ],
     "confirmed": true,
     "data": {
         "features": null,
@@ -51,5 +44,8 @@
         "publicDatabase": null,
         "availableOnline": false,
         "guidanceOnLocatingIds": null
-    }
+    },
+    "subnationalCoverage": [
+        "CA_ON"
+    ]
 }

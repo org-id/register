@@ -10,15 +10,10 @@
         "local": ""
     },
     "coverage": [
-        [
-            "MW"
-        ]
+        "MW"
     ],
     "code": "MW-CNM",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        null
-    ],
     "confirmed": true,
     "data": {
         "features": null,
@@ -50,5 +45,6 @@
         "publicDatabase": null,
         "availableOnline": false,
         "guidanceOnLocatingIds": "Results from OIPA request suggest the identifier has been used incorrectly e.g, BCM-CF-UKAID-IMP-131, MW-CNM-21-secondyearprojectreport, MW-CNM-21-WomenEmpowermentviaFarmersClubProject\n\n"
-    }
+    },
+    "subnationalCoverage": null
 }

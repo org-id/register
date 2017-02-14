@@ -10,17 +10,10 @@
         "local": " Direction des entreprises, associations et coop\u00e9ratives"
     },
     "coverage": [
-        [
-            "CA"
-        ]
+        "CA"
     ],
     "code": "CA_YT-YKT",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        [
-            "CA_YT"
-        ]
-    ],
     "confirmed": true,
     "data": {
         "features": null,
@@ -51,5 +44,8 @@
         "publicDatabase": null,
         "availableOnline": false,
         "guidanceOnLocatingIds": null
-    }
+    },
+    "subnationalCoverage": [
+        "CA_YT"
+    ]
 }

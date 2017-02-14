@@ -10,17 +10,10 @@
         "local": ""
     },
     "coverage": [
-        [
-            "CN"
-        ]
+        "CN"
     ],
     "code": "CN-92-CR",
     "formerPrefixes": null,
-    "subnationalJurisdiction": [
-        [
-            "CN_92"
-        ]
-    ],
     "confirmed": null,
     "data": {
         "features": null,
@@ -48,5 +41,8 @@
         "publicDatabase": null,
         "availableOnline": false,
         "guidanceOnLocatingIds": null
-    }
+    },
+    "subnationalCoverage": [
+        "CN_92"
+    ]
 }
