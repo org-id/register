@@ -30,6 +30,7 @@
     },
     "deprecated": null,
     "structure": [
+        "company",
         "company/listed_company",
         "company/community_interest_company",
         "company/partnership",
