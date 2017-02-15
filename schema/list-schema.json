@@ -569,7 +569,7 @@
             },
             "uniqueItems": true
         },
-        "subnationalJurisdiction": {
+        "subnationalCoverage": {
             "title": "Subnational jurisdiction",
             "description": "If this list does not cover a whole country, but **only** covers one or more sub-national territories, enter the ISO 3166-2 Subdivision Assigned Code.",
             "propertyOrder": 4,
