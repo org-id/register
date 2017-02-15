@@ -1514,7 +1514,7 @@
   }
 ]
 ,
-    "subnational": [
+    "subnationalCoverage": [
         {
             "code": "AD-07",
             "countryCode": "AD",
