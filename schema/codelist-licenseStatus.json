@@ -4,19 +4,23 @@
             "code":"open_license",
             "title":{
                 "en":"Open License"
-            }
+            },
+            "quality_score":10
+
         },
         {
             "code":"no_license",
             "title":{
                 "en":"No License"
-            }
+            },
+            "quality_score":5
         },
         {
             "code":"closed_license",
             "title":{
                 "en":"Closed License"
-            }
+            },
+            "quality_score":0
         }
     ]
 }

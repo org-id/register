@@ -4,55 +4,64 @@
             "code":"data_not_available",
             "title":{
                 "en":"Data not available"
-            }
+            },
+            "quality_score":0
         },
         {
             "code":"api",
             "title":{
                 "en":"API"
-            }
+            },
+            "quality_score":2
         },
         {
             "code":"bulk",
             "title":{
                 "en":"Bulk download"
-            }
+            },
+            "quality_score":2
         },
         {
             "code":"csv",
             "title":{
                 "en":"CSV format"
-            }
+            },
+            "quality_score":1
         },
         {
             "code":"xml",
             "title":{
                 "en":"XML format"
-            }
+            },
+            "quality_score":1
         },
         {
             "code":"json",
             "title":{
                 "en":"JSON format"
-            }
+            },
+            "quality_score":1
         },
         {
             "code":"excel",
             "title":{
                 "en":"Excel format"
-            }
+            },
+            "quality_score":1
         },
         {
             "code":"pdf",
             "title":{
                 "en":"PDF format"
-            }
+            },
+            "quality_score":1
         },
         {
             "code":"rdf",
             "title":{
                 "en":"RDF format"
-            }
+            },
+            "quality_score":1
         }
 
     ]
