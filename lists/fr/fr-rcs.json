@@ -50,7 +50,6 @@
         "lastUpdated": "2016-11-25",
         "source": "Desk research"
     },
-    "registerType": "secondary",
     "access": {
         "languages": [
             "en",
@@ -62,5 +61,6 @@
         "availableOnline": false,
         "guidanceOnLocatingIds": "Users can find identifiers using the simple, search bar present near the top of every webpage on the Infogreffe website - https://www.infogreffe.com/societes/\n\nAfter searching for a company, address, director or number, the identifier is under the column header 'SIREN / SIRET' \n\nPlease note : users may have to click on the record in order to see the full SIRET identifier number\n\nUsers can also analyse datasets on the Infogreffe Open Data portal - https://datainfogreffe.fr/explore/?sort=modified&q=\n\nThe Identifier is under the column header 'SIREN'"
     },
-    "subnationalCoverage": null
+    "subnationalCoverage": null,
+    "listType": "secondary"
 }

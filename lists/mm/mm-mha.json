@@ -35,7 +35,6 @@
         "lastUpdated": "2016-11-26",
         "source": "Desk research"
     },
-    "registerType": "secondary",
     "access": {
         "languages": null,
         "exampleIdentifiers": null,
@@ -44,5 +43,6 @@
         "availableOnline": false,
         "guidanceOnLocatingIds": "No identifiers returned on OIPA request"
     },
-    "subnationalCoverage": null
+    "subnationalCoverage": null,
+    "listType": "secondary"
 }

@@ -35,7 +35,6 @@
         "lastUpdated": "2016-12-16",
         "source": "Desk research"
     },
-    "registerType": "primary",
     "access": {
         "languages": [
             "en"
@@ -46,5 +45,6 @@
         "availableOnline": false,
         "guidanceOnLocatingIds": "The VSWA number should be used as a unique identifier, but users should be aware that the entire sequence is needed (number and year), as it is possible that the number is unique to the year of registration, but is repeated for other years, i.e, 511-2007 is ASFP, but there may be another org with 511-1998."
     },
-    "subnationalCoverage": null
+    "subnationalCoverage": null,
+    "listType": "primary"
 }

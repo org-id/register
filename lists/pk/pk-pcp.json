@@ -45,7 +45,6 @@
         "lastUpdated": "2016-12-01",
         "source": "Desk research"
     },
-    "registerType": "third-party",
     "access": {
         "languages": [
             "en"
@@ -56,5 +55,6 @@
         "availableOnline": false,
         "guidanceOnLocatingIds": "NGOs do not receive an identifier after being certified by the PCP. Unique identifiers are not available on the CSO list."
     },
-    "subnationalCoverage": null
+    "subnationalCoverage": null,
+    "listType": "third-party"
 }

@@ -37,7 +37,6 @@
         "lastUpdated": "2016-12-14",
         "source": "Desk research"
     },
-    "registerType": "secondary",
     "access": {
         "languages": [
             "nl"
@@ -48,5 +47,6 @@
         "availableOnline": false,
         "guidanceOnLocatingIds": "Look for the list of values for the kind of organisation you wish to identify [1].\n\nA full list of government entieis can  be accessed at http://standaarden.overheid.nl/owms/terms/Overheidsorganisatie.html\n\nEach organisation is assigned a URL in the list. Use the last portion of this URL as the identifier. \n\nFor example: \"http://standaarden.overheid.nl/owms/terms/rfmcie\" is the identifier given for the 'Referendum Commission'. To construct an identifier from this, use 'NL-OWMS-rfmcie'.\n\nNote: some identifiers may contain ' and ( and other similar characters. \n\n[1]: http://standaarden.overheid.nl/owms/4.0/doc/waardelijsten"
     },
-    "subnationalCoverage": null
+    "subnationalCoverage": null,
+    "listType": "secondary"
 }

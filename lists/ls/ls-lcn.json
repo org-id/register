@@ -35,7 +35,6 @@
         "lastUpdated": "2016-11-26",
         "source": null
     },
-    "registerType": "deprecated",
     "access": {
         "languages": [
             "en"
@@ -46,5 +45,6 @@
         "availableOnline": false,
         "guidanceOnLocatingIds": "No identifiers returned on OIPA request"
     },
-    "subnationalCoverage": null
+    "subnationalCoverage": null,
+    "listType": "deprecated"
 }

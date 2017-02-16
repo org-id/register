@@ -52,7 +52,6 @@
         "lastUpdated": "2016-12-28",
         "source": "Desk research"
     },
-    "registerType": "third-party",
     "access": {
         "languages": [
             "pt",
@@ -66,5 +65,6 @@
         "availableOnline": false,
         "guidanceOnLocatingIds": "Users can click on the link for a country profile to access a webpage with a list of public bodies from that country. Once they open a link to a specific body, the data is available in JSON format. Identifiers will be under the tag 'id'.\n\nUsers can also download a CSV file which contains information on each public body. Identifiers will be under the column header 'id'."
     },
-    "subnationalCoverage": null
+    "subnationalCoverage": null,
+    "listType": "third-party"
 }

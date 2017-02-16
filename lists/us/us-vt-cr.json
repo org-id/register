@@ -35,7 +35,6 @@
         "lastUpdated": "2016-09-07",
         "source": null
     },
-    "registerType": null,
     "access": {
         "languages": null,
         "exampleIdentifiers": null,
@@ -46,5 +45,6 @@
     },
     "subnationalCoverage": [
         "US_VT"
-    ]
+    ],
+    "listType": null
 }

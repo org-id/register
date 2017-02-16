@@ -33,7 +33,6 @@
         "lastUpdated": "2016-12-14",
         "source": null
     },
-    "registerType": "secondary",
     "access": {
         "languages": [
             "en"
@@ -44,5 +43,6 @@
         "availableOnline": false,
         "guidanceOnLocatingIds": "HMRC do not publish a list of these numbers. "
     },
-    "subnationalCoverage": null
+    "subnationalCoverage": null,
+    "listType": "secondary"
 }

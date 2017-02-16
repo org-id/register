@@ -44,7 +44,6 @@
         "lastUpdated": "2016-11-29",
         "source": "Desk research"
     },
-    "registerType": "third-party",
     "access": {
         "languages": [
             "en",
@@ -56,5 +55,6 @@
         "availableOnline": false,
         "guidanceOnLocatingIds": "Organisation identifiers are not provided as part of this database"
     },
-    "subnationalCoverage": null
+    "subnationalCoverage": null,
+    "listType": "third-party"
 }

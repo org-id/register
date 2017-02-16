@@ -33,7 +33,6 @@
         "lastUpdated": "2016-12-14",
         "source": "Desk research"
     },
-    "registerType": "primary",
     "access": {
         "languages": null,
         "exampleIdentifiers": null,
@@ -44,5 +43,6 @@
     },
     "subnationalCoverage": [
         "CA_PE"
-    ]
+    ],
+    "listType": "primary"
 }

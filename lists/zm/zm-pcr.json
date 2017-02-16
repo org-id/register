@@ -35,7 +35,6 @@
         "lastUpdated": "2016-12-21",
         "source": "Desk research"
     },
-    "registerType": "primary",
     "access": {
         "languages": [
             "en"
@@ -46,5 +45,6 @@
         "availableOnline": false,
         "guidanceOnLocatingIds": "It is stated on the government website that there is a database which can be search for company names, but this is currently unavailable and results in Error 404. It is possible this is because the PACRA website is undergoing maintenance.\n\n\"The System is under going maintenace. Please note that online services will not be available during this time. We regret the inconvinience caused.\" [1]\n\n[1] https://www.pacra.org.zm/#/"
     },
-    "subnationalCoverage": null
+    "subnationalCoverage": null,
+    "listType": "primary"
 }

@@ -42,7 +42,6 @@
         "lastUpdated": "2016-12-27",
         "source": "Desk research"
     },
-    "registerType": "third-party",
     "access": {
         "languages": [
             "en",
@@ -54,5 +53,6 @@
         "availableOnline": false,
         "guidanceOnLocatingIds": "Use the final segment of the url (below /federal and excluding the extension) as the \u201cregistration number\u201d, converting all \u201c-\u201d to \u201c_\u201d. Keep \u201cregistration number\u201d portion all lowercase.\n\nADD EXAMPLE"
     },
-    "subnationalCoverage": null
+    "subnationalCoverage": null,
+    "listType": "third-party"
 }

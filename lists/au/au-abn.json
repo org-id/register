@@ -42,7 +42,6 @@
         "lastUpdated": "2016-09-02",
         "source": "IATI + Additional Reseach"
     },
-    "registerType": "secondary",
     "access": {
         "languages": [
             "en"
@@ -53,5 +52,6 @@
         "availableOnline": false,
         "guidanceOnLocatingIds": "It is possible to search for identifiers at http://abr.business.gov.au/\n\nThe Australian Business Number (ABN) is a unique 11 digit identifier issued to all entities registered in the Australian Business Register (ABR). The 11 digit ABN is structured as a 9 digit identifier with two \nleading check digits.\n\nThe identifiers are displayed on the website with spaces in the number. All the spaces should be removed when making use of the number within an identifier."
     },
-    "subnationalCoverage": null
+    "subnationalCoverage": null,
+    "listType": "secondary"
 }

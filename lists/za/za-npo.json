@@ -44,7 +44,6 @@
         "lastUpdated": "2016-12-21",
         "source": "Desk research"
     },
-    "registerType": "secondary",
     "access": {
         "languages": [
             "en"
@@ -55,5 +54,6 @@
         "availableOnline": false,
         "guidanceOnLocatingIds": "Users can find identifiers by using the simple, searchable database. Identifiers will be under the column header 'Registration No.'\n\nUsers should note that they do not need to attach \"NPO\" to the end of the identifier."
     },
-    "subnationalCoverage": null
+    "subnationalCoverage": null,
+    "listType": "secondary"
 }

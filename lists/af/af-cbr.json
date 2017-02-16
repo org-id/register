@@ -35,7 +35,6 @@
         "lastUpdated": "2016-11-24",
         "source": "Desk research"
     },
-    "registerType": "primary",
     "access": {
         "languages": [
             "en",
@@ -47,5 +46,6 @@
         "availableOnline": false,
         "guidanceOnLocatingIds": "The identifiers are the Tax Identification Numbers, but they are not publicly available."
     },
-    "subnationalCoverage": null
+    "subnationalCoverage": null,
+    "listType": "primary"
 }

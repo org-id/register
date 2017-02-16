@@ -36,7 +36,6 @@
         "lastUpdated": "2016-12-14",
         "source": "Desk research"
     },
-    "registerType": "primary",
     "access": {
         "languages": null,
         "exampleIdentifiers": null,
@@ -45,5 +44,6 @@
         "availableOnline": false,
         "guidanceOnLocatingIds": "Public search is currently unavailable, the link does not work."
     },
-    "subnationalCoverage": null
+    "subnationalCoverage": null,
+    "listType": "primary"
 }

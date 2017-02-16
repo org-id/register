@@ -35,7 +35,6 @@
         "lastUpdated": "2016-12-27",
         "source": "Desk research"
     },
-    "registerType": "deprecated",
     "access": {
         "languages": [
             "en"
@@ -46,5 +45,6 @@
         "availableOnline": false,
         "guidanceOnLocatingIds": "None available "
     },
-    "subnationalCoverage": null
+    "subnationalCoverage": null,
+    "listType": "deprecated"
 }

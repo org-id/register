@@ -42,7 +42,6 @@
         "lastUpdated": "2016-11-26",
         "source": "Desk research"
     },
-    "registerType": "primary",
     "access": {
         "languages": [
             "en",
@@ -54,5 +53,6 @@
         "availableOnline": false,
         "guidanceOnLocatingIds": "Users can find identifiers by using the search bar which is present near the top of every page on the website. Users must have a name or key word, and select 'Company / Organisation' on the drop-down box to the right of the search bar.\n\nThe identifier will be next to the heading 'Registration number' in the results shown.\n\nUsers can also download a CSV of the entire registry.\n\nUsers can also use the search on the Lursoft website. After opening one of the results, the identifier can be found next to the heading 'Registration number'."
     },
-    "subnationalCoverage": null
+    "subnationalCoverage": null,
+    "listType": "primary"
 }

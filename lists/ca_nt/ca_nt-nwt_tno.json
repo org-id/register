@@ -35,7 +35,6 @@
         "lastUpdated": "2016-12-14",
         "source": "Desk research"
     },
-    "registerType": "primary",
     "access": {
         "languages": [
             "en",
@@ -49,5 +48,6 @@
     },
     "subnationalCoverage": [
         "CA_NT"
-    ]
+    ],
+    "listType": "primary"
 }

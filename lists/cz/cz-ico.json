@@ -43,7 +43,6 @@
         "lastUpdated": "2016-11-21",
         "source": "Desk research"
     },
-    "registerType": "secondary",
     "access": {
         "languages": [
             "en",
@@ -55,5 +54,6 @@
         "availableOnline": false,
         "guidanceOnLocatingIds": "Users can search for a company using this web page - http://wwwinfo.mfcr.cz/ares/ares_es.html.en\n\nIdentifiers will be under the Registration No. column on the left-hand side of the search results"
     },
-    "subnationalCoverage": null
+    "subnationalCoverage": null,
+    "listType": "secondary"
 }

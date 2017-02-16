@@ -44,7 +44,6 @@
         "lastUpdated": "2016-12-27",
         "source": "Desk research"
     },
-    "registerType": "third-party",
     "access": {
         "languages": [
             "en"
@@ -55,5 +54,6 @@
         "availableOnline": false,
         "guidanceOnLocatingIds": "Users can find the codelist in three formats - CSV, JSON and XML - from the IATI Organisation Identifier website. The codelist is also available in the three different versions of the IATI Standard.\n\nOnce users have downloaded the file, the identifiers will be under the column header/tag \"code\""
     },
-    "subnationalCoverage": null
+    "subnationalCoverage": null,
+    "listType": "third-party"
 }

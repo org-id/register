@@ -44,7 +44,6 @@
         "lastUpdated": "2016-12-14",
         "source": "Desk research"
     },
-    "registerType": "secondary",
     "access": {
         "languages": [
             "en",
@@ -56,5 +55,6 @@
         "availableOnline": false,
         "guidanceOnLocatingIds": "Users can find identifiers by using the simple, searchable database which is hosted by the Canadian Government, on a website separate to the Canadian Revenue Agency. Two identifiers are returned: the Corporate Number and the Business Number. The identifiers will be next to these names, respectively. For CA-CRA_ACR the business number should be used.\n\nThe business number is sometimes reported with a Program Account code (e.g. RP0001 to indicate a payroll program account, leading a number such as 123456789RP0001). In constructing an organisation identifier, only the first nine digits should be used. "
     },
-    "subnationalCoverage": null
+    "subnationalCoverage": null,
+    "listType": "secondary"
 }

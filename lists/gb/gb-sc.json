@@ -47,7 +47,6 @@
         "lastUpdated": "2016-11-23",
         "source": "Desk research"
     },
-    "registerType": "primary",
     "access": {
         "languages": [
             "en"
@@ -60,5 +59,6 @@
     },
     "subnationalCoverage": [
         "GB-SCT"
-    ]
+    ],
+    "listType": "primary"
 }

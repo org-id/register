@@ -37,7 +37,6 @@
         "lastUpdated": "2016-12-27",
         "source": "Desk research"
     },
-    "registerType": "local",
     "access": {
         "languages": [
             "en"
@@ -48,5 +47,6 @@
         "availableOnline": false,
         "guidanceOnLocatingIds": "A list of identifiers is available in XML form from the UN OCHA Financial Tracking Service API [1] at http://fts.unocha.org/api/v1/Organization.xml\n\nThe identifier, following the UNOCHA pattern of usage, is made up of the id field from the XML, prefixed with 'FTS' to give identifiers of the form:\n\n> XM-OCHA-FTS8908\n\n[1]: http://fts.unocha.org/api/Files/APIUserdocumentation.htm"
     },
-    "subnationalCoverage": null
+    "subnationalCoverage": null,
+    "listType": "local"
 }

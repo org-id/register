@@ -31,7 +31,6 @@
         "lastUpdated": null,
         "source": null
     },
-    "registerType": "deprecated",
     "access": {
         "languages": null,
         "exampleIdentifiers": null,
@@ -40,5 +39,6 @@
         "availableOnline": false,
         "guidanceOnLocatingIds": null
     },
-    "subnationalCoverage": null
+    "subnationalCoverage": null,
+    "listType": "deprecated"
 }

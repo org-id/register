@@ -39,7 +39,6 @@
         "lastUpdated": "2016-11-23",
         "source": "Desk research"
     },
-    "registerType": "secondary",
     "access": {
         "languages": [
             "en"
@@ -50,5 +49,6 @@
         "availableOnline": false,
         "guidanceOnLocatingIds": "Users can download an ODS file at this webpage - https://data.gov.uk/dataset/iati-organisation-identifier-for-uk-government-bodies\n\nThe identifiers for use are under the column headers 'IATI 2.x'."
     },
-    "subnationalCoverage": null
+    "subnationalCoverage": null,
+    "listType": "secondary"
 }

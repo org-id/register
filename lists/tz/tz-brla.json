@@ -40,7 +40,6 @@
         "lastUpdated": "2016-12-19",
         "source": "Desk research"
     },
-    "registerType": "primary",
     "access": {
         "languages": [
             "en",
@@ -52,5 +51,6 @@
         "availableOnline": false,
         "guidanceOnLocatingIds": "Users can find identifiers by searching the OpenCorporates list of companies in Tanzania. The identifier will be next to the header 'Company Number'\n\nUsers should note that this dataset has not been updated since August 2015 when BRELA starting charging \u00a38 per search."
     },
-    "subnationalCoverage": null
+    "subnationalCoverage": null,
+    "listType": "primary"
 }

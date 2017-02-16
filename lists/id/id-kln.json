@@ -33,7 +33,6 @@
         "lastUpdated": "2016-11-29",
         "source": null
     },
-    "registerType": "secondary",
     "access": {
         "languages": [
             "en",
@@ -45,5 +44,6 @@
         "availableOnline": false,
         "guidanceOnLocatingIds": "No identifiers found.\n\nOIPA search returns zero results"
     },
-    "subnationalCoverage": null
+    "subnationalCoverage": null,
+    "listType": "secondary"
 }

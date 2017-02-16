@@ -41,7 +41,6 @@
         "lastUpdated": "2016-11-30",
         "source": "Desk research"
     },
-    "registerType": "primary",
     "access": {
         "languages": [
             "nl",
@@ -53,5 +52,6 @@
         "availableOnline": false,
         "guidanceOnLocatingIds": "Users can find the identifiers by using the publicly searchable database on the Chamber of Commerce website. The identifier will be next to 'KvK', or 'Chamber of Commerce' in English."
     },
-    "subnationalCoverage": null
+    "subnationalCoverage": null,
+    "listType": "primary"
 }

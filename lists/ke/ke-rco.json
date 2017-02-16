@@ -35,7 +35,6 @@
         "lastUpdated": "2016-11-25",
         "source": "Desk research"
     },
-    "registerType": "primary",
     "access": {
         "languages": [
             "en"
@@ -46,5 +45,6 @@
         "availableOnline": false,
         "guidanceOnLocatingIds": "None available"
     },
-    "subnationalCoverage": null
+    "subnationalCoverage": null,
+    "listType": "primary"
 }

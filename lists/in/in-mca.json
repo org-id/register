@@ -44,7 +44,6 @@
         "lastUpdated": "2016-11-25",
         "source": "Desk research"
     },
-    "registerType": "secondary",
     "access": {
         "languages": [
             "en",
@@ -56,5 +55,6 @@
         "availableOnline": false,
         "guidanceOnLocatingIds": "Users can access data on the data.gov.in website and applying the filter for the Ministry of Corporate Affairs. Company data is then represented in a number of dataset. Users can click on the 'Company master data' box, and will be presented with datasets for each Registrar of Companies.\n\nThese datasets can either be accessed through the API or downloaded as a CSV. If downloaded as a CSV, the identifier will be under the column header 'CORPORATE_IDENTIFICATION_NUMBER'"
     },
-    "subnationalCoverage": null
+    "subnationalCoverage": null,
+    "listType": "secondary"
 }

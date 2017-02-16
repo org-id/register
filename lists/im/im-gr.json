@@ -41,7 +41,6 @@
         "lastUpdated": "2016-11-25",
         "source": "Desk research"
     },
-    "registerType": "primary",
     "access": {
         "languages": [
             "en"
@@ -52,5 +51,6 @@
         "availableOnline": false,
         "guidanceOnLocatingIds": "Users can find identifiers by searching the PDF of the public Index of Registered Charities. Once opened, they should use Ctrl-F to search for a name or other detail. Identifiers will be under the column heading 'No'"
     },
-    "subnationalCoverage": null
+    "subnationalCoverage": null,
+    "listType": "primary"
 }

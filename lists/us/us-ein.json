@@ -37,7 +37,6 @@
         "lastUpdated": null,
         "source": null
     },
-    "registerType": "secondary",
     "access": {
         "languages": null,
         "exampleIdentifiers": null,
@@ -46,5 +45,6 @@
         "availableOnline": false,
         "guidanceOnLocatingIds": "Users should refer to individual state databases in order to find identifiers. Alternatively, organisations often have their EIN on a public webpage, and these can be found by using a search engine. For example, search for 'American Red Cross EIN' returns a page with their EIN.\n\nhttps://www.google.com.co/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=american+red+cross+ein\n\nhttp://www.redcross.org/local/california/san-diego/ways-to-donate"
     },
-    "subnationalCoverage": null
+    "subnationalCoverage": null,
+    "listType": "secondary"
 }

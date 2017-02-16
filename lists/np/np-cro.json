@@ -35,7 +35,6 @@
         "lastUpdated": "2016-12-02",
         "source": "Desk research"
     },
-    "registerType": "primary",
     "access": {
         "languages": [
             "en",
@@ -47,5 +46,6 @@
         "availableOnline": false,
         "guidanceOnLocatingIds": "Users can search for identifiers using the simple, searchable database on the Office website. Identifiers will be under the column heading 'Registration No' on the search results.\n\nCompany numbers are sometimes reported in the format: 45995-063-064\n\nThis is made up of two parts. A CRO number and a registration year.\n\nFor example:\n\nSearching for 45995 in the Registrar database returns Young Innovations. This is their CRO number.\n\n063-064 refers to the financial year that Young Innovations was registered. When included within the identifier, this could be reported with a dash-separator, and not slash. "
     },
-    "subnationalCoverage": null
+    "subnationalCoverage": null,
+    "listType": "primary"
 }

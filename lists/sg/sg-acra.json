@@ -40,7 +40,6 @@
         "lastUpdated": "2016-12-07",
         "source": "Desk research"
     },
-    "registerType": "primary",
     "access": {
         "languages": [
             "en"
@@ -51,5 +50,6 @@
         "availableOnline": false,
         "guidanceOnLocatingIds": "Users can find identifiers by using the simple, searchable database hosted on a third-party website. Users will have to complete a Captcha box in order to see search results.\n\nThe identifiers will be under the column heading 'UEN'.\n\n"
     },
-    "subnationalCoverage": null
+    "subnationalCoverage": null,
+    "listType": "primary"
 }

@@ -33,7 +33,6 @@
         "lastUpdated": null,
         "source": null
     },
-    "registerType": "primary",
     "access": {
         "languages": null,
         "exampleIdentifiers": null,
@@ -44,5 +43,6 @@
     },
     "subnationalCoverage": [
         "GB-NIR"
-    ]
+    ],
+    "listType": "primary"
 }

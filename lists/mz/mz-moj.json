@@ -35,7 +35,6 @@
         "lastUpdated": "2016-12-02",
         "source": "Desk research"
     },
-    "registerType": null,
     "access": {
         "languages": null,
         "exampleIdentifiers": null,
@@ -44,5 +43,6 @@
         "availableOnline": false,
         "guidanceOnLocatingIds": "None available"
     },
-    "subnationalCoverage": null
+    "subnationalCoverage": null,
+    "listType": null
 }

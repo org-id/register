@@ -44,7 +44,6 @@
         "lastUpdated": "2016-11-23",
         "source": "Desk research"
     },
-    "registerType": "primary",
     "access": {
         "languages": [
             "en",
@@ -57,5 +56,6 @@
         "availableOnline": false,
         "guidanceOnLocatingIds": "Users can search for identifiers on this webpage. They must provide a minimum of a company name or company identifier number - https://www.ytj.fi/index.html\n\nIt is also available in English - https://www.ytj.fi/en/index.html\n\nThe identifier will be located above the information box next to the heading 'Business ID'\n\nThe API for the Finnish Trade Register is available here - http://avoindata.prh.fi/ytj.html\n\nIt is also available in English - http://avoindata.prh.fi/ytj_en.html"
     },
-    "subnationalCoverage": null
+    "subnationalCoverage": null,
+    "listType": "primary"
 }

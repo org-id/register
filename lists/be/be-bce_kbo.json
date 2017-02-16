@@ -44,7 +44,6 @@
         "lastUpdated": "2016-11-18",
         "source": "Desk research"
     },
-    "registerType": "primary",
     "access": {
         "languages": [
             "en",
@@ -58,5 +57,6 @@
         "availableOnline": false,
         "guidanceOnLocatingIds": "Company information is available in various search methods - by number, by name, by activity, by license or by address -  http://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?lang=en&nummer=&actionLu=Research"
     },
-    "subnationalCoverage": null
+    "subnationalCoverage": null,
+    "listType": "primary"
 }

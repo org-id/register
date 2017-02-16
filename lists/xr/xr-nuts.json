@@ -59,7 +59,6 @@
         "lastUpdated": null,
         "source": "Primary research"
     },
-    "registerType": "secondary",
     "access": {
         "languages": null,
         "exampleIdentifiers": null,
@@ -68,5 +67,6 @@
         "availableOnline": false,
         "guidanceOnLocatingIds": null
     },
-    "subnationalCoverage": null
+    "subnationalCoverage": null,
+    "listType": "secondary"
 }

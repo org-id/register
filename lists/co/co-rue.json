@@ -39,7 +39,6 @@
         "lastUpdated": "2016-12-19",
         "source": "Desk research"
     },
-    "registerType": "secondary",
     "access": {
         "languages": [
             "es"
@@ -50,5 +49,6 @@
         "availableOnline": false,
         "guidanceOnLocatingIds": "Users can find identifiers by searching the simple database. The identifier will be under the column header 'N\u00famero Identificaci\u00f3n'. The database is available in Spanish.\n\nUsers should note that some identifiers are provided with a checksum (e.g. 900876653-3).  Details on how this number is formed can be found in Spanish on Wikipedia - https://es.wikipedia.org/wiki/N%C3%BAmero_de_Identificaci%C3%B3n_Tributaria\n\nYou should provide the identifier without the checksum. "
     },
-    "subnationalCoverage": null
+    "subnationalCoverage": null,
+    "listType": "secondary"
 }

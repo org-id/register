@@ -41,7 +41,6 @@
         "lastUpdated": "2016-12-02",
         "source": "Desk research"
     },
-    "registerType": "secondary",
     "access": {
         "languages": [
             "en",
@@ -53,5 +52,6 @@
         "availableOnline": false,
         "guidanceOnLocatingIds": "Users can find identifiers on the simple, searchable database on the SWC website. Identifiers will be under the column heading 'Swc Aff No'"
     },
-    "subnationalCoverage": null
+    "subnationalCoverage": null,
+    "listType": "secondary"
 }

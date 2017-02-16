@@ -37,7 +37,6 @@
         "lastUpdated": "2016-11-26",
         "source": "Desk research"
     },
-    "registerType": "secondary",
     "access": {
         "languages": [
             "en"
@@ -48,5 +47,6 @@
         "availableOnline": false,
         "guidanceOnLocatingIds": "The PDF documents provide a list of organisation names but no detailed information. The list is numbered, and descends according to alphabetic order\n\nOIPA results shows one organisation using MW-NBM : Theatre for Change MW-NBM-00139\n\nThis number relates to the PDF list 'Paid up list of National (Local) NGOs as at 20 August, 2014' http://ngoboardmalawi.mw/downloads/national%20ngo_directory_nov%202013.pdf\n\n139 Theatre for a Change\n\nThis does not look to be a reliable, unique organisation number."
     },
-    "subnationalCoverage": null
+    "subnationalCoverage": null,
+    "listType": "secondary"
 }

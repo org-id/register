@@ -41,7 +41,6 @@
         "lastUpdated": "2016-11-18",
         "source": null
     },
-    "registerType": "secondary",
     "access": {
         "languages": [
             "en",
@@ -53,5 +52,6 @@
         "availableOnline": false,
         "guidanceOnLocatingIds": "Registration numbers are contained in a PDF published by the Bureau. The latest version of this list can be found at http://ngoab.portal.gov.bd/sites/default/files/files/ngoab.portal.gov.bd/page/a86a0782_47b2_4756_b226_58e2fd6a97b4/NGO_LIST%20(19).pdf"
     },
-    "subnationalCoverage": null
+    "subnationalCoverage": null,
+    "listType": "secondary"
 }

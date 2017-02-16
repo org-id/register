@@ -41,7 +41,6 @@
         "lastUpdated": "2016-11-22",
         "source": "Desk research"
     },
-    "registerType": "secondary",
     "access": {
         "languages": [
             "en",
@@ -53,5 +52,6 @@
         "availableOnline": false,
         "guidanceOnLocatingIds": "Users can download a dataset containing information on government agencies in Spain using this link - http://administracionelectronica.gob.es/ctt/resources/Soluciones/238/Area%20descargas/Listado%20Oficinas%20AGE.xlsx?idIniciativa=238&idElemento=2745\n\nIdentifiers are under Column Header - C_ID_UNIDAD_RESPONSABLE\n\nUsers can find this spreadsheet by going to this publically available website, and scrolling down for 'Listado de informaci\u00f3n b\u00e1sica de oficinas de la AGE' - http://datos.gob.es/catalogo/directorio-comun-de-unidades-organicas-oficinas-dir3"
     },
-    "subnationalCoverage": null
+    "subnationalCoverage": null,
+    "listType": "secondary"
 }

@@ -42,7 +42,6 @@
         "lastUpdated": "2016-12-07",
         "source": "Desk research"
     },
-    "registerType": "primary",
     "access": {
         "languages": [
             "sr"
@@ -53,5 +52,6 @@
         "availableOnline": false,
         "guidanceOnLocatingIds": "Users can find identifiers by using the simple, searchable database. The database is provided in Serbian.\n\nIn the search results, identifiers will be under the column heading '\u041c\u0430\u0442\u0438\u0447\u043d\u0438 \u0431\u0440\u043e\u0458' or 'Identification Number' in English.\n\nCompanies of different types appear to have similar identification structure."
     },
-    "subnationalCoverage": null
+    "subnationalCoverage": null,
+    "listType": "primary"
 }

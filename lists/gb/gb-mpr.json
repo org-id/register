@@ -35,7 +35,6 @@
         "lastUpdated": null,
         "source": null
     },
-    "registerType": "primary",
     "access": {
         "languages": null,
         "exampleIdentifiers": "235C, IP031455",
@@ -44,5 +43,6 @@
         "availableOnline": false,
         "guidanceOnLocatingIds": null
     },
-    "subnationalCoverage": null
+    "subnationalCoverage": null,
+    "listType": "primary"
 }

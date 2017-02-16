@@ -43,7 +43,6 @@
         "lastUpdated": "2016-11-23",
         "source": "Desk research"
     },
-    "registerType": "secondary",
     "access": {
         "languages": [
             "en"
@@ -54,5 +53,6 @@
         "availableOnline": false,
         "guidanceOnLocatingIds": "Users can search for an educational establishment on this webpage - http://www.education.gov.uk/edubase/home.xhtml\n\nAfter conducting a search and selecting a school, college etc from the search results, the identifier will be next to the subject heading 'URN'\n\nUsers can also download a CSV of the EduBase data by scrolling down the same webpage and clicking on the 'All EduBase data.csv ' link under 'Data Downloads'"
     },
-    "subnationalCoverage": null
+    "subnationalCoverage": null,
+    "listType": "secondary"
 }

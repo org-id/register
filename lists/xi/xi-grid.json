@@ -41,7 +41,6 @@
         "lastUpdated": "2016-12-30",
         "source": "Desk research"
     },
-    "registerType": "third-party",
     "access": {
         "languages": [
             "en"
@@ -52,5 +51,6 @@
         "availableOnline": false,
         "guidanceOnLocatingIds": "A search of identifiers is available at https://www.grid.ac/institutes\n\nIdentifier numbers should be presented in their full form:\n\nE.g. XI-GRID-grid.17063.33"
     },
-    "subnationalCoverage": null
+    "subnationalCoverage": null,
+    "listType": "third-party"
 }

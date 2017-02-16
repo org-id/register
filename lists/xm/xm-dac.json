@@ -37,7 +37,6 @@
         "lastUpdated": "2016-12-27",
         "source": "Desk research"
     },
-    "registerType": "third-party",
     "access": {
         "languages": [
             "en",
@@ -49,5 +48,6 @@
         "availableOnline": false,
         "guidanceOnLocatingIds": "Users can download an Excel file of the DAC and CRS codes from the OECD website. Organisation identifiers can be found in the tabs 'See Donor', 'Agency' and 'Delivery Channel' codes. Identifiers will be under 'Donor code' and 'Channel ID' respectively.\n\nUsers should not that the data is available in a Excel file that contains much formatting."
     },
-    "subnationalCoverage": null
+    "subnationalCoverage": null,
+    "listType": "third-party"
 }

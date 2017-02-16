@@ -37,7 +37,6 @@
         "lastUpdated": "2016-09-17",
         "source": null
     },
-    "registerType": "primary",
     "access": {
         "languages": null,
         "exampleIdentifiers": null,
@@ -49,5 +48,6 @@
     "subnationalCoverage": [
         "GB-WLS",
         "GB-ENG"
-    ]
+    ],
+    "listType": "primary"
 }

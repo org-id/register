@@ -36,7 +36,6 @@
         "lastUpdated": "2016-11-26",
         "source": "Desk research"
     },
-    "registerType": "primary",
     "access": {
         "languages": [
             "en"
@@ -47,5 +46,6 @@
         "availableOnline": false,
         "guidanceOnLocatingIds": "OIPA search returned no results"
     },
-    "subnationalCoverage": null
+    "subnationalCoverage": null,
+    "listType": "primary"
 }
