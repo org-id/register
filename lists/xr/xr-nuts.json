@@ -40,7 +40,7 @@
     ],
     "code": "XR-NUTS",
     "formerPrefixes": null,
-    "confirmed": null,
+    "confirmed": true,
     "data": {
         "features": null,
         "dataAccessDetails": null,
