@@ -13,7 +13,7 @@
         {
             "code":"secondary",
             "title":{
-                "en":"Seccondary"
+                "en":"Secondary"
             },
             "description":{
                 "en":"This is list managed by an official source. Examples of secondary lists are VAT or Tax identifiers, or employer identification numbers.  Not all organisations of a given legal type will have these identifiers (for example, if they don't pay tax for a tax ID), and it may be possible to a single organisation to have more than one identifier from this list, or it's identifier to change at certain points in time. Being on this list relies upon some status the organisation has, or some official transactions it has engaged in."
