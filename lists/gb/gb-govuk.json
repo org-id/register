@@ -1,46 +1,45 @@
 {
-    "links": {
-        "wikipedia": null,
-        "opencorporates": null
-    },
-    "sector": null,
-    "url": "https://www.gov.uk/government/organisations",
-    "name": {
-        "en": "UK Government Departments, Agencies & Public Bodies",
-        "local": ""
-    },
-    "coverage": [
-        "GB"
-    ],
-    "code": "GB-GOVUK",
-    "formerPrefixes": null,
-    "confirmed": true,
-    "data": {
-        "features": null,
-        "dataAccessDetails": null,
-        "licenseDetails": null,
-        "licenseStatus": null,
-        "availability": null
-    },
-    "deprecated": null,
-    "structure": [
-        "government_agency"
-    ],
-    "description": {
-        "en": "Use the final segment of the url (below /organisations) as the \"registration number\", converting all \"-\" to \"_\". Keep \"registration number\" portion all lowercase."
-    },
-    "meta": {
-        "lastUpdated": null,
-        "source": null
-    },
-    "access": {
-        "languages": null,
-        "exampleIdentifiers": null,
-        "onlineAccessDetails": null,
-        "publicDatabase": null,
-        "availableOnline": false,
-        "guidanceOnLocatingIds": null
-    },
-    "subnationalCoverage": null,
-    "listType": "secondary"
+  "name": {
+    "en": "GOV.UK - UK Government Departments, Agencies & Public Bodies",
+    "local": ""
+  },
+  "url": "https://www.gov.uk/government/organisations",
+  "description": {
+    "en": "This list is deprecated in favour of GB-GOR, the Government Organisation Registry which assigns a unique code to each agency with a page at www.gov.uk.\n\nTo construct a legacy GB-GOVUK identifier, use the final segment of the url of a body at http://www.gov.uk (below /organisations) as the \"registration number\", converting all \"-\" to \"_\". Keep \"registration number\" portion all lowercase.\n\nIt should be possible to map form GB-GOVUK to GB-GOR identifiers. "
+  },
+  "coverage": [
+    "GB"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "government_agency"
+  ],
+  "sector": [],
+  "code": "GB-GOVUK",
+  "confirmed": true,
+  "deprecated": true,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": null,
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "",
+    "languages": []
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "",
+    "lastUpdated": ""
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
 }

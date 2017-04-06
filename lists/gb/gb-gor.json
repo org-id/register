@@ -1,0 +1,57 @@
+{
+  "name": {
+    "en": "Government Organisation Register",
+    "local": ""
+  },
+  "url": "http://government-organisation.alpha.openregister.org/",
+  "description": {
+    "en": "The UK Government Organisation Register contains an identifier for every government body with a presence on the gov.uk single domain.\n\nThis covers government departments, agencies and Arms Length Bodies (ALBs).\n\nEach organisation is assigned an alphanumeric identifier, and the register also includes website addresses, that can be mapped to entries in the GB-GOVUK identifier list. \n\nDue to the stable identifiers given in the Government Organisation Register, it should be preferred over codes from the GB-GOVUK list. "
+  },
+  "coverage": [
+    "GB"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "government_agency"
+  ],
+  "sector": [],
+  "code": "GB-GOR",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "The list is accessible as open data as part of the OpenRegister platform.",
+    "publicDatabase": "http://government-organisation.alpha.openregister.org/",
+    "guidanceOnLocatingIds": "The identifier is available in the 'government-organisation' field within the register. Identifiers are short alphanumeric strings. ",
+    "exampleIdentifiers": "OT1211, PB1204, EA1113, D1198",
+    "languages": [
+      "en"
+    ]
+  },
+  "data": {
+    "availability": [
+      "api",
+      "bulk",
+      "csv",
+      "json",
+      "rdf"
+    ],
+    "dataAccessDetails": "The full list and individual records are available in a number of machine-readable formats.",
+    "features": [
+      "date_of_registration",
+      "expiry_date"
+    ],
+    "licenseStatus": "open_license",
+    "licenseDetails": "Open Government Licence v3.0"
+  },
+  "meta": {
+    "source": "https://github.com/OpenDataServices/org-ids/issues/67",
+    "lastUpdated": "2017-04-06"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
