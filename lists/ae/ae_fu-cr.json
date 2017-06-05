@@ -4,22 +4,22 @@
         "opencorporates": null
     },
     "sector": null,
-    "url": "http://www.abudhabichamber.ae/English/E-Services/Pages/EServices-Page.aspx?sm=1%20&ty=s",
+    "url": "http://www.flashgrpclient.com/fujdir/",
     "name": {
-        "en": "Abu Dhabi Chamber of Commerce and Industry- Online Commercial Directory",
+        "en": "Fujairah Chamber of Commerce & Industry- Online Directory",
         "local": ""
     },
     "coverage": [
         "AE"
     ],
-    "code": "AE-AZ-CR",
+    "code": "AE_FU-CR",
     "formerPrefixes": null,
     "confirmed": null,
     "data": {
         "features": null,
         "dataAccessDetails": null,
         "licenseDetails": null,
-        "licenseStatus": "no_license",
+        "licenseStatus": "closed_license",
         "availability": null
     },
     "deprecated": null,
@@ -42,7 +42,7 @@
         "guidanceOnLocatingIds": null
     },
     "subnationalCoverage": [
-        "AE_AZ"
+        "AE_FU"
     ],
     "listType": null
 }

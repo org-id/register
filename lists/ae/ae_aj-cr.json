@@ -4,22 +4,22 @@
         "opencorporates": null
     },
     "sector": null,
-    "url": "http://www.sharjah.gov.ae/EN/Services/Pages/BusinessDirectory.aspx",
+    "url": "http://www.ajmanchamber.ae/en/directory?mo=tr",
     "name": {
-        "en": "Sharjah Chamber of Commerce and Industry- Business Directory",
+        "en": "Ajman Chamber of Commerce and Industry- Commercial Register",
         "local": ""
     },
     "coverage": [
         "AE"
     ],
-    "code": "AE-SH-CR",
+    "code": "AE_AJ-CR",
     "formerPrefixes": null,
     "confirmed": null,
     "data": {
         "features": null,
         "dataAccessDetails": null,
         "licenseDetails": null,
-        "licenseStatus": "no_license",
+        "licenseStatus": "closed_license",
         "availability": null
     },
     "deprecated": null,
@@ -42,7 +42,7 @@
         "guidanceOnLocatingIds": null
     },
     "subnationalCoverage": [
-        "AE_SH"
+        "AE_AJ"
     ],
     "listType": null
 }

@@ -4,15 +4,15 @@
         "opencorporates": null
     },
     "sector": null,
-    "url": "http://www.ajmanchamber.ae/en/directory?mo=tr",
+    "url": "http://www.rakchamber.ae/",
     "name": {
-        "en": "Ajman Chamber of Commerce and Industry- Commercial Register",
+        "en": "Ras al-Khaimah Chamber of Commerce and Industry",
         "local": ""
     },
     "coverage": [
         "AE"
     ],
-    "code": "AE-AJ-CR",
+    "code": "AE_RK-CR",
     "formerPrefixes": null,
     "confirmed": null,
     "data": {
@@ -42,7 +42,7 @@
         "guidanceOnLocatingIds": null
     },
     "subnationalCoverage": [
-        "AE_AJ"
+        "AE_RK"
     ],
     "listType": null
 }

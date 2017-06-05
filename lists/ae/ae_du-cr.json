@@ -4,22 +4,22 @@
         "opencorporates": null
     },
     "sector": null,
-    "url": "http://www.flashgrpclient.com/fujdir/",
+    "url": "http://www.dubaichamber.com/en/resources/commercial-directory",
     "name": {
-        "en": "Fujairah Chamber of Commerce & Industry- Online Directory",
+        "en": "Dubai Chamber of Commerce and Industry- Commercial Directory",
         "local": ""
     },
     "coverage": [
         "AE"
     ],
-    "code": "AE-FU-CR",
+    "code": "AE_DU-CR",
     "formerPrefixes": null,
     "confirmed": null,
     "data": {
         "features": null,
         "dataAccessDetails": null,
         "licenseDetails": null,
-        "licenseStatus": "closed_license",
+        "licenseStatus": "no_license",
         "availability": null
     },
     "deprecated": null,
@@ -42,7 +42,7 @@
         "guidanceOnLocatingIds": null
     },
     "subnationalCoverage": [
-        "AE_FU"
+        "AE_DU"
     ],
     "listType": null
 }

@@ -4,22 +4,22 @@
         "opencorporates": null
     },
     "sector": null,
-    "url": "http://www.uaqcci.ae/en/index.php?option=com_content&view=article&id=1239",
+    "url": "http://www.sharjah.gov.ae/EN/Services/Pages/BusinessDirectory.aspx",
     "name": {
-        "en": "Umm al-Quwain Chamber of Commerce and Industry",
+        "en": "Sharjah Chamber of Commerce and Industry- Business Directory",
         "local": ""
     },
     "coverage": [
         "AE"
     ],
-    "code": "AE-UQ-CR",
+    "code": "AE_SH-CR",
     "formerPrefixes": null,
     "confirmed": null,
     "data": {
         "features": null,
         "dataAccessDetails": null,
         "licenseDetails": null,
-        "licenseStatus": "closed_license",
+        "licenseStatus": "no_license",
         "availability": null
     },
     "deprecated": null,
@@ -42,7 +42,7 @@
         "guidanceOnLocatingIds": null
     },
     "subnationalCoverage": [
-        "AE_UQ"
+        "AE_SH"
     ],
     "listType": null
 }
