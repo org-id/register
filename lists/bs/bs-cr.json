@@ -1,0 +1,46 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://rgd.bahamas.gov.bs:8081/netdata/db2www.pgm/findcompany.ndm/searchcomps",
+    "name": {
+        "en": "Registrar General's Department",
+        "local": ""
+    },
+    "coverage": [
+        "BS"
+    ],
+    "code": "BS-CR",
+    "formerPrefixes": null,
+    "confirmed": null,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": "closed_license",
+        "availability": null
+    },
+    "deprecated": null,
+    "structure": [
+        "company"
+    ],
+    "description": {
+        "en": "This entry was imported from the Open Corporates Jurisdiction List.Bahamas public company identifiers are not unique - specifically early company numbers are frequently duplicates, with different companies of different types having the same number. Because of that, OpenCorporates uses the company number with a company type suffix, based on the type code mapping on the register's website, which we believe to be unique."
+    },
+    "meta": {
+        "lastUpdated": "2016-09-07",
+        "source": null
+    },
+    "access": {
+        "languages": null,
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": null,
+        "availableOnline": false,
+        "guidanceOnLocatingIds": null
+    },
+    "subnationalCoverage": null,
+    "listType": null
+}

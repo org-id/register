@@ -1,0 +1,48 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://www.hmrc.gov.uk/",
+    "name": {
+        "en": "HM Revenue and Customs",
+        "local": ""
+    },
+    "coverage": [
+        "GB"
+    ],
+    "code": "GB-REV",
+    "formerPrefixes": null,
+    "confirmed": true,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": "no_license",
+        "availability": null
+    },
+    "deprecated": null,
+    "structure": [
+        "charity"
+    ],
+    "description": {
+        "en": "Some UK charitable organisations are exempt or excepted from registering with the Charity Commission. This may be due to the nature of the organisation, it's historical status, or income threshold.\n\nHowever, these organisations can register for tax purposes with HM Revenue and Customs, and receive a registration number.\n\nThis may be reported prefixed with XC (for eXempt Charity)."
+    },
+    "meta": {
+        "lastUpdated": "2016-12-14",
+        "source": null
+    },
+    "access": {
+        "languages": [
+            "en"
+        ],
+        "exampleIdentifiers": "GB-REV-X6243",
+        "onlineAccessDetails": null,
+        "publicDatabase": null,
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "HMRC do not publish a list of these numbers. "
+    },
+    "subnationalCoverage": null,
+    "listType": "secondary"
+}

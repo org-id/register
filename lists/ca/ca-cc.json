@@ -1,0 +1,60 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": "http://opencorporates.com/companies/ca"
+    },
+    "sector": null,
+    "url": "http://www.ic.gc.ca/eic/site/cd-dgc.nsf/eng/home",
+    "name": {
+        "en": "Corporations Canada",
+        "local": ""
+    },
+    "coverage": [
+        "CA"
+    ],
+    "code": "CA-CC",
+    "formerPrefixes": null,
+    "confirmed": true,
+    "data": {
+        "features": [
+            "directors_trustees_governors",
+            "accounts",
+            "date_of_registration",
+            "registration_number",
+            "financial_turnover/details",
+            "organisation_name",
+            "organisation_type",
+            "registered_address"
+        ],
+        "dataAccessDetails": null,
+        "licenseDetails": "http://index.okfn.org/place/canada/companies/",
+        "licenseStatus": "closed_license",
+        "availability": [
+            "html"
+        ]
+    },
+    "deprecated": null,
+    "structure": [
+        "company"
+    ],
+    "description": {
+        "en": "Corporations Canada are the federal company register. \n\nCA-CC should be used for the Canada Corporation Number\n\nCompanies in Canada register with their provincial authority, e.g. British Columbia. While there is currently no complete national database for companies in Canada, Corporations Canada are piloting a Business Search Registry, which allows for the search of multiple jurisdictions at once, but not all - https://www.ic.gc.ca/app/scr/ccbr/search-chercher?lang=eng\n\nCorporations Canada also provides a Federal Corporation search - https://www.ic.gc.ca/app/scr/cc/CorporationsCanada/fdrlCrpSrch.html?locale=en_CA\n\nThis entry was imported from the Open Corporates Jurisdiction List."
+    },
+    "meta": {
+        "lastUpdated": "2016-12-14",
+        "source": "Desk research"
+    },
+    "access": {
+        "languages": [
+            "en",
+            "fr"
+        ],
+        "exampleIdentifiers": "784899-4 , 2212809, 260354410, 7541724",
+        "onlineAccessDetails": "Limited details from an incomplete database",
+        "publicDatabase": "https://www.ic.gc.ca/app/scr/ccbr/search-chercher?lang=eng , https://www.ic.gc.ca/app/scr/cc/CorporationsCanada/fdrlCrpSrch.html?locale=en_CA",
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "Federal Corporation Search:\nUsers can find identifiers by using the simple, searchable database which is hosted by the Canadian Government, on a website separate to the Canadian Revenue Agency. The two identifiers available to the user are the Corporate Number and the Business Number. The identifiers will be next to these names, respectively.\n\nBusiness Search Registry\n\nUsers can find identifiers by using this incomplete database. To find identifiers, click on the hyperlinked name or the 'More' drop-down menu to the right of the name.\n\nUsers should note that results that have been pulled from Ontario's registry will not successfully link to corporate information, but will take the user to the homepage for the public record search. But clicking 'More' will reveal the identifer'\n\nWhen using the Business Search Registry, identifiers from different state registration authorities are provided. This means they use different formats."
+    },
+    "subnationalCoverage": null,
+    "listType": "secondary"
+}

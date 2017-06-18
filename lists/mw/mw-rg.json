@@ -1,0 +1,51 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "https://www.registrargeneral.gov.mw/index.html",
+    "name": {
+        "en": "Registrar General, Department of Justice",
+        "local": ""
+    },
+    "coverage": [
+        "MW"
+    ],
+    "code": "MW-RG",
+    "formerPrefixes": null,
+    "confirmed": true,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": "no_license",
+        "availability": [
+            "data_not_available"
+        ]
+    },
+    "deprecated": null,
+    "structure": [
+        "company",
+        "charity"
+    ],
+    "description": {
+        "en": "The Department of Registrar General under the Department of Justice and Constitutional Affairs is where companies and NPOs register in Malawi. They do not have a database of company information available online.\n\n\"We are a government department under the Ministry of Justice and Constitutional Affairs responsible for the registration and administration of business entities, Non Profit Organizations and Industrial Property Rights\" [1]\n\n[1] https://www.registrargeneral.gov.mw/index.html"
+    },
+    "meta": {
+        "lastUpdated": "2016-11-26",
+        "source": "Desk research"
+    },
+    "access": {
+        "languages": [
+            "en"
+        ],
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": null,
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "OIPA search returned no results"
+    },
+    "subnationalCoverage": null,
+    "listType": "primary"
+}

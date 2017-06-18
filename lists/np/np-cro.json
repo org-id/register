@@ -1,0 +1,51 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://www.cro.gov.np/",
+    "name": {
+        "en": "Company Registrar Office",
+        "local": ""
+    },
+    "coverage": [
+        "NP"
+    ],
+    "code": "NP-CRO",
+    "formerPrefixes": null,
+    "confirmed": true,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": "http://index.okfn.org/place/nepal/companies/",
+        "licenseStatus": "closed_license",
+        "availability": [
+            "html"
+        ]
+    },
+    "deprecated": null,
+    "structure": [
+        "company"
+    ],
+    "description": {
+        "en": "All companies operating in Nepal must register with the Office of the Company Registrar Office. This database is available for search on the Office homepage.\n\n\"To register a company, the promoter must submit an application as prescribed by the Ministry of Industry, Commerce, and Supplies. Online filing of the required documents has been introduced and made mandatory. After the online filing, entrepreneurs are required to visit the Office of Company Registrar and submit all the original documents for further verification.\" [1]\n\n[1] http://www.doingbusiness.org/data/exploreeconomies/nepal#starting-a-business"
+    },
+    "meta": {
+        "lastUpdated": "2016-12-02",
+        "source": "Desk research"
+    },
+    "access": {
+        "languages": [
+            "en",
+            "ne"
+        ],
+        "exampleIdentifiers": "45995, 34774, 105299",
+        "onlineAccessDetails": "Data available for free from search on Office website homepage",
+        "publicDatabase": "http://www.ocr.gov.np/index.php/en/",
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "Users can search for identifiers using the simple, searchable database on the Office website. Identifiers will be under the column heading 'Registration No' on the search results.\n\nCompany numbers are sometimes reported in the format: 45995-063-064\n\nThis is made up of two parts. A CRO number and a registration year.\n\nFor example:\n\nSearching for 45995 in the Registrar database returns Young Innovations. This is their CRO number.\n\n063-064 refers to the financial year that Young Innovations was registered. When included within the identifier, this could be reported with a dash-separator, and not slash. "
+    },
+    "subnationalCoverage": null,
+    "listType": "primary"
+}

@@ -1,0 +1,48 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://www.kemendagri.go.id/",
+    "name": {
+        "en": "Ministry of Home Affairs ",
+        "local": " Kementerian Dalam Negeri"
+    },
+    "coverage": [
+        "ID"
+    ],
+    "code": "ID-KDN",
+    "formerPrefixes": null,
+    "confirmed": true,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": "no_license",
+        "availability": [
+            "data_not_available"
+        ]
+    },
+    "deprecated": true,
+    "structure": null,
+    "description": {
+        "en": "The Ministry of Home Affairs conducts a series of tasks in relation to legal practice and administration within Indonesia. However, no link has been found between the Ministry of Home Affairs and NGO/company registration. \n\nAs a result, this code has been deprecated. \n\nUsers can refer to ID-KLN (Ministry of Foreign Affairs) and ID-PRO for the registration of NGOs.\n\nUsers can refer to ID-SMR (SMERU) for an independent body that maintains a database of NGOs.\n\n\"The Ministry of Home Affairs has the task of conducting government affairs in the country to assist the President in running the state government. \n\nThe Ministry of Interior has the functions:\n\n1. formulation, determination and implementation of policies in the field of politics and public governance, decentralization, development of the regional administration, coaching village government, formation of government affairs and regional development, development of local finance, as well as the population and civil registration, in accordance with the provisions of the legislation;\n2. coordinating the implementation of tasks, coaching, and providing administrative support to all elements of the organization within the Ministry of the Interior;\n3. management of property / wealth of the country is the responsibility of the Ministry of the Interior;\n4. supervise the execution of duties in the Ministry of the Interior;\n5. implementation of the technical guidance and supervision over the implementation of the affairs of the Interior Ministry in the area;\n6. coordinating, coaching and general supervision, facilitation, and evaluation of the regional administration in accordance with the provisions of the legislation;\n7. implementation of research and development in the field of governance in the country;\n8. implementation of human resource development in the field of governance in the country;\n9. implementation of the technical activities of the center to the regions; and\n10. the implementation of a substantial support to all elements of the organization within the Ministry of Interior.\" [1]\n\n[1] http://www.kemendagri.go.id/profil/tugas-dan-fungsi \n\nNGO registration can also be done through Ministry Home affairs/ Kementerian Dalam Negeri"
+    },
+    "meta": {
+        "lastUpdated": "2016-12-28",
+        "source": "Desk research"
+    },
+    "access": {
+        "languages": [
+            "id"
+        ],
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": "None available",
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "None available"
+    },
+    "subnationalCoverage": null,
+    "listType": "deprecated"
+}

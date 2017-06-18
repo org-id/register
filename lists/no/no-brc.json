@@ -1,0 +1,64 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": "http://opencorporates.com/companies/no"
+    },
+    "sector": null,
+    "url": "http://www.brreg.no/",
+    "name": {
+        "en": "Br\u00f8nn\u00f8ysundregistrene",
+        "local": ""
+    },
+    "coverage": [
+        "NO"
+    ],
+    "code": "NO-BRC",
+    "formerPrefixes": null,
+    "confirmed": true,
+    "data": {
+        "features": [
+            "registered_address",
+            "objectives/purpose",
+            "organisation_name",
+            "registration_number",
+            "directors_trustees_governors",
+            "activities/sector_code",
+            "date_of_registration"
+        ],
+        "dataAccessDetails": "There is an option to translate the home page into English, but this feature does not move to other pages. ",
+        "licenseDetails": "https://opencorporates.com/registers/191",
+        "licenseStatus": "open_license",
+        "availability": [
+            "html",
+            "csv",
+            "json",
+            "xml",
+            "api"
+        ]
+    },
+    "deprecated": null,
+    "structure": [
+        "company",
+        "government_agency",
+        "charity"
+    ],
+    "description": {
+        "en": "Companies in Norway must be Registered with the Register of Business Enterprises. Non-profits are eligible for registry with the Register of Non-Profit Organizations. \n\nThese registries are maintained by the Br\u00f8nn\u00f8ysundregistrene.  Businesses can be incorporated by applying to the online 'coordinated register notification' - Altinn, which is also maintained by Br\u00f8nn\u00f8ysundregistrene.  \n\nThis database can be searched by the public for free from the organisation homepage, and can be downloaded in various data format.\n\n\"The Register of Business Enterprises registers all Norwegian and foreign businesses in Norway, ensuring legal protection and financial overview.\" [1] \n\n\"Non-profit organizations that run voluntary activities not motivated by profit are eligible to register. Examples of such organizations are:\n\n- associations\n- non-commercial foundations that do not distribute funds, or that only - distribute funds to non-profit activities\n- commercial foundations that only distribute funds to non-profit activities\n- limited liability companies that only distribute funds to non-profit activities.\" [2] \n\n\"Br\u00f8nn\u00f8ysund Register Centre (Norwegian Bokm\u00e5l: Br\u00f8nn\u00f8ysundregistrene, Norwegian Nynorsk: Br\u00f8nn\u00f8ysundregistra) is a Norwegian government agency that is responsible for the management of numerous public registers for Norway, and governmental systems for digital exchange of information.\" [3]\n\n[1][2] https://www.brreg.no/home/about-us/the-registers-and-their-timeline/\n[3] https://en.wikipedia.org/wiki/Br%C3%B8nn%C3%B8ysund_Register_Centre"
+    },
+    "meta": {
+        "lastUpdated": "2016-11-30",
+        "source": "Desk research"
+    },
+    "access": {
+        "languages": [
+            "no"
+        ],
+        "exampleIdentifiers": "972417920, 894961902, 968253980",
+        "onlineAccessDetails": "Data is available to search for free",
+        "publicDatabase": "https://www.brreg.no/home/ , https://www.brreg.no/produkter-og-tjenester/apne-data/",
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "Users can find identifiers by searching on the homepage of the Br\u00f8nn\u00f8ysundregistren. Identifiers will be under the column heading 'Orgnr.'. If the user clicks on the result for more details, the identifier will be next to 'Organisasjonsnummer' , or 'Organisation number' in English.\n\nUsers can also search the database before downloading extracts (or the entire dataset). The identifiers will be under the column heading 'Organisasjonsnummer' , or 'Organisation number' in English."
+    },
+    "subnationalCoverage": null,
+    "listType": "primary"
+}

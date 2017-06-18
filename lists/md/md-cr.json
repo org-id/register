@@ -1,0 +1,50 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://www.mtic.gov.md/WebPublic/index.php?action=company&lang=md",
+    "name": {
+        "en": "Ministry of Information Technology and Communications",
+        "local": ""
+    },
+    "coverage": [
+        "MD"
+    ],
+    "code": "MD-CR",
+    "formerPrefixes": null,
+    "confirmed": null,
+    "data": {
+        "features": [
+            "shareholders"
+        ],
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": "open_license",
+        "availability": [
+            "available:_but_details_unknown"
+        ]
+    },
+    "deprecated": null,
+    "structure": [
+        "company"
+    ],
+    "description": {
+        "en": "This entry was imported from the Open Corporates Jurisdiction List."
+    },
+    "meta": {
+        "lastUpdated": "2016-09-07",
+        "source": null
+    },
+    "access": {
+        "languages": null,
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": null,
+        "availableOnline": false,
+        "guidanceOnLocatingIds": null
+    },
+    "subnationalCoverage": null,
+    "listType": null
+}

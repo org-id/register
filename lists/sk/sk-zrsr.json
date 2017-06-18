@@ -1,0 +1,59 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": "http://opencorporates.com/companies/sk"
+    },
+    "sector": null,
+    "url": "http://www.orsr.sk/search_subjekt.asp?lan=en",
+    "name": {
+        "en": "Slovakia Ministry Of Interior Trade Register",
+        "local": ""
+    },
+    "coverage": [
+        "SK"
+    ],
+    "code": "SK-ZRSR",
+    "formerPrefixes": null,
+    "confirmed": true,
+    "data": {
+        "features": [
+            "registered_address",
+            "registration_number",
+            "date_of_registration",
+            "directors_trustees_governors",
+            "organisation_type",
+            "accounts",
+            "objectives/purpose"
+        ],
+        "dataAccessDetails": null,
+        "licenseDetails": "https://opencorporates.com/registers/234",
+        "licenseStatus": "closed_license",
+        "availability": [
+            "html"
+        ]
+    },
+    "deprecated": true,
+    "structure": [
+        "company"
+    ],
+    "description": {
+        "en": "The Ministry of Interior Trade Register does have a database of companies, but users should refer to the Ministry of Justice Business Register in SK-ORSR for the unique identifier list for Slovakia. \n\nThe Ministry of Justice has been shown to be the organisation responsible for company registration, and thus SK-ZRSR has been deprecated in favour of SK-ORSR."
+    },
+    "meta": {
+        "lastUpdated": "2016-12-07",
+        "source": "Desk research"
+    },
+    "access": {
+        "languages": [
+            "en",
+            "sk"
+        ],
+        "exampleIdentifiers": "35919043, 47364319, 36781673",
+        "onlineAccessDetails": "Database can be searched using the simple search. ",
+        "publicDatabase": "http://www.orsr.sk/search_subjekt.asp?lan=en",
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "Users can find identifiers using the simple, searchable online database. Users will have to click on the link for 'Aktu\u00e1lny' or '\u00dapln\u00fd' under the column heading V\u00fdpis - or in English,  for 'Actual' or 'Full' under the column heading 'Extract' - of one of the companies in the search results in order to see company details.\n\nIdentifiers will be next to the heading 'I\u010cO' or 'Identification' in English"
+    },
+    "subnationalCoverage": null,
+    "listType": "deprecated"
+}

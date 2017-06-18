@@ -1,0 +1,48 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://mblsportal.sos.state.mn.us/",
+    "name": {
+        "en": "Office of the Minnesota Secretary of State Business & Lien system",
+        "local": ""
+    },
+    "coverage": [
+        "US"
+    ],
+    "code": "US-MN-CR",
+    "formerPrefixes": null,
+    "confirmed": null,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": "closed_license",
+        "availability": null
+    },
+    "deprecated": null,
+    "structure": [
+        "company"
+    ],
+    "description": {
+        "en": "This entry was imported from the Open Corporates Jurisdiction List.Minnesota public company identifiers are not unique - specifically early company numbers are duplicates, with different companies of different types having the same number. Because of that, OpenCorporates uses the Minnesota company register guid (the identifier used on URLs), which is not publicly described anywhere, but we believe to be unique"
+    },
+    "meta": {
+        "lastUpdated": "2016-09-07",
+        "source": null
+    },
+    "access": {
+        "languages": null,
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": null,
+        "availableOnline": false,
+        "guidanceOnLocatingIds": null
+    },
+    "subnationalCoverage": [
+        "US_MN"
+    ],
+    "listType": null
+}

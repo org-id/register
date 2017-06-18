@@ -1,0 +1,48 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://www.gov.pe.ca/corporations/index.php",
+    "name": {
+        "en": "Prince Edward Island Corporate",
+        "local": "Business Names Registry"
+    },
+    "coverage": [
+        "CA"
+    ],
+    "code": "CA_PE-PEI_IPE",
+    "formerPrefixes": null,
+    "confirmed": true,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": "no_license",
+        "availability": null
+    },
+    "deprecated": null,
+    "structure": [
+        "company"
+    ],
+    "description": {
+        "en": "This entry was imported from the Open Corporates Jurisdiction List."
+    },
+    "meta": {
+        "lastUpdated": "2016-12-14",
+        "source": "Desk research"
+    },
+    "access": {
+        "languages": null,
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": "https://www.registreentreprises.gouv.qc.ca/RQAnonymeGR/GR/GR03/GR03A2_19A_PIU_RechEnt_PC/PageRechSimple.aspx?T1.CodeService=S00436&Clng=F&WT.co_f=2c711dfd08c3696dc2c1481744819355",
+        "availableOnline": false,
+        "guidanceOnLocatingIds": null
+    },
+    "subnationalCoverage": [
+        "CA_PE"
+    ],
+    "listType": "primary"
+}

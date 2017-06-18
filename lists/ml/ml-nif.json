@@ -1,0 +1,52 @@
+{
+  "name": {
+    "en": "Tax Identification Number",
+    "local": "Numero d’Identification Fiscale "
+  },
+  "url": "http://demarchesadministratives.gouv.ml/demarches/afficher/Numero-d-Identification-Fiscale-NIF",
+  "description": {
+    "en": "The Tax Identification Number (Numero d’Identification Fiscale) is issued to registered companies, and to branches of foreign organisations operating in Mali.\n\nThere is publicly available register of assigned Tax Identification Numbers. \n"
+  },
+  "coverage": [
+    "ML"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity",
+    "company",
+    "government_agency",
+    "unincorporated_body"
+  ],
+  "sector": [],
+  "code": "ML-NIF",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": null,
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "When individuals, organisations or branches of organisations are issued with a Tax Identification Number they will be given a pink form that provides their 'No Fiscal'. In general, these do not appear to be published, but may be requested from an organisation. ",
+    "exampleIdentifiers": "085101101W",
+    "languages": [
+      "fr"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Desk research",
+    "lastUpdated": "2017-06-05"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}

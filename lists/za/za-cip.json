@@ -1,0 +1,53 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": "http://opencorporates.com/companies/za"
+    },
+    "sector": null,
+    "url": "http://www.cipro.gov.za/",
+    "name": {
+        "en": "Companies and Intellectual Property Commission (CIPC)",
+        "local": ""
+    },
+    "coverage": [
+        "ZA"
+    ],
+    "code": "ZA-CIP",
+    "formerPrefixes": null,
+    "confirmed": true,
+    "data": {
+        "features": [
+            "organisation_name",
+            "registration_number"
+        ],
+        "dataAccessDetails": "Data available is very basic, and searches can only be completed when the exact name of the corporate entity is known",
+        "licenseDetails": "https://opencorporates.com/registers/237",
+        "licenseStatus": "closed_license",
+        "availability": [
+            "html"
+        ]
+    },
+    "deprecated": null,
+    "structure": [
+        "company"
+    ],
+    "description": {
+        "en": "The Companies and Intellectual Property Commission (CIPC) is responsible for company registration in South Africa. There is a basic free database search, or users can subscribe to the CIPC website.\n\n\"Functions of the Commission\n\nRegistration of Companies, Co-operatives and Intellectual Property Rights (trade marks, patents, designs and copyright) and maintenance thereof\nDisclosure of Information on its business registers\" [1] \n\n[1] http://www.cipc.co.za/index.php/about/our-functions/"
+    },
+    "meta": {
+        "lastUpdated": "2016-12-21",
+        "source": "Desk research"
+    },
+    "access": {
+        "languages": [
+            "en"
+        ],
+        "exampleIdentifiers": "6713-713839-07, 2007-031592-07 , 1994-010680-07",
+        "onlineAccessDetails": null,
+        "publicDatabase": "http://www.cipro.co.za/products_services/name_search.asp, https://eservices.cipc.co.za/ , https://opencorporates.com/companies/za?page=1",
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "Users can search for identifiers using the Cipro name. Identifiers will be under the Column header 'Enterprise number'.\n\nUsers should note that this is a very basic search function, and current research finds that only Search Option 1 works, thus users must have the exact name of the corporate entity to find an identifier number. The resulting data is very basic.\n\nUsers can also search the OpenCorporates database."
+    },
+    "subnationalCoverage": null,
+    "listType": "primary"
+}

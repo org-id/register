@@ -1,0 +1,50 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://corps.sec.state.vt.us/corpbrow.aspx",
+    "name": {
+        "en": "Corporations Division, Vermont Secretary of State",
+        "local": ""
+    },
+    "coverage": [
+        "US"
+    ],
+    "code": "US-VT-CR",
+    "formerPrefixes": null,
+    "confirmed": null,
+    "data": {
+        "features": [
+            "directors_trustees_governors"
+        ],
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": "closed_license",
+        "availability": null
+    },
+    "deprecated": null,
+    "structure": [
+        "company"
+    ],
+    "description": {
+        "en": "This entry was imported from the Open Corporates Jurisdiction List.In July 2014 Vermont changed their company register from http://www.sec.state.vt.us/corps/corp.htm to https://www.sec.state.vt.us/corporationsbusiness-services/searches-databases.aspx - coinciding with this was a change to the numbering system for companies in Vermont. Company numbers have been migrated to use the new system and old links will redirect to these new company numbers. Full details available on our public wiki: https://wiki.opencorporates.com/qa/qa_public/migrating_company_numbers/vermont"
+    },
+    "meta": {
+        "lastUpdated": "2016-09-07",
+        "source": null
+    },
+    "access": {
+        "languages": null,
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": null,
+        "availableOnline": false,
+        "guidanceOnLocatingIds": null
+    },
+    "subnationalCoverage": [
+        "US_VT"
+    ],
+    "listType": null
+}

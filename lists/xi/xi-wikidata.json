@@ -1,0 +1,42 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": null,
+    "name": {
+        "en": "Wikidata",
+        "local": ""
+    },
+    "coverage": null,
+    "code": "XI-WIKIDATA",
+    "formerPrefixes": null,
+    "confirmed": null,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": null,
+        "availability": null
+    },
+    "deprecated": null,
+    "structure": null,
+    "description": {
+        "en": "Research required. "
+    },
+    "meta": {
+        "lastUpdated": null,
+        "source": null
+    },
+    "access": {
+        "languages": null,
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": null,
+        "availableOnline": false,
+        "guidanceOnLocatingIds": null
+    },
+    "subnationalCoverage": null,
+    "listType": null
+}

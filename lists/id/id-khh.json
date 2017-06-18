@@ -1,0 +1,44 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://www.kemenkumham.go.id/",
+    "name": {
+        "en": "Ministry of Justice & Human Rights",
+        "local": " Kementerian Hukum Dan Hak"
+    },
+    "coverage": [
+        "ID"
+    ],
+    "code": "ID-KHH",
+    "formerPrefixes": null,
+    "confirmed": null,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": null,
+        "availability": null
+    },
+    "deprecated": null,
+    "structure": null,
+    "description": {
+        "en": "Company registration is done through Ministry of Justice & Human Rights/ Kementerian Hukum Dan Hak"
+    },
+    "meta": {
+        "lastUpdated": null,
+        "source": null
+    },
+    "access": {
+        "languages": null,
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": null,
+        "availableOnline": false,
+        "guidanceOnLocatingIds": null
+    },
+    "subnationalCoverage": null,
+    "listType": null
+}

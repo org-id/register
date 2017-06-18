@@ -1,0 +1,52 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://wyobiz.wy.gov/Business/FilingSearch.aspx",
+    "name": {
+        "en": "Business Division, Wyoming Secretary of State",
+        "local": ""
+    },
+    "coverage": [
+        "US"
+    ],
+    "code": "US-WY-CR",
+    "formerPrefixes": null,
+    "confirmed": null,
+    "data": {
+        "features": [
+            "directors_trustees_governors"
+        ],
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": "closed_license",
+        "availability": [
+            "available:_but_details_unknown"
+        ]
+    },
+    "deprecated": null,
+    "structure": [
+        "company"
+    ],
+    "description": {
+        "en": "This entry was imported from the Open Corporates Jurisdiction List."
+    },
+    "meta": {
+        "lastUpdated": "2016-09-07",
+        "source": null
+    },
+    "access": {
+        "languages": null,
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": null,
+        "availableOnline": false,
+        "guidanceOnLocatingIds": null
+    },
+    "subnationalCoverage": [
+        "US_WY"
+    ],
+    "listType": null
+}

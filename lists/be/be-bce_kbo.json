@@ -1,0 +1,62 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": "http://opencorporates.com/companies/be"
+    },
+    "sector": null,
+    "url": "http://economie.fgov.be/fr/entreprises/BCE ",
+    "name": {
+        "en": "Crossroads Bank for Enterprises ",
+        "local": " Banque Carrefour des entreprises "
+    },
+    "coverage": [
+        "BE"
+    ],
+    "code": "BE-BCE_KBO",
+    "formerPrefixes": null,
+    "confirmed": true,
+    "data": {
+        "features": [
+            "registered_address",
+            "date_of_registration",
+            "organisation_name",
+            "registration_number",
+            "phone_number",
+            "status"
+        ],
+        "dataAccessDetails": "Data can be search using a number of terms. Lists of results can be downloaded as a PDF. Information on individual enterprises can be viewed, but no download feature seems to be available",
+        "licenseDetails": null,
+        "licenseStatus": "closed_license",
+        "availability": [
+            "pdf"
+        ]
+    },
+    "deprecated": null,
+    "structure": [
+        "unincorporated_body",
+        "company",
+        "charity"
+    ],
+    "description": {
+        "en": "The Crossroads Bank for Enterprises (BCE, ECB, CBE) is the registration office for companies in Belgium. The ECB compiles a list of business identification numbers, maintains the database and provides the list in an available format.\n\n\"The following companies must register with the ECB:\n\n1. legal persons under Belgian law\n2. institutions, organizations and Belgian law services which perform tasks of general interest or related to public order and that have a distinct financial and accounting autonomy from that of the legal person under Belgian public law governing them;\n3. legal persons of foreign or international law which have a seat in Belgium or who are required to register pursuant to an obligation imposed by Belgian law;\n4. to any individual as an autonomous entity: \na) carries on an economic and professional activity in Belgium, as usual, the main or supplementary basis; \nb) or must register in fulfillment of an obligation imposed by legislation Belgium other than that covered by this Act;\n5. associations without legal personality must be registered pursuant to an obligation imposed by Belgian legislation other than that covered by this Act;\n6. the establishment of units of the above mentioned companies.\" [3]\n\n\"The Crossroads Bank for Enterprises (BCE) is a register of the Ministry of Economy which includes all the companies basic identification data and their business units. The ECB's management department is responsible for recording, backup, manage and make available data from the ECB. The ECB is one of the authority for initiatives, application of the principle of single data collection, to simplify administrative procedures for businesses and improve the efficiency of public services.\" [1]\n\n\"It centralises the basic identification data of enterprises and establishment units and communicate them to the various authorities. The ECB gives each company and business unit a unique identification number that allows the authorities to exchange information about them.\" [2]\n\n[1][2] http://economie.fgov.be/fr/entreprises/BCE/#.WC9BdqIrL8o\n[3] http://economie.fgov.be/fr/entreprises/BCE/inscription/#.WC9BAqIrL8o"
+    },
+    "meta": {
+        "lastUpdated": "2016-11-18",
+        "source": "Desk research"
+    },
+    "access": {
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "nl"
+        ],
+        "exampleIdentifiers": "0521.749.439, 0518.884.078, 0505.665.156",
+        "onlineAccessDetails": "Bulk access is only available for a fee http://economie.fgov.be/fr/entreprises/BCE/pub/reutilisation/",
+        "publicDatabase": "http://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?lang=en&nummer=&actionLu=Research",
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "Company information is available in various search methods - by number, by name, by activity, by license or by address -  http://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?lang=en&nummer=&actionLu=Research"
+    },
+    "subnationalCoverage": null,
+    "listType": "primary"
+}

@@ -1,0 +1,60 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://www.smeru.or.id/en",
+    "name": {
+        "en": "The SMERU Research Institute",
+        "local": ""
+    },
+    "coverage": [
+        "ID"
+    ],
+    "code": "ID-SMR",
+    "formerPrefixes": null,
+    "confirmed": true,
+    "data": {
+        "features": [
+            "organisation_name",
+            "website",
+            "registered_address",
+            "e-mail_address",
+            "phone_number",
+            "objectives/purpose",
+            "organisation_type",
+            "activities/sector_code"
+        ],
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": "no_license",
+        "availability": [
+            "html"
+        ]
+    },
+    "deprecated": null,
+    "structure": [
+        "charity"
+    ],
+    "description": {
+        "en": "The SMERU Research Institute is an independent body which conducts research on social issues in Indonesia. They also maintains a database of NGOs working in Indonesia.\n\n\"The SMERU Research Institute is an independent institution for research and public policy studies. We professionally and proactively provide accurate and timely information, as well as objective analyses, on various socioeconomic and poverty issues considered most urgent and relevant for the people of Indonesia.\" [1]\n\n\"SMERU manages Indonesia's most comprehensive online database of national and regional non-governmental organizations (NGOs). Currently, there are almost 3,000 NGOs in the database, which provides information on the NGOs\u2019 name, address, contact person, vision, mission, legal form, activities, and sector.\" [2]\n\n[1] http://www.smeru.or.id/en/about\n[2] http://www.smeru.or.id/en/content/ngo-database"
+    },
+    "meta": {
+        "lastUpdated": "2016-11-29",
+        "source": "Desk research"
+    },
+    "access": {
+        "languages": [
+            "en",
+            "id"
+        ],
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": "Users can search an NGO by name, province or sector. Ornop - NGO / Provinsi - Province / Sektor kegiatan - Sector activity / Kata kunci lain - Other keywords",
+        "publicDatabase": "http://www.smeru.or.id/en/content/ngo-database",
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "Organisation identifiers are not provided as part of this database"
+    },
+    "subnationalCoverage": null,
+    "listType": "third-party"
+}

@@ -1,0 +1,72 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://ec.europa.eu/eurostat/web/nuts/local-administrative-units",
+    "name": {
+        "en": "NUTS - European Union Nomenclature of Territorial Units for Statistics",
+        "local": ""
+    },
+    "coverage": [
+        "HR",
+        "PT",
+        "AT",
+        "SK",
+        "NL",
+        "MT",
+        "ES",
+        "LT",
+        "GR",
+        "IE",
+        "EE",
+        "CY",
+        "CZ",
+        "FI",
+        "DE",
+        "LV",
+        "GB",
+        "SI",
+        "BG",
+        "SE",
+        "FR",
+        "HU",
+        "PL",
+        "LU",
+        "BE",
+        "IT",
+        "RO"
+    ],
+    "code": "XR-NUTS",
+    "formerPrefixes": null,
+    "confirmed": true,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": null,
+        "availability": null
+    },
+    "deprecated": null,
+    "structure": [
+        "government_agency/local_government"
+    ],
+    "description": {
+        "en": "The European Union's Nomenclature of Territorial Units for Statistics (NUTS) provides codes for territorial areas at a number of different levels.\n\nWhere no primary identifiers for regional and local government entities are available, then NUTS level 2 and 3 codes, and Local Administrative Unit (LAU 1 and LAU 2 level) codes could be used as a proxy for the primary local government body responsible for that area. \n\nEuroStat currently maintain a cross-walk between different levels, codes and area names for each jurisdiction. \n\nTo construct an identifier:\n\nFor NUTS 2 and 3 codes, use the prefix (XR-NUTS-) and then the NUTS code provided.\n\nFor LAU1 and 2 codes (Local authority/ward), use the prefix (XR-NUTS-), the country prefix and underscore (e.g. UK_) , and then the LAU_NAT_Code provided (e.g. E05004874)\n\nFor example: XR-NUTS-UK_E07000105\n\n\n"
+    },
+    "meta": {
+        "lastUpdated": null,
+        "source": "Primary research"
+    },
+    "access": {
+        "languages": null,
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": "http://ec.europa.eu/eurostat/web/nuts/local-administrative-units",
+        "availableOnline": false,
+        "guidanceOnLocatingIds": null
+    },
+    "subnationalCoverage": null,
+    "listType": "secondary"
+}

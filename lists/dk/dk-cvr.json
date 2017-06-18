@@ -1,0 +1,60 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": "http://opencorporates.com/companies/dk"
+    },
+    "sector": null,
+    "url": "https://datacvr.virk.dk/data/",
+    "name": {
+        "en": "Danish Central Business Register",
+        "local": ""
+    },
+    "coverage": [
+        "DK"
+    ],
+    "code": "DK-CVR",
+    "formerPrefixes": null,
+    "confirmed": true,
+    "data": {
+        "features": [
+            "registered_address",
+            "registration_number",
+            "status",
+            "date_of_registration",
+            "organisation_type"
+        ],
+        "dataAccessDetails": "After using the searchable database, search results can be downloaded as an Excel file. The content of the Excel file is in Danish",
+        "licenseDetails": null,
+        "licenseStatus": "open_license",
+        "availability": [
+            "html",
+            "excel",
+            "csv",
+            "bulk_download"
+        ]
+    },
+    "deprecated": null,
+    "structure": [
+        "company"
+    ],
+    "description": {
+        "en": "The CBR is the national body for registering companies and maintaining this information in Denmark. The Central Business Register at Virk is available with English headings and categories. It can be used to search for information on all Danish businesses.\n\n\"The Danish Central Business Register (aka CVR \u2014 Det Centrale Virksomhedsregister) is the central government register containing primary data on all businesses in Denmark, regardless of economic and organizational structure, except personally owned companies with an annual turnover of less than 50,000 Danish krones.\" [1]\n\n[1] https://en.wikipedia.org/wiki/Central_Business_Register_(Denmark)"
+    },
+    "meta": {
+        "lastUpdated": "2016-11-21",
+        "source": "Desk research"
+    },
+    "access": {
+        "languages": [
+            "en",
+            "da"
+        ],
+        "exampleIdentifiers": "36729929, 29614288, 10053021",
+        "onlineAccessDetails": "Data is available through a simple, searchable database. ",
+        "publicDatabase": "https://datacvr.virk.dk/data/",
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "It is possible to search for identifiers on this database - https://datacvr.virk.dk/data/\n\nThis is the English version - https://datacvr.virk.dk/data/?language=en-gb&\n\nIdentifiers are underneath the CVR heading.\n\nExtracts from the register are also available: https://datacvr.virk.dk/data/cvr-hj%C3%A6lp/cvr-udtr%C3%A6k "
+    },
+    "subnationalCoverage": null,
+    "listType": "primary"
+}

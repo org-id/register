@@ -1,0 +1,48 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://www.dleg.state.mi.us/bcs_corp/sr_corp.asp",
+    "name": {
+        "en": "Corporations Division, Department of Licensing and Regulatory Affairs",
+        "local": ""
+    },
+    "coverage": [
+        "US"
+    ],
+    "code": "US-MI-CR",
+    "formerPrefixes": null,
+    "confirmed": null,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": "closed_license",
+        "availability": null
+    },
+    "deprecated": null,
+    "structure": [
+        "company"
+    ],
+    "description": {
+        "en": "This entry was imported from the Open Corporates Jurisdiction List."
+    },
+    "meta": {
+        "lastUpdated": "2016-09-07",
+        "source": null
+    },
+    "access": {
+        "languages": null,
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": null,
+        "availableOnline": false,
+        "guidanceOnLocatingIds": null
+    },
+    "subnationalCoverage": [
+        "US_MI"
+    ],
+    "listType": null
+}

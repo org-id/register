@@ -1,0 +1,51 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://www.community.gov.yk.ca/corp/index.html",
+    "name": {
+        "en": "Yukon Corporate Affairs ",
+        "local": " Direction des entreprises, associations et coop\u00e9ratives"
+    },
+    "coverage": [
+        "CA"
+    ],
+    "code": "CA_YT-YKT",
+    "formerPrefixes": null,
+    "confirmed": true,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": "closed_license",
+        "availability": null
+    },
+    "deprecated": null,
+    "structure": [
+        "company"
+    ],
+    "description": {
+        "en": "This entry was imported from the Open Corporates Jurisdiction List."
+    },
+    "meta": {
+        "lastUpdated": "2016-12-14",
+        "source": "Desk research"
+    },
+    "access": {
+        "languages": [
+            "en",
+            "fr"
+        ],
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": null,
+        "availableOnline": false,
+        "guidanceOnLocatingIds": null
+    },
+    "subnationalCoverage": [
+        "CA_YT"
+    ],
+    "listType": "primary"
+}

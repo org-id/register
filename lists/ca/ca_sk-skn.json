@@ -1,0 +1,50 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://www.isc.ca/CorporateRegistry/",
+    "name": {
+        "en": "Saskatchewan Corporate Registry ",
+        "local": " Registre des soci\u00e9t\u00e9s"
+    },
+    "coverage": [
+        "CA"
+    ],
+    "code": "CA_SK-SKN",
+    "formerPrefixes": null,
+    "confirmed": true,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": "closed_license",
+        "availability": null
+    },
+    "deprecated": null,
+    "structure": [
+        "company"
+    ],
+    "description": {
+        "en": "This entry was imported from the Open Corporates Jurisdiction List."
+    },
+    "meta": {
+        "lastUpdated": "2016-12-14",
+        "source": "Desk research"
+    },
+    "access": {
+        "languages": [
+            "en"
+        ],
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": null,
+        "availableOnline": false,
+        "guidanceOnLocatingIds": null
+    },
+    "subnationalCoverage": [
+        "CA_SK"
+    ],
+    "listType": "primary"
+}

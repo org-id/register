@@ -1,0 +1,59 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://www.npo.gov.za/",
+    "name": {
+        "en": "Nonprofit Organisation Directorate - South African Department of Social Development",
+        "local": ""
+    },
+    "coverage": [
+        "ZA"
+    ],
+    "code": "ZA-NPO",
+    "formerPrefixes": null,
+    "confirmed": true,
+    "data": {
+        "features": [
+            "date_of_registration",
+            "registration_number",
+            "organisation_name",
+            "organisation_type",
+            "registered_address",
+            "directors_trustees_governors",
+            "phone_number",
+            "e-mail_address"
+        ],
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": "no_license",
+        "availability": [
+            "html"
+        ]
+    },
+    "deprecated": null,
+    "structure": [
+        "charity"
+    ],
+    "description": {
+        "en": "The Nonprofit Organisation Directorate is held under the South African Department of Social Development. NPOs register with the Nonprofit Organisation Directorate and are assigned a registration number. Users can refer to ZA-NPO for unique identifiers for NGOs in South Africa. The database can be searched for free.\n\nUsers should note that they should not include \"NPO\" to the end of the identifier.\n\n\"The Nonprofit Organisations Directorate was established in terms of the Nonprofit Organisations Act 71 of 1997 to essentially administer the Register of Nonprofit Organisations in South Africa.  \n\nThe Register of Nonprofit Organisations (NPOs) is a voluntary registration facility that enhances the credibility of the registered NPO as it reports to a public office. The NPO Directorate, as a public office, holds information about registered NPOs for the public to access. \" [1]\n\n[1] http://www.dsd.gov.za/npo/"
+    },
+    "meta": {
+        "lastUpdated": "2016-12-21",
+        "source": "Desk research"
+    },
+    "access": {
+        "languages": [
+            "en"
+        ],
+        "exampleIdentifiers": "181-465, 015-712, 56-058",
+        "onlineAccessDetails": null,
+        "publicDatabase": "http://www.npo.gov.za/PublicNpo/Npo",
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "Users can find identifiers by using the simple, searchable database. Identifiers will be under the column header 'Registration No.'\n\nUsers should note that they do not need to attach \"NPO\" to the end of the identifier."
+    },
+    "subnationalCoverage": null,
+    "listType": "secondary"
+}

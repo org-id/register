@@ -1,0 +1,44 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://www.companieshouse.gov.uk/links/usaLink.shtml",
+    "name": {
+        "en": "Corporation registration is the responsibility of each state (see link)",
+        "local": ""
+    },
+    "coverage": [
+        "US"
+    ],
+    "code": "US-DOS",
+    "formerPrefixes": null,
+    "confirmed": null,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": null,
+        "availability": null
+    },
+    "deprecated": null,
+    "structure": null,
+    "description": {
+        "en": null
+    },
+    "meta": {
+        "lastUpdated": null,
+        "source": null
+    },
+    "access": {
+        "languages": null,
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": null,
+        "availableOnline": false,
+        "guidanceOnLocatingIds": null
+    },
+    "subnationalCoverage": null,
+    "listType": null
+}

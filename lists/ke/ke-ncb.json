@@ -1,0 +1,50 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://www.ngobureau.or.ke/",
+    "name": {
+        "en": "NGO's Coordination Board",
+        "local": ""
+    },
+    "coverage": [
+        "KE"
+    ],
+    "code": "KE-NCB",
+    "formerPrefixes": null,
+    "confirmed": true,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": "closed_license",
+        "availability": [
+            "data_not_available"
+        ]
+    },
+    "deprecated": null,
+    "structure": [
+        "charity"
+    ],
+    "description": {
+        "en": "The NGO Coordination Board of Kenya registers NGOs and maintains a registry of organisation information. This information can be accessed by through request and after paying a fee.\n\n\"The Board has the responsibility of regulating and enabling the NGO sector in Kenya.\n\nOur Mandate:\n\nTo maintain the register of National and International NGOs operating in Kenya, with the precise sectors, affiliations and locations of their activities.\" [1]\n\n\"Under section 31 of the NGOs Regulations 1992, any member of the public is allowed to inspect the files and the documents therein of any registered organization during normal working hours. They can also obtain copies of documents in the files.\n\nTo conduct a records search a letter should be written to the ED of the NGOB stating the name of the applicant as well as the organization whose details they wish to search and the information they seek.\n\nThe applicant can decide whether to carry out the records search themselves or have the Board conduct it on their behalf. This will be upon a requisite payment of Kenya Shillings Three Thousand (KES 3000)\" [2]\n\n[1] http://www.ngobureau.or.ke/\n[2] http://www.ngobureau.or.ke/?page_id=408"
+    },
+    "meta": {
+        "lastUpdated": "2016-12-27",
+        "source": "Desk research"
+    },
+    "access": {
+        "languages": [
+            "en"
+        ],
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": "There are several links which suggest the user can access data, but they do not lead to a searchable registry e.g. 'Name Search', 'Register of NGOs' and 'Records Search' do not provide access to data",
+        "publicDatabase": "None available",
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "A unified registry list of NGO identifiers not found. But other organisations have referred to NGO identifiers.\n\nAn OIPA search returns example ID KE-NCB-200201282375. Searching on the second part of that finds http://www.idealist.org/view/nonprofit/kCM3mWt8k6W4/ . Which has a slightly different format of ID: OP.218/051/2002/0128/2375. \n\nThere are also some IDs in the dataset with the OP component such as KE-NCB-OP-218-051-9399-80\n\nIt is possible that the government issues them with slashes, but people are replacing that with different characters, and stripping some parts off in cases.\n\nWe recommend following the pattern of stripping out the slashes, and removing the preceding OP component. "
+    },
+    "subnationalCoverage": null,
+    "listType": "secondary"
+}

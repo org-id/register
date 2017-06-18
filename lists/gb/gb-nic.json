@@ -1,0 +1,48 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://www.charitycommissionni.org.uk/",
+    "name": {
+        "en": "The Charity Commission for Northern Ireland",
+        "local": ""
+    },
+    "coverage": [
+        "GB"
+    ],
+    "code": "GB-NIC",
+    "formerPrefixes": null,
+    "confirmed": true,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": null,
+        "availability": null
+    },
+    "deprecated": null,
+    "structure": [
+        "charity"
+    ],
+    "description": {
+        "en": null
+    },
+    "meta": {
+        "lastUpdated": null,
+        "source": null
+    },
+    "access": {
+        "languages": null,
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": null,
+        "availableOnline": false,
+        "guidanceOnLocatingIds": null
+    },
+    "subnationalCoverage": [
+        "GB-NIR"
+    ],
+    "listType": "primary"
+}

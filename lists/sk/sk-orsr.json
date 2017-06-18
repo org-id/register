@@ -1,0 +1,59 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": "http://opencorporates.com/companies/sk"
+    },
+    "sector": null,
+    "url": "http://www.orsr.sk/search_subjekt.asp?lan=en",
+    "name": {
+        "en": "Ministry of Justice Business Register",
+        "local": ""
+    },
+    "coverage": [
+        "SK"
+    ],
+    "code": "SK-ORSR",
+    "formerPrefixes": null,
+    "confirmed": true,
+    "data": {
+        "features": [
+            "registered_address",
+            "date_of_registration",
+            "registration_number",
+            "directors_trustees_governors",
+            "accounts",
+            "organisation_type",
+            "objectives/purpose"
+        ],
+        "dataAccessDetails": null,
+        "licenseDetails": "https://opencorporates.com/registers/234",
+        "licenseStatus": "closed_license",
+        "availability": [
+            "html"
+        ]
+    },
+    "deprecated": null,
+    "structure": [
+        "company"
+    ],
+    "description": {
+        "en": "\"The companies register is administered by the Ministry of Justice. Entry to the register is obligatory for companies, cooperatives and for some specific physical entities stated by law. Information in the register is searchable by trade name, identification number, registered office, registration number and name of a person.\" [1]\n\n\"The Obchodn\u00fd register (commercial register) is a public list containing statutory data concerning entrepreneurs, companies and other legal entities, where this is laid down by separate legislation.\nThe list is administered by the Ministry of Justice of the Slovak Republic.\" [2]\n\n[1] http://www.company-registers.info/en/european-union/slovakia.html\n[2] https://e-justice.europa.eu/content_business_registers_in_member_states-106-sk-en.do?member=1"
+    },
+    "meta": {
+        "lastUpdated": "2016-12-07",
+        "source": "Desk research"
+    },
+    "access": {
+        "languages": [
+            "en",
+            "sk"
+        ],
+        "exampleIdentifiers": "35919043, 47364319, 36781673",
+        "onlineAccessDetails": null,
+        "publicDatabase": "http://www.orsr.sk/search_subjekt.asp?lan=en",
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "Users can find identifiers using the simple, searchable online database. Users will have to click on the link for 'Aktu\u00e1lny' or '\u00dapln\u00fd' under the column heading V\u00fdpis - or in English,  for 'Actual' or 'Full' under the column heading 'Extract' - of one of the companies in the search results in order to see company details.\n\nIdentifiers will be next to the heading 'I\u010cO' or 'Identification' in English"
+    },
+    "subnationalCoverage": null,
+    "listType": "primary"
+}

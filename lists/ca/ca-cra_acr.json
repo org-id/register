@@ -1,0 +1,60 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": "http://opencorporates.com/companies/ca"
+    },
+    "sector": null,
+    "url": "http://www.cra-arc.gc.ca/",
+    "name": {
+        "en": "Canadian Revenue Agency ",
+        "local": " Agence du revenu du Canada"
+    },
+    "coverage": [
+        "CA"
+    ],
+    "code": "CA-CRA_ACR",
+    "formerPrefixes": null,
+    "confirmed": true,
+    "data": {
+        "features": [
+            "registered_address",
+            "registration_number",
+            "organisation_name",
+            "status",
+            "directors_trustees_governors",
+            "accounts",
+            "business_id_history"
+        ],
+        "dataAccessDetails": null,
+        "licenseDetails": "http://index.okfn.org/place/canada/companies/",
+        "licenseStatus": "closed_license",
+        "availability": [
+            "html"
+        ]
+    },
+    "deprecated": null,
+    "structure": [
+        "company",
+        "charity"
+    ],
+    "description": {
+        "en": "Companies in Canada register with their provincial authority, e.g. British Columbia, and then they register with the Canadian Revenue Agency in order to pay corporate income tax and receive a Business Number.\n\nThe code CA-CRA_ACR is used for Canadian Business Numbers. \n\nNon-profits and other kinds of legal entities may also have a Canadian Business Number. \n\nThe business number is sometimes reported with a Program Account code (e.g. RP0001 to indicate a payroll program account, leading a number such as 123456789RP0001). In constructing an organisation identifier, only the first nine digits should be used. \n\nCompanies can be searched by using the Business Number, as assigned by the CRA, on this incomplete registry hosted by the Canadian govt - https://www.ic.gc.ca/app/scr/cc/CorporationsCanada/fdrlCrpSrch.html?locale=en_CA\n\n## More detail:\n\nNot all companies need a Canadian Business Number. Detailed information can be found here - http://www.cra-arc.gc.ca/tx/bsnss/tpcs/bn-ne/wrks-eng.html\n\nNot all charities need to register with the Canadian Revenue Agency. Detailed information can be found here - http://www.cra-arc.gc.ca/chrts-gvng/chrts/pplyng/rgstrtn/mnd-eng.html\n\nNot all non-profit organisations must register to become a charity. Detailed information can be found here - http://www.cra-arc.gc.ca/chrts-gvng/dnrs/rgltn/dffrnc-rc-np-eng.html\n\n\"Your Business Number is a nine-digit account number that identifies your business to federal, provincial, and municipal governments.\"[1]\n\n[1] http://www.canadabusiness.ca/programs/business-number-bn-1/"
+    },
+    "meta": {
+        "lastUpdated": "2016-12-14",
+        "source": "Desk research"
+    },
+    "access": {
+        "languages": [
+            "en",
+            "fr"
+        ],
+        "exampleIdentifiers": "101182509, 820336113",
+        "onlineAccessDetails": "Data is available on a website separate to the CRA. The database is incomplete",
+        "publicDatabase": "https://www.ic.gc.ca/app/scr/cc/CorporationsCanada/fdrlCrpSrch.html?locale=en_CA",
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "Users can find identifiers by using the simple, searchable database which is hosted by the Canadian Government, on a website separate to the Canadian Revenue Agency. Two identifiers are returned: the Corporate Number and the Business Number. The identifiers will be next to these names, respectively. For CA-CRA_ACR the business number should be used.\n\nThe business number is sometimes reported with a Program Account code (e.g. RP0001 to indicate a payroll program account, leading a number such as 123456789RP0001). In constructing an organisation identifier, only the first nine digits should be used. "
+    },
+    "subnationalCoverage": null,
+    "listType": "secondary"
+}

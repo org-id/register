@@ -1,0 +1,49 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://new.cac.gov.ng/home/",
+    "name": {
+        "en": "Nigerian Corporate Affairs Commission",
+        "local": ""
+    },
+    "coverage": [
+        "NG"
+    ],
+    "code": "NG-CAC",
+    "formerPrefixes": null,
+    "confirmed": true,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": "http://index.okfn.org/place/nigeria/companies/",
+        "licenseStatus": "closed_license",
+        "availability": [
+            "data_not_available"
+        ]
+    },
+    "deprecated": null,
+    "structure": [
+        "company",
+        "charity"
+    ],
+    "description": {
+        "en": "All companies operating in Nigeria must register with the Corporate Affairs Commission. NGOs also register with the Commission. This database is available through a searchable webpage. \n\n\"The Corporate Affairs Commission (CAC) of Nigeria was established in 1990 vide Companies and Allied Matters Decree no 1 (CAMD) 1990 as amended, now on Act cap C20 Laws of federation of Nigeria. It is an autonomous body charged with the responsibility to regulate the formation and management of companies in Nigeria.\" [1]\n\n\"In Nigeria NGOs may be registered as a company limited by guarantee or as incorporated trustees (by which trustees of the NGO, rather than the NGO itself, obtains the status of a body corporate)... The duly completed application is then submitted to the Corporate Affairs Commission.\" [2]\n\n[1] https://en.wikipedia.org/wiki/Corporate_Affairs_Commission,_Nigeria\n[2] http://www.nigeriaformations.com/charities-and-NGOs.php"
+    },
+    "meta": {
+        "lastUpdated": "2016-12-14",
+        "source": "Desk research"
+    },
+    "access": {
+        "languages": null,
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": "http://publicsearch.cac.gov.ng:8080/comsearch/test.php",
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "Public search is currently unavailable, the link does not work."
+    },
+    "subnationalCoverage": null,
+    "listType": "primary"
+}

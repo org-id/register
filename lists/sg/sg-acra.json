@@ -1,0 +1,55 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": "http://opencorporates.com/companies/sg"
+    },
+    "sector": null,
+    "url": "http://www.acra.gov.sg/",
+    "name": {
+        "en": "Accounting and Corporate Regulatory Authority (ACRA)",
+        "local": ""
+    },
+    "coverage": [
+        "SG"
+    ],
+    "code": "SG-ACRA",
+    "formerPrefixes": null,
+    "confirmed": true,
+    "data": {
+        "features": [
+            "registration_number",
+            "registered_address",
+            "status",
+            "organisation_name"
+        ],
+        "dataAccessDetails": "Basic information is searchable for fee, more detailed company information can be downloaded for a fee",
+        "licenseDetails": "https://opencorporates.com/registers/233",
+        "licenseStatus": "closed_license",
+        "availability": [
+            "html"
+        ]
+    },
+    "deprecated": null,
+    "structure": [
+        "company"
+    ],
+    "description": {
+        "en": "The Accounting and Corporate Regulatory Authority (ACRA) is the national regulator of business entities, public accountants and corporate service providers in Singapore. Each corporate entity receives a Unique Entity Number (UEN), which should be used as the identifier.\n\n\"Registering or setting up a company in Singapore is accomplished through contacting Accounting and Corporate Regulatory Authority (ACRA).\" [1] \n\n\"From 1 January 2009, all entities that are registered in Singapore, such as\nbusinesses, local companies, limited liability partnerships (LLPs), societies,\nrepresentative offices, healthcare institutions and trade unions, will have a\nUnique Entity Number (UEN) as its identification number. \" [2] \n\n[1] https://www.wikiprocedure.com/index.php/Singapore_-_Registering_or_Setting_up_Local_Company\n[2] https://www.ipos.gov.sg/Portals/0/about%20IP/copyrights/UENFAQs2.pdf"
+    },
+    "meta": {
+        "lastUpdated": "2016-12-07",
+        "source": "Desk research"
+    },
+    "access": {
+        "languages": [
+            "en"
+        ],
+        "exampleIdentifiers": "199100421C, 201528336R, 52813269E",
+        "onlineAccessDetails": "Users can be directed to the third-party website from the ACRA homepage. They will need to follow a link from the box 'SEARCH Directory of Registered Entities'",
+        "publicDatabase": "https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/BizfileHomepage.jspx?_afrLoop=335483016357989&_afrWindowMode=0&_afrWindowId=null#%40%3F_afrWindowId%3Dnull%26_afrLoop%3D335483016357989%26_afrWindowMode%3D0%26_adf.ctrl-state%3D13fqtwn2la_4",
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "Users can find identifiers by using the simple, searchable database hosted on a third-party website. Users will have to complete a Captcha box in order to see search results.\n\nThe identifiers will be under the column heading 'UEN'.\n\n"
+    },
+    "subnationalCoverage": null,
+    "listType": "primary"
+}

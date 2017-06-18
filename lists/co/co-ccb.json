@@ -1,0 +1,53 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://www.ccb.org.co/",
+    "name": {
+        "en": "Bogota Chamber of Commerce ",
+        "local": " C\u00e1mara de Comercio de Bogota"
+    },
+    "coverage": [
+        "CO"
+    ],
+    "code": "CO-CCB",
+    "formerPrefixes": null,
+    "confirmed": true,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": "closed_license",
+        "availability": [
+            "data_not_available"
+        ]
+    },
+    "deprecated": null,
+    "structure": [
+        "company"
+    ],
+    "description": {
+        "en": "Each region of Colombia has a Chamber of Commerce to which all corporate entities must register. Bogota Chamber of Commerce (CCB) is responsible for Bogota.\n\nUsers should refer to CO-RUE for unique identifiers for Colombia. CO-CCB has ben deprecated in favour of CO-RUE.\n \n\"We are a private, non-for-profit organization whose goal is to foster a sustainable Bogota-Region in the long term, by promoting its residents' prosperity, through services which enhance and strengthen the enterprise capabilities present in the region, and which improve the business environment with an impact over public policies.\" [1]\n\n[1] http://www.ccb.org.co/en/Clusters/20th-TCI-Global-Conference-Bogota-Colombia/Bogota-Chamber-of-Commerce"
+    },
+    "meta": {
+        "lastUpdated": "2016-12-19",
+        "source": "Desk research"
+    },
+    "access": {
+        "languages": [
+            "en",
+            "es"
+        ],
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": "None located",
+        "availableOnline": false,
+        "guidanceOnLocatingIds": null
+    },
+    "subnationalCoverage": [
+        "CO-DC"
+    ],
+    "listType": "deprecated"
+}

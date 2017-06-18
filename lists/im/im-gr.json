@@ -1,0 +1,56 @@
+{
+  "name": {
+    "en": "Isle of Man Index of Registered Charities ",
+    "local": " Isle of Man General Registry"
+  },
+  "url": "http://www.gov.im/registries/courts/charities/",
+  "description": {
+    "en": "All charities in the Isle of Man must be registered with the General Registry. The General Registry maintain information about charities in the Index of Registered Isle of Man Charities\n\n\"The General Registry has specific statutory roles in relation to the registration of charities and the receipt of statutory statements, accounts and other documents in relation to charities.\" [1] \n\n\"The General Registry is the department which administers –\n\nthe civil and criminal Courts of the Isle of Man\nthe High Court of Justice of the Isle of Man\nCourts of General Gaol Delivery\ncourts of summary jurisdiction\nthe Registries\nDeeds and Probate Registry\nLand Registry\nCivil Registry, responsible for registration of births, deaths and marriages\nregistration of charities\nLegal Aid\nthe Public Record Office\ncriminal injuries compensation\nregistration of legal practitioners (other than advocates)\" [2]\n\n[1] https://www.gov.im/registries/courts/charities/\n[2] https://en.wikipedia.org/wiki/General_Registry_(Isle_of_Man)"
+  },
+  "coverage": [
+    "IM"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity"
+  ],
+  "sector": [],
+  "code": "IM-GR",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "Data is available in a searchable PDF file",
+    "publicDatabase": "https://www.gov.im/lib/docs/registries/courts/publicindex_latest.pdf",
+    "guidanceOnLocatingIds": "Users can find identifiers by searching the PDF of the public Index of Registered Charities. Once opened, they should use Ctrl-F to search for a name or other detail. Identifiers will be under the column heading 'No'",
+    "exampleIdentifiers": "1184, 962, 1169",
+    "languages": [
+      "en"
+    ]
+  },
+  "data": {
+    "availability": [
+      "pdf"
+    ],
+    "dataAccessDetails": "",
+    "features": [
+      "registration_number",
+      "registered_address",
+      "e-mail_address",
+      "phone_number",
+      "website"
+    ],
+    "licenseStatus": "open_license",
+    "licenseDetails": "Isle of Man Open Government Licence For Public Sector Information (Based on statement in footer of http://www.gov.im that \"OGL All content is available under theOpen Government Licence,except where otherwise stated\")"
+  },
+  "meta": {
+    "source": "Desk research",
+    "lastUpdated": "2017-03-05"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": "https://en.wikipedia.org/wiki/General_Registry_(Isle_of_Man)"
+  },
+  "formerPrefixes": []
+}

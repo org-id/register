@@ -1,0 +1,50 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://www.pacra.org.zm/",
+    "name": {
+        "en": "Patents and Companies Registration Agency",
+        "local": ""
+    },
+    "coverage": [
+        "ZM"
+    ],
+    "code": "ZM-PCR",
+    "formerPrefixes": null,
+    "confirmed": true,
+    "data": {
+        "features": null,
+        "dataAccessDetails": "Currently unavailable due to website maintenance",
+        "licenseDetails": null,
+        "licenseStatus": "no_license",
+        "availability": [
+            "available:_stated_as_available,_but_unable_to_access"
+        ]
+    },
+    "deprecated": null,
+    "structure": [
+        "company"
+    ],
+    "description": {
+        "en": "The Patents and Companies Registration Agency (PACRA) is responsible for company registration in Zambia. \n\n\"The Patents and Companies Registration Agency (PACRA) is a semi-autonomous executive agency of the Zambian Ministry of Commerce, Trade and Industry. Its principal functions are to operate a legal system for registration and protection of commercial and industrial property and to serve as a legal depository of the information tendered for registration..\" [1] \n\n[1] https://www.pacra.org.zm/#/html/About/"
+    },
+    "meta": {
+        "lastUpdated": "2016-12-21",
+        "source": "Desk research"
+    },
+    "access": {
+        "languages": [
+            "en"
+        ],
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": "Currently unavailable due to website maintenance",
+        "publicDatabase": "http://www.onlinepacra.org.zm/pacranc/default.aspx?UR=http://www.pacra.org.zm/index.php?option=com_content&view=article&id=95&Itemid=136",
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "It is stated on the government website that there is a database which can be search for company names, but this is currently unavailable and results in Error 404. It is possible this is because the PACRA website is undergoing maintenance.\n\n\"The System is under going maintenace. Please note that online services will not be available during this time. We regret the inconvinience caused.\" [1]\n\n[1] https://www.pacra.org.zm/#/"
+    },
+    "subnationalCoverage": null,
+    "listType": "primary"
+}

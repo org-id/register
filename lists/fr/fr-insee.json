@@ -1,0 +1,44 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://www.insee.fr/fr/service/default.asp?page=entreprises/entreprise.htm",
+    "name": {
+        "en": "The National Institute of Statistics and Economic Studies ",
+        "local": " Institute National de la Statistique et des etudes economiques"
+    },
+    "coverage": [
+        "FR"
+    ],
+    "code": "FR-INSEE",
+    "formerPrefixes": null,
+    "confirmed": true,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": null,
+        "availability": null
+    },
+    "deprecated": true,
+    "structure": null,
+    "description": {
+        "en": "The National Institute of Statistics and Economic Studies provide a registration service for companies and associations with details being held on the SIRENE database.\n\nInformation from INSEE is also contained in the RCS dataset, and so this organisation list is deprecated in favour of FR-RCS. "
+    },
+    "meta": {
+        "lastUpdated": null,
+        "source": null
+    },
+    "access": {
+        "languages": null,
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": null,
+        "availableOnline": false,
+        "guidanceOnLocatingIds": null
+    },
+    "subnationalCoverage": null,
+    "listType": "deprecated"
+}

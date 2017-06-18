@@ -1,0 +1,59 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://wwwinfo.mfcr.cz/ares/ares_es.html.en",
+    "name": {
+        "en": "Access to Registers of Economic Subjects ",
+        "local": " Entities (ARES)"
+    },
+    "coverage": [
+        "CZ"
+    ],
+    "code": "CZ-ICO",
+    "formerPrefixes": null,
+    "confirmed": true,
+    "data": {
+        "features": [
+            "registered_address",
+            "registration_number",
+            "date_of_registration",
+            "organisation_name"
+        ],
+        "dataAccessDetails": null,
+        "licenseDetails": "Information is Copyright Ministry of Finance of the CR. No other license details provided. ",
+        "licenseStatus": "closed_license",
+        "availability": [
+            "xml",
+            "html"
+        ]
+    },
+    "deprecated": null,
+    "structure": [
+        "company",
+        "government_agency",
+        "charity"
+    ],
+    "description": {
+        "en": "The ARES is an information system which collates data from several public registers in the Czech Republic. These include:\n\nPublic registers comprising: the Commercial Register Federal Register, the Register of Foundations Register\u2019s Institute, Register of Public Service Companies, Trade Register, and the Register of Economic Entities.\n\nEnterprises do not register with the ARES. They must be register with the relevant registration authority. \n\n\"The purpose of the ARES web sites of the Ministry of Finance is to provide a single-point access to all data concerning economic entities kept in particular registers or maintained in files of the state administration. ARES provides an easy access to the data transferred from the source registers to the ARES database. It allows also to switch directly to www applications of the state administration bodies provided that such applications already exist.\" [1]\n\n\"It is not possible to make a registration in the Information System ARES directly. It is necessary to proceed in accordance with applicable laws and to make a registration at the registration points of the public administration authorities. Likewise, data changes or termination of the registration must be reported to the institution that maintains the source registry. List of source registers and responsible institutions is presented in the tab REGISTRATION AUTHORITIES.\" [2]\n\n Information on companies is searchable in English and is free-of-charge.\n\n[1] http://wwwinfo.mfcr.cz/ares/ares_es.html.en\n[2] http://wwwinfo.mfcr.cz/ares/ares.html.en"
+    },
+    "meta": {
+        "lastUpdated": "2016-11-21",
+        "source": "Desk research"
+    },
+    "access": {
+        "languages": [
+            "en",
+            "cs"
+        ],
+        "exampleIdentifiers": "28179609, 74750542, 01146131",
+        "onlineAccessDetails": "Data is available in two ways - through a simple, searchable database and also via an XML interface, which can be accessed through the GET or POST method - http://wwwinfo.mfcr.cz/ares/ares_es.html.en / http://wwwinfo.mfcr.cz/ares/ares_xml.html.en When using the easy to search interface, more details about the entity can be found by clicking on the link in References",
+        "publicDatabase": "http://wwwinfo.mfcr.cz/ares/ares_es.html.en",
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "Users can search for a company using this web page - http://wwwinfo.mfcr.cz/ares/ares_es.html.en\n\nIdentifiers will be under the Registration No. column on the left-hand side of the search results"
+    },
+    "subnationalCoverage": null,
+    "listType": "secondary"
+}

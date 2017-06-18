@@ -1,0 +1,51 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://www.business.govt.nz/companies/",
+    "name": {
+        "en": "New Zealand Companies Office",
+        "local": ""
+    },
+    "coverage": [
+        "NZ"
+    ],
+    "code": "NZ-CR",
+    "formerPrefixes": null,
+    "confirmed": null,
+    "data": {
+        "features": [
+            "directors_trustees_governors",
+            "shareholders"
+        ],
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": "no_license",
+        "availability": [
+            "available:_but_details_unknown"
+        ]
+    },
+    "deprecated": null,
+    "structure": [
+        "company"
+    ],
+    "description": {
+        "en": "This entry was imported from the Open Corporates Jurisdiction List."
+    },
+    "meta": {
+        "lastUpdated": "2016-09-07",
+        "source": null
+    },
+    "access": {
+        "languages": null,
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": null,
+        "availableOnline": false,
+        "guidanceOnLocatingIds": null
+    },
+    "subnationalCoverage": null,
+    "listType": null
+}

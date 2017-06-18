@@ -1,0 +1,45 @@
+{
+  "name": {
+    "en": "GOV.UK - UK Government Departments, Agencies & Public Bodies",
+    "local": ""
+  },
+  "url": "https://www.gov.uk/government/organisations",
+  "description": {
+    "en": "This list is deprecated in favour of GB-GOR, the Government Organisation Registry which assigns a unique code to each agency with a page at www.gov.uk.\n\nTo construct a legacy GB-GOVUK identifier, use the final segment of the url of a body at http://www.gov.uk (below /organisations) as the \"registration number\", converting all \"-\" to \"_\". Keep \"registration number\" portion all lowercase.\n\nIt should be possible to map form GB-GOVUK to GB-GOR identifiers. "
+  },
+  "coverage": [
+    "GB"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "government_agency"
+  ],
+  "sector": [],
+  "code": "GB-GOVUK",
+  "confirmed": true,
+  "deprecated": true,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": null,
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "",
+    "languages": []
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "",
+    "lastUpdated": ""
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}

@@ -1,0 +1,54 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://www.rues.org.co/RUES_Web/",
+    "name": {
+        "en": "Unified Commercial and Social Registry (RUES) ",
+        "local": " Registro \u00danico Empresarial y Social"
+    },
+    "coverage": [
+        "CO"
+    ],
+    "code": "CO-RUE",
+    "formerPrefixes": null,
+    "confirmed": true,
+    "data": {
+        "features": [
+            "industry_classifications",
+            "date_of_registration",
+            "number_of_employees",
+            "legal_representatives"
+        ],
+        "dataAccessDetails": null,
+        "licenseDetails": "No license is given",
+        "licenseStatus": "no_license",
+        "availability": null
+    },
+    "deprecated": null,
+    "structure": [
+        "company",
+        "charity"
+    ],
+    "description": {
+        "en": "The Unified Commercial and Social Registry (RUES) integrates multiple commercial registries, including the NIT (N\u00famero de Identificaci\u00f3n Tributaria) which can be used as the unique identifier. \n\nThis database can be searched online for free.\n\n\"The CCB hereby informs that, in accordance with Resolution 71029 issued by the Superintendence of Industry and Commerce, starting as of November 13, 2013, entrepreneurs must fill out the new Unified Commercial and Social Registry (RUES), a form that integrates the information from the following forms and records:\n\n* Merchant's Certificate.\n* Unified Offeror Registry.\n* Non-For-Profit Organizations Registry.\n* Common Regime (Associations, Foundations and Corporations) and * Solidary Economy Institutions (Cooperatives, Precooperatives, Employee Funds and Mutual Associations).\n* Activity, games and gambling Registry.\n* Citizen Oversight Associations Registry (applicable only when registering or signing-up).\n* Solidarity Economy Registry.\" [1]\n\n[1] http://www.ccb.org.co/en/Registrations-and-renewals/Merchant-s-certificate/Unified-Commercial-and-Social-Registry-RUES"
+    },
+    "meta": {
+        "lastUpdated": "2016-12-19",
+        "source": "Desk research"
+    },
+    "access": {
+        "languages": [
+            "es"
+        ],
+        "exampleIdentifiers": "830093516, 900563742",
+        "onlineAccessDetails": "It is possible to search the register online",
+        "publicDatabase": "http://www.rues.org.co/RUES_Web/",
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "Users can find identifiers by searching the simple database. The identifier will be under the column header 'N\u00famero Identificaci\u00f3n'. The database is available in Spanish.\n\nUsers should note that some identifiers are provided with a checksum (e.g. 900876653-3).  Details on how this number is formed can be found in Spanish on Wikipedia - https://es.wikipedia.org/wiki/N%C3%BAmero_de_Identificaci%C3%B3n_Tributaria\n\nYou should provide the identifier without the checksum. "
+    },
+    "subnationalCoverage": null,
+    "listType": "secondary"
+}

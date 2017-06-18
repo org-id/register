@@ -1,0 +1,57 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://www.swc.org.np/",
+    "name": {
+        "en": "Social Welfare Council Nepal",
+        "local": ""
+    },
+    "coverage": [
+        "NP"
+    ],
+    "code": "NP-SWC",
+    "formerPrefixes": null,
+    "confirmed": true,
+    "data": {
+        "features": [
+            "registered_address",
+            "organisation_name",
+            "phone_number",
+            "registration_number",
+            "activities/sector_code"
+        ],
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": "closed_license",
+        "availability": [
+            "html"
+        ]
+    },
+    "deprecated": null,
+    "structure": [
+        "charity"
+    ],
+    "description": {
+        "en": "International NGOs wishing to operate in Nepal must register with the Social Welfare Council. Upon registration, these INGOs receive an Affiliation Certificate and an SWC Affiliation Number. This database can be searched on the website.\n\nLocal NGOs do not need to be associated with the SWC, but may register with their local District Administration Office (DAO). The SWC list is thus not a complete list of all NGOs working in Nepal.\n\n\"1. As laid down in article 12, Section 1, of the Social Welfare Act 2049, the international non-governmental organizations (INGOs) seeking to work in the Kingdom of Nepal must apply to the Social Welfare Council and seek permission prior to starting work.\" [1] \n\n[1] Document available for download at - http://www.swc.org.np/?page_id=47"
+    },
+    "meta": {
+        "lastUpdated": "2016-12-02",
+        "source": "Desk research"
+    },
+    "access": {
+        "languages": [
+            "en",
+            "ne"
+        ],
+        "exampleIdentifiers": "37625, 14902, 28632",
+        "onlineAccessDetails": "Data available in simple, searchable databse",
+        "publicDatabase": "http://www.swc.org.np/?p=228",
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "Users can find identifiers on the simple, searchable database on the SWC website. Identifiers will be under the column heading 'Swc Aff No'"
+    },
+    "subnationalCoverage": null,
+    "listType": "secondary"
+}

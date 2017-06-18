@@ -1,0 +1,54 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://data.gov.uk/dataset/iati-organisation-identifier-for-uk-government-bodies",
+    "name": {
+        "en": "UK Government Departments Reference Numbers",
+        "local": ""
+    },
+    "coverage": [
+        "GB"
+    ],
+    "code": "GB-GOV",
+    "formerPrefixes": null,
+    "confirmed": true,
+    "data": {
+        "features": [
+            "organisation_name",
+            "registration_number"
+        ],
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": "open_license",
+        "availability": [
+            "csv",
+            "ods"
+        ]
+    },
+    "deprecated": null,
+    "structure": [
+        "government_agency"
+    ],
+    "description": {
+        "en": "IATI Version 2.x codes for use by IATI for UK Government Departments."
+    },
+    "meta": {
+        "lastUpdated": "2016-11-23",
+        "source": "Desk research"
+    },
+    "access": {
+        "languages": [
+            "en"
+        ],
+        "exampleIdentifiers": "GB-GOV-1, GB-GOV-4",
+        "onlineAccessDetails": "Available as ODS file",
+        "publicDatabase": "https://data.gov.uk/dataset/iati-organisation-identifier-for-uk-government-bodies",
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "Users can download an ODS file at this webpage - https://data.gov.uk/dataset/iati-organisation-identifier-for-uk-government-bodies\n\nThe identifiers for use are under the column headers 'IATI 2.x'."
+    },
+    "subnationalCoverage": null,
+    "listType": "secondary"
+}

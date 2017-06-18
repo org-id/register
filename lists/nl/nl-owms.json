@@ -1,0 +1,52 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://standaarden.overheid.nl/owms/4.0/doc/waardelijsten",
+    "name": {
+        "en": "Overheid.nl Web Metadata Standard ",
+        "local": " Overheid.nl Web Metadata Standaard"
+    },
+    "coverage": [
+        "NL"
+    ],
+    "code": "NL-OWMS",
+    "formerPrefixes": null,
+    "confirmed": true,
+    "data": {
+        "features": [
+            "akas"
+        ],
+        "dataAccessDetails": null,
+        "licenseDetails": "No license information given",
+        "licenseStatus": "no_license",
+        "availability": [
+            "api"
+        ]
+    },
+    "deprecated": null,
+    "structure": [
+        "government_agency"
+    ],
+    "description": {
+        "en": "Overheid.nl is the central access point to all information about government organisations of the Netherlands.\n\nThe Overheid.nl Web Metadata Standard ( OWMS ) is the metadata standard for information from the Dutch government on the Internet.\n\nIt contains URIs for a wide range of government bodies, including national, local and regional government and water boards.\n\nIt provides a linked open dataset which contains ontological information about the relationship between those organisations (e.g. listing parent agencies, or noting organisations that succeed previous organisations).\n\nA management plan is in place for updating of the information [1].\n\n\n[1]: http://standaarden.overheid.nl/owms/beheer "
+    },
+    "meta": {
+        "lastUpdated": "2016-12-14",
+        "source": "Desk research"
+    },
+    "access": {
+        "languages": [
+            "nl"
+        ],
+        "exampleIdentifiers": "rfmcie, 's-Graveland_(gemeente)",
+        "onlineAccessDetails": "Linked data available",
+        "publicDatabase": "http://standaarden.overheid.nl/owms/beheer",
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "Look for the list of values for the kind of organisation you wish to identify [1].\n\nA full list of government entieis can  be accessed at http://standaarden.overheid.nl/owms/terms/Overheidsorganisatie.html\n\nEach organisation is assigned a URL in the list. Use the last portion of this URL as the identifier. \n\nFor example: \"http://standaarden.overheid.nl/owms/terms/rfmcie\" is the identifier given for the 'Referendum Commission'. To construct an identifier from this, use 'NL-OWMS-rfmcie'.\n\nNote: some identifiers may contain ' and ( and other similar characters. \n\n[1]: http://standaarden.overheid.nl/owms/4.0/doc/waardelijsten"
+    },
+    "subnationalCoverage": null,
+    "listType": "secondary"
+}

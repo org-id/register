@@ -1,0 +1,50 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": "http://opencorporates.com/companies/au"
+    },
+    "sector": null,
+    "url": "https://connectonline.asic.gov.au/RegistrySearch/",
+    "name": {
+        "en": "Australian Securities and Investment Commission",
+        "local": ""
+    },
+    "coverage": [
+        "AU"
+    ],
+    "code": "AU-ASIC",
+    "formerPrefixes": null,
+    "confirmed": null,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": "https://creativecommons.org/licenses/by/3.0/au/",
+        "licenseStatus": "open_license",
+        "availability": [
+            "bulk_download"
+        ]
+    },
+    "deprecated": null,
+    "structure": [
+        "company"
+    ],
+    "description": {
+        "en": "\"An Australian Company Number (usually shortened to ACN) is a unique nine-digit number issued by the Australian Securities and Investments Commission (ASIC) to every company registered under the Commonwealth Corporations Act 2001 as an identifier. The number is usually printed in three groups of three digits. It must be quoted on all correspondence and invoices issued by that company.\" [1]\n\n\n\n[1]: https://en.wikipedia.org/wiki/Australian_Company_Number"
+    },
+    "meta": {
+        "lastUpdated": "2016-09-02",
+        "source": "Open Corporates and Primary research"
+    },
+    "access": {
+        "languages": [
+            "en"
+        ],
+        "exampleIdentifiers": "059378157",
+        "onlineAccessDetails": "Accessible at https://connectonline.asic.gov.au/RegistrySearch/ and in bulk at http://data.gov.au/dataset/asic-companies",
+        "publicDatabase": null,
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "Search at https://connectonline.asic.gov.au/RegistrySearch/ by organisation name.\n\nThe number is usually displayed in three groups of three digits. The spaces should be removed when publishing an identifier. "
+    },
+    "subnationalCoverage": null,
+    "listType": "primary"
+}

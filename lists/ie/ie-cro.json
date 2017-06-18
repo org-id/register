@@ -1,0 +1,57 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": "http://opencorporates.com/companies/ie"
+    },
+    "sector": null,
+    "url": "http://www.cro.ie/",
+    "name": {
+        "en": "Irish CompaniesRegistration Office",
+        "local": ""
+    },
+    "coverage": [
+        "IE"
+    ],
+    "code": "IE-CRO",
+    "formerPrefixes": null,
+    "confirmed": true,
+    "data": {
+        "features": [
+            "organisation_type",
+            "organisation_name",
+            "registration_number",
+            "registered_address",
+            "date_of_registration",
+            "status"
+        ],
+        "dataAccessDetails": null,
+        "licenseDetails": "https://opencorporates.com/registers/118",
+        "licenseStatus": "closed_license",
+        "availability": [
+            "bulk_download",
+            "api",
+            "html"
+        ]
+    },
+    "deprecated": null,
+    "structure": [
+        "company"
+    ],
+    "description": {
+        "en": "The Companies Registration Office of Ireland is responsible for the incorporation of business operating in Ireland and maintaining an online database of the information. Data is provided for free and also for a fee, depending on the amount/type requested.\n\n\"The CRO has a number of core functions:\n\n* The incorporation of companies and the registration of business names.\n* The receipt and registration of post incorporation documents.\n* The enforcement of the Companies Act 2014  in relation to the filing obligations of companies.\n* Making information available to the public.\" [1]\n\n[1] https://www.cro.ie/About-CRO/Functions-of-the-CRO"
+    },
+    "meta": {
+        "lastUpdated": "2016-11-24",
+        "source": "Desk research"
+    },
+    "access": {
+        "languages": null,
+        "exampleIdentifiers": "123260, 83424, 549061",
+        "onlineAccessDetails": "Data is available, for free, through simple webpage search, and RESTful API (sign up required for latter). Specific company documents and bulk data consisting of information and/or document images of all companies also available for annual fee",
+        "publicDatabase": "https://search.cro.ie/company/ , https://services.cro.ie/index.aspx, https://www.cro.ie/Publications/Fees/Bulk-Data",
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "Users can find identifiers by using this simple, searchable database - https://search.cro.ie/company/\n\nThe identifiers are under the column heading 'Number'"
+    },
+    "subnationalCoverage": null,
+    "listType": "primary"
+}

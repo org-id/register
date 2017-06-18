@@ -1,0 +1,48 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": null,
+    "name": {
+        "en": "Ministry of Home Affairs - Central Committee for the Registration and Supervision of Organisations",
+        "local": ""
+    },
+    "coverage": [
+        "MM"
+    ],
+    "code": "MM-MHA",
+    "formerPrefixes": null,
+    "confirmed": true,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": "no_license",
+        "availability": [
+            "data_not_available"
+        ]
+    },
+    "deprecated": null,
+    "structure": [
+        "charity"
+    ],
+    "description": {
+        "en": "The MHA assigns a registration number to each NGO - this number is time limited, for example 4 years, after which the registration is reviewed. \n\nThere is no URL for the Ministry, nor is there a publicly available database of NGO information."
+    },
+    "meta": {
+        "lastUpdated": "2016-11-26",
+        "source": "Desk research"
+    },
+    "access": {
+        "languages": null,
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": null,
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "No identifiers returned on OIPA request"
+    },
+    "subnationalCoverage": null,
+    "listType": "secondary"
+}

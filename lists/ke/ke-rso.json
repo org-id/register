@@ -1,0 +1,51 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://www.attorney-general.go.ke/",
+    "name": {
+        "en": "Registrar of Societies",
+        "local": ""
+    },
+    "coverage": [
+        "KE"
+    ],
+    "code": "KE-RSO",
+    "formerPrefixes": null,
+    "confirmed": true,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": "no_license",
+        "availability": [
+            "data_not_available"
+        ]
+    },
+    "deprecated": true,
+    "structure": [
+        "unincorporated_body",
+        "charity"
+    ],
+    "description": {
+        "en": "The Registrar of Societies is held under the Office of the Attorney General and Department of Justice. Interest groups in Kenya apply to the Registrar of Societies for both registration and exemption from registration of being a 'society'. But there is no indication that societies have legal/corporate foundation. There is also no publicly available database of the Registrar of Societies.\n\nFor Kenya's NGO registry list, users should look to KE-NCB. Please note there is currently no publicly available dataset for this registry.\n\n\"In summary, State Law Office and Department of Justice is mandated to promote the rule of law and public participation; support Government\u2019s investment in socio-economic development; promote transparency, accountability, ethics and integrity; spearhead policy, legal and institutional reforms; promote economic governance and empowerment; promotion, fulfillment and protection of human rights; undertake administrative management; capacity building; and enhance access to justice.\" [1]\n\n[1] http://www.statelaw.go.ke/about-office-of-the-attorney-general-and-department-of-justice/"
+    },
+    "meta": {
+        "lastUpdated": "2016-12-27",
+        "source": "Desk research"
+    },
+    "access": {
+        "languages": [
+            "en"
+        ],
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": "None available",
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "None available"
+    },
+    "subnationalCoverage": null,
+    "listType": "deprecated"
+}

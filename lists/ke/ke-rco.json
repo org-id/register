@@ -1,0 +1,50 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://www.attorney-general.go.ke/",
+    "name": {
+        "en": "Registar of Companies",
+        "local": ""
+    },
+    "coverage": [
+        "KE"
+    ],
+    "code": "KE-RCO",
+    "formerPrefixes": null,
+    "confirmed": true,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": "http://index.okfn.org/place/kenya/companies/",
+        "licenseStatus": "closed_license",
+        "availability": [
+            "data_not_available"
+        ]
+    },
+    "deprecated": null,
+    "structure": [
+        "company"
+    ],
+    "description": {
+        "en": "The Registrar of Companies is under the remit of the Registrar General, which is a part of the Office of the Attorney General and Department of Justice. This Registrar is responsible for the registration of companies within Kenya, and maintains a database, the records of which can be accessed on request for a fee."
+    },
+    "meta": {
+        "lastUpdated": "2016-11-25",
+        "source": "Desk research"
+    },
+    "access": {
+        "languages": [
+            "en"
+        ],
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": "A company name search can be conducted by either registering with the ebusiness.go.ke service, or asking the government to search the name at a cost of KES 100 per name",
+        "publicDatabase": "None available",
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "None available"
+    },
+    "subnationalCoverage": null,
+    "listType": "primary"
+}

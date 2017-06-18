@@ -1,0 +1,50 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://www.congoma.mw",
+    "name": {
+        "en": "The Council for Non Governmental Organisations in Malawi",
+        "local": ""
+    },
+    "coverage": [
+        "MW"
+    ],
+    "code": "MW-CNM",
+    "formerPrefixes": null,
+    "confirmed": true,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": "no_license",
+        "availability": [
+            "data_not_available"
+        ]
+    },
+    "deprecated": true,
+    "structure": [
+        "charity"
+    ],
+    "description": {
+        "en": "The Council for NGOs in Malawi provides a range of support services and advocacy initiatives to NGOs working in Malawi. They do not appear to have the responsibility of registering organisations or maintaining a database with information.\n\n\"Objectives:\n\n1. To represent the collective interests of NGOs in Malawi.\n2. To enhance and improve the operational environment within which NGOs function.\n3. To promote and facilitate networking, coordination and collaboration within the NGO community, and between the NGOs and government, donor community and private sector.\n4. To further the standing of NGOs as competent, professional and suitable agents of development.\n5. To support member NGOs to build and strengthen their institutional capacity.\n6. To support NGOs carry out their functions under the NGO Act 2000.\" [1]\n\n[1] http://www.congoma.mw/about-us/objectives/"
+    },
+    "meta": {
+        "lastUpdated": "2016-11-26",
+        "source": null
+    },
+    "access": {
+        "languages": [
+            "en"
+        ],
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": null,
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "Results from OIPA request suggest the identifier has been used incorrectly e.g, BCM-CF-UKAID-IMP-131, MW-CNM-21-secondyearprojectreport, MW-CNM-21-WomenEmpowermentviaFarmersClubProject\n\n"
+    },
+    "subnationalCoverage": null,
+    "listType": "deprecated"
+}

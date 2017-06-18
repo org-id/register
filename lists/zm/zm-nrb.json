@@ -1,0 +1,44 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": null,
+    "name": {
+        "en": "Non Governmental Organisation Registration Board",
+        "local": ""
+    },
+    "coverage": [
+        "ZM"
+    ],
+    "code": "ZM-NRB",
+    "formerPrefixes": null,
+    "confirmed": null,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": null,
+        "availability": null
+    },
+    "deprecated": null,
+    "structure": null,
+    "description": {
+        "en": "The NGO Registration Board is held under the Department of Registrar for NGOs, in the Ministry of Community Development, Mother and Child Health. This board registers all NGOs (local and international) in Zambia. \n\n\n\"NGO REGISTRATION BOARD FUNCTIONS\n\nThe NGO Registration Board functions are as outlined below;\n\ni. Register Non Governmental Organisations; \nii. Approve the area of work of NGOs operating in Zambia; \niii. Maintain a register of national and international NGOs operating in Zambia, the sectors, affiliations and location of their activities; \" [1] \n\n[1] http://www.mcdmch.gov.zm/documentation-section"
+    },
+    "meta": {
+        "lastUpdated": null,
+        "source": null
+    },
+    "access": {
+        "languages": null,
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": null,
+        "availableOnline": false,
+        "guidanceOnLocatingIds": null
+    },
+    "subnationalCoverage": null,
+    "listType": null
+}

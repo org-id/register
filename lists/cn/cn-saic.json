@@ -1,0 +1,44 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://gsxt.saic.gov.cn/",
+    "name": {
+        "en": "State Administration for Industry and Commerce (SAIC)",
+        "local": ""
+    },
+    "coverage": [
+        "CN"
+    ],
+    "code": "CN-SAIC",
+    "formerPrefixes": null,
+    "confirmed": true,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": null,
+        "availability": null
+    },
+    "deprecated": null,
+    "structure": null,
+    "description": {
+        "en": "The SAIC is the national body which ensures business rights in China, for both domestic and foreign enterprises. Businesses must register with the SAIC. The Enterprise Registration Bureau is the department responsible for enterprise registration.\n\nFor further details on the procedure for starting a business entity, see this WikiProcedure - https://www.wikiprocedure.com/index.php/China_-_Start_a_Business_Entity\n\nThe database is only available in Chinese language\n\n\"The State Administration for Industry & Commerce (SAIC) of the People\u2019s Republic of China is the competent authority of ministerial level directly under the State Council in charge of market supervision/regulation and related law enforcement through administrative means.\n\nWith creating a regulated and harmonized market environment of fairness, justice and faithfulness for the coordinated socioeconomic development as its objective, SAIC functions in maintaining market order and protecting the legitimate rights and interests of businesses and consumers by carrying out regulations in the fields of enterprise registration, competition, consumer protection, trademark protection and combating economic illegalities.\" [1] \n\n\"Our responsibilities:\n2.     Carry out and administer registration of enterprises (including foreign-invested enterprises), agricultural cooperatives, entities or individuals engaged in business operation and resident representative offices of foreign companies; and take charge of the investigation and ban on unlicensed business operation according to law.\" [2]\n\n\"Enterprise Registration Bureau\n-        Draft measures and practice directions regarding enterprise registration;\n-        Coordinate and guide enterprise registration nationwide; \n-        Take charge of registration of certain enterprises and supervises the registrants\u2019 registration practices; \n-        Organize and guide credit rating of businesses; \n-        Establish and maintain the national database of enterprise registration information, and analyze and publish registration information of domestic enterprises.\" [3]\n\n[1][2] http://www.saic.gov.cn/english/aboutus/Mission/index.html\n[3] http://www.saic.gov.cn/english/aboutus/Departments/"
+    },
+    "meta": {
+        "lastUpdated": "2016-11-21",
+        "source": "Desk research"
+    },
+    "access": {
+        "languages": null,
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": null,
+        "availableOnline": false,
+        "guidanceOnLocatingIds": null
+    },
+    "subnationalCoverage": null,
+    "listType": "primary"
+}

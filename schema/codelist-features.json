@@ -1,0 +1,142 @@
+{
+    "features":[
+        {
+            "code":"directors_trustees_governors",
+            "title":{
+                "en":"Directors / Trustees / Governors"
+            }
+        },
+        {
+            "code":"shareholders",
+            "title":{
+                "en":"Shareholders"
+            }
+        },
+        {
+            "code":"registered_address",
+            "title":{
+                "en":"Registered address"
+            }
+        },
+        {
+            "code":"contact_address",
+            "title":{
+                "en":"Contact address"
+            }
+        },
+        {
+            "code":"akas",
+            "title":{
+                "en":"AKAs (Also Known As / Alternative Names)"
+            }
+        },
+        {
+            "code":"website",
+            "title":{
+                "en":"Website"
+            }
+        },
+        {
+            "code":"e-mail_address",
+            "title":{
+                "en":"E-mail address"
+            }
+        },
+        {
+            "code":"industry_classifications",
+            "title":{
+                "en":"Industry classifications"
+            }
+        },
+        {
+            "code":"date_of_registration",
+            "title":{
+                "en":"Date of registration"
+            }
+        },
+        {
+            "code":"number_of_employees",
+            "title":{
+                "en":"Number of employees"
+            }
+        },
+        {
+            "code":"contact_address",
+            "title":{
+                "en":"Contact address"
+            }
+        },
+        {
+            "code":"legal_representatives",
+            "title":{
+                "en":"Legal representatives"
+            }
+        },
+        {
+            "code":"registration_number",
+            "title":{
+                "en":"Registration Number"
+            }
+        },
+        {
+            "code":"phone_number",
+            "title":{
+                "en":"Phone Number"
+            }
+        },
+        {
+            "code":"country_of_origin",
+            "title":{
+                "en":"Country of origin"
+            }
+        },
+        {
+            "code":"tax_id_number",
+            "title":{
+                "en":"Tax ID Number"
+            }
+        },
+        {
+            "code":"business_id_history",
+            "title":{
+                "en":"Business ID History"
+            }
+        },
+        {
+            "code":"post_code_zip_code",
+            "title":{
+                "en":"Post Code/ZIP Code"
+            }
+        },
+        {
+            "code":"objectives_purpose",
+            "title":{
+                "en":"Objectives/Purpose"
+            }
+        },
+        {
+            "code":"activities_sector_code",
+            "title":{
+                "en":"Activities/Sector Code"
+            }
+        },
+        {
+            "code":"financial_turnover_details",
+            "title":{
+                "en":"Financial Turnover Details"
+            }
+        },
+        {
+            "code":"expiry_date",
+            "title":{
+                "en":"Expiry date"
+            }
+        },
+        {
+            "code":"status",
+            "title":{
+                "en":"Current status"
+            }
+        }
+    ]
+}

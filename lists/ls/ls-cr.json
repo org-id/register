@@ -1,0 +1,46 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "https://www.companies.org.ls/lesotho-companies-br/viewInstance/view.html?id=13c857736aeecb0a09b5d94dcd0806b1fbc38865177758399a303edf5386cceb&_timestamp=1546598047677291",
+    "name": {
+        "en": "Ministry of Trade, Registrar of Companies",
+        "local": ""
+    },
+    "coverage": [
+        "LS"
+    ],
+    "code": "LS-CR",
+    "formerPrefixes": null,
+    "confirmed": null,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": "no_license",
+        "availability": null
+    },
+    "deprecated": null,
+    "structure": [
+        "company"
+    ],
+    "description": {
+        "en": "This entry was imported from the Open Corporates Jurisdiction List."
+    },
+    "meta": {
+        "lastUpdated": "2016-09-07",
+        "source": null
+    },
+    "access": {
+        "languages": null,
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": null,
+        "availableOnline": false,
+        "guidanceOnLocatingIds": null
+    },
+    "subnationalCoverage": null,
+    "listType": null
+}

@@ -1,0 +1,51 @@
+{
+  "name": {
+    "en": "Unique Tax Identifier",
+    "local": "L’identifiant Fiscal Unique"
+  },
+  "url": "http://www.impots.finances.gouv.bj/tout-savoir-sur-lifu/",
+  "description": {
+    "en": "The Benin 'Unique Fiscal Identifier' was created by Decree No 2006-201 of 8 May 2006, and is linked to a national directory of persons, institutions and associations.\n\n\"The IFU's main objective is:\n\n* To uniquely register natural or legal persons throughout the national territory;\n* To avoid assigning several identifiers (INSAE number, taxpayer number, declaring code, etc.) to the same person;\n* Consolidate and secure information about any identified person;\n* To establish a reliable database for information, cross-checking and management purposes;\n* Improve and modernize the management of public finances with the introduction of a development tax system;\"[1]\n\nIdentifiers are assigned to: \"\n\n* Enterprises engaged in commercial or non-commercial activity in the territory of Benin, regardless of their form, legal status or nationality;\n* Employees in the public or private sector;\n* Corporate officers;\n* Embassies, international organizations and non-governmental organizations;\n* Landowners;\n* Individuals over eighteen (18) years of age engaged in self-employed or non-commercial activities;\n* Central government, public institutions and local authorities;\n* Trade unions and political parties, any natural or legal person governed by private law\"[1].\n\nAn IFU is 13 characters long. The first digit indicate the type of entity identified:\n\n* 1- Individual / male \n* 2- Individual / female \n* 3- Legal entity / company \n* 4- Legal person / state structure \n* 5- Legal person / international organization and mission diplomatic \n* 6- Legal person / non-governmental organization\n\nThe subsequent 4 digits give the year. \n\nThe next six digits are a unique identifier within that year.\n\nThe next digit indicates either (1) a parent company; (2-9) subsidiary or agencies; (0) other types of person or taxpayer.\n\nThe final digit is a checksum.\n\n\n[1]: http://www.impots.finances.gouv.bj/tout-savoir-sur-lifu/\n\n\n\nEXAMPLE: 3200901353510, "
+  },
+  "coverage": [
+    "BJ"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company",
+    "government_agency"
+  ],
+  "sector": [],
+  "code": "BJ-IFU",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": "No online source for the register of assigned identifiers could be found. Sometimes searching for an organisation + 'IFU' can locate documents containing their IFU. ",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "3200901353510",
+    "languages": [
+      "fr"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Primary research",
+    "lastUpdated": "2017-04-03"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}

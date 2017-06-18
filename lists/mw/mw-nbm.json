@@ -1,0 +1,52 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://ngoboardmalawi.mw/directory.php",
+    "name": {
+        "en": "NGO Board of Malawi",
+        "local": ""
+    },
+    "coverage": [
+        "MW"
+    ],
+    "code": "MW-NBM",
+    "formerPrefixes": null,
+    "confirmed": true,
+    "data": {
+        "features": [
+            "organisation_name"
+        ],
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": "no_license",
+        "availability": [
+            "pdf"
+        ]
+    },
+    "deprecated": null,
+    "structure": [
+        "charity"
+    ],
+    "description": {
+        "en": "All NGOs operating in Malawi must register with the NGO Board of Malawi. All NPOs must also register with the Registrar General. There is a pdf file with a list of registered NGOs, but they do not have registration numbers. New database is planned.\n\n\"In line with Section 20 of the NGO Act, every organization that wishes to operate or is operating in Malawi as an NGO must register with the NGO Board of Malawi. The Board is a regulatory Body for NGOs in Malawi and failure to register with it means the NGO will be operating illegally.\" [1]\n\n\"We are currently improving our directory which will not only show a list of registered NGOs when this process is completed, but will also provide an overview of each registered NGO, contacts, and will be searchable by sector and/or location (District).\" [2]\n\n\"The Registrar General is responsible for the registration and the administration non-profit entities under the Trustees Incorporation Act Cap. 5:03. \" [3]\n\n[1][2] http://ngoboardmalawi.mw/directory.php\n[3] https://www.registrargeneral.gov.mw/services/registration-of-businesses.html"
+    },
+    "meta": {
+        "lastUpdated": "2016-11-26",
+        "source": "Desk research"
+    },
+    "access": {
+        "languages": [
+            "en"
+        ],
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": "http://ngoboardmalawi.mw/downloads/malawi_ngo_directory_nov_2013.pdf , http://ngoboardmalawi.mw/downloads/ingo_directory_nov%202013.pdf , http://ngoboardmalawi.mw/downloads/national%20ngo_directory_nov%202013.pdf",
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "The PDF documents provide a list of organisation names but no detailed information. The list is numbered, and descends according to alphabetic order\n\nOIPA results shows one organisation using MW-NBM : Theatre for Change MW-NBM-00139\n\nThis number relates to the PDF list 'Paid up list of National (Local) NGOs as at 20 August, 2014' http://ngoboardmalawi.mw/downloads/national%20ngo_directory_nov%202013.pdf\n\n139 Theatre for a Change\n\nThis does not look to be a reliable, unique organisation number."
+    },
+    "subnationalCoverage": null,
+    "listType": "secondary"
+}

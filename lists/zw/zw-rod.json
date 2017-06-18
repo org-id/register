@@ -1,0 +1,46 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://www.dcip.gov.zw/",
+    "name": {
+        "en": "Registrar of Deeds",
+        "local": ""
+    },
+    "coverage": [
+        "ZW"
+    ],
+    "code": "ZW-ROD",
+    "formerPrefixes": null,
+    "confirmed": true,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": null,
+        "availability": null
+    },
+    "deprecated": null,
+    "structure": [
+        "company"
+    ],
+    "description": {
+        "en": "Companies in Zimbabwe must register with the Registrar of Deeds. \n\nCurrently, all Zimbabwe government websites appear not to be working.\n\n\"Reserve the company name with the Chief Registrar of Companies\n\nAgency: Chief Registrar of Companies\n\nForms are available online but all documents must be physically lodged at Companies and Deeds Registry. The reservation is valid for 30 days and can be extended for another 30 days for an additional fee.\" [1] \n\n[1] http://www.doingbusiness.org/data/exploreeconomies/zimbabwe#starting-a-business"
+    },
+    "meta": {
+        "lastUpdated": "2016-12-21",
+        "source": "Desk research"
+    },
+    "access": {
+        "languages": null,
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": "All Zimbabwe government websites are unavailable at time of research.",
+        "publicDatabase": null,
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "All Zimbabwe government websites are unavailable at time of research."
+    },
+    "subnationalCoverage": null,
+    "listType": "primary"
+}

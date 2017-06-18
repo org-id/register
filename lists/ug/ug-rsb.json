@@ -1,0 +1,54 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://www.ursb.go.ug/",
+    "name": {
+        "en": "Registration Services Bureau",
+        "local": ""
+    },
+    "coverage": [
+        "UG"
+    ],
+    "code": "UG-RSB",
+    "formerPrefixes": null,
+    "confirmed": true,
+    "data": {
+        "features": [
+            "date_of_registration",
+            "registration_number",
+            "organisation_name",
+            "status",
+            "expiry_date"
+        ],
+        "dataAccessDetails": "Users must complete Captcha puzzle in order to search",
+        "licenseDetails": null,
+        "licenseStatus": null,
+        "availability": [
+            "html"
+        ]
+    },
+    "deprecated": null,
+    "structure": null,
+    "description": {
+        "en": "Businesses and NGOs register with the Registration Services Bureau and receive an identification number. This number can be used as an identifier. A publicly available database can be search on the Bureau website."
+    },
+    "meta": {
+        "lastUpdated": "2016-12-16",
+        "source": "Desk research"
+    },
+    "access": {
+        "languages": [
+            "en"
+        ],
+        "exampleIdentifiers": "80010001803086 / BN-55471 , R1000000336259 , 80010003208981 / 101303A",
+        "onlineAccessDetails": null,
+        "publicDatabase": "http://brs.ursb.go.ug/brs/pro/bnr/searchname#SearchNamePub",
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "Users can find identifiers by using the database on the bureau website. Users must complete a Captcha puzzle in order to search. The identifiers will be under the column header 'Nr'.\n\nUsers should be aware that identifiers are not formed in a uniform manner, and use slashes and hyphens."
+    },
+    "subnationalCoverage": null,
+    "listType": "primary"
+}

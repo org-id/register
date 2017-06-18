@@ -1,0 +1,60 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "https://www.charitiesregulatoryauthority.ie/",
+    "name": {
+        "en": "Charities Regulatory Authority of Ireland",
+        "local": ""
+    },
+    "coverage": [
+        "IE"
+    ],
+    "code": "IE-CHY",
+    "formerPrefixes": null,
+    "confirmed": true,
+    "data": {
+        "features": [
+            "objectives/purpose",
+            "directors_trustees_governors",
+            "organisation_name",
+            "status",
+            "akas",
+            "registration_number",
+            "registered_address"
+        ],
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": "no_license",
+        "availability": [
+            "excel",
+            "html"
+        ]
+    },
+    "deprecated": null,
+    "structure": [
+        "charity"
+    ],
+    "description": {
+        "en": "All charities operating in Ireland must register with the Charities Regulatory Authority. The Charities Regulator maintains a publicly searchable database of these organisations, in webpage and Excel form.\n\n\"Our work as a Regulator is to increase public trust and confidence in the management and administration of charitable organisations and to ensure the accountability of charitable organisations to donors, beneficiaries and the public.  All charitable organisations carrying out activities in the state are required to be registered with the Charities Regulator.  All registered charities are required to report on their activities and finances to the Regulator on an annual basis. \" [1]\n\n[1] https://www.charitiesregulatoryauthority.ie/en/CRA/Pages/WP16000071"
+    },
+    "meta": {
+        "lastUpdated": "2016-11-24",
+        "source": "Desk research"
+    },
+    "access": {
+        "languages": [
+            "en",
+            "ga"
+        ],
+        "exampleIdentifiers": "20015763, 20072278, 20066628",
+        "onlineAccessDetails": "Searchable database and Excel dataset of registry",
+        "publicDatabase": "https://www.charitiesregulatoryauthority.ie/en/cra/pages/CharitySearch , http://charitiesregulatoryauthority.ie/en/cra/pages/search_a_charity",
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "Users can find an identifier by using the simple, searchable database on this webpage - https://www.charitiesregulatoryauthority.ie/en/cra/pages/CharitySearch\n\nThe identifier will appear to the right of the organisations name, in the box with the search results. Users can also click onto the organisation for more details, and the identifier will appear next to the heading 'Registered Charity Number'\n\nUsers can also download an Excel spreadsheet of the registry from this webpage - http://charitiesregulatoryauthority.ie/en/cra/pages/search_a_charity\n\nIdentifiers can be found under the column header 'Registered Charity Number'"
+    },
+    "subnationalCoverage": null,
+    "listType": "primary"
+}

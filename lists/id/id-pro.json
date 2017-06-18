@@ -1,0 +1,48 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://www.satulayanan.net/layanan/pendaftaran-lsm-atau-ormas/perizinan-lsm-atau-ormas-baru",
+    "name": {
+        "en": "Indonesia - NGOs registered at Provinicial Level",
+        "local": ""
+    },
+    "coverage": [
+        "ID"
+    ],
+    "code": "ID-PRO",
+    "formerPrefixes": null,
+    "confirmed": true,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": "closed_license",
+        "availability": [
+            "data_not_available"
+        ]
+    },
+    "deprecated": true,
+    "structure": [
+        "charity"
+    ],
+    "description": {
+        "en": "Registration for NGO in Indonesia can be done at the provincial level. Because there is regional autonomy, each provincial has different requirements.\n\nThis list was in the original IATI list, but current research has not been able to identify any publicly accessible registries nor lists of unique identifiers. A search of the IATI database finds no instances of use of ID-PRO as part of an identifier. For these reasons the list has been deprecated."
+    },
+    "meta": {
+        "lastUpdated": "2016-12-19",
+        "source": "Desk researching"
+    },
+    "access": {
+        "languages": null,
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": null,
+        "publicDatabase": "None available",
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "None available"
+    },
+    "subnationalCoverage": null,
+    "listType": "deprecated"
+}

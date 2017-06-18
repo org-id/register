@@ -1,0 +1,60 @@
+{
+  "name": {
+    "en": "Local Authorities for England Register",
+    "local": ""
+  },
+  "url": "http://local-authority-eng.alpha.openregister.org/records",
+  "description": {
+    "en": "The Local Authorities for England Register has been developed with the UK Department for Communities and Local Government (DCLG), and contains identifiers for 350+ local authorities. \n\nIt uses the second portion of '[ISO_3166-2](https://en.wikipedia.org/wiki/ISO_3166-2:GB)' codes where these are available, and creates new codes where they are not. "
+  },
+  "coverage": [
+    "GB"
+  ],
+  "subnationalCoverage": [
+    "GB-ENG"
+  ],
+  "structure": [
+    "government_agency/local_government"
+  ],
+  "sector": [],
+  "code": "GB-LAE",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": null,
+    "publicDatabase": "http://local-authority-eng.alpha.openregister.org/",
+    "guidanceOnLocatingIds": "Look for the value of the 'Local-authority-eng' field. ",
+    "exampleIdentifiers": "WOT, BAS, GED",
+    "languages": [
+      "en"
+    ]
+  },
+  "data": {
+    "availability": [
+      "api",
+      "bulk",
+      "csv",
+      "json",
+      "rdf"
+    ],
+    "dataAccessDetails": "",
+    "features": [
+      "date_of_registration",
+      "expiry_date",
+      "status"
+    ],
+    "licenseStatus": "open_license",
+    "licenseDetails": "Open Government Licence v3.0"
+  },
+  "meta": {
+    "source": "https://github.com/OpenDataServices/org-ids/issues/67",
+    "lastUpdated": "2017-04-06"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}

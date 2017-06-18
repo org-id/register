@@ -1,0 +1,60 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://pcp.org.pk/index.php",
+    "name": {
+        "en": "Pakistan Centre for Philanthropy",
+        "local": ""
+    },
+    "coverage": [
+        "PK"
+    ],
+    "code": "PK-PCP",
+    "formerPrefixes": null,
+    "confirmed": true,
+    "data": {
+        "features": [
+            "organisation_name",
+            "organisation_type",
+            "directors_trustees_governors",
+            "date_of_registration",
+            "objectives/purpose",
+            "registered_address",
+            "e-mail_address",
+            "phone_number"
+        ],
+        "dataAccessDetails": "Data is available through simple online search, and also as Google Drive link. For the latter, users may need a Google Drive account",
+        "licenseDetails": null,
+        "licenseStatus": "closed_license",
+        "availability": [
+            "html",
+            "google_drive"
+        ]
+    },
+    "deprecated": true,
+    "structure": [
+        "charity"
+    ],
+    "description": {
+        "en": "The Pakistan Centre for Philanthropy provides certification for NGOs working in Pakistan. Registration with the PCP is not obligatory for working in Pakistan and therefore not all NGOs will be recorded on the 'PCP Certified CSO List'. However, this list can be searched online.\n\nAll NGOs are required to register with their local Voluntary Social Welfare department. \n\n\"This voluntary assessment aims to enhance a CSOs' credibility and resultantly its access to funding. Through the allied activities of this programme, PCP promotes certified CSOs in an annual directory and on its website and also builds capacities of civil society organisations for greater effectiveness.\" [1]\n\n[1] http://pcp.org.pk/page.php?pid=19"
+    },
+    "meta": {
+        "lastUpdated": "2016-12-01",
+        "source": "Desk research"
+    },
+    "access": {
+        "languages": [
+            "en"
+        ],
+        "exampleIdentifiers": null,
+        "onlineAccessDetails": "A bulk dataset is available at https://drive.google.com/file/d/0B67B7u-xqLazZFhHTkUtUVVRWXc/view although it is not clear how far this is kept updated",
+        "publicDatabase": "http://pcp.org.pk/index.php",
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "NGOs do not receive an identifier after being certified by the PCP. Unique identifiers are not available on the CSO list."
+    },
+    "subnationalCoverage": null,
+    "listType": "third-party"
+}

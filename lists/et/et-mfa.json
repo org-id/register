@@ -1,0 +1,51 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://www.mfa.gov.et/",
+    "name": {
+        "en": "Ministry of Foreign Affairs",
+        "local": ""
+    },
+    "coverage": [
+        "ET"
+    ],
+    "code": "ET-MFA",
+    "formerPrefixes": null,
+    "confirmed": true,
+    "data": {
+        "features": null,
+        "dataAccessDetails": null,
+        "licenseDetails": null,
+        "licenseStatus": null,
+        "availability": [
+            "data_not_available"
+        ]
+    },
+    "deprecated": null,
+    "structure": [
+        "charity"
+    ],
+    "description": {
+        "en": "All charities wishing to operate in Ethiopia must register with the Ministry of Foreign Affairs (MFA). Details for how they register can be found in this document - http://mfa.gov.et/documents/10184/70245/NGO_Rule_English%5B1%5D%281%29.pdf/d20c730a-591e-4d3a-b9d8-a25aeb664904\n\nCharities are registered but no openly searchable database yet available."
+    },
+    "meta": {
+        "lastUpdated": "2016-11-23",
+        "source": "Desk research"
+    },
+    "access": {
+        "languages": [
+            "en",
+            "am"
+        ],
+        "exampleIdentifiers": "Unable to find",
+        "onlineAccessDetails": null,
+        "publicDatabase": "Unable to find",
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "Unable to find"
+    },
+    "subnationalCoverage": null,
+    "listType": "secondary"
+}

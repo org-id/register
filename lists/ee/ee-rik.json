@@ -1,0 +1,61 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://www.rik.ee/en/e-business-register",
+    "name": {
+        "en": "Centre of Registers and Information Systems (RIK)",
+        "local": ""
+    },
+    "coverage": [
+        "EE"
+    ],
+    "code": "EE-RIK",
+    "formerPrefixes": null,
+    "confirmed": true,
+    "data": {
+        "features": [
+            "organisation_name",
+            "status",
+            "registered_address",
+            "date_of_registration",
+            "registration_number",
+            "website"
+        ],
+        "dataAccessDetails": "Entire Commercial Register available as CSV and XML from this page - http://avaandmed.rik.ee/andmed/ARIREGISTER/",
+        "licenseDetails": "Creative Commons BY-SA 3.0",
+        "licenseStatus": "open_license",
+        "availability": [
+            "csv",
+            "xml",
+            "html",
+            "bulk_download"
+        ]
+    },
+    "deprecated": null,
+    "structure": [
+        "company"
+    ],
+    "description": {
+        "en": "The Centre of Registers and Information Systems (RIK) provides a number of services for Estonian individuals and business, in particular electronic services. These include the maintenance of the land registry database, criminal records database, company registry database and more. They also have a portal for the online registration of companies.\n\n\"COMPANY REGISTRATION PORTAL\n\nThis environment allows companies to submit electronic documents to the Business Register without using the services of a notary. The portal allows submitting applications for registering a new company, for amending the registry data, for liquidating and for deleting a company from the registry.\n\nYou can view the data related to you free-of-charge by logging in with your ID-card.\" [1]\n\n[1] http://www.rik.ee/en"
+    },
+    "meta": {
+        "lastUpdated": "2016-11-21",
+        "source": "Desk research"
+    },
+    "access": {
+        "languages": [
+            "en",
+            "et"
+        ],
+        "exampleIdentifiers": "11975756\t, 12964097, 10483761",
+        "onlineAccessDetails": "The data is also linked on the national data portal at https://opendata.riik.ee/dataset/http-avaandmed-rik-ee-andmed-ariregister",
+        "publicDatabase": "http://avaandmed.rik.ee/andmed/ARIREGISTER/",
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "Users can search for a company using the E-BUSINESS REGISTER search bar on the homepage - http://www.rik.ee/en . \n\nUsers can also download the Commercial Register as a file from this list of open datasets - http://www.rik.ee/en/open-data\n\nThe data is available as either a CSV or XML zip file, which can then be opened and searched. The file is approx. 42mb. The identifiers will be under the column header 'ariregistri_kood'"
+    },
+    "subnationalCoverage": null,
+    "listType": "primary"
+}

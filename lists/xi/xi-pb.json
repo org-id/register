@@ -1,0 +1,70 @@
+{
+    "links": {
+        "wikipedia": null,
+        "opencorporates": null
+    },
+    "sector": null,
+    "url": "http://publicbodies.org/",
+    "name": {
+        "en": "Public Bodies - Open Knowledge Foundation ",
+        "local": ""
+    },
+    "coverage": [
+        "BR",
+        "CH",
+        "GR",
+        "US",
+        "DE",
+        "GB",
+        "NZ"
+    ],
+    "code": "XI-PB",
+    "formerPrefixes": null,
+    "confirmed": true,
+    "data": {
+        "features": [
+            "registration_number",
+            "organisation_name",
+            "objectives/purpose",
+            "organisation_type",
+            "registered_address",
+            "website",
+            "date_of_foundation",
+            "e-mail_address"
+        ],
+        "dataAccessDetails": "http://publicbodies.org/ - CSV download available for Brazil, European Union, Germany, Greece, New Zealand, Switzerland, United Kingdom and United States",
+        "licenseDetails": "http://opendatacommons.org/licenses/pddl/1.0/",
+        "licenseStatus": "open_license",
+        "availability": [
+            "csv",
+            "html",
+            "json"
+        ]
+    },
+    "deprecated": null,
+    "structure": [
+        "government_agency"
+    ],
+    "description": {
+        "en": "Public Bodies is an Open Knowledge Foundation (OKF) project that aims to provide a unique ID for every part of every government. The main website is a portal for linking to profile pages for countries whose public bodies OKF has recorded. There are also links to directly download CSVs of this information.\n\nData available on the following countries/regions - Brazil, European Union, Germany, Greece, New Zealand, Switzerland, United Kingdom, United States "
+    },
+    "meta": {
+        "lastUpdated": "2016-12-28",
+        "source": "Desk research"
+    },
+    "access": {
+        "languages": [
+            "pt",
+            "de",
+            "el",
+            "en"
+        ],
+        "exampleIdentifiers": "gb/aberdeen-city-council, de/14-panzergrenadierdivision-hanse, ch/bundesrat-eidgenoessisches-departement-fuer-auswaertige-angelegenheiten-direktion-fuer-ressourcen-logistik-eda-bundesreisezentrale-pool-2-evd-edi-uvek-vbs-ejpd",
+        "onlineAccessDetails": null,
+        "publicDatabase": "http://publicbodies.org/",
+        "availableOnline": false,
+        "guidanceOnLocatingIds": "Users can click on the link for a country profile to access a webpage with a list of public bodies from that country. Once they open a link to a specific body, the data is available in JSON format. Identifiers will be under the tag 'id'.\n\nUsers can also download a CSV file which contains information on each public body. Identifiers will be under the column header 'id'."
+    },
+    "subnationalCoverage": null,
+    "listType": "third-party"
+}
