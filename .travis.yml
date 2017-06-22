@@ -1,0 +1,9 @@
+language: python
+python:
+    - "3.4"
+
+install: 
+    - "pip install pytest jsonschema"
+
+script:
+    - "py.test tests/*"
