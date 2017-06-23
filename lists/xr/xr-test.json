@@ -1,0 +1,47 @@
+{
+  "name": {
+    "en": "Newlist",
+    "local": ""
+  },
+  "url": "",
+  "description": {
+    "en": ""
+  },
+  "coverage": [
+    "AD"
+  ],
+  "subnationalCoverage": [
+    "AD-07"
+  ],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "XR-TEST",
+  "confirmed": true,
+  "deprecated": false,
+  "access": {
+    "onlineAccessDetails": "",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "",
+    "languages": [
+      ""
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "",
+    "lastUpdated": ""
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
