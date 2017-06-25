@@ -1,0 +1,60 @@
+{
+  "name": {
+    "en": "Principal Local Authority Register for Wales",
+    "local": ""
+  },
+  "url": "https://principal-local-authority.alpha.openregister.org/records",
+  "description": {
+    "en": "The Principal Local Authority Register has been developed with the Welsh Government and Government Digital Service (GDS), and contains identifiers for 22 county and county borough councils. The register may not cover all local authorities as it focuses on bodies providing mainstream local government services.\n\nIt uses the second portion of [ISO_3166-2](https://en.wikipedia.org/wiki/ISO_3166-2:GB) codes and includes all codes listed for Wales (WLS). "
+  },
+  "coverage": [
+    "GB"
+  ],
+  "subnationalCoverage": [
+    "GB-WLS"
+  ],
+  "structure": [
+    "government_agency/local_government"
+  ],
+  "sector": [],
+  "code": "GB-PLA",
+  "confirmed": true,
+  "deprecated": false,
+  "access": {
+    "onlineAccessDetails": null,
+    "publicDatabase": "https://principal-local-authority.alpha.openregister.org/",
+    "guidanceOnLocatingIds": "Look for the value of the 'principal-local-authority' field.\n",
+    "exampleIdentifiers": "AGY, TOF, NTL",
+    "languages": [
+      "en",
+      "cy"
+    ],
+    "availableOnline": true
+  },
+  "data": {
+    "availability": [
+      "api",
+      "csv",
+      "json",
+      "rdf"
+    ],
+    "dataAccessDetails": "[Bulk download](https://principal-local-authority.alpha.openregister.org/download) a copy of this register.     \n\nEach register has an [open API](https://registers-docs.cloudapps.digital/) you can use to access the data without any authentication. There's more information about using the register APIs in the technical documentation.",
+    "features": [
+      "date_of_registration",
+      "expiry_date",
+      "status"
+    ],
+    "licenseDetails": "Open Government Licence v3.0",
+    "licenseStatus": "open_license"
+  },
+  "meta": {
+    "source": "",
+    "lastUpdated": "2017-06-25"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": [],
+  "listType": "secondary"
+}
