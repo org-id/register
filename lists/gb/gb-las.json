@@ -1,0 +1,59 @@
+{
+  "name": {
+    "en": "Scottish Local Authority Register",
+    "local": ""
+  },
+  "url": "https://local-authority-sct.register.gov.uk/",
+  "description": {
+    "en": "The Local Authority SCT Register has been developed with the Scottish Government and Government Digital Service (GDS), and contains identifiers for 32 local authorities.\n\nIt uses the second portion of [ISO_3166-2](https://en.wikipedia.org/wiki/ISO_3166-2:GB) codes and includes all codes listed for Scotland (SCT). "
+  },
+  "coverage": [
+    "GB"
+  ],
+  "subnationalCoverage": [
+    "GB-SCT"
+  ],
+  "structure": [
+    "government_agency/local_government"
+  ],
+  "sector": [],
+  "code": "GB-LAS",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": null,
+    "publicDatabase": "https://local-authority-sct.register.gov.uk/records",
+    "guidanceOnLocatingIds": "Look for the value of the 'local-authority-sct' column. \n",
+    "exampleIdentifiers": "ZET, WLN, ORK",
+    "languages": [
+      "en"
+    ]
+  },
+  "data": {
+    "availability": [
+      "api",
+      "csv",
+      "json"
+    ],
+    "dataAccessDetails": "'[Bulk download](https://local-authority-sct.register.gov.uk/download)' a copy of this register.     Each register has an '[open API](https://registers-docs.cloudapps.digital/)' you can use to access the data without any authentication. There's more information about using the register APIs in the technical documentation.",
+    "features": [
+      "date_of_registration",
+      "expiry_date",
+      "status"
+    ],
+    "licenseStatus": "open_license",
+    "licenseDetails": "Open Government Licence v3.0"
+  },
+  "meta": {
+    "source": "Desk research",
+    "lastUpdated": "2017-03-07"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": [],
+  "registerType": "secondary"
+}
