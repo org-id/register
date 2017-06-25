@@ -54,5 +54,6 @@
     "wikipedia": ""
   },
   "formerPrefixes": [],
-  "registerType": "secondary"
+  "registerType": "secondary",
+  "listType": "secondary"
 }
