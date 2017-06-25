@@ -5,7 +5,7 @@
   },
   "url": "https://local-authority-sct.register.gov.uk/",
   "description": {
-    "en": "The Local Authority SCT Register has been developed with the Scottish Government and Government Digital Service (GDS), and contains identifiers for 32 local authorities.\n\nIt uses the second portion of '[ISO_3166-2](https://en.wikipedia.org/wiki/ISO_3166-2:GB)' codes and includes all codes listed for Scotland (SCT). "
+    "en": "The Local Authority SCT Register has been developed with the Scottish Government and Government Digital Service (GDS), and contains identifiers for 32 local authorities.\n\nIt uses the second portion of [ISO_3166-2](https://en.wikipedia.org/wiki/ISO_3166-2:GB) codes and includes all codes listed for Scotland (SCT). "
   },
   "coverage": [
     "GB"
@@ -20,6 +20,7 @@
   "code": "GB-LAS",
   "confirmed": true,
   "deprecated": false,
+  "listType": "secondary",
   "access": {
     "availableOnline": true,
     "onlineAccessDetails": null,
@@ -54,6 +55,5 @@
     "wikipedia": ""
   },
   "formerPrefixes": [],
-  "registerType": "secondary",
-  "listType": "secondary"
+  "registerType": "secondary"
 }
