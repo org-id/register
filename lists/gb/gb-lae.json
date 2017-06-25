@@ -3,7 +3,7 @@
     "en": "Local Authorities for England Register",
     "local": ""
   },
-  "url": "http://local-authority-eng.alpha.openregister.org/records",
+  "url": "https://local-authority-eng.register.gov.uk/",
   "description": {
     "en": "The Local Authorities for England Register has been developed with the UK Department for Communities and Local Government (DCLG), and contains identifiers for 350+ local authorities. \n\nIt uses the second portion of '[ISO_3166-2](https://en.wikipedia.org/wiki/ISO_3166-2:GB)' codes where these are available, and creates new codes where they are not. "
   },
@@ -14,7 +14,8 @@
     "GB-ENG"
   ],
   "structure": [
-    "government_agency/local_government"
+    "government_agency/local_government",
+    "government_agency"
   ],
   "sector": [],
   "code": "GB-LAE",
@@ -24,7 +25,7 @@
   "access": {
     "availableOnline": true,
     "onlineAccessDetails": null,
-    "publicDatabase": "http://local-authority-eng.alpha.openregister.org/",
+    "publicDatabase": "https://local-authority-eng.register.gov.uk/",
     "guidanceOnLocatingIds": "Look for the value of the 'Local-authority-eng' field. ",
     "exampleIdentifiers": "WOT, BAS, GED",
     "languages": [
@@ -50,7 +51,7 @@
   },
   "meta": {
     "source": "https://github.com/OpenDataServices/org-ids/issues/67",
-    "lastUpdated": "2017-04-06"
+    "lastUpdated": "2017-06-25"
   },
   "links": {
     "opencorporates": "",
