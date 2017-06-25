@@ -1,11 +1,11 @@
 {
   "name": {
-    "en": "Local Authority SCT Register",
+    "en": "Scottish Local Authority Register",
     "local": ""
   },
-  "url": "https://local-authority-sct.register.gov.uk/records",
+  "url": "https://local-authority-sct.register.gov.uk/",
   "description": {
-    "en": "The Local Authority SCT Register has been developed with the Scottish Government and Government Digital Service (GDS), and contains identifiers for 32 local authorities.\n\nIt uses the second portion of '[ISO_3166-2](https://en.wikipedia.org/wiki/ISO_3166-2:GB)' codes and includes all codes listed for Wales (SCT). "
+    "en": "The Local Authority SCT Register has been developed with the Scottish Government and Government Digital Service (GDS), and contains identifiers for 32 local authorities.\n\nIt uses the second portion of '[ISO_3166-2](https://en.wikipedia.org/wiki/ISO_3166-2:GB)' codes and includes all codes listed for Scotland (SCT). "
   },
   "coverage": [
     "GB"
@@ -18,17 +18,17 @@
   ],
   "sector": [],
   "code": "GB-LAS",
-  "confirmed": false,
+  "confirmed": true,
   "deprecated": false,
   "access": {
+    "availableOnline": true,
     "onlineAccessDetails": null,
-    "publicDatabase": "",
-    "guidanceOnLocatingIds": "Visit https://local-authority-sct.register.gov.uk/\n\nLook for the value of the 'principal-local-authority' field.\nThe code for this list is GB-LAS. When you can located the organisation you wish to identify in this list, you should either:\n\nEnter it in an identifier database field prefixed with GB-LAS.\n\nFor example: GB-LAS-[ IDENTIFIER ]\nOr, use it within a two-part identifier, with GB-LAS as the 'scheme', and the identifier you have located as the 'identifier' field.\n\nFor example:\n\n{\n\"scheme\":”GB-LAS”,\n”id”:\"[ IDENTIFIER ]\"\n}\n\n\nRemember, if your data model also includes space to record the legal name or address of the organisation, and the list provides this information, this can aid data re-use.",
+    "publicDatabase": "https://local-authority-sct.register.gov.uk/records",
+    "guidanceOnLocatingIds": "Visit https://local-authority-sct.register.gov.uk/\n\nLook for the value of the 'local-authority-sct' column. \n",
     "exampleIdentifiers": "ZET, WLN, ORK",
     "languages": [
       "en"
-    ],
-    "availableOnline": false
+    ]
   },
   "data": {
     "availability": [
@@ -42,11 +42,11 @@
       "expiry_date",
       "status"
     ],
-    "licenseDetails": "Open Government Licence v3.0",
-    "licenseStatus": "open_license"
+    "licenseStatus": "open_license",
+    "licenseDetails": "Open Government Licence v3.0"
   },
   "meta": {
-    "source": "",
+    "source": "Desk research",
     "lastUpdated": "2017-03-07"
   },
   "links": {
