@@ -1,0 +1,58 @@
+{
+  "name": {
+    "en": "Local Authority SCT Register",
+    "local": ""
+  },
+  "url": "https://local-authority-sct.register.gov.uk/records",
+  "description": {
+    "en": "The Local Authority SCT Register has been developed with the Scottish Government and Government Digital Service (GDS), and contains identifiers for 32 local authorities.\n\nIt uses the second portion of '[ISO_3166-2](https://en.wikipedia.org/wiki/ISO_3166-2:GB)' codes and includes all codes listed for Wales (SCT). "
+  },
+  "coverage": [
+    "GB"
+  ],
+  "subnationalCoverage": [
+    "GB-SCT"
+  ],
+  "structure": [
+    "government_agency/local_government"
+  ],
+  "sector": [],
+  "code": "GB-LAS",
+  "confirmed": false,
+  "deprecated": false,
+  "access": {
+    "onlineAccessDetails": null,
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "Visit https://local-authority-sct.register.gov.uk/\n\nLook for the value of the 'principal-local-authority' field.\nThe code for this list is GB-LAS. When you can located the organisation you wish to identify in this list, you should either:\n\nEnter it in an identifier database field prefixed with GB-LAS.\n\nFor example: GB-LAS-[ IDENTIFIER ]\nOr, use it within a two-part identifier, with GB-LAS as the 'scheme', and the identifier you have located as the 'identifier' field.\n\nFor example:\n\n{\n\"scheme\":”GB-LAS”,\n”id”:\"[ IDENTIFIER ]\"\n}\n\n\nRemember, if your data model also includes space to record the legal name or address of the organisation, and the list provides this information, this can aid data re-use.",
+    "exampleIdentifiers": "ZET, WLN, ORK",
+    "languages": [
+      "en"
+    ],
+    "availableOnline": false
+  },
+  "data": {
+    "availability": [
+      "api",
+      "csv",
+      "json"
+    ],
+    "dataAccessDetails": "'[Bulk download](https://local-authority-sct.register.gov.uk/download)' a copy of this register.     Each register has an '[open API](https://registers-docs.cloudapps.digital/)' you can use to access the data without any authentication. There's more information about using the register APIs in the technical documentation.",
+    "features": [
+      "date_of_registration",
+      "expiry_date",
+      "status"
+    ],
+    "licenseDetails": "Open Government Licence v3.0",
+    "licenseStatus": "open_license"
+  },
+  "meta": {
+    "source": "",
+    "lastUpdated": "2017-03-07"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": [],
+  "registerType": "secondary"
+}
