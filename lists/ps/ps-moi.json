@@ -1,0 +1,46 @@
+{
+  "name": {
+    "en": "Ministry of Interior (Palestine)",
+    "local": "وزارة الـداخـلـيــة"
+  },
+  "url": "http://www.moi.pna.ps/NGOs/List",
+  "description": {
+    "en": "The Palestine Ministry of Interior provide a registration list of NGOs, divided by province and responsible ministry. \n"
+  },
+  "coverage": [
+    "PS"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity"
+  ],
+  "sector": [],
+  "code": "PS-MOI",
+  "confirmed": true,
+  "deprecated": false,
+  "access": {
+    "onlineAccessDetails": "A simple filter by province and Ministry of Jurisdiction exists on the Ministry of Interior website.",
+    "publicDatabase": "http://www.moi.pna.ps/NGOs/List",
+    "guidanceOnLocatingIds": "Use the filters to locate the organisation you wish to identify. The identifier will be given in the 'Registration number' column.\n\nThis will consist of letters, numbers, and dashes.\n\nThe numbers may be displayed as eastern arabic numerals. When copied and pasted these should convert to western arabic numerals, and should always be entered into a database using western arabic numerals.",
+    "exampleIdentifiers": "HB-4157-C, JN-8179-C",
+    "languages": [
+      "ar"
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": "© 2017 - Palestinian Interior Ministry"
+  },
+  "meta": {
+    "source": "IATI Submission",
+    "lastUpdated": "2017-06-25"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": [],
+  "listType": "secondary"
+}
