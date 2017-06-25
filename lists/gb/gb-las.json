@@ -24,7 +24,7 @@
     "availableOnline": true,
     "onlineAccessDetails": null,
     "publicDatabase": "https://local-authority-sct.register.gov.uk/records",
-    "guidanceOnLocatingIds": "Visit https://local-authority-sct.register.gov.uk/\n\nLook for the value of the 'local-authority-sct' column. \n",
+    "guidanceOnLocatingIds": "Look for the value of the 'local-authority-sct' column. \n",
     "exampleIdentifiers": "ZET, WLN, ORK",
     "languages": [
       "en"
