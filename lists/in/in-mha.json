@@ -1,0 +1,53 @@
+{
+  "name": {
+    "en": "Ministry of Home Affairs (India) Foreign Contributions (Regulation) Act Register",
+    "local": ""
+  },
+  "url": "https://fcraonline.nic.in/",
+  "description": {
+    "en": "The Foreign Contributions (Regulation) Act required NGOs in receipt of foreign funding in India to register with the government. They are assigned an FRCA Registration Number.\n\n"
+  },
+  "coverage": [
+    "IN"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity"
+  ],
+  "sector": [],
+  "code": "IN-MHA",
+  "confirmed": true,
+  "deprecated": false,
+  "access": {
+    "onlineAccessDetails": "A full search service for identifiers does not appear to be available. However, a service is available from the website to verify identifiers, which will return information on the address and validity of an FRCA certificate when an identifier is supplied.",
+    "publicDatabase": "https://fcraonline.nic.in/fc_reg_certificate_details_verification1.aspx",
+    "guidanceOnLocatingIds": "Some states appear to publish lists of local FRCA numbers, and a web search for an organisation name and 'FRCA' may identify it's number, which can be verified through the FRCA Online website. \n\nOrganisations may also be able to provide their own identifiers. ",
+    "exampleIdentifiers": "104860017, 147040594",
+    "languages": [
+      "en"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [
+      "registered_address",
+      "date_of_registration",
+      "expiry_date",
+      "status"
+    ],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "IATI",
+    "lastUpdated": "2017-06-25"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": "https://en.wikipedia.org/wiki/Foreign_Contribution_(regulation)_Act,_2010"
+  },
+  "formerPrefixes": [],
+  "listType": "secondary"
+}
