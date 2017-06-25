@@ -1,0 +1,4 @@
+*.swp
+*~
+.ve
+__pycache__

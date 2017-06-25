@@ -1,12 +1,13 @@
 # org-id.guide: register
 
-## Important Note: 
+This repository holds the sources for the http://org-id.guide register of organisation lists. 
 
-This repository is a **work in progress** to replace the [codes folder](https://github.com/OpenDataServices/org-ids/tree/master/codes) of the org-id.guide application. 
+Visit http://org-id.guide to access an aggregated copy of the list.
 
-It is not yet the authoritative copy of identifiers. 
+## Proposing updates
 
-## About
+To propose new lists, or suggest updates to existing lists, either:
 
-See http://org-id.guide
+* Submit an issue describing the list;
+* Submit a pull request with a new list / changed list, following the list-schema 
 
