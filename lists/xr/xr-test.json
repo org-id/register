@@ -1,0 +1,46 @@
+{
+  "name": {
+    "en": "This is a test list",
+    "local": ""
+  },
+  "url": "http://www.example.com",
+  "description": {
+    "en": "and should contain the following paragraphs: (1) A description of the kinds of organisations that will be found on this list (this should be summarised from official websites/information where available); (2) A short (1-2 sentence) explanation of how organisations end up on this list (e.g. relevant information on registration procedures); and (3) Any essential considerations for users of this list. Numbered footnotes can be included using markdown syntax (e.g. [1] in-line to indicate a footnote, and list of citations at the bottom of the text each on their own line formatted as '[1]: Citation' etc.)."
+  },
+  "coverage": [
+    "GB"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company",
+    "government_agency"
+  ],
+  "sector": [],
+  "code": "XR-TEST",
+  "confirmed": true,
+  "deprecated": false,
+  "access": {
+    "onlineAccessDetails": "",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "",
+    "languages": [
+      ""
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "",
+    "lastUpdated": ""
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
