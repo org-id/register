@@ -1,0 +1,46 @@
+{
+  "name": {
+    "en": "General Inspectorate of Justice",
+    "local": "Inspección General de Justicia"
+  },
+  "url": "",
+  "description": {
+    "en": "To register a company in Argentina, the name must be reserved with the Office of Corporations (Inspección General de Justicia) (IGJ).\n"
+  },
+  "coverage": [
+    "AR"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "AR-IGJ",
+  "confirmed": false,
+  "deprecated": false,
+  "access": {
+    "onlineAccessDetails": "",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "",
+    "languages": [
+      "es"
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": "",
+    "licenseStatus": "no_license"
+  },
+  "meta": {
+    "source": "",
+    "lastUpdated": ""
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
