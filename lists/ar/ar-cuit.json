@@ -17,8 +17,9 @@
   ],
   "sector": [],
   "code": "AR-CUIT",
-  "confirmed": false,
+  "confirmed": true,
   "deprecated": false,
+  "listType": "secondary",
   "access": {
     "onlineAccessDetails": "Third party search services such as https://www.dateas.com/es/consulta_cuit_cuil exist and provide name based search of CUIT (tax identifier) and CUIL (labour identifier).",
     "publicDatabase": "http://www.afip.gob.ar/futCont/",
@@ -35,8 +36,8 @@
       "industry_classifications",
       "status"
     ],
-    "licenseDetails": "",
-    "licenseStatus": "no_license"
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
   },
   "meta": {
     "source": "Open Contracting",
@@ -47,6 +48,5 @@
     "wikipedia": ""
   },
   "formerPrefixes": [],
-  "listType": "secondary",
   "License": null
 }
