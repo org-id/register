@@ -4,10 +4,6 @@ This repository holds the sources for the http://org-id.guide register of organi
 
 Visit http://org-id.guide to access an aggregated copy of the list.
 
-## Proposing updates
+## Documentation
 
-To propose new lists, or suggest updates to existing lists, either:
-
-* Submit an issue describing the list;
-* Submit a pull request with a new list / changed list, following the list-schema 
-
+Visit http://docs.org-id.guide for more information on how to contribute to this codelist. 
