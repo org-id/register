@@ -5,7 +5,7 @@
   },
   "url": "http://stat.gov.pl/en/metainformations/glossary/terms-used-in-official-statistics/2963,term.html",
   "description": {
-    "en": "A unique number assigned to national economy entities and local units of these entities in the national official register of national economy entities REGON, with no implicit or explicit information on the features of an entity.\n\nEvery organization receives REGON number during the registration phase."
+    "en": "A unique number assigned to national economy entities and local units of these entities in the national official register of national economy entities REGON, with no implicit or explicit information on the features of an entity.\n\nEvery organization receives REGON number during the registration phase.\n\nLooking at REGON/NIP relations: most often all organizations having NIP will have REGON and vice-versa. One of a few exceptions are for example schools that will have REGON numbers (for statistical purposes), but they are not required to have NIP tax id number (because they are executing municipalities' budgets)."
   },
   "coverage": [
     "PL"
