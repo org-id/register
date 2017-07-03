@@ -1,44 +1,67 @@
 {
-    "links": {
-        "wikipedia": null,
-        "opencorporates": null
-    },
-    "sector": null,
-    "url": "https://ems.ms.gov.pl/krs/wyszukiwaniepodmiotu",
-    "name": {
-        "en": "The National Court Register",
-        "local": ""
-    },
-    "coverage": [
-        "PL"
+  "name": {
+    "en": "The National Court Register",
+    "local": "Krajowy Rejestr Sądowy"
+  },
+  "url": "https://ems.ms.gov.pl/krs/wyszukiwaniepodmiotu",
+  "description": {
+    "en": "The National Court Register (KRS standing for Krajowy Rejestr Sądowy) number is required to be acquired by several types of organizations: companies (without Sole Proprietorships that register in CEiDG) non-profits (associations, foundations, charities), unions, public health institutions.\n\nAn organization has to apply for a KRS number and pay a fee (around 25$). "
+  },
+  "coverage": [
+    "PL"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity",
+    "company"
+  ],
+  "sector": [],
+  "code": "PL-KRS",
+  "confirmed": false,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "There is only search available, secured by captcha. No bulk download (expected to appear in 2018).",
+    "publicDatabase": "https://ems.ms.gov.pl/krs/wyszukiwaniepodmiotu",
+    "guidanceOnLocatingIds": "1. Check both boxes: \"Przedsiębiorcy\" (companies) and \"Stowarzyszenia, inne organizacje społ. i zawodowe, fundacje, ZOZ\" (associations, foundations, charities, unions, public health institutions)\n2. Input KRS number in the relevant field (or search by other means, such as a name or a city)\n3. Enter captcha \"Kod z obrazka\"\n4. Start search: \"Szukaj\"\n5. Choose one of the results by clicking \"Wyświetl\"\n6. You will get a page with basic details. To get whole info click \"Pobierz wydruk\" to get a PDF with all the information\n\nKRS number is mentioned as \"Numer KRS\". Commonly it is prefixed by zeros, but they are non-significant and in other sources (such as a company's website) can be dropped.",
+    "exampleIdentifiers": "PL-KRS 0000359730",
+    "languages": [
+      "PL"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
     ],
-    "code": "PL-KRS",
-    "formerPrefixes": null,
-    "confirmed": null,
-    "data": {
-        "features": null,
-        "dataAccessDetails": null,
-        "licenseDetails": null,
-        "licenseStatus": null,
-        "availability": null
-    },
-    "deprecated": null,
-    "structure": null,
-    "description": {
-        "en": "Every business entry in Poland is assigned an ID in 3 different registries: business, court, and tax. This is the court register."
-    },
-    "meta": {
-        "lastUpdated": null,
-        "source": null
-    },
-    "access": {
-        "languages": null,
-        "exampleIdentifiers": null,
-        "onlineAccessDetails": null,
-        "publicDatabase": null,
-        "availableOnline": false,
-        "guidanceOnLocatingIds": null
-    },
-    "subnationalCoverage": null,
-    "listType": null
+    "dataAccessDetails": "This registry is planned to be opened (API + bulk download access) at the end of 2017, beginning of 2018.",
+    "features": [
+      "directors_trustees_governors",
+      "shareholders",
+      "registered_address",
+      "website",
+      "e-mail_address",
+      "industry_classifications",
+      "date_of_registration",
+      "legal_representatives",
+      "registration_number",
+      "phone_number",
+      "country_of_origin",
+      "tax_id_number",
+      "business_id_history",
+      "post_code_zip_code",
+      "activities_sector_code"
+    ],
+    "licenseStatus": "no_license",
+    "licenseDetails": "Effectively it is open license (public information) as non-profits and companies has been reusing this data for several years now"
+  },
+  "meta": {
+    "source": "Research done by ePanstwo Foundation epf.org.pl/en",
+    "lastUpdated": "2017-07-03"
+  },
+  "links": {
+    "opencorporates": "https://opencorporates.com/registers/207",
+    "wikipedia": "https://pl.wikipedia.org/wiki/Krajowy_Rejestr_S%C4%85dowy"
+  },
+  "formerPrefixes": []
 }
