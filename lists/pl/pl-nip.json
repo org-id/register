@@ -1,44 +1,53 @@
 {
-    "links": {
-        "wikipedia": null,
-        "opencorporates": null
-    },
-    "sector": null,
-    "url": "https://ems.ms.gov.pl/krs/wyszukiwaniepodmiotu, https://wyszukiwarkaregon.stat.gov.pl/appBIR/index.aspx",
-    "name": {
-        "en": "Tax Identification Number",
-        "local": ""
-    },
-    "coverage": [
-        "PL"
+  "name": {
+    "en": "Tax Identification Number",
+    "local": "Numer Identyfikacji Podatkowej"
+  },
+  "url": "https://pl.wikipedia.org/wiki/NIP",
+  "description": {
+    "en": "Tax Identification Number (NIP) is used for tax purposes and is assigned basically to any organization: companies including sole proprietorships, non-profits, government agencies.\n\nNIP is assigned to organizations in process of their registration.\n\nTill 2011 NIP number was also assigned to natural people (tax payers).\n"
+  },
+  "coverage": [
+    "PL"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity",
+    "company",
+    "government_agency"
+  ],
+  "sector": [],
+  "code": "PL-NIP",
+  "confirmed": false,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "There is no Search is avaliable on https://wyszukiwarkaregon.stat.gov.pl/appBIR/index.aspx",
+    "publicDatabase": "https://wyszukiwarkaregon.stat.gov.pl/appBIR/index.aspx",
+    "guidanceOnLocatingIds": "1. Type in organization's NIP in the NIP field\n2. Start by clicking \"Szukaj\"\n3. Click on the first column (REGON number) to get details\n\nNIP number consists of 10 digits, the last one is a check digit. For convenience the digits may be separated by non-significant hyphens (xxx-xxx-xx-xx or xxx-xx-xx-xxx for legal persons).",
+    "exampleIdentifiers": "PL-NIP 1231216692",
+    "languages": [
+      "PL"
+    ]
+  },
+  "data": {
+    "availability": [
+      "api"
     ],
-    "code": "PL-NIP",
-    "formerPrefixes": null,
-    "confirmed": null,
-    "data": {
-        "features": null,
-        "dataAccessDetails": null,
-        "licenseDetails": null,
-        "licenseStatus": null,
-        "availability": null
-    },
-    "deprecated": null,
-    "structure": null,
-    "description": {
-        "en": "Every business entry in Poland is assigned an ID in 3 different registries: business, court, and tax. This is the tax register."
-    },
-    "meta": {
-        "lastUpdated": null,
-        "source": null
-    },
-    "access": {
-        "languages": null,
-        "exampleIdentifiers": null,
-        "onlineAccessDetails": null,
-        "publicDatabase": null,
-        "availableOnline": false,
-        "guidanceOnLocatingIds": null
-    },
-    "subnationalCoverage": null,
-    "listType": null
+    "dataAccessDetails": "There is no dedicated NIP registry website online, but NIP registry is searchable via REGON registry on https://wyszukiwarkaregon.stat.gov.pl/appBIR/index.aspx. There is an API available also: http://bip.stat.gov.pl/dzialalnosc-statystyki-publicznej/rejestr-regon/interfejsyapi/informacje-ogolne/",
+    "features": [
+    ],
+    "licenseStatus": "no_license",
+    "licenseDetails": "Effectively it is open license (public information) as non-profits and companies has been reusing this data for several years now"
+  },
+  "meta": {
+    "source": "Research done by ePanstwo Foundation epf.org.pl/en",
+    "lastUpdated": "2017-07-03"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": "https://pl.wikipedia.org/wiki/NIP"
+  },
+  "formerPrefixes": []
 }
