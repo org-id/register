@@ -14,7 +14,8 @@
     "GB-ENG"
   ],
   "structure": [
-    "government_agency/local_government"
+    "government_agency/local_government",
+    "government_agency"
   ],
   "sector": [],
   "code": "GB-LAE",
@@ -24,7 +25,7 @@
   "access": {
     "availableOnline": true,
     "onlineAccessDetails": null,
-    "publicDatabase": "http://local-authority-eng.alpha.openregister.org/",
+    "publicDatabase": "https://local-authority-eng.register.gov.uk/records",
     "guidanceOnLocatingIds": "Look for the value of the 'Local-authority-eng' field. ",
     "exampleIdentifiers": "WOT, BAS, GED",
     "languages": [
