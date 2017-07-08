@@ -1,46 +1,59 @@
 {
-    "links": {
-        "wikipedia": null,
-        "opencorporates": null
-    },
-    "sector": null,
-    "url": "http://www.icris.cr.gov.hk/csci/login_i.do?loginType=iguest&username=iguest",
-    "name": {
-        "en": "ICRIS CSC Companies Registry",
-        "local": ""
-    },
-    "coverage": [
-        "HK"
+  "name": {
+    "en": "Hong Kong Companies Register",
+    "local": ""
+  },
+  "url": "https://www.icris.cr.gov.hk/csci/",
+  "description": {
+    "en": "All businesses operating in Hong Kong, including non-Hong Kong businesses with a place of business in Hong Kong must register with the Companies Register. \n\nThis includes Sole-proprietorship, Partnership and Unincorporated body of persons, Non-Hong Kong company, and Branch business, as well as companies incorporated under the Companies Ordinance. \n\nBusinesses are issued with a registration certificate that is valid for three years, and which can be renewed. "
+  },
+  "coverage": [
+    "HK"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company",
+    "unincorporated_body"
+  ],
+  "sector": [],
+  "code": "HK-CR",
+  "confirmed": true,
+  "deprecated": false,
+  "access": {
+    "onlineAccessDetails": null,
+    "publicDatabase": "https://www.icris.cr.gov.hk/csci/",
+    "guidanceOnLocatingIds": "Enter the search system, and search by name or company particulars. \n\nThe identifier is given in the CR No. column of the results. ",
+    "exampleIdentifiers": "2524613,  F0002727",
+    "languages": [
+      "",
+      "en",
+      "zh"
     ],
-    "code": "HK-CR",
-    "formerPrefixes": null,
-    "confirmed": null,
-    "data": {
-        "features": null,
-        "dataAccessDetails": null,
-        "licenseDetails": null,
-        "licenseStatus": "no_license",
-        "availability": null
-    },
-    "deprecated": null,
-    "structure": [
-        "company"
+    "availableOnline": true
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
     ],
-    "description": {
-        "en": "This entry was imported from the Open Corporates Jurisdiction List."
-    },
-    "meta": {
-        "lastUpdated": "2016-09-07",
-        "source": null
-    },
-    "access": {
-        "languages": null,
-        "exampleIdentifiers": null,
-        "onlineAccessDetails": null,
-        "publicDatabase": null,
-        "availableOnline": false,
-        "guidanceOnLocatingIds": null
-    },
-    "subnationalCoverage": null,
-    "listType": null
+    "dataAccessDetails": "",
+    "features": [
+      "directors_trustees_governors",
+      "akas",
+      "date_of_registration",
+      "registration_number",
+      "status"
+    ],
+    "licenseDetails": "",
+    "licenseStatus": "closed_license"
+  },
+  "meta": {
+    "source": "Desk research",
+    "lastUpdated": "2017-06-25"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": [],
+  "listType": "primary"
 }
