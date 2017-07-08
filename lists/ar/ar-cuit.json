@@ -1,0 +1,52 @@
+{
+  "name": {
+    "en": "Unique Tax Identification Code (Argentina)",
+    "local": "Clave Única Identificación Tributaria (Argentina)"
+  },
+  "url": "",
+  "description": {
+    "en": "Any citizen or company starting an economic activity in Argentina must register with the AFIP (Federal Administration of Public Revenues) and receive a Unique Tax Identification Code (CUIT). \n\nThis is an 11 digit number, consisting two digits, hyphen, nine digits, and a one digit checksum. \n"
+  },
+  "coverage": [
+    "AR"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company",
+    "unincorporated_body"
+  ],
+  "sector": [],
+  "code": "AR-CUIT",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "onlineAccessDetails": "Third party search services such as https://www.dateas.com/es/consulta_cuit_cuil exist and provide name based search of CUIT (tax identifier) and CUIL (labour identifier).",
+    "publicDatabase": "http://www.afip.gob.ar/futCont/",
+    "guidanceOnLocatingIds": "Use a third-party service to search for identifiers. Identifiers can be verified at http://www.afip.gob.ar/futCont/",
+    "exampleIdentifiers": "30-69330706-2, 30-70737344-6",
+    "languages": [
+      "es"
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [
+      "industry_classifications",
+      "status"
+    ],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Open Contracting",
+    "lastUpdated": "2017-06-26"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": [],
+  "License": null
+}
