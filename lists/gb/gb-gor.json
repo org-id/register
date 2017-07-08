@@ -3,7 +3,7 @@
     "en": "Government Organisation Register",
     "local": ""
   },
-  "url": "http://government-organisation.alpha.openregister.org/",
+  "url": "https://government-organisation.register.gov.uk/records",
   "description": {
     "en": "The UK Government Organisation Register contains an identifier for every government body with a presence on the gov.uk single domain.\n\nThis covers government departments, agencies and Arms Length Bodies (ALBs).\n\nEach organisation is assigned an alphanumeric identifier, and the register also includes website addresses, that can be mapped to entries in the GB-GOVUK identifier list. \n\nDue to the stable identifiers given in the Government Organisation Register, it should be preferred over codes from the GB-GOVUK list. "
   },
@@ -22,7 +22,7 @@
   "access": {
     "availableOnline": true,
     "onlineAccessDetails": "The list is accessible as open data as part of the OpenRegister platform.",
-    "publicDatabase": "http://government-organisation.alpha.openregister.org/",
+    "publicDatabase": "https://government-organisation.register.gov.uk/records",
     "guidanceOnLocatingIds": "The identifier is available in the 'government-organisation' field within the register. Identifiers are short alphanumeric strings. ",
     "exampleIdentifiers": "OT1211, PB1204, EA1113, D1198",
     "languages": [
@@ -47,7 +47,7 @@
   },
   "meta": {
     "source": "https://github.com/OpenDataServices/org-ids/issues/67",
-    "lastUpdated": "2017-04-06"
+    "lastUpdated": "2017-07-08"
   },
   "links": {
     "opencorporates": "",
