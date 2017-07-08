@@ -1,0 +1,53 @@
+{
+  "name": {
+    "en": "Bureau of Public Procurement (BPP) Contractor Registration System (Nigeria)",
+    "local": ""
+  },
+  "url": "http://federalcontractors.bpp.gov.ng/",
+  "description": {
+    "en": "The Nigerian Bureau of Public Procurement are responsible for monitoring and oversight of public procurement in Nigeria. \n\nThe Contractor and Service Provider Database System is a government vendor registration database system that assigns a unique contractor identification number, categories, and classification of firms who have applied for, or been involved in, government contracts. \n\n\n"
+  },
+  "coverage": [
+    "NG"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "NG-BPP",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "An online search of registered contractors is available.",
+    "publicDatabase": "http://federalcontractors.bpp.gov.ng/SearchforRegisteredContractors.aspx",
+    "guidanceOnLocatingIds": "Search based on contractor name. The full identifier, including 'BPP_' should be used.",
+    "exampleIdentifiers": "BPP_5125283435, BPP_1383871299, ",
+    "languages": [
+      "en"
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [
+      "website",
+      "e-mail_address",
+      "industry_classifications",
+      "status"
+    ],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Open Contracting",
+    "lastUpdated": "2017-06-28"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
