@@ -1,44 +1,59 @@
 {
-    "links": {
-        "wikipedia": null,
-        "opencorporates": null
-    },
-    "sector": null,
-    "url": "http://www.stat.gov.pl/regon/, http://bip.stat.gov.pl/en/regon/",
-    "name": {
-        "en": "National Official Business Register",
-        "local": ""
-    },
-    "coverage": [
-        "PL"
+  "name": {
+    "en": "REGON - Statistical number of an economy entity",
+    "local": "REGON - Krajowy Rejestr Urzędowy Podmiotów Gospodarki Narodowej"
+  },
+  "url": "http://stat.gov.pl/en/metainformations/glossary/terms-used-in-official-statistics/2963,term.html",
+  "description": {
+    "en": "A unique number assigned to national economic entities, and to the local units of these entities in the national official register of national economy entities,  REGON. The identifier provides no implicit or explicit information on the features of an entity.\n\nEvery organization receives REGON number during the registration phase.\n\nLooking at REGON/NIP relations: most often all organizations having NIP (PL-NIP) will have REGON (PL-REGON) and vice-versa. \n\nOne of a few exceptions are, for example, schools that will have REGON numbers (for statistical purposes), but they are not required to have NIP tax id number (because they are executing municipalities' budgets)."
+  },
+  "coverage": [
+    "PL"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity",
+    "company",
+    "government_agency",
+    "unincorporated_body"
+  ],
+  "sector": [],
+  "code": "PL-REGON",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "There is search is available on https://wyszukiwarkaregon.stat.gov.pl/appBIR/index.aspx. There is also an API available.",
+    "publicDatabase": "https://wyszukiwarkaregon.stat.gov.pl/appBIR/index.aspx",
+    "guidanceOnLocatingIds": "1. Type in organization's REGON in the REGON field\n2. Start by clicking \"Szukaj\"\n3. Click on the first column (REGON number) to get details\n\nREGON identification number of legal units (legal persons, organisational units with no legal personality and natural persons conducting economic activity) consists of 9 digits, of which the first eight digits constitute a serial number, and the ninth - a control digit. REGON identification number of a local unit consists of fourteen digits, of which the first nine digits constitute identification number of a legal unit, the next four digits are a serial number assigned to the local unit, and the fourteenth digit is a control digit.",
+    "exampleIdentifiers": "142445947",
+    "languages": [
+      "PL"
+    ]
+  },
+  "data": {
+    "availability": [
+      "api"
     ],
-    "code": "PL-REGON",
-    "formerPrefixes": null,
-    "confirmed": null,
-    "data": {
-        "features": null,
-        "dataAccessDetails": null,
-        "licenseDetails": null,
-        "licenseStatus": null,
-        "availability": null
-    },
-    "deprecated": null,
-    "structure": null,
-    "description": {
-        "en": "Every business entry in Poland is assigned an ID in 3 different registries: business, court, and tax. This is the business register."
-    },
-    "meta": {
-        "lastUpdated": null,
-        "source": null
-    },
-    "access": {
-        "languages": null,
-        "exampleIdentifiers": null,
-        "onlineAccessDetails": null,
-        "publicDatabase": null,
-        "availableOnline": false,
-        "guidanceOnLocatingIds": null
-    },
-    "subnationalCoverage": null,
-    "listType": null
+    "dataAccessDetails": "There is an API available at http://bip.stat.gov.pl/dzialalnosc-statystyki-publicznej/rejestr-regon/interfejsyapi/informacje-ogolne/",
+    "features": [
+      "registered_address",
+      "date_of_registration",
+      "phone_number",
+      "post_code_zip_code",
+      "status"
+    ],
+    "licenseStatus": "no_license",
+    "licenseDetails": "Non-profits and companies has been reusing this data for several years now as if it is openly lincesed"
+  },
+  "meta": {
+    "source": "Research done by ePanstwo Foundation epf.org.pl/en",
+    "lastUpdated": "2017-07-08"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": "https://pl.wikipedia.org/wiki/REGON"
+  },
+  "formerPrefixes": []
 }
