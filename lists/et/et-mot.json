@@ -1,0 +1,51 @@
+{
+  "name": {
+    "en": "Ministry of Trade (Ethiopia)",
+    "local": ""
+  },
+  "url": "http://www.mot.gov.et",
+  "description": {
+    "en": "The Ministry of Trade is the official ministry for business registration in Ethiopia.\n\n\"The Ministry of Trade was re-established in August1995 under -- proclamation No 4/1995 issued to provide for the definition of powers and duties of the executive organs of the Federal Democratic Republic ofEthiopia (FDRE).\n\nThe Ministry was again reorganized with a proclamation No 619/2003 issued to amend the reorganization of the executive organs of the Federal Democratic Republic Ethiopia Proclamation No 256/2001. With this proclamation and by other laws, the Ministry has been given the power to supervise and coordinate five government institutions that are involved in the promotion & development of trade, industry and investment activities.\n\nThe Ministry of Trade shall have the powers and duties to:\n\nEncourage and register the establishment of chambers of commerce and sectorial associations including consumers associations and strengthen those already established(Chambers of Commerce and Sectorial Association Establishment Proclamation No.341/2003).\" [1]\n\n[1]: http://www.mot.gov.et/documents/27281/0/Proc+No.+341-2003+Chamber+of+commerce+and+sectorial+Associa.pdf/50798768-2b9d-4f20-990f-1d4298f16f08?version=1.1"
+  },
+  "coverage": [
+    "ET"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company",
+    "charity"
+  ],
+  "sector": [],
+  "code": "ET-MOT",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": "",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "A computerised system exists for checking company names, but it is not accessible online. \n\nIdentifiers will need to be requested from the organisation to be identified, and should be available from the documents originally issued when they registered. ",
+    "exampleIdentifiers": "020/4/007",
+    "languages": [
+      "en"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "IATI - https://discuss.iatistandard.org/t/proposed-addition-to-the-organisation-registration-agency-codelist-ethiopia/941",
+    "lastUpdated": "2017-07-06"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
