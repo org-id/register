@@ -1,0 +1,51 @@
+{
+  "name": {
+    "en": "Department of Associations (Ministry of Interior, Turkey)",
+    "local": "Dernekler Dairesi Başkanlığı"
+  },
+  "url": "https://www.dernekler.gov.tr/",
+  "description": {
+    "en": "All non-profit associations operating in Turkey should register with the Department of Associations. \n\nDuring registration, they will be given a registration number. "
+  },
+  "coverage": [
+    "TR"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity"
+  ],
+  "sector": [],
+  "code": "TR-MOI",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": "An online information system is available at https://www.dernekler.gov.tr/ but it appears to require log-in only accessible to registered NGOs. ",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "Identifiers are provided to organisations when they first register. Ask the organisation to check their registration certificate. ",
+    "exampleIdentifiers": "27-018-163",
+    "languages": [
+      "tr",
+      "en"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "IATI",
+    "lastUpdated": "2017-07-18"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
