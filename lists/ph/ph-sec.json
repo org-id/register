@@ -1,0 +1,50 @@
+{
+  "name": {
+    "en": "Securities and Exchange Commission (Philippines)",
+    "local": ""
+  },
+  "url": "http://www.sec.gov.ph/",
+  "description": {
+    "en": "The Securities and Exchange Commission in the Philippines provides licenses so that corporations, partnerships or associations can transact business in the Philippines.\n\nFor domestic companies, this may come in the form of a 'Certificate of Incorporation'. For foreign firms or organisations, branches may obtain a 'License to transact business'. "
+  },
+  "coverage": [
+    "PH"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "PH-SEC",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": "A search of registered names exists, but does not provide access to identifiers.",
+    "publicDatabase": "http://www.sec.gov.ph/online-services/search-registered-companies/",
+    "guidanceOnLocatingIds": "Companies are issued with a Certificate or Incorporation, or a License to Transact Business. Sometimes these are published by those organisations, or otherwise the 'Company Reg No.' value contained on them can be requested from the organisation.",
+    "exampleIdentifiers": "FS200813283, CS2010407120, AN094003039",
+    "languages": [
+      "en"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "IATI - https://discuss.iatistandard.org/t/added-proposed-addition-to-the-organisation-registration-agency-codelist-philippines/888",
+    "lastUpdated": "2017-07-17"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": "https://en.wikipedia.org/wiki/Securities_and_Exchange_Commission_(Philippines)"
+  },
+  "formerPrefixes": []
+}
