@@ -1,0 +1,51 @@
+{
+  "name": {
+    "en": "The National Centre of Community Organisations (Argentina)",
+    "local": " El Centro Nacional de Organizaciones de la Comunidad "
+  },
+  "url": "http://www.cenoc.gob.ar/",
+  "description": {
+    "en": "Law Nº 25.855, de Voluntariado Social (Social Volunteering) established in 2004 a role for  El Centro Nacional de Organizaciones de la Comunidad to maintain a database of civil society organisations (CSOs).\n\n\"The CSOs that receive or intend to receive public funds must be included in the database, to carry out projects financed in whole or in part with state resources, whatever the subject matter.\"\n\nRegistration for the database requests detailed information, including capturing a CUIT number for the organisation (where known), address and contact information. However, only a basic list of identifiers and names is currently published. "
+  },
+  "coverage": [
+    "AR"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity"
+  ],
+  "sector": [],
+  "code": "AR-CENOC",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "An excel spreadsheet of the list is available to download from the CENOC website.",
+    "publicDatabase": "http://www.cenoc.gob.ar/public/documentos/ListadoOrganizacionesWeb.xls",
+    "guidanceOnLocatingIds": "Download the Excel spreadsheet and use the search function to locate an organization name. ",
+    "exampleIdentifiers": "9316-A, 10434-A, 11890-A",
+    "languages": [
+      "es"
+    ]
+  },
+  "data": {
+    "availability": [
+      "bulk",
+      "excel"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "IATI - https://discuss.iatistandard.org/t/proposed-addition-to-the-organisation-registration-agency-codelist-argentina/944",
+    "lastUpdated": "2017-7-14"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
