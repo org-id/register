@@ -14,7 +14,7 @@
     ],
     "code": "US-USAGOV",
     "formerPrefixes": null,
-    "confirmed": null,
+    "confirmed": true,
     "data": {
         "features": [
             "registered_address",
