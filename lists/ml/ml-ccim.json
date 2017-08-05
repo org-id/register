@@ -1,11 +1,11 @@
 {
   "name": {
-    "en": "Mali Chamber of Commerce and Industry",
-    "local": "Chambre de Commerce et d'Industrie du Mali"
+    "en": "Newlist",
+    "local": ""
   },
   "url": "http://www.cci.ml/",
   "description": {
-    "en": "The Chamber of Commerce and Industry of Mali (CCIM) was created in 1906. It's current status as a public institution is based in law 98-014/P-RM of 1998. \n\nThe Chamber of Commerce provides assistance for the creation of companies, and maintains data on business creation. "
+    "en": "The Chamber of Commerce and Industry of Mali (CCIM) is responsible for the organization and professional representation of organisations and legal persons working in the various branches of commercial, industrial and service activities in Mali."
   },
   "coverage": [
     "ML"
@@ -16,30 +16,29 @@
   ],
   "sector": [],
   "code": "ML-CCIM",
-  "confirmed": false,
+  "confirmed": true,
   "deprecated": false,
-  "listType": "secondary",
+  "listType": "primary",
   "access": {
     "availableOnline": false,
-    "onlineAccessDetails": null,
+    "onlineAccessDetails": "",
     "publicDatabase": "",
-    "guidanceOnLocatingIds": "",
+    "guidanceOnLocatingIds": "Ask organisations for their registration number as issued by the Chamber of Commerce and Industry of Mali.",
     "exampleIdentifiers": "",
     "languages": [
-      "fr"
+      ""
     ]
   },
   "data": {
-    "availability": [
-      "data_not_available"
-    ],
+    "availability": [],
     "dataAccessDetails": "",
     "features": [],
+    "licenseStatus": "no_license",
     "licenseDetails": ""
   },
   "meta": {
-    "source": "Desk research",
-    "lastUpdated": "2017-06-05"
+    "source": "IATI",
+    "lastUpdated": "2017-08-05"
   },
   "links": {
     "opencorporates": "",
