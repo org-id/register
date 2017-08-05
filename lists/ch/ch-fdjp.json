@@ -1,0 +1,59 @@
+{
+  "name": {
+    "en": "Commercial Registry, Federal Office of Justice (Switzerland)",
+    "local": ""
+  },
+  "url": "https://www.zefix.ch/de/search/entity/welcome",
+  "description": {
+    "en": "The Swiss Commercial Register is administered by the cantons under the supervision of the Swiss Confederation. All the commercial register entries made by the cantonal register offices are published in the Swiss Official Gazette of Commerce (SOGC) after having been checked and approved by the Federal Commercial Registry Office.\n\nSince January 2011, all companies, foreign branches and associations / foundations registered in the various Swiss Commerce Registries are assigned a unique federal Company Identification Number, locally known as IDE (French), UID (German), IDI (Italian). \n\nPreviously, identifiers were of the format CH-RRR.X.XXX.XXX-P, where RRR is the canton number, X.XXX.XXX is the company number, and P is a check-digit. Some older or inactive companies may still have identifiers of this form. \n\n[1]: https://opencorporates.com/registers/250\n"
+  },
+  "coverage": [
+    "CH"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "CH-FDJP",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "A unified search of commercial registries from each canton is available at https://www.zefix.ch/",
+    "publicDatabase": "https://www.zefix.ch/",
+    "guidanceOnLocatingIds": "New and active companies should have a UID assigned by the Federal Statistics Office. This begins 'CHE' and may be displayed with spaces and punctuation. \n\nAll punctuation should be removed when recording the identifier. This is the preferred identifier to use with the CH-FDJP prefix. \n\nIn some cases, it may not be available, and the commercial register number found in the CHID field and starting 'CH', or the \"EHRA ID\" (English: Federal Commercial Registry Office Identifier or \"FCRO ID\") may be used.\n\nNote that Open Corporates uses the EHRA ID, but displays the UID when this is available. \n",
+    "exampleIdentifiers": "CHE250363279, CHE106009709, CHE104867501",
+    "languages": [
+      "de",
+      "fr",
+      "en",
+      "it"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "Data can only be accessed through the search interface. No bulk data is available. ",
+    "features": [
+      "registered_address",
+      "tax_id_number",
+      "status"
+    ],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "IATI and ProZorro",
+    "lastUpdated": "2017-08-05"
+  },
+  "links": {
+    "opencorporates": "https://opencorporates.com/companies/ch/",
+    "wikipedia": ""
+  },
+  "formerPrefixes": [
+    "CH-ZEFIX"
+  ]
+}
