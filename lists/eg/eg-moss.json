@@ -1,0 +1,56 @@
+{
+  "name": {
+    "en": "Ministry of Social Solidarity and Justice (Egypt)",
+    "local": ""
+  },
+  "url": "http://www.moss.gov.eg/",
+  "description": {
+    "en": "The Ministry of Social Solidarity and Justice is the main registration body for associations and foundations in Egypt."
+  },
+  "coverage": [
+    "EG"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity"
+  ],
+  "sector": [],
+  "code": "EG-MOSS",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": "The NGO Portal provides a list of associations, along with registration dates and registration numbers. ",
+    "publicDatabase": "http://196.204.6.120/",
+    "guidanceOnLocatingIds": "Either ask an organisation for their registration number, or use the directory on the NGO portal. The list of organisations can be filtered using a geographic filter. ",
+    "exampleIdentifiers": "27-20, 1-10135, 1-10120",
+    "languages": [
+      "ar"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [
+      "directors_trustees_governors",
+      "industry_classifications",
+      "date_of_registration",
+      "registration_number",
+      "status"
+    ],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "IATI",
+    "lastUpdated": "2017-08-05"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
