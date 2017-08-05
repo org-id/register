@@ -1,0 +1,50 @@
+{
+  "name": {
+    "en": "Companies and Intellectual Property Authority (Botswana)",
+    "local": ""
+  },
+  "url": "http://www.cipa.co.bw/",
+  "description": {
+    "en": "The Companies and Intellectual Property Authority (CIPA) is the official register of businesses in Botwana under the Companies Act (CAP 42:01), which provides for the incorporation of companies and the Registration of Business Names Act (CAP 42:05), which provides for registration of business names and post registration notices such as change of ownership and cessation of businesses.\n\nBoth domestic and foreign companies may be registered with the Registrar of Companies. \n\n[1]: http://www.cipa.co.bw/\n[2]: http://www.gov.bw/en/Business/Sub-audiences/Small--Medium-Businesses/Company--Business-Name-Registration/"
+  },
+  "coverage": [
+    "BW"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "BW-CIPA",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "A name search is available at http://www.mtinamesearch.gov.bw/search/ but was not working when last tested.",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "Use the search at http://www.mtinamesearch.gov.bw/search/ or ask organizations for their company registration number. ",
+    "exampleIdentifiers": "",
+    "languages": [
+      "en"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "closed_license",
+    "licenseDetails": "Access to the company name search is only possible following a disclaimer. "
+  },
+  "meta": {
+    "source": "IATI",
+    "lastUpdated": "2017-08-05"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
