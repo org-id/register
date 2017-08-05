@@ -1,44 +1,42 @@
 {
-    "links": {
-        "wikipedia": null,
-        "opencorporates": null
-    },
-    "sector": null,
-    "url": "http://www.companieshouse.gov.uk/links/usaLink.shtml",
-    "name": {
-        "en": "Corporation registration is the responsibility of each state (see link)",
-        "local": ""
-    },
-    "coverage": [
-        "US"
-    ],
-    "code": "US-DOS",
-    "formerPrefixes": null,
-    "confirmed": null,
-    "data": {
-        "features": null,
-        "dataAccessDetails": null,
-        "licenseDetails": null,
-        "licenseStatus": null,
-        "availability": null
-    },
-    "deprecated": null,
-    "structure": null,
-    "description": {
-        "en": null
-    },
-    "meta": {
-        "lastUpdated": null,
-        "source": null
-    },
-    "access": {
-        "languages": null,
-        "exampleIdentifiers": null,
-        "onlineAccessDetails": null,
-        "publicDatabase": null,
-        "availableOnline": false,
-        "guidanceOnLocatingIds": null
-    },
-    "subnationalCoverage": null,
-    "listType": null
+  "name": {
+    "en": "Corporation registration is the responsibility of each state (see link)",
+    "local": ""
+  },
+  "url": "http://www.companieshouse.gov.uk/links/usaLink.shtml",
+  "description": {
+    "en": "This code was present in the IATI Organization Registration Agency codelist. It should no longer be used. "
+  },
+  "coverage": [
+    "US"
+  ],
+  "subnationalCoverage": [],
+  "structure": [],
+  "sector": [],
+  "code": "US-DOS",
+  "confirmed": true,
+  "deprecated": true,
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": null,
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "",
+    "languages": []
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "",
+    "lastUpdated": ""
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
 }
