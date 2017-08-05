@@ -1,0 +1,51 @@
+{
+  "name": {
+    "en": "Legal, Financial and Administrative Services Agency (Sweden)",
+    "local": "Kammarkollegiet"
+  },
+  "url": "https://www.kammarkollegiet.se/",
+  "description": {
+    "en": "A Swedish administrative authority under the Ministry of Finance, which is responsible for the registration of religious communities and organisational units of religious communities. "
+  },
+  "coverage": [
+    "SE"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity",
+    "unincorporated_body"
+  ],
+  "sector": [],
+  "code": "SE-KK",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": "",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "Ask an organisation for it's registration number as issued by Kammarkollegiet. ",
+    "exampleIdentifiers": "",
+    "languages": [
+      "se"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "IATI",
+    "lastUpdated": "2017-08-05"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
