@@ -1,0 +1,50 @@
+{
+  "name": {
+    "en": "Economic Operators Identification and Registration system",
+    "local": ""
+  },
+  "url": "http://ec.europa.eu/taxation_customs/dds2/eos/eori_validation.jsp",
+  "description": {
+    "en": "This site allows to validate EORI numbers and provides access to the information related to Authorised Economic Operators (AEO). An EORI number is unique throughout the EU, assigned by a customs authority in a member state to economic operators (businesses) or persons. "
+  },
+  "coverage": [
+    "XI"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company",
+    "charity"
+  ],
+  "sector": [],
+  "code": "XI-EORI",
+  "confirmed": true,
+  "deprecated": false,
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": null,
+    "publicDatabase": "http://ec.europa.eu/taxation_customs/business/calculation-customs-duties/rules-origin/general-aspects-preferential-origin/arrangements-list/generalised-system-preferences/the_register_exporter_system_en",
+    "guidanceOnLocatingIds": "An EORI number must start with two uppercase letters (the ISO code of the country that granted the number) followed by maximum 15 alphanumeric characters",
+    "exampleIdentifiers": "NL810656371",
+    "languages": []
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "",
+    "lastUpdated": "2017-07-18"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": [],
+  "registerType": "",
+  "listType": "secondary"
+}
