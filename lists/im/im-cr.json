@@ -1,46 +1,53 @@
 {
-    "links": {
-        "wikipedia": null,
-        "opencorporates": null
-    },
-    "sector": null,
-    "url": "http://portal.gov.im/pvi/",
-    "name": {
-        "en": "Isle of Man Companies Registry",
-        "local": ""
-    },
-    "coverage": [
-        "IM"
+  "name": {
+    "en": "Isle of Man Companies Registry",
+    "local": ""
+  },
+  "url": "https://www.gov.im/categories/business-and-industries/companies-registry",
+  "description": {
+    "en": "The Isle of Man Companies Registry provides registration for domestic and foreign companies registered or operating on the Isle of Man. "
+  },
+  "coverage": [
+    "IM"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "IM-CR",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": null,
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "005095V, 014872C, 087750C, 023628B",
+    "languages": [
+      ""
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
     ],
-    "code": "IM-CR",
-    "formerPrefixes": null,
-    "confirmed": null,
-    "data": {
-        "features": null,
-        "dataAccessDetails": null,
-        "licenseDetails": null,
-        "licenseStatus": "closed_license",
-        "availability": null
-    },
-    "deprecated": null,
-    "structure": [
-        "company"
+    "dataAccessDetails": "Data is accessible via OpenCorporates, but not from the registry itself as bulk data. ",
+    "features": [
+      "registered_address",
+      "status"
     ],
-    "description": {
-        "en": "This entry was imported from the Open Corporates Jurisdiction List."
-    },
-    "meta": {
-        "lastUpdated": "2016-09-07",
-        "source": null
-    },
-    "access": {
-        "languages": null,
-        "exampleIdentifiers": null,
-        "onlineAccessDetails": null,
-        "publicDatabase": null,
-        "availableOnline": false,
-        "guidanceOnLocatingIds": null
-    },
-    "subnationalCoverage": null,
-    "listType": null
+    "licenseStatus": "open_license",
+    "licenseDetails": "OGL All content is available under the Open Government Licence, except where otherwise stated"
+  },
+  "meta": {
+    "source": "IATI / Open Corporates",
+    "lastUpdated": "2017-08-05"
+  },
+  "links": {
+    "opencorporates": "https://opencorporates.com/companies/im",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
 }
