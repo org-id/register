@@ -1,53 +1,55 @@
 {
-    "links": {
-        "wikipedia": null,
-        "opencorporates": null
-    },
-    "sector": null,
-    "url": "http://www.charity-commission.gov.uk/",
-    "name": {
-        "en": "Charity Commission",
-        "local": ""
-    },
-    "coverage": [
-        "GB"
+  "name": {
+    "en": "Charity Commission",
+    "local": ""
+  },
+  "url": "http://www.charity-commission.gov.uk/",
+  "description": {
+    "en": "There are four main types of charity structure in the UK: \n\n(1) Charitable incorporated organisation (CIO) \n(2) charitable company (limited by guarantee) \n(3) unincorporated association \n(4) trust\n\n\n"
+  },
+  "coverage": [
+    "GB"
+  ],
+  "subnationalCoverage": [
+    "GB-WLS",
+    "GB-ENG"
+  ],
+  "structure": [
+    "charity"
+  ],
+  "sector": [],
+  "code": "GB-CHC",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "",
+    "publicDatabase": "https://www.gov.uk/government/organisations/charity-commission",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "279417, 1090095,  1173575",
+    "languages": [
+      "en"
+    ]
+  },
+  "data": {
+    "availability": [
+      "bulk"
     ],
-    "code": "GB-CHC",
-    "formerPrefixes": null,
-    "confirmed": true,
-    "data": {
-        "features": [
-            "registered_address"
-        ],
-        "dataAccessDetails": "Bulk download available at http://data.charitycommission.gov.uk/",
-        "licenseDetails": "Open Government Licence v2.0",
-        "licenseStatus": "open_license",
-        "availability": [
-            "bulk_download"
-        ]
-    },
-    "deprecated": null,
-    "structure": [
-        "charity"
+    "dataAccessDetails": "Bulk download available at http://data.charitycommission.gov.uk/",
+    "features": [
+      "registered_address"
     ],
-    "description": {
-        "en": "There are four main types of charity structure in the UK: \n\n(1) Charitable incorporated organisation (CIO) \n(2) charitable company (limited by guarantee) \n(3) unincorporated association \n(4) trust\n\n\n"
-    },
-    "meta": {
-        "lastUpdated": "2016-09-17",
-        "source": null
-    },
-    "access": {
-        "languages": null,
-        "exampleIdentifiers": null,
-        "onlineAccessDetails": "Online search is available at https://www.gov.uk/government/organisations/charity-commission",
-        "publicDatabase": null,
-        "availableOnline": false,
-        "guidanceOnLocatingIds": null
-    },
-    "subnationalCoverage": [
-        "GB-WLS",
-        "GB-ENG"
-    ],
-    "listType": "primary"
+    "licenseStatus": "open_license",
+    "licenseDetails": "Open Government Licence v2.0"
+  },
+  "meta": {
+    "source": "",
+    "lastUpdated": "2016-09-17"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
 }
