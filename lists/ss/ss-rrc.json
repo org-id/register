@@ -1,0 +1,50 @@
+{
+  "name": {
+    "en": "South Sudan Relief and Rehabilitation Commission",
+    "local": ""
+  },
+  "url": "",
+  "description": {
+    "en": "The South Sudan Relief and Rehabilitation Commission (SSRRC) is an agency of the Government of South Sudan. It is the operational arm of the Ministry of Humanitarian Affairs and Disaster Management. The NGO Act 2016 added additional powers to the agency to register any NGO interested in operating in South Sudan. "
+  },
+  "coverage": [
+    "SS"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity"
+  ],
+  "sector": [],
+  "code": "SS-RRC",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": "",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "Ask organisations registered with the South Sudan Relief and Rehabilitation Commission for their registration number. ",
+    "exampleIdentifiers": "",
+    "languages": [
+      ""
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "IATI",
+    "lastUpdated": "2017-08-05"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": "https://en.wikipedia.org/wiki/South_Sudan_Relief_and_Rehabilitation_Commission"
+  },
+  "formerPrefixes": []
+}
