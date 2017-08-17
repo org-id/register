@@ -56,11 +56,15 @@
         "languages": [
           "en"
         ],
-        "exampleIdentifiers": null,
+        "exampleIdentifiers": [
+          "100019",
+          "100048",
+          "100050"
+        ],
         "onlineAccessDetails": "Visit http://www.charitycommissionni.org.uk/charity-search/, select relevant filters and download the csv. The data is updated daily.",
         "publicDatabase": "http://www.charitycommissionni.org.uk/charity-search/",
         "availableOnline": true,
-        "guidanceOnLocatingIds": null
+        "guidanceOnLocatingIds": "Use the 'Reg charity number' field, as this is a unique registration identifier to each organisation. Though 'Sub charity number' is intended for those that are subsidiaries, in reality this is not used."
     },
     "subnationalCoverage": [
         "GB-NIR"
