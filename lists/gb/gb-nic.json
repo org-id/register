@@ -3,11 +3,7 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Charity_Commission_for_Northern_Ireland",
         "opencorporates": null
     },
-    "sector": [
-        "education",
-        "humantiarian_relief",
-        "research"
-    ],
+    "sector": null,
     "url": "http://www.charitycommissionni.org.uk/charity-search/",
     "name": {
         "en": "The Charity Commission for Northern Ireland",
