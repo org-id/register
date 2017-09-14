@@ -17,7 +17,7 @@
   ],
   "sector": [],
   "code": "IT-RI",
-  "confirmed": true,
+  "confirmed": false,
   "deprecated": false,
   "listType": "primary",
   "access": {
