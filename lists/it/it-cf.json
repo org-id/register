@@ -27,7 +27,8 @@
     "guidanceOnLocatingIds": "The identifier to use along with the IT-CF code is reported as the 'Codice Fiscale' ('CF') and often as the 'Partitia IVA' ('P.IVA'). Some organisations will publish this number on their websites. ",
     "exampleIdentifiers": "80078410588, 91016940925",
     "languages": [
-      "it, en"
+      "it",
+      "en"
     ]
   },
   "data": {
@@ -47,5 +48,5 @@
     "opencorporates": "",
     "wikipedia": "https://it.wikipedia.org/wiki/Codice_fiscale"
   },
-  "formerPrefixes": []
+  "formerPrefixes": ["IT-RI"]
 }

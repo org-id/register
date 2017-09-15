@@ -5,7 +5,7 @@
   },
   "url": "http://www.registroimprese.it/",
   "description": {
-    "en": "Companies (and some other entities) in Italy must register with the Business Register of the Chambers of Commerce. \n\nThey are assigned a Codice Fiscale (CF) or Tax Code. \n\nEntities may also be assigned an Economic and Administrative Directory (REA) identifier. "
+    "en": "Companies (and some other entities) in Italy must register with the Business Register of the Chambers of Commerce. \n\nThey are assigned a Codice Fiscale (CF) or Tax Code. \n\nEntities may also be assigned an Economic and Administrative Directory (REA) identifier. \n\n*Please note that this list has been deprecated in favour of IT-CF*"
   },
   "coverage": [
     "IT"
@@ -27,7 +27,8 @@
     "guidanceOnLocatingIds": "The identifier to use along with the IT-RI code is reported as the 'Codice Fiscale' or 'CF'.  Some organisations will publish this number on their websites. ",
     "exampleIdentifiers": "80078410588",
     "languages": [
-      "it, en"
+      "it",
+      "en"
     ]
   },
   "data": {
