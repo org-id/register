@@ -1,0 +1,52 @@
+{
+  "name": {
+    "en": "Italian Tax Code / VAT Number",
+    "local": "Codice Fiscale (CF) / Partitia IVA (P.IVA)"
+  },
+  "url": "http://www.registroimprese.it/",
+  "description": {
+    "en": "Companies (and some other entities) in Italy must register with the Business Register of the Chambers of Commerce. \n\nThey are assigned a Codice Fiscale (CF) or Tax Code which also acts as their Partitia IVA (P.IVA) or VAT Number. \n\nEntities may also be assigned an Economic and Administrative Directory (REA) identifier."
+  },
+  "coverage": [
+    "IT"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity",
+    "company"
+  ],
+  "sector": [],
+  "code": "IT-CF",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "An online search allows the existence of a company to be confirmed. To access identifiers requires registration, and the payment of a small fee to conduct a search that will return identifiers. \n\nThe Italian Agency for Development Cooperation (Agenzia Italiana per la Cooperazione allo Sviluppo or 'AICS') maintain a list of civil society organisations ('Elenco CSO') registered with them. This includes those organsiations' names and CF/P.IVA as well as other information (address, website) which can be found here http://www.aics.gov.it/?page_id=7286. ",
+    "publicDatabase": "http://www.registroimprese.it/",
+    "guidanceOnLocatingIds": "The identifier to use along with the IT-CF code is reported as the 'Codice Fiscale' ('CF') and often as the 'Partitia IVA' ('P.IVA'). Some organisations will publish this number on their websites. Check the Business Register or, for NGOs, the AICS register http://www.aics.gov.it/?page_id=7286",
+    "exampleIdentifiers": "80078410588, 91016940925",
+    "languages": [
+      "it",
+      "en"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "closed_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Desk research",
+    "lastUpdated": "2017-09-15"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": "https://it.wikipedia.org/wiki/Codice_fiscale"
+  },
+  "formerPrefixes": ["IT-RI"]
+}
