@@ -5,7 +5,7 @@
   },
   "url": "https://local-authority-eng.register.gov.uk/records",
   "description": {
-    "en": "The Local Authorities for England Register has been developed with the UK Department for Communities and Local Government (DCLG), and contains identifiers for 350+ local authorities. \n\nIt uses the second portion of '[ISO_3166-2](https://en.wikipedia.org/wiki/ISO_3166-2:GB)' codes where these are available, and creates new codes where they are not. "
+    "en": "The Local Authorities for England Register has been developed with the UK Department for Communities and Local Government (DCLG), and contains identifiers for 350+ local authorities. It also includes the 'local authority type' (e.g. Unitary Authority, London Borough) for each.\n\nIt uses the second portion of '[ISO_3166-2](https://en.wikipedia.org/wiki/ISO_3166-2:GB)' codes where these are available, and creates new codes where they are not. "
   },
   "coverage": [
     "GB"
@@ -50,8 +50,8 @@
     "licenseDetails": "Open Government Licence v3.0"
   },
   "meta": {
-    "source": "https://github.com/OpenDataServices/org-ids/issues/67",
-    "lastUpdated": "2017-04-06"
+    "source": "https://github.com/OpenDataServices/org-ids/issues/64",
+    "lastUpdated": "2017-10-03"
   },
   "links": {
     "opencorporates": "",
