@@ -3,9 +3,9 @@
     "en": "Local Authorities for England Register",
     "local": ""
   },
-  "url": "https://local-authority-eng.register.gov.uk/records",
+  "url": "https://local-authority-eng.register.gov.uk/records?page-index=1&page-size=5000",
   "description": {
-    "en": "The Local Authorities for England Register has been developed with the UK Department for Communities and Local Government (DCLG), and contains identifiers for 350+ local authorities. It also includes the 'local authority type' (e.g. Unitary Authority, London Borough) for each.\n\nIt uses the second portion of '[ISO_3166-2](https://en.wikipedia.org/wiki/ISO_3166-2:GB)' codes where these are available, and creates new codes where they are not. "
+    "en": "The Local Authorities for England Register has been developed with the UK Department for Communities and Local Government (DCLG), and contains identifiers for 350+ local authorities. It also includes the 'local authority type' (e.g. Unitary Authority, London Borough) for each.\n\nIt uses the second portion of [ISO_3166-2](https://en.wikipedia.org/wiki/ISO_3166-2:GB) codes where these are available, and creates new codes where they are not. For more information on GOV.UK Registers, visit https://registers.cloudapps.digital/"
   },
   "coverage": [
     "GB"
@@ -40,9 +40,10 @@
       "json",
       "rdf"
     ],
-    "dataAccessDetails": "",
+    "dataAccessDetails": "The list is available in CSV, TSV, JSON, YAML and TTL formats. There is also an open API, for guidance on how to use this visit https://registers-docs.cloudapps.digital/#api-documentation-for-registers",
     "features": [
       "date_of_registration",
+      "registration_number",
       "expiry_date",
       "status"
     ],
@@ -55,7 +56,7 @@
   },
   "links": {
     "opencorporates": "",
-    "wikipedia": ""
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_local_governments_in_the_United_Kingdom"
   },
   "formerPrefixes": []
 }
