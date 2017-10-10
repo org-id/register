@@ -19,7 +19,7 @@
   ],
   "sector": [],
   "code": "XI-PID",
-  "confirmed": false,
+  "confirmed": true,
   "deprecated": false,
   "access": {
     "onlineAccessDetails": "PermID can be accessed via https://permid.org/. Without registration, users can search for organisations. Registration (free) is required to view some more fields (e.g. industry sectors, address), to use the bulk download facility and to use the entity search API.",
@@ -47,5 +47,6 @@
     "opencorporates": "",
     "wikipedia": ""
   },
-  "formerPrefixes": []
+  "formerPrefixes": [],
+  "listType": "third_party"
 }
