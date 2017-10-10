@@ -19,7 +19,7 @@
   ],
   "sector": [],
   "code": "GE-NAPR",
-  "confirmed": false,
+  "confirmed": true,
   "deprecated": false,
   "access": {
     "onlineAccessDetails": "Through this web site you can search for any legal entity (individual entrepreneur, commercial legal entity, nonprofit legal entity, etc.) in Georgia.  You can also obtain their statements and scanned archive documents, as well as information about the legal form of the organization, persons with representative authority, liquidation process and other registered data.",
