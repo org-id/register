@@ -1,0 +1,48 @@
+{
+  "name": {
+    "en": "Register of Entrepreneurial and Non-Entrepreneurial Legal Entities, Georgia",
+    "local": "მეწარმეთა და არასამეწარმეო (არაკომერციულ) იურიდიულ პირთა რეესტრი"
+  },
+  "url": "https://enreg.reestri.gov.ge/main.php?m=new_index",
+  "description": {
+    "en": "The National Agency of Public Registry (NAPR) of Georgia registers all legal entities in Georgia. This includes government and non-government bodies (including the private sector). The Identification Code assigned by NAPR is the same as the VAT number in Georgia. NAPR assigns codes for government bodies in addition to all non-governmental organisations (private and non-profit)."
+  },
+  "coverage": [
+    "GE"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity",
+    "company",
+    "trust",
+    "government_agency"
+  ],
+  "sector": [],
+  "code": "GE-NAPR",
+  "confirmed": false,
+  "deprecated": false,
+  "access": {
+    "onlineAccessDetails": "Through this web site you can search for any legal entity (individual entrepreneur, commercial legal entity, nonprofit legal entity, etc.) in Georgia.  You can also obtain their statements and scanned archive documents, as well as information about the legal form of the organization, persons with representative authority, liquidation process and other registered data.",
+    "publicDatabase": "https://enreg.reestri.gov.ge",
+    "guidanceOnLocatingIds": "Search for a company using it's title (using the Georgian language). This will return a list of matches with an 'identification code' (საიდენტიფიკაციო კოდი).",
+    "exampleIdentifiers": "233105449, 416337084, 202378480",
+    "languages": [
+      "GE"
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "A simple web search. There is no bulk download facility.",
+    "features": [],
+    "licenseDetails": "None"
+  },
+  "meta": {
+    "source": "Github proposal https://github.com/org-id/register/issues/72",
+    "lastUpdated": "2017-10-10"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
