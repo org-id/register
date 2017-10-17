@@ -18,6 +18,7 @@
   "code": "ET-CSA",
   "confirmed": true,
   "deprecated": false,
+  "listType": "primary",
   "access": {
     "onlineAccessDetails": "",
     "publicDatabase": "",
