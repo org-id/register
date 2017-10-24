@@ -1,0 +1,48 @@
+{
+    "access": {
+        "availableOnline": true,
+        "exampleIdentifiers": "LT1 148467",
+        "guidanceOnLocatingIds": "",
+        "languages": [
+            ""
+        ],
+        "onlineAccessDetails": "Not available in free version.",
+        "publicDatabase": ""
+    },
+    "code": "LT-PVM",
+    "confirmed": true,
+    "coverage": [
+        "LT"
+    ],
+    "data": {
+        "availability": [],
+        "dataAccessDetails": "",
+        "features": [],
+        "licenseDetails": "",
+        "licenseStatus": "open_license"
+    },
+    "deprecated": false,
+    "description": {
+        "en": ""
+    },
+    "formerPrefixes": [],
+    "links": {
+        "opencorporates": "",
+        "wikipedia": ""
+    },
+    "listType": "secondary",
+    "meta": {
+        "lastUpdated": "2017-10-24",
+        "source": "ProZorro Business Register Research"
+    },
+    "name": {
+        "en": "VAT number",
+        "local": "Prid\u0117tin\u0117s vert\u0117s mokestis"
+    },
+    "sector": [],
+    "structure": [
+        "company"
+    ],
+    "subnationalCoverage": [],
+    "url": "http://www.registrucentras.lt/jar/index_en.php"
+}
