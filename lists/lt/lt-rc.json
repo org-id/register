@@ -1,0 +1,48 @@
+{
+    "access": {
+        "availableOnline": true,
+        "exampleIdentifiers": "111484678",
+        "guidanceOnLocatingIds": "",
+        "languages": [
+            ""
+        ],
+        "onlineAccessDetails": "There is a public search providing limited information (code, name, registered address, legal form, legal status) free of charge (100 searches/day). Detail data on the registration of legal entities are provided Only to registered users who have concluded service provision agreement. There's English interface.",
+        "publicDatabase": ""
+    },
+    "code": "LT-RC",
+    "confirmed": true,
+    "coverage": [
+        "LT"
+    ],
+    "data": {
+        "availability": [],
+        "dataAccessDetails": "",
+        "features": [],
+        "licenseDetails": "",
+        "licenseStatus": "open_license"
+    },
+    "deprecated": false,
+    "description": {
+        "en": "The Register of Legal Entities registers businesses, institutions and NGOs and collects detailed data about Lithuanian legal entities as well as branches and representative offices of foreign companies and organizations. The Register contains complete information (and historical data) about legal form and status of legal entities, fields of its activity, size and structure of the authorized capital, members of sole and collective management bodies, licenses acquired, etc. It is obligatory for the most of business companies to submit annual financial statements to the Register of Legal Entities since 2004. Starting from March 2010 private limited liability companies are obliged to declare current list of shareholders to the Register. "
+    },
+    "formerPrefixes": [],
+    "links": {
+        "opencorporates": "",
+        "wikipedia": ""
+    },
+    "listType": "primary",
+    "meta": {
+        "lastUpdated": "2017-10-24",
+        "source": "ProZorro Business Register Research"
+    },
+    "name": {
+        "en": "Information Platform of Legal Entities",
+        "local": "Juridini\u0173 asmen\u0173 dalyvi\u0173 informacin\u0117 sistema"
+    },
+    "sector": [],
+    "structure": [
+        "company"
+    ],
+    "subnationalCoverage": [],
+    "url": "http://www.registrucentras.lt/jar/index_en.php"
+}
