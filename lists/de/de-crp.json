@@ -1,0 +1,48 @@
+{
+    "access": {
+        "availableOnline": true,
+        "exampleIdentifiers": "",
+        "guidanceOnLocatingIds": "",
+        "languages": [
+            ""
+        ],
+        "onlineAccessDetails": "Without registration, one may find out about the company's legal name, registered office, and status. Any further information can be obtained upon registration. Retrieving published information is free of charge, any other is subject to a fee. There is English, French, Italian, and Spanish interface.",
+        "publicDatabase": ""
+    },
+    "code": "DE-CRP",
+    "confirmed": true,
+    "coverage": [
+        "DE"
+    ],
+    "data": {
+        "availability": [],
+        "dataAccessDetails": "",
+        "features": [],
+        "licenseDetails": "",
+        "licenseStatus": "open_license"
+    },
+    "deprecated": false,
+    "description": {
+        "en": "Common register portal of the German federal states provides  the registers of companies, cooperatives and partnerships and, to some extent, also of associations registered in all federal states in Germany as well as announcements for the register (publications)."
+    },
+    "formerPrefixes": [],
+    "links": {
+        "opencorporates": "",
+        "wikipedia": ""
+    },
+    "listType": "primary",
+    "meta": {
+        "lastUpdated": "2017-10-24",
+        "source": "ProZorro Business Register Research"
+    },
+    "name": {
+        "en": "Common Register Portal of the German Federal States (CRP)",
+        "local": "Gemeinsames Registerportal der L\u00e4nder"
+    },
+    "sector": [],
+    "structure": [
+        "company"
+    ],
+    "subnationalCoverage": [],
+    "url": "https://www.handelsregister.de/rp_web/welcome.do"
+}
