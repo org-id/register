@@ -1,0 +1,48 @@
+{
+    "access": {
+        "availableOnline": true,
+        "exampleIdentifiers": "510230055",
+        "guidanceOnLocatingIds": "Registration number will be under `\u05de\u05e1\u05e4\u05e8` header.",
+        "languages": [
+            ""
+        ],
+        "onlineAccessDetails": "Companies can be searched by their number or legal name. Information provided includes total debts, status of a lawbreaking society, company status, type of corporation, name (English and Hebrew), and company number. Their is no English interface, search is free of charge.",
+        "publicDatabase": ""
+    },
+    "code": "IL-ROC",
+    "confirmed": true,
+    "coverage": [
+        "IL"
+    ],
+    "data": {
+        "availability": [],
+        "dataAccessDetails": "",
+        "features": [],
+        "licenseDetails": "",
+        "licenseStatus": "open_license"
+    },
+    "deprecated": false,
+    "description": {
+        "en": "The register is maintained by the Israeli Corporations Authority and can be searched using part or all of a company name in English or Hebrew, or by entering the company number. The search interface and the results are in Hebrew. Free information on a company includes type of company, address, legal status and purpose of the company. Additional information such as details of directors, total authorized capital, division of share capital, shareholders, charges and liabilities is priced."
+    },
+    "formerPrefixes": [],
+    "links": {
+        "opencorporates": "",
+        "wikipedia": ""
+    },
+    "listType": "primary",
+    "meta": {
+        "lastUpdated": "2017-10-24",
+        "source": "ProZorro Business Register Research"
+    },
+    "name": {
+        "en": "The Registrar of Companies (ROC)",
+        "local": "\u05e8\u05e9\u05d5\u05ea \u05ea\u05d0\u05d2\u05d9\u05d3\u05d9\u05dd"
+    },
+    "sector": [],
+    "structure": [
+        "company"
+    ],
+    "subnationalCoverage": [],
+    "url": "http://havarot.justice.gov.il/"
+}
