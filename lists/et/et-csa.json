@@ -1,0 +1,48 @@
+{
+  "name": {
+    "en": "Charities and Societies Agency (Ethiopia)",
+    "local": "የበጎ አድራጎት ድርጅቶችና ማህበራት ኤጀንሲ"
+  },
+  "url": "http://www.chsa.gov.et/",
+  "description": {
+    "en": "Most Charities and Societies which operate in Ethiopia are required to register with the Charities and Societies Agency, an institution of the Federal Government, which issues certificates of legal personality to those registered."
+  },
+  "coverage": [
+    "ET"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity"
+  ],
+  "sector": [],
+  "code": "ET-CSA",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "onlineAccessDetails": "",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "",
+    "languages": [
+      "EN"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "original research",
+    "lastUpdated": "2017-10-17T10:00:00Z"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
