@@ -1,0 +1,48 @@
+{
+    "access": {
+        "availableOnline": true,
+        "exampleIdentifiers": "",
+        "guidanceOnLocatingIds": "",
+        "languages": [
+            ""
+        ],
+        "onlineAccessDetails": "Upon registration and payment of 45 lei, company details can be obtained.",
+        "publicDatabase": ""
+    },
+    "code": "RO-CUI",
+    "confirmed": true,
+    "coverage": [
+        "RO"
+    ],
+    "data": {
+        "availability": [],
+        "dataAccessDetails": "",
+        "features": [],
+        "licenseDetails": "",
+        "licenseStatus": "open_license"
+    },
+    "deprecated": false,
+    "description": {
+        "en": "General information for persons interested in carrying out certain regulated activities, as applicable (businesses, natural persons, legal persons, public institutions and authorities, etc.) "
+    },
+    "formerPrefixes": [],
+    "links": {
+        "opencorporates": "",
+        "wikipedia": ""
+    },
+    "listType": "primary",
+    "meta": {
+        "lastUpdated": "2017-10-24",
+        "source": "ProZorro Business Register Research"
+    },
+    "name": {
+        "en": "National Trade Register Office",
+        "local": "Oficiul Na\u021bional al Registrului Comer\u021bului"
+    },
+    "sector": [],
+    "structure": [
+        "company"
+    ],
+    "subnationalCoverage": [],
+    "url": "http://www.onrc.ro/index.php/ro/\n"
+}
