@@ -1,0 +1,48 @@
+{
+    "access": {
+        "availableOnline": true,
+        "exampleIdentifiers": "1207199510092",
+        "guidanceOnLocatingIds": "Tax number is under `\u0418\u041d\u041d` header.",
+        "languages": [
+            ""
+        ],
+        "onlineAccessDetails": "Company can be searched by its name (`\u043d\u0430\u0438\u043c\u0435\u043d\u043e\u0432\u0430\u043d\u0438\u0435`), registration number (`\u0420\u0435\u0433. \u2116`), tax number (`\u0418\u041d\u041d`), OKPO code (assigned to each legal entity for statistics purposes), company status, registration date etc.  Search is free-of-charge, no English interface",
+        "publicDatabase": ""
+    },
+    "code": "KG-INN",
+    "confirmed": true,
+    "coverage": [
+        "KG"
+    ],
+    "data": {
+        "availability": [],
+        "dataAccessDetails": "",
+        "features": [],
+        "licenseDetails": "",
+        "licenseStatus": "open_license"
+    },
+    "deprecated": false,
+    "description": {
+        "en": "The Ministry of Justice of the Republic of Kyrgyz maintains the register of legal entities."
+    },
+    "formerPrefixes": [],
+    "links": {
+        "opencorporates": "",
+        "wikipedia": ""
+    },
+    "listType": "secondary",
+    "meta": {
+        "lastUpdated": "2017-10-24",
+        "source": "ProZorro Business Register Research"
+    },
+    "name": {
+        "en": "TAX ID",
+        "local": "\u0416\u0435\u043a\u0435 \u0441\u04d9\u0439\u043a\u0435\u0441\u0442\u0435\u043d\u0434\u0456\u0440\u0443 \u043d\u043e\u043c\u0435\u0440\u0456"
+    },
+    "sector": [],
+    "structure": [
+        "company"
+    ],
+    "subnationalCoverage": [],
+    "url": "http://register.minjust.gov.kg/register/SearchAction.seam?logic=and&cid=205"
+}
