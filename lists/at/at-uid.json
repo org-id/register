@@ -1,0 +1,48 @@
+{
+    "access": {
+        "availableOnline": true,
+        "exampleIdentifiers": "U12345678",
+        "guidanceOnLocatingIds": "",
+        "languages": [
+            ""
+        ],
+        "onlineAccessDetails": "",
+        "publicDatabase": ""
+    },
+    "code": "AT-UID",
+    "confirmed": true,
+    "coverage": [
+        "AT"
+    ],
+    "data": {
+        "availability": [],
+        "dataAccessDetails": "",
+        "features": [],
+        "licenseDetails": "",
+        "licenseStatus": "open_license"
+    },
+    "deprecated": false,
+    "description": {
+        "en": ""
+    },
+    "formerPrefixes": [],
+    "links": {
+        "opencorporates": "",
+        "wikipedia": ""
+    },
+    "listType": "secondary",
+    "meta": {
+        "lastUpdated": "2017-10-24",
+        "source": "ProZorro Business Register Research"
+    },
+    "name": {
+        "en": "VAT number",
+        "local": "Umsatzsteuer-Identifikationsnummer"
+    },
+    "sector": [],
+    "structure": [
+        "company"
+    ],
+    "subnationalCoverage": [],
+    "url": "https://www.justiz.gv.at/web2013/html/default/2c9484852308c2a601240b693e1c0860.de.html\n"
+}
