@@ -1,0 +1,48 @@
+{
+    "access": {
+        "availableOnline": true,
+        "exampleIdentifiers": "",
+        "guidanceOnLocatingIds": "",
+        "languages": [
+            ""
+        ],
+        "onlineAccessDetails": "",
+        "publicDatabase": ""
+    },
+    "code": "AT-FN",
+    "confirmed": true,
+    "coverage": [
+        "AT"
+    ],
+    "data": {
+        "availability": [],
+        "dataAccessDetails": "",
+        "features": [],
+        "licenseDetails": "",
+        "licenseStatus": "open_license"
+    },
+    "deprecated": false,
+    "description": {
+        "en": "Available only in German. Access can be obtained by using services of special companies like http://www.advokat.at/Advokat-Online/Module/Firmenbuch.aspx that are entitled to provide it (for full list see https://www.justiz.gv.at/web2013/html/default/2c9484852308c2a601240b693e1c0860.de.html)"
+    },
+    "formerPrefixes": [],
+    "links": {
+        "opencorporates": "",
+        "wikipedia": ""
+    },
+    "listType": "primary",
+    "meta": {
+        "lastUpdated": "2017-10-24",
+        "source": "ProZorro Business Register Research"
+    },
+    "name": {
+        "en": "Company register",
+        "local": "Firmenbuch"
+    },
+    "sector": [],
+    "structure": [
+        "company"
+    ],
+    "subnationalCoverage": [],
+    "url": "https://www.justiz.gv.at/web2013/html/default/2c9484852308c2a601240b693e1c0860.de.html\n"
+}
