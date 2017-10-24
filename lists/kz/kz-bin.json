@@ -1,0 +1,48 @@
+{
+    "access": {
+        "availableOnline": true,
+        "exampleIdentifiers": "",
+        "guidanceOnLocatingIds": "",
+        "languages": [
+            ""
+        ],
+        "onlineAccessDetails": "",
+        "publicDatabase": ""
+    },
+    "code": "KZ-BIN",
+    "confirmed": true,
+    "coverage": [
+        "KZ"
+    ],
+    "data": {
+        "availability": [],
+        "dataAccessDetails": "",
+        "features": [],
+        "licenseDetails": "",
+        "licenseStatus": "open_license"
+    },
+    "deprecated": false,
+    "description": {
+        "en": "A unique code every legal entity or an individual enterpreneur must obtain."
+    },
+    "formerPrefixes": [],
+    "links": {
+        "opencorporates": "",
+        "wikipedia": ""
+    },
+    "listType": "primary",
+    "meta": {
+        "lastUpdated": "2017-10-24",
+        "source": "ProZorro Business Register Research"
+    },
+    "name": {
+        "en": "Business Identification Number (BIN)",
+        "local": "\u0411\u0438\u0437\u043d\u0435\u0441 \u0441\u04d9\u0439\u043a\u0435\u0441\u0442\u0435\u043d\u0434\u0456\u0440\u0443 \u043d\u043e\u043c\u0435\u0440\u0456 (\u0411\u0418\u041d)"
+    },
+    "sector": [],
+    "structure": [
+        "company"
+    ],
+    "subnationalCoverage": [],
+    "url": "http://kgd.gov.kz/en/services/taxpayer_search/legal_entity"
+}
