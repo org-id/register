@@ -1,0 +1,48 @@
+{
+    "access": {
+        "availableOnline": true,
+        "exampleIdentifiers": "9900014901",
+        "guidanceOnLocatingIds": "TIN (aka company registration number) is under `V\u00d6EN` header",
+        "languages": [
+            ""
+        ],
+        "onlineAccessDetails": "Company can be searched by TIN or legal name. Information provided: name of commercial organization, TIN, taxpayer's name, organizational-legal form, legal address, charter capital, fiscal year, legal representative, registration date. No English interface.",
+        "publicDatabase": ""
+    },
+    "code": "AZ-IVI",
+    "confirmed": true,
+    "coverage": [
+        "AZ"
+    ],
+    "data": {
+        "availability": [],
+        "dataAccessDetails": "",
+        "features": [],
+        "licenseDetails": "",
+        "licenseStatus": "open_license"
+    },
+    "deprecated": false,
+    "description": {
+        "en": "Available only in Azerbaijani"
+    },
+    "formerPrefixes": [],
+    "links": {
+        "opencorporates": "",
+        "wikipedia": ""
+    },
+    "listType": "primary",
+    "meta": {
+        "lastUpdated": "2017-10-24",
+        "source": "ProZorro Business Register Research"
+    },
+    "name": {
+        "en": "State Register of Commercial Entities (The Ministry of Taxes of Azerbaijan Republic) Internet Tax Administration",
+        "local": "Kommersiya qurumlar\u0131n\u0131n d\u00f6vl\u0259t reyestri. Internet vergi idar\u0259si"
+    },
+    "sector": [],
+    "structure": [
+        "company"
+    ],
+    "subnationalCoverage": [],
+    "url": "https://www.e-taxes.gov.az/ebyn/commersialChecker.jsp"
+}
