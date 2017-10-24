@@ -1,0 +1,48 @@
+{
+    "access": {
+        "availableOnline": true,
+        "exampleIdentifiers": "EE100132742",
+        "guidanceOnLocatingIds": "Tax number can be found in `Info about person liable to value added tax` section",
+        "languages": [
+            ""
+        ],
+        "onlineAccessDetails": "To view company's VAT number, enter its name or registry code. Search results provide company details, and there is a hyperlink on the company's name to click on. There is English interface, search is free of charge. Paid users can get more advanced info.",
+        "publicDatabase": ""
+    },
+    "code": "EE-KMKR",
+    "confirmed": true,
+    "coverage": [
+        "EE"
+    ],
+    "data": {
+        "availability": [],
+        "dataAccessDetails": "",
+        "features": [],
+        "licenseDetails": "",
+        "licenseStatus": "open_license"
+    },
+    "deprecated": false,
+    "description": {
+        "en": "Central Commercial Register is an online service based on the central database of Estonian registration department of the court. The central database includes digital data from the commercial register, the commercial pledge register, the register of state agencies and local government institutions, the register of non-profit associations and foundations. "
+    },
+    "formerPrefixes": [],
+    "links": {
+        "opencorporates": "",
+        "wikipedia": ""
+    },
+    "listType": "secondary",
+    "meta": {
+        "lastUpdated": "2017-10-24",
+        "source": "ProZorro Business Register Research"
+    },
+    "name": {
+        "en": "VAT No.",
+        "local": "K\u00e4ibemaksukohustuslase number"
+    },
+    "sector": [],
+    "structure": [
+        "company"
+    ],
+    "subnationalCoverage": [],
+    "url": "http://www.rik.ee/en/e-business-register"
+}
