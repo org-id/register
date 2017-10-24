@@ -1,0 +1,48 @@
+{
+    "access": {
+        "availableOnline": true,
+        "exampleIdentifiers": "12032",
+        "guidanceOnLocatingIds": "Company registration number can be found under `Reg. Number` header",
+        "languages": [
+            ""
+        ],
+        "onlineAccessDetails": "Company can be searched by its name or registration number. Search results show the company's name, registration number, type, name status, and organisation status. There is English, Greek, and Turkish interface.",
+        "publicDatabase": ""
+    },
+    "code": "CY-DRCOR",
+    "confirmed": true,
+    "coverage": [
+        "CY"
+    ],
+    "data": {
+        "availability": [],
+        "dataAccessDetails": "",
+        "features": [],
+        "licenseDetails": "",
+        "licenseStatus": "open_license"
+    },
+    "deprecated": false,
+    "description": {
+        "en": "Department of Registrar of Companies and Official Receiver maintains the register of companies, partnerships, business names, and overseas companies."
+    },
+    "formerPrefixes": [],
+    "links": {
+        "opencorporates": "",
+        "wikipedia": ""
+    },
+    "listType": "primary",
+    "meta": {
+        "lastUpdated": "2017-10-24",
+        "source": "ProZorro Business Register Research"
+    },
+    "name": {
+        "en": "Cyprus Department of Registrar of Companies and Official Receiver (DRCOR)\n",
+        "local": "\u015eirketler Mukayyidi ve Resmi Sendik Dairesi"
+    },
+    "sector": [],
+    "structure": [
+        "company"
+    ],
+    "subnationalCoverage": [],
+    "url": "https://efiling.drcor.mcit.gov.cy/DrcorPublic/Default.aspx?cultureInfo=en-AU"
+}
