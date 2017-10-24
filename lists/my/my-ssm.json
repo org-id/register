@@ -1,0 +1,48 @@
+{
+    "access": {
+        "availableOnline": true,
+        "exampleIdentifiers": "993856-H",
+        "guidanceOnLocatingIds": "",
+        "languages": [
+            ""
+        ],
+        "onlineAccessDetails": "Company can be searched by legal name and registration number. Search results provide registration number and entity type. Company profile, particular of registered address, certificates of incorporation/registration, particular of directors/officers can be purchased for +15.00 MYR each).",
+        "publicDatabase": ""
+    },
+    "code": "MY-SSM",
+    "confirmed": true,
+    "coverage": [
+        "MY"
+    ],
+    "data": {
+        "availability": [],
+        "dataAccessDetails": "",
+        "features": [],
+        "licenseDetails": "",
+        "licenseStatus": "open_license"
+    },
+    "deprecated": false,
+    "description": {
+        "en": " The Companies Commission of Malaysia (SSM) is a statutory body formed as a result of a merger between the Registrar of Companies (ROC) and the Registrar of Businesses (ROB) in Malaysia which regulates companies and businesses. SSM came into operation on 16 April 2002.\n"
+    },
+    "formerPrefixes": [],
+    "links": {
+        "opencorporates": "",
+        "wikipedia": ""
+    },
+    "listType": "primary",
+    "meta": {
+        "lastUpdated": "2017-10-24",
+        "source": "ProZorro Business Register Research"
+    },
+    "name": {
+        "en": "Companies Commission of Malaysia",
+        "local": "Suruhanjaya Syarikat Malaysia"
+    },
+    "sector": [],
+    "structure": [
+        "company"
+    ],
+    "subnationalCoverage": [],
+    "url": "http://www.ssm.com.my/ms"
+}
