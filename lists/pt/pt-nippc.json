@@ -1,0 +1,48 @@
+{
+    "access": {
+        "availableOnline": true,
+        "exampleIdentifiers": "9 digits; the last digit is the check digit. The first digit depends on what the number refers to (5 are companies.)",
+        "guidanceOnLocatingIds": "",
+        "languages": [
+            ""
+        ],
+        "onlineAccessDetails": "The search is made using the tax identification number of the entity, which is the entity's registration number in the business register as well as its tax number. Paper extracts must be applied for at registry offices but the relevant information may be accessed on the one-stop-shop website for entrepreneurs (Balc\u00e3o do Empreendedor) in the form of an electronic extract on the entity's legal situation, which is constantly updated and available in Portuguese and English. Extracts from the register and of related documents, whether in paper or electronic form, must be paid for.",
+        "publicDatabase": ""
+    },
+    "code": "PT-NIPPC",
+    "confirmed": true,
+    "coverage": [
+        "PT"
+    ],
+    "data": {
+        "availability": [],
+        "dataAccessDetails": "",
+        "features": [],
+        "licenseDetails": "",
+        "licenseStatus": "open_license"
+    },
+    "deprecated": false,
+    "description": {
+        "en": "The business register is governed by the Business Registry Code, adopted by Decree-Law No 403/86 of 3 December 1986, and is the responsibility of the business registry offices throughout the country; these offices are external services of the Institute of Registrars and Notaries (IRN), a public body under aegis of the Ministry of Justice.\n"
+    },
+    "formerPrefixes": [],
+    "links": {
+        "opencorporates": "",
+        "wikipedia": ""
+    },
+    "listType": "primary",
+    "meta": {
+        "lastUpdated": "2017-10-24",
+        "source": "ProZorro Business Register Research"
+    },
+    "name": {
+        "en": "Tax identification number of the entity",
+        "local": "N\u00famero de Identifica\u00e7\u00e3o Coletiva"
+    },
+    "sector": [],
+    "structure": [
+        "company"
+    ],
+    "subnationalCoverage": [],
+    "url": "https://www.portaldocidadao.pt/"
+}
