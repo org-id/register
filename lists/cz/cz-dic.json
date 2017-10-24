@@ -1,0 +1,48 @@
+{
+    "access": {
+        "availableOnline": true,
+        "exampleIdentifiers": "CZ25111299",
+        "guidanceOnLocatingIds": "DI\u010c number will be under `DI\u010c` header",
+        "languages": [
+            ""
+        ],
+        "onlineAccessDetails": "DI\u010c number can be validated by entering it in the `Vyhled\u00e1v\u00e1n\u00ed v registru pl\u00e1tc\u016f DPH` section and then clicking `Vyhledat registraci`. Search results will provide company details",
+        "publicDatabase": ""
+    },
+    "code": "CZ-DIC",
+    "confirmed": true,
+    "coverage": [
+        "CZ"
+    ],
+    "data": {
+        "availability": [],
+        "dataAccessDetails": "",
+        "features": [],
+        "licenseDetails": "",
+        "licenseStatus": "open_license"
+    },
+    "deprecated": false,
+    "description": {
+        "en": "You can search a company by its DI\u010c number."
+    },
+    "formerPrefixes": [],
+    "links": {
+        "opencorporates": "",
+        "wikipedia": ""
+    },
+    "listType": "secondary",
+    "meta": {
+        "lastUpdated": "2017-10-24",
+        "source": "ProZorro Business Register Research"
+    },
+    "name": {
+        "en": "VAT number",
+        "local": "Da\u0148ov\u00e9 identifika\u010dn\u00ed \u010d\u00edslo"
+    },
+    "sector": [],
+    "structure": [
+        "company"
+    ],
+    "subnationalCoverage": [],
+    "url": "http://www.kurzy.cz/dic/"
+}
