@@ -1,0 +1,63 @@
+{
+  "name": {
+    "en": "Registered Social Housing Providers (England)",
+    "local": ""
+  },
+  "url": "https://social-housing-provider-eng.alpha.openregister.org/",
+  "description": {
+    "en": "A statutory register of not-for-profit (housing associations), for-profit private, and local authority social housing providers, who are registered to operate in England. The Homes and Communities Agency (HCA)[1] is the regulator for social housing providers in England and maintains the list.\n\nFields indicate the designation of the social housing provider (e.g. private, non-profit, local authority) and the legal entity type (by their inclusion on the FCA Mutual Register, the Charity Register and Companies House).\n\nA *monthly* published list also appears on the HCA website, which includes new registrations and deregistrations https://www.gov.uk/government/publications/current-registered-providers-of-social-housing\n\n[1]: https://www.gov.uk/government/organisations/homes-and-communities-agency"
+  },
+  "coverage": [
+    "GB"
+  ],
+  "subnationalCoverage": [
+    "GB-ENG"
+  ],
+  "structure": [
+    "charity",
+    "company/mutual",
+    "company/limited_company",
+    "trust",
+    "government_agency/local_government"
+  ],
+  "sector": [],
+  "code": "GB-SHPE",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "The register is updated daily, and is viewable online in HTML format, and as a bulk download in CSV, TSV, Excel, JSON, YAML and TTL formats.\n\nTo find out more about the API see the [technical documentation](https://registers-docs.cloudapps.digital/#api-documentation-for-registers)",
+    "publicDatabase": "https://social-housing-provider-eng.alpha.openregister.org/records",
+    "guidanceOnLocatingIds": "The field 'social-housing-provider-eng' is the Registered Provider code of a social housing provider in England that is used as the identifier.",
+    "exampleIdentifiers": "LH4401, H4244, 4793",
+    "languages": [
+      "EN"
+    ]
+  },
+  "data": {
+    "availability": [
+      "api",
+      "bulk",
+      "csv",
+      "json",
+      "excel"
+    ],
+    "dataAccessDetails": "By visiting https://social-housing-provider-eng.alpha.openregister.org/records users will find all of the different formats and be able to access the register in full.",
+    "features": [
+      "date_of_registration",
+      "registration_number"
+    ],
+    "licenseStatus": "open_license",
+    "licenseDetails": "UK Open Government Licence (OGL) v3.0 https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  },
+  "meta": {
+    "source": "Original reserach (OpenDataServices)",
+    "lastUpdated": ""
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": "https://en.wikipedia.org/wiki/Homes_and_Communities_Agency"
+  },
+  "formerPrefixes": []
+}
