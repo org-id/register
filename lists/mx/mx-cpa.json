@@ -1,0 +1,48 @@
+{
+  "name": {
+    "en": "Budget Classification of Public Entities (Mexico)",
+    "local": "Catálogo Presupuestario de la Administración Pública Federal de México"
+  },
+  "url": "http://www.transparenciapresupuestaria.gob.mx/work/models/PTP/DatosAbiertos/Metadatos/catalogos_presupuestarios.xlsx",
+  "description": {
+    "en": "This list provides Mexico's administrative classification, which includes the following concepts:\n\n* Ramo: a concept that groups all the specific organizations from Mexico's Public Administration.\n* Unidad Responsable: the specific organizations from Mexico's Public Administration\n\nBy combining the Ramo, and Unidad Responsable codes, a unique identifier can be created for government entities. \n\nFor example:\n\n4-121 for Dirección General de Protección Civil"
+  },
+  "coverage": [
+    "MX"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "government_agency"
+  ],
+  "sector": [],
+  "code": "MX-CPA",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "A spreadsheet of the latest values is provided. ",
+    "publicDatabase": "http://www.transparenciapresupuestaria.gob.mx/work/models/PTP/DatosAbiertos/Metadatos/catalogos_presupuestarios.xlsx",
+    "guidanceOnLocatingIds": "From the  Unidad Responsable tab of the spreadsheet, combine the Ramo and Clave de Unidad Responsable values with a dash. ",
+    "exampleIdentifiers": "4-121, 10-156, 16-713",
+    "languages": [
+      "es"
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "https://github.com/org-id/register/issues/81",
+    "lastUpdated": "2011-11-06"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
