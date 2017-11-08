@@ -18,7 +18,7 @@
   "code": "CZ-DIC",
   "confirmed": true,
   "deprecated": false,
-  "listType": "secondary",
+  "listType": "third_party",
   "access": {
     "availableOnline": true,
     "onlineAccessDetails": "DIČ number can be validated by entering it in the `Vyhledávání v registru plátců DPH` section and then clicking `Vyhledat registraci`. Search results will provide company details",
