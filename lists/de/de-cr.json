@@ -15,7 +15,7 @@
     "company"
   ],
   "sector": [],
-  "code": "DE-CRP",
+  "code": "DE-CR",
   "confirmed": true,
   "deprecated": false,
   "listType": "primary",
@@ -38,7 +38,7 @@
   },
   "meta": {
     "source": "ProZorro Business Register Research",
-    "lastUpdated": "2017-10-24"
+    "lastUpdated": "2017-11-08"
   },
   "links": {
     "opencorporates": "",
