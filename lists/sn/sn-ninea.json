@@ -1,0 +1,53 @@
+{
+  "name": {
+    "en": "National Identification Number of Companies and Associations (NINEA), Senegal",
+    "local": "Numéro d'Identification Nationale des Entreprises et des Associations - NINEA (Senegal)"
+  },
+  "url": "http://creationdentreprise.sn/en/finding-business",
+  "description": {
+    "en": "Any organization (company, association, NGO) operating in Senegal must be included in a directory of legal entities ([Source](http://www.impotsetdomaines.gouv.sn/fr/demander-un-ninea)). \n\nRegistration takes place through several agencies, and a Numéro d’Identification National des Entreprises et des Associations (NINEA) (National Identification Number for Companies and Associations) is provided to incorporated bodies.\n\nA directory or lookup of companies and numbers is not available online, however most legal entities will have an NINEA which can be used as an identifier."
+  },
+  "coverage": [
+    "SN"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity",
+    "company",
+    "trust"
+  ],
+  "sector": [],
+  "code": "SN-NINEA",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "A (possible partial) and freely accessible online list is available from the Senegalese Bureau d'appui à la Création d'Entreprise (BCE) http://creationdentreprise.sn/en/finding-business.",
+    "publicDatabase": "http://creationdentreprise.sn/en/finding-business",
+    "guidanceOnLocatingIds": "A NINÉA number can be used in conjunction with the list code prefix to produce a unique identifier.",
+    "exampleIdentifiers": "006478110, 006470108, 006480256",
+    "languages": [
+      "EN",
+      "FR"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Research by Open Data Services.",
+    "lastUpdated": "2017-11-05T17:30:00Z"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
