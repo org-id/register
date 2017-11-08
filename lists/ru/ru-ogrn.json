@@ -1,48 +1,50 @@
 {
-    "access": {
-        "availableOnline": true,
-        "exampleIdentifiers": "1137746072375",
-        "guidanceOnLocatingIds": "",
-        "languages": [
-            ""
-        ],
-        "onlineAccessDetails": "Company information cannot be obtained without prior registration and/or payment (see prices at https://russianpartner.biz/tariffs.html). Example exstract: https://www.egrul.ru/examples/extract.pdf",
-        "publicDatabase": ""
-    },
-    "code": "RU-OGRN",
-    "confirmed": true,
-    "coverage": [
-        "RU"
+  "name": {
+    "en": "Unified State Register of Legal Entities (USRLE), Russian Federation",
+    "local": "Единый государственный реестр юридических лиц (EGRUL)"
+  },
+  "url": "https://www.egrul.ru/",
+  "description": {
+    "en": "\"The USRLE (Uniform State Register of Legal Entities) (also EGRUL) is a federal information resource. The USRLE recording is performed by the registering authorities according to the procedure established by the Government of the Russian Federation.\n\nHere you can get information about any legal entity registered in the territory of the Russian Federation in the form of an information extract from the Unified State Register of Legal Entities. \n\nIn addition, access to foreign state registers of more than 200 countries of the world is open, including to most European countries. \n\nInformation is provided from the Unified State Register of Legal Entities in the form of an electronic document.\""
+  },
+  "coverage": [
+    "RU"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "RU-OGRN",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "To get started, you need to complete the registration procedure, specifying contact details and details (for legal entities). Registration is free. To gain access to the system, you must pay the required number of requests according to the tariffs (see prices at https://russianpartner.biz/tariffs.html).\n\nInformation statements are provided in the form of an electronic document in Word or PDF format (at the user's option), available for download from the User's personal page.\n\nExample extract: https://www.egrul.ru/examples/extract.pdf",
+    "publicDatabase": "https://www.egrul.ru/",
+    "guidanceOnLocatingIds": "Use the Primary State Registration Number (OGRN/ОГРН)",
+    "exampleIdentifiers": "1137746072375",
+    "languages": [
+      "ru",
+      "en"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
     ],
-    "data": {
-        "availability": [],
-        "dataAccessDetails": "",
-        "features": [],
-        "licenseDetails": "",
-        "licenseStatus": "open_license"
-    },
-    "deprecated": false,
-    "description": {
-        "en": ""
-    },
-    "formerPrefixes": [],
-    "links": {
-        "opencorporates": "",
-        "wikipedia": ""
-    },
-    "listType": "primary",
-    "meta": {
-        "lastUpdated": "2017-10-24",
-        "source": "ProZorro Business Register Research"
-    },
-    "name": {
-        "en": "Uniform State Register of Legal Entities of Russian Federation",
-        "local": "\u0415\u0434\u0438\u043d\u044b\u0439 \u0433\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0440\u0435\u0435\u0441\u0442\u0440 \u044e\u0440\u0438\u0434\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043b\u0438\u0446"
-    },
-    "sector": [],
-    "structure": [
-        "company"
-    ],
-    "subnationalCoverage": [],
-    "url": "https://russianpartner.biz/ or https://www.egrul.ru/"
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "ProZorro Business Register Research",
+    "lastUpdated": "2017-11-08"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
 }
