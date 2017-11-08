@@ -22,12 +22,12 @@
         "licenseStatus": "closed_license",
         "availability": null
     },
-    "deprecated": null,
+    "deprecated": true,
     "structure": [
         "company"
     ],
     "description": {
-        "en": "This entry was imported from the Open Corporates Jurisdiction List."
+        "en": "This entry was imported from the Open Corporates Jurisdiction List. ** Please note that it is deprecated, please use IT-CF instead. **"
     },
     "meta": {
         "lastUpdated": "2016-09-07",
