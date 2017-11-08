@@ -1,48 +1,48 @@
 {
-    "access": {
-        "availableOnline": true,
-        "exampleIdentifiers": "LT1 148467",
-        "guidanceOnLocatingIds": "",
-        "languages": [
-            ""
-        ],
-        "onlineAccessDetails": "Not available in free version.",
-        "publicDatabase": ""
-    },
-    "code": "LT-PVM",
-    "confirmed": true,
-    "coverage": [
-        "LT"
-    ],
-    "data": {
-        "availability": [],
-        "dataAccessDetails": "",
-        "features": [],
-        "licenseDetails": "",
-        "licenseStatus": "open_license"
-    },
-    "deprecated": false,
-    "description": {
-        "en": ""
-    },
-    "formerPrefixes": [],
-    "links": {
-        "opencorporates": "",
-        "wikipedia": ""
-    },
-    "listType": "secondary",
-    "meta": {
-        "lastUpdated": "2017-10-24",
-        "source": "ProZorro Business Register Research"
-    },
-    "name": {
-        "en": "VAT number",
-        "local": "Prid\u0117tin\u0117s vert\u0117s mokestis"
-    },
-    "sector": [],
-    "structure": [
-        "company"
-    ],
-    "subnationalCoverage": [],
-    "url": "http://www.registrucentras.lt/jar/index_en.php"
+  "name": {
+    "en": "Lithuania Register of Legal Entities",
+    "local": "Juridinių asmenų registras"
+  },
+  "url": "http://www.registrucentras.lt/jar/index_en.php",
+  "description": {
+    "en": "The Register of Legal Entities registers businesses, institutions and NGOs and collects detailed data about Lithuanian legal entities as well as branches and representative offices of foreign companies and organizations. The Register contains complete information (and historical data) about legal form and status of legal entities, fields of its activity, size and structure of the authorized capital, members of sole and collective management bodies, licenses acquired, etc. It is obligatory for the most of business companies to submit annual financial statements to the Register of Legal Entities since 2004. Starting from March 2010 private limited liability companies are obliged to declare current list of shareholders to the Register. "
+  },
+  "coverage": [
+    "LT"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "LT-PVM",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "Detailed data on the registration of legal entities are provided ONLY TO REGISTERED USERS who have concluded service provision agreement.\nIt is allowed to perform max 100 searches per day.",
+    "exampleIdentifiers": "302416388",
+    "languages": [
+      "lt",
+      "en"
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "ProZorro Business Register Research",
+    "lastUpdated": "2017-10-24"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
 }
