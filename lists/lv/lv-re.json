@@ -22,8 +22,8 @@
   "access": {
     "availableOnline": false,
     "onlineAccessDetails": "Data is available through simple, searchable function on government webpage, on an alternative website (Lursoft) and also as CSV download",
-    "publicDatabase": "http://www.ur.gov.lv/ , http://www.lursoft.lv/?v=en, http://dati.ur.gov.lv/register/",
-    "guidanceOnLocatingIds": "Users can find identifiers by using the search bar which is present near the top of every page on the website. Users must have a name or key word, and select 'Company / Organisation' on the drop-down box to the right of the search bar.\n\nThe identifier will be next to the heading 'Registration number' in the results shown.\n\nUsers can also download a CSV of the entire registry.\n\nUsers can also use the search on the Lursoft website. After opening one of the results, the identifier can be found next to the heading 'Registration number'.",
+    "publicDatabase": "http://www.ur.gov.lv/, http://www.lursoft.lv/?v=en, http://dati.ur.gov.lv/register/",
+    "guidanceOnLocatingIds": "Users can find identifiers by using the search bar which is present near the top of every page on the website [1]. Users must have a name or key word, and select 'Company / Organisation' on the drop-down box to the right of the search bar.\n\nThe identifier will be next to the heading 'Registration number' in the results shown.\n\nUsers can also download a CSV of the entire registry[2].\n\nUsers can also use the search on the Lursoft website[3]. After opening one of the results, the identifier can be found next to the heading 'Registration number'.\n\n[1] http://www.ur.gov.lv/\n[2] http://dati.ur.gov.lv/register/\n[3] http://www.lursoft.lv/?v=en",
     "exampleIdentifiers": "40008124830, 51203041201, 40008124830",
     "languages": [
       "en",
@@ -41,11 +41,11 @@
       "registration_number"
     ],
     "licenseStatus": "open_license",
-    "licenseDetails": "https://opencorporates.com/registers/137 , http://index.okfn.org/place/latvia/companies/"
+    "licenseDetails": "https://opencorporates.com/registers/137, http://index.okfn.org/place/latvia/companies/"
   },
   "meta": {
     "source": "Desk research",
-    "lastUpdated": "2016-11-26"
+    "lastUpdated": "2017-11-08"
   },
   "links": {
     "opencorporates": "http://opencorporates.com/companies/lv",
