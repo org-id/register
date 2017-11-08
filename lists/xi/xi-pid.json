@@ -1,0 +1,52 @@
+{
+  "name": {
+    "en": "PermID: Thompson Reuters Permanent Identifier",
+    "local": ""
+  },
+  "url": "https://permid.org",
+  "description": {
+    "en": "Thomson Reuters Permanent Identifier (PermID) is a machine readable identifier that provides a unique reference for data item. PermID provides comprehensive identification across a wide variety of entity types including organizations, instruments, funds, issuers and people. PermID never changes and is unambiguous, making it ideal as a reference identifier."
+  },
+  "coverage": [
+    "XI"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company",
+    "government_agency",
+    "charity",
+    "trust"
+  ],
+  "sector": [],
+  "code": "XI-PID",
+  "confirmed": true,
+  "deprecated": false,
+  "access": {
+    "onlineAccessDetails": "PermID can be accessed via https://permid.org/. Without registration, users can search for organisations. Registration (free) is required to view some more fields (e.g. industry sectors, address), to use the bulk download facility and to use the entity search API.",
+    "publicDatabase": "https://permid.org",
+    "guidanceOnLocatingIds": "Search for an entity and use the value in the 'PermID' field",
+    "exampleIdentifiers": "4295895031, 5000661835, 5035254535",
+    "languages": [
+      "en"
+    ]
+  },
+  "data": {
+    "availability": [
+      "api",
+      "bulk"
+    ],
+    "dataAccessDetails": "Entity search allows one-off lookups of entity records. Bulk download (requires registration) enables the retrieval of Thomson Reuters’ entity data in .gz files, one per entity. Currently Turtle and Ntriples file formats are supported.",
+    "features": [],
+    "licenseDetails": "Basic data (including the PermID) is licensed under CC-BY 4.0. Extended data (viewable by registered users only) is licensed under CC-NC 4.0. Some further fields are under commercial or third-party licences. Please see https://permid.org/terms for full details of each."
+  },
+  "meta": {
+    "source": "https://github.com/org-id/register/issues/59",
+    "lastUpdated": "2017-10-03"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": [],
+  "listType": "third_party"
+}
