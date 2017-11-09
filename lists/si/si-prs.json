@@ -1,7 +1,7 @@
 {
   "name": {
     "en": "Slovenian Business Register",
-    "local": "Matična številka"
+    "local": "Poslovni register Slovenije"
   },
   "url": "http://www.ajpes.eu/prs/",
   "description": {
@@ -15,7 +15,7 @@
     "company"
   ],
   "sector": [],
-  "code": "SL-PRS",
+  "code": "SI-PRS",
   "confirmed": true,
   "deprecated": false,
   "listType": "primary",
