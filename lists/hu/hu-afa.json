@@ -1,48 +1,47 @@
 {
-    "access": {
-        "availableOnline": true,
-        "exampleIdentifiers": "12345678 (8 characters)",
-        "guidanceOnLocatingIds": "",
-        "languages": [
-            ""
-        ],
-        "onlineAccessDetails": "",
-        "publicDatabase": ""
-    },
-    "code": "HU-AFA",
-    "confirmed": true,
-    "coverage": [
-        "HU"
-    ],
-    "data": {
-        "availability": [],
-        "dataAccessDetails": "",
-        "features": [],
-        "licenseDetails": "",
-        "licenseStatus": "open_license"
-    },
-    "deprecated": false,
-    "description": {
-        "en": "\u00e1ltal\u00e1nos forgalmi ad\u00f3 serves as both tax number and VAT number."
-    },
-    "formerPrefixes": [],
-    "links": {
-        "opencorporates": "",
-        "wikipedia": ""
-    },
-    "listType": "primary",
-    "meta": {
-        "lastUpdated": "2017-10-24",
-        "source": "ProZorro Business Register Research"
-    },
-    "name": {
-        "en": "VAT number",
-        "local": "\u00e1ltal\u00e1nos forgalmi ad\u00f3"
-    },
-    "sector": [],
-    "structure": [
-        "company"
-    ],
-    "subnationalCoverage": [],
-    "url": "http://www.e-cegjegyzek.hu/?cegkereses"
+  "name": {
+    "en": "Information and Electronic Company Registration Service",
+    "local": "Elektronikus Cégeljárásban Közreműködő Szolgálat"
+  },
+  "url": "http://www.e-cegjegyzek.hu/?cegkereses",
+  "description": {
+    "en": "The Ministry of Justice Information and Electronic Company Registration Service website provides free accesss to individual company data online from 1 January 2008. Only available in Hungarian."
+  },
+  "coverage": [
+    "HU"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "HU-AFA",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "Reg, number: 01-03-022165, Tax number: 28592822-2-43",
+    "languages": [
+      "hu"
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "ProZorro Business Register Research",
+    "lastUpdated": "2017-10-24"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
 }
