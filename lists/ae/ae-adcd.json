@@ -1,0 +1,48 @@
+{
+    "access": {
+        "availableOnline": false,
+        "exampleIdentifiers": "TRUE",
+        "guidanceOnLocatingIds": "",
+        "languages": [
+            ""
+        ],
+        "onlineAccessDetails": "",
+        "publicDatabase": ""
+    },
+    "code": "AE-ADCD",
+    "confirmed": true,
+    "coverage": [
+        "AE"
+    ],
+    "data": {
+        "availability": [],
+        "dataAccessDetails": "",
+        "features": [],
+        "licenseDetails": "",
+        "licenseStatus": "open_license"
+    },
+    "deprecated": false,
+    "description": {
+        "en": "Register includes Unified, Mem No, company name, city, telephone, email."
+    },
+    "formerPrefixes": [],
+    "links": {
+        "opencorporates": "",
+        "wikipedia": ""
+    },
+    "listType": "primary",
+    "meta": {
+        "lastUpdated": "2017-11-16",
+        "source": "ProZorro Business Register Research"
+    },
+    "name": {
+        "en": "Abu Dhabi Commercial Directory",
+        "local": "\u062f\u0644\u064a\u0644 \u0623\u0628\u0648\u0638\u0628\u064a \u0627\u0644\u062a\u062c\u0627\u0631\u064a"
+    },
+    "sector": [],
+    "structure": [
+        "company"
+    ],
+    "subnationalCoverage": [],
+    "url": "http://www.abudhabichamber.ae/English/E-Services/Pages/EServices-Page.aspx?sm=1&ty=s"
+}
