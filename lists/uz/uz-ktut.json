@@ -1,0 +1,49 @@
+{
+    "access": {
+        "availableOnline": false,
+        "exampleIdentifiers": "FALSE",
+        "guidanceOnLocatingIds": "There is no free-of-charge search and English interface. There are several means of placing an inquiry (via phone, email, fax etc). An extract from the registry contains entity's legal name,  KTUT number (OKPO, legal entity indentification code), INN number (taxpayer's number), registration details etc. Example extract can be found at http://official2.gov.uz/uploads/RequiredDocs/d9f16dfe1c0daa2b91907b683414fbee.PNG (https://imgur.com/a/huCXW)",
+        "languages": [
+            ""
+        ],
+        "onlineAccessDetails": "2365119",
+        "publicDatabase": ""
+    },
+    "code": "UZ-KTUT",
+    "confirmed": true,
+    "coverage": [
+        "UZ"
+    ],
+    "data": {
+        "availability": [],
+        "dataAccessDetails": "",
+        "features": [],
+        "licenseDetails": "",
+        "licenseStatus": "open_license"
+    },
+    "deprecated": false,
+    "description": {
+        "en": "The State Statistics Committee of the Republic of Uzbekistan maintans the United State Register of corporate entites and organizations (\u041a\u043e\u0440\u0445\u043e\u043d\u0430\u043b\u0430\u0440 \u0432\u0430 \u0442\u0430\u0448\u043a\u0438\u043b\u043e\u0442\u043b\u0430\u0440\u043d\u0438\u043d\u0433 \u044f\u0433\u043e\u043d\u0430 \u0434\u0430\u0432\u043b\u0430\u0442)"
+    },
+    "formerPrefixes": [],
+    "links": {
+        "opencorporates": "",
+        "wikipedia": ""
+    },
+    "listType": "primary",
+    "meta": {
+        "lastUpdated": "2017-11-16",
+        "source": "ProZorro Business Register Research"
+    },
+    "name": {
+        "en": "Legal entity indentification code ",
+        "local": "\u041a\u043e\u0440\u0445\u043e\u043d\u0430, \u0442\u0430\u0448\u043a\u0438\u043b\u043e\u0442\u043d\u0438\u043d\u0433 \u0430\u0441\u043e\u0441\u0438\u0439 \u043a\u043e\u0434\u0438"
+    },
+    "sector": [],
+    "structure": [
+        "company",
+        "organization"
+    ],
+    "subnationalCoverage": [],
+    "url": "https://my.gov.uz/uz/regService/413"
+}
