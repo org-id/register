@@ -1,46 +1,50 @@
 {
-    "links": {
-        "wikipedia": null,
-        "opencorporates": null
-    },
-    "sector": null,
-    "url": "http://www.portaldogoverno.gov.mz/Empresas/Registos/Registo-de-Sociedades",
-    "name": {
-        "en": "Mozambique Commercial Registry",
-        "local": "O registo Comercial de Moçambique"
-    },
-    "coverage": [
-        "MZ"
+  "name": {
+    "en": "Mozambique Commercial Registry",
+    "local": "O registo Comercial de Moçambique"
+  },
+  "url": "http://www.portaldogoverno.gov.mz/Empresas/Registos/Registo-de-Sociedades",
+  "description": {
+    "en": "The purpose of the Commercial Registry is to make known the status of merchant of natural and legal persons, being defined as mandatory for the formation of companies. "
+  },
+  "coverage": [
+    "MZ"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "MZ-CR",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": null,
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "",
+    "languages": [
+      "PT"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
     ],
-    "code": "MZ-CR",
-    "formerPrefixes": null,
-    "confirmed": true,
-    "data": {
-        "features": null,
-        "dataAccessDetails": null,
-        "licenseDetails": null,
-        "licenseStatus": "closed_license",
-        "availability": null
-    },
-    "deprecated": null,
-    "structure": [
-        "company"
-    ],
-    "description": {
-        "en": "The purpose of the Commercial Registry is to make known the status of merchant of natural and legal persons, being defined as mandatory for the formation of companies. "
-    },
-    "meta": {
-        "lastUpdated": "2017-11-16",
-        "source": "Desk research"
-    },
-    "access": {
-        "languages": ["PT"],
-        "exampleIdentifiers": null,
-        "onlineAccessDetails": null,
-        "publicDatabase": null,
-        "availableOnline": false,
-        "guidanceOnLocatingIds": null
-    },
-    "subnationalCoverage": null,
-    "listType": "Primary"
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "closed_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Desk research",
+    "lastUpdated": "2017-11-16"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
 }
