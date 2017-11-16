@@ -1,0 +1,48 @@
+{
+    "access": {
+        "availableOnline": false,
+        "exampleIdentifiers": "FALSE",
+        "guidanceOnLocatingIds": "",
+        "languages": [
+            ""
+        ],
+        "onlineAccessDetails": "",
+        "publicDatabase": ""
+    },
+    "code": "AE-FCCI",
+    "confirmed": true,
+    "coverage": [
+        "AE"
+    ],
+    "data": {
+        "availability": [],
+        "dataAccessDetails": "",
+        "features": [],
+        "licenseDetails": "",
+        "licenseStatus": "open_license"
+    },
+    "deprecated": false,
+    "description": {
+        "en": "Chamber of Commerce and Industry can be contacted via form on the website, phone, fax, email, address."
+    },
+    "formerPrefixes": [],
+    "links": {
+        "opencorporates": "",
+        "wikipedia": ""
+    },
+    "listType": "primary",
+    "meta": {
+        "lastUpdated": "2017-11-16",
+        "source": "ProZorro Business Register Research"
+    },
+    "name": {
+        "en": "Fujairah Chamber of Commerce and Industry",
+        "local": "\u063a\u0631\u0641\u0629 \u062a\u062c\u0627\u0631\u0629 \u0648\u0635\u0646\u0627\u0639\u0629 \u0627\u0644\u0641\u062c\u064a\u0631\u0629"
+    },
+    "sector": [],
+    "structure": [
+        "company"
+    ],
+    "subnationalCoverage": [],
+    "url": "http://www.fujcci.ae/"
+}
