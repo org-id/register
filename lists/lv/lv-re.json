@@ -1,7 +1,7 @@
 {
   "name": {
     "en": "Register of Enterprises of the Republic of Latvia",
-    "local": ""
+    "local": "Latvijas Republikas Uzņēmumu Reģistrs"
   },
   "url": "http://www.ur.gov.lv/",
   "description": {
@@ -20,11 +20,11 @@
   "deprecated": false,
   "listType": "primary",
   "access": {
-    "availableOnline": false,
-    "onlineAccessDetails": "Data is available through simple, searchable function on government webpage, on an alternative website (Lursoft) and also as CSV download",
-    "publicDatabase": "http://www.ur.gov.lv/, http://www.lursoft.lv/?v=en, http://dati.ur.gov.lv/register/",
-    "guidanceOnLocatingIds": "Users can find identifiers by using the search bar which is present near the top of every page on the website [1]. Users must have a name or key word, and select 'Company / Organisation' on the drop-down box to the right of the search bar.\n\nThe identifier will be next to the heading 'Registration number' in the results shown.\n\nUsers can also download a CSV of the entire registry[2].\n\nUsers can also use the search on the Lursoft website[3]. After opening one of the results, the identifier can be found next to the heading 'Registration number'.\n\n[1] http://www.ur.gov.lv/\n[2] http://dati.ur.gov.lv/register/\n[3] http://www.lursoft.lv/?v=en",
-    "exampleIdentifiers": "40008124830, 51203041201, 40008124830",
+    "availableOnline": true,
+    "onlineAccessDetails": "Data is available through simple, searchable function on government webpage, on an alternative website (Lursoft) and also CSV and Excel open data downloads",
+    "publicDatabase": "http://www.ur.gov.lv/",
+    "guidanceOnLocatingIds": "# Users can find identifiers by using the search bar which is present near the top of every page on the website [1]. Users must have a name or key word, and select 'Company / Organisation' on the drop-down box to the right of the search bar. The identifier will be next to the heading 'Registration number' ('Reģistrācijas numurs') in the results shown.\n\n# Users can also download a CSV of the entire registry[2], where the identifier appears under the 'regcode'\n\n# Users can also use the search on the Lursoft website in English[3]. After opening one of the results, the identifier can be found under the heading 'VAT number' and should have the LV prefix removed before use as an org-id format identifier.\n\n[1] http://www.ur.gov.lv/\n[2] http://dati.ur.gov.lv/register/\n[3] http://www.lursoft.lv/?v=en",
+    "exampleIdentifiers": "40008124830, 51203041201, 40003108882",
     "languages": [
       "en",
       "lv"
@@ -32,20 +32,25 @@
   },
   "data": {
     "availability": [
-      "csv"
+      "bulk",
+      "csv",
+      "excel"
     ],
-    "dataAccessDetails": "Link to CSV download found at http://index.okfn.org/place/latvia/companies/   , Link to Lursoft found at https://opencorporates.com/registers/137 . More detailed information in Lursoft, and Lursoft is in English, whereas ur.gov.lv is in Latvian",
+    "dataAccessDetails": "The full company registry dataset can be found at http://dati.ur.gov.lv/ in the register/register.csv and register/register.xlsx files and also at https://data.gov.lv/dati/lv/dataset/uz.",
     "features": [
       "registered_address",
       "date_of_registration",
-      "registration_number"
+      "registration_number",
+      "activities_sector_code",
+      "expiry_date",
+      "status"
     ],
     "licenseStatus": "open_license",
-    "licenseDetails": "https://opencorporates.com/registers/137, http://index.okfn.org/place/latvia/companies/"
+    "licenseDetails": "Creative Commons Zero (CC0 1.0) https://data.gov.lv/dati/lv/dataset/uz"
   },
   "meta": {
     "source": "Desk research",
-    "lastUpdated": "2017-11-08"
+    "lastUpdated": "2017-11-17"
   },
   "links": {
     "opencorporates": "http://opencorporates.com/companies/lv",
