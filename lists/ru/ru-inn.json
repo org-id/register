@@ -1,0 +1,48 @@
+{
+  "name": {
+    "en": "Uniform State Register of Legal Entities of Russian Federation",
+    "local": "Единый государственный реестр юридических лиц"
+  },
+  "url": "https://russianpartner.biz/",
+  "description": {
+    "en": "This register offers information reports on any legal entity registered on the territory of the Russian Federation in the on-line mode directly from the respective registers. \n\n There are following types of products available at this moment:\n* Extract from USRLE - price 1 credit (1 credit is equal to 10.8 Euro, discounts available, see Rates/Prices)\n* Annual Accounts - price 2 credits\n* Extended Report - price 2 credits\n* Extended Report + Finances - price 4 credits\n* Court records + Enforcement proceedings - price 4 credits"
+  },
+  "coverage": [
+    "RU"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "RU-INN",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "Company information cannot be obtained without prior registration and/or payment (see prices at https://russianpartner.biz/tariffs.html). Example extract: https://www.egrul.ru/examples/extract.pdf",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "7723861614",
+    "languages": [
+      "en",
+      "ru"
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "ProZorro Business Register Research",
+    "lastUpdated": "2017-10-24"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
