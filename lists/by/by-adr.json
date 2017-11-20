@@ -1,0 +1,52 @@
+{
+  "name": {
+    "en": "Unified State Register of Legal Entities and Individual Entrepreneurs (Ministry of Justice of the Republic of Belarus)",
+    "local": "Адзіны дзяржаўны рэестр"
+  },
+  "url": "http://egr.gov.by/egrn/index.jsp?language=en",
+  "description": {
+    "en": "\"The Unified State Register of Legal Entities and Individual Entrepreneurs (hereinafter referred to as the USR) has been operating since 2003.\nIn accordance with the Resolution of the Council of Ministers of the Republic of Belarus of February 23, 2009 No. 229 \"On the Unified State Register of Legal Entities and Individual Entrepreneurs\", information on legal entities, state bodies and state legal entities, provisions on which are approved by legislative acts, and also about individual entrepreneurs.\"[1]\n\n\"A legal entity is considered established from the moment of its state registration, unless otherwise established by the President of the Republic of Belarus.\"[2]\n\n[1] http://egr.gov.by/egrn/index.jsp?content=AboutEGR\n[2] http://egr.gov.by/egrn/index.jsp?content=eJurReorgCreate\n"
+  },
+  "coverage": [
+    "BY"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company",
+    "government_agency"
+  ],
+  "sector": [],
+  "code": "BY-ADR",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "Companies can be searched by legal name or registration number with the online service http://egr.gov.by/egrn/index.jsp?content=Find&language=en\n\nSearch results provide registration number (Регистрационный номер), legal entity's name, registration body, registration date, company status etc. \n\nThere is an English interface, yet not complete. ",
+    "publicDatabase": "http://egr.gov.by/egrn/index.jsp?content=Find&language=en",
+    "guidanceOnLocatingIds": "Use the 9-digit Registration Number (Регистрационный номер) from the search results for the matching organisation.",
+    "exampleIdentifiers": "100373962, 100281343, 600124881",
+    "languages": [
+      "en",
+      "ru",
+      "be"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "ProZorro Business Register Research",
+    "lastUpdated": "2017-11-08"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
