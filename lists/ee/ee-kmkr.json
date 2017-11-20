@@ -1,0 +1,56 @@
+{
+  "name": {
+    "en": "e-Business Register (Estonia)",
+    "local": "E-äriregister"
+  },
+  "url": "http://www.rik.ee/en/e-business-register",
+  "description": {
+    "en": "\"Central Commercial Register is an online service based on the central database of Estonian registration department of the court. The central database includes digital data from the commercial register, the commercial pledge register, the register of state agencies and local government institutions, the register of non-profit associations and foundations. \"[1]\n\nRecords contain information about the legal entity including e.g. annual reports, address, registration status, tax debt information and legal form. It also includes a Registry Code (\"Registrikood\").\n\n[1] http://www.rik.ee/en/e-business-register"
+  },
+  "coverage": [
+    "EE"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company",
+    "charity",
+    "government_agency",
+    "trust"
+  ],
+  "sector": [],
+  "code": "EE-KMKR",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "To find a company enter its name, registry code or VAT number.\n\nSearch results provide company details, and there is a hyperlink on the company's name to click on. There are English and Estonian language interfaces, search is free of charge. Paid users can get more advanced info.",
+    "publicDatabase": "https://ariregister.rik.ee/index?lang=eng",
+    "guidanceOnLocatingIds": "Use the 8-digit Registry Co\"\"(Registrikood\") that appears on organisation records. Take care not to use the \"Number of old business register\" if that appears.",
+    "exampleIdentifiers": "10345833, 80352598, 70003684",
+    "languages": [
+      "et",
+      "en"
+    ]
+  },
+  "data": {
+    "availability": [
+      "bulk",
+      "csv",
+      "xml"
+    ],
+    "dataAccessDetails": "Visit https://opendata.riik.ee/en/dataset/http-avaandmed-rik-ee-andmed-ariregister on the Estonian Open Data Portal for a bulk download. This appears to be a complete list of the e-Äriregistri business registry including registration numbers. Update status is \"once a week\". ",
+    "features": [],
+    "licenseStatus": "open_license",
+    "licenseDetails": "http://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  "meta": {
+    "source": "ProZorro Business Register Research",
+    "lastUpdated": "2017-11-08"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
