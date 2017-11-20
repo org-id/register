@@ -1,0 +1,50 @@
+{
+  "name": {
+    "en": "Business Identification Number (BIN)",
+    "local": "Бизнес сәйкестендіру номері (БИН)"
+  },
+  "url": "http://kgd.gov.kz/en/services/taxpayer_search/legal_entity",
+  "description": {
+    "en": "\"Business Identification Number (BIN) is a unique number consisting of 12 digits created for legal person (branch and agency) and individual entrepreneur operating in form of joint entrepreneurship.\n\n[...] as from January 1, 2013 [...] BIN (Business Identification Number) will be implemented in the Republic of Kazakhstan instead of Taxpayer’s Registration Number (TRN).\"[1]\n\nThe Ministry of Finance of the Republic of Kazakhstan maintains the business register.\n\n[1] https://www.norvik.eu/en/iin-and-bin-implementation-in-the-republic-of-kazakhstan/?print=1"
+  },
+  "coverage": [
+    "KZ"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "KZ-BIN",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "Visit the ",
+    "publicDatabase": "http://kgd.gov.kz/en/services/taxpayer_search/legal_entity",
+    "guidanceOnLocatingIds": "Use the BIN (Business Identification Number).",
+    "exampleIdentifiers": "950440001673, 990940003030, 000640002067",
+    "languages": [
+      "KK",
+      "RU",
+      "EN"
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "open_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "ProZorro Business Register Research",
+    "lastUpdated": "2017-11-08"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
