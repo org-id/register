@@ -1,0 +1,49 @@
+{
+  "name": {
+    "en": "Central Commercial Register of the Kingdom of Spain",
+    "local": "El Registro Mercantil Central"
+  },
+  "url": "http://www.rmc.es/Home.aspx",
+  "description": {
+    "en": "The Central Mercantile Register (1) provides the access to the companies information supplied by the Regional Mercantile Registers after the 1 January 1990, once the data has been organized and processed in accordance with Section 379 of the Mercantile Register Regulations currently in effect.\n\n(1) Central Commercial Register - Central Corporate Register - Central Business Register"
+  },
+  "coverage": [
+    "ES"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "ES-RMC",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "The Central Mercantile Register offers two methods of obtaining information about registered companies and/or company names: \n\n1) USERS WITHOUT AGREEMENT - They should pay the corresponding legal tax by credit card. \n2) USERS WITH AGREEMENT - They must use the password assigned by the Central Mercantile Register after the Agreement has been signed.",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "",
+    "languages": [
+      "en",
+      "es"
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "open_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "ProZorro Business Register Research",
+    "lastUpdated": "2017-10-24"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
