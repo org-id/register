@@ -1,0 +1,55 @@
+{
+  "name": {
+    "en": "Legal entity registration number (IDNO) Moldova",
+    "local": "Numărul de înregistrare al persoanei juridice"
+  },
+  "url": "http://www.idno.md/",
+  "description": {
+    "en": "\"General information about the legal entities incorporated on the Republic of Moldova’s territory, except political parties, non-governmental organizations and press agencies. Data from the State Chamber of Registration is published once per month on the Government Portal of Open Data (http://www.date.gov.md/en) and can be searched in a convenient way via dedicated platform http://www.idno.md/.\"[1]\n\nThe unique state identification number (IDNO) assigned to the legal entity also constitutes its fiscal code.\n\n\"The idno.md platform has been developed to facilitate access to open government data and to help citizens gain added value by using them. The project is based on the reuse of public data about registered companies in the Republic of Moldova, presenting them in a user-friendly way so that everyone can easily analyze and process them.\n\nThe platform allows users to search through data, track company history, and generate infotainment based on available data. At present, information is available about over 215,000 companies that have been registered in Moldova since 1991.\n\nThe data on idno.md is updated monthly, automatically. The idno.md team has long envisioned to integrate other information that will be available to the public, including information on public procurement connected with companies that have won tenders over the years.\"[1]\n\nMore information about companies and their administrators / founders can be requested at the State Registration Chamber.\n\n[1] http://www.idno.md/page?id=2 (Nov, 2017)\n[2] http://www.idno.md/page?id=5 (Nov, 2017)"
+  },
+  "coverage": [
+    "MD"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "MD-IDNO",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "Company can be searched by legal name and IDNO number. Search results provide company registration number, legal name, registration date. \n\nBasic information can be obtained free-of-charge. Complete information is available for LEI 100.",
+    "publicDatabase": "http://www.idno.md/",
+    "guidanceOnLocatingIds": "The IDNO identifier is found under 'Cod Fiscal/IDNO/NUMREG' header on a company's record page.",
+    "exampleIdentifiers": "1003600158022, 1003600136646",
+    "languages": [
+      "ro"
+    ]
+  },
+  "data": {
+    "availability": [
+      "bulk",
+      "excel"
+    ],
+    "dataAccessDetails": "Search for \"Registrul de stat al unităţilor de drept privind întreprinderile înregistrate\" on the Moldova Open Data Portal (http://www.date.gov.md).",
+    "features": [
+      "website",
+      "registration_number",
+      "status"
+    ],
+    "licenseStatus": "no_license",
+    "licenseDetails": "Please pay attention to http://www.date.gov.md/ro/solicitarea-accesului-la-reutilizarea-informa%C5%A3iilor"
+  },
+  "meta": {
+    "source": "ProZorro Business Register Research",
+    "lastUpdated": "2017-11-08"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
