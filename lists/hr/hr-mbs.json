@@ -1,0 +1,49 @@
+{
+  "name": {
+    "en": "Croatian Court Business Register",
+    "local": "Sudski registar (Hrvatska)"
+  },
+  "url": "https://sudreg.pravosudje.hr/registar",
+  "description": {
+    "en": "The court business register is maintained by the Croatian Ministry of Justice (Ministarstvo Pravosuda Republike Hrvatske).\n\nRegistered corporations each have a court-assigned company registration number (matični broj poslovnog subjekta - MBS)"
+  },
+  "coverage": [
+    "HR"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "HR-MBS",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "Companies can be searched by MBS, OIB number or legal name. Search results provide MBS and OIB numbers, registration court, company name, status, company name current status, and address. There is no English interface, search is free-of-charge.",
+    "publicDatabase": "https://sudreg.pravosudje.hr/registar",
+    "guidanceOnLocatingIds": "Use the MBS (company court registration number) returned in search results. If used, the OIB (tax-registration number) would be used with the prefix HR-OIB)\n\nTake care not to drop leading zeros ('0') from the number e.g. 080229250, not 80229250",
+    "exampleIdentifiers": "080229250, 080026895",
+    "languages": [
+      "hr"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Prozorro Business Register Research",
+    "lastUpdated": "2017-11-08"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
