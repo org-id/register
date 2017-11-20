@@ -1,0 +1,50 @@
+{
+  "name": {
+    "en": "Registrar of Companies (Israel)",
+    "local": "רשות תאגידים"
+  },
+  "url": "http://www.justice.gov.il/Units/RasutHataagidim/units/RashamHachvarot/Pages/default.aspx",
+  "description": {
+    "en": "The Register of Companies is maintained by the Israeli Corporations Authority and can be searched using part or all of a company name in English or Hebrew, or by entering the company number. The search interface and the results are in Hebrew. \n\nFree information on a company includes type of company, address, legal status and purpose of the company. \n\nAdditional information such as details of directors, total authorized capital, division of share capital, shareholders, charges and liabilities is priced."
+  },
+  "coverage": [
+    "IL"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "IL-ROC",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "Companies can be searched by their number or legal name. Information provided includes total debts, status of a lawbreaking society, company status, type of corporation, name (English and Hebrew), and company number. Their is no English interface, search is free of charge.",
+    "publicDatabase": "http://havarot.justice.gov.il/",
+    "guidanceOnLocatingIds": "Registration number will be under `מספר` header.",
+    "exampleIdentifiers": "510230055",
+    "languages": [
+      "he"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "closed_license",
+    "licenseDetails": "http://www.justice.gov.il/Pages/TermsConditions.aspx seems to be a 'Fair use' license"
+  },
+  "meta": {
+    "source": "ProZorro Business Register Research",
+    "lastUpdated": "2017-11-08"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
