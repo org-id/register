@@ -1,0 +1,47 @@
+{
+  "name": {
+    "en": "Austria Company Register",
+    "local": "Firmenbuch"
+  },
+  "url": "https://www.justiz.gv.at/web2013/html/default/2c9484852308c2a601240b693e1c0860.de.html",
+  "description": {
+    "en": "Available only in German. Access can be obtained by using services of special companies like http://www.advokat.at/Advokat-Online/Module/Firmenbuch.aspx that are entitled to provide it (for full list see https://www.justiz.gv.at/web2013/html/default/2c9484852308c2a601240b693e1c0860.de.html)"
+  },
+  "coverage": [
+    "AT"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "AT-FB",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "The query of the company book is subject to a charge. Charges are billed via the billing agencies commissioned by the Federal Ministry of Justice, in which the customer must obtain an access authorization or an \"account\".\nThe fees for the inquiry are governed by the tariff post 10 Z IV Court Fees Act (GGG), whereby the clearing offices may charge a surcharge to be approved by the Federal Minister of Justice in addition to the fees stated there.",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "",
+    "languages": [
+      "de"
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "ProZorro Business Register Research",
+    "lastUpdated": "2017-10-24"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
