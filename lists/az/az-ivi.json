@@ -1,0 +1,49 @@
+{
+  "name": {
+    "en": "State Register of Commercial Entities (Ministry of Taxes of Azerbaijan Republic)",
+    "local": "Kommersiya qurumlarının dövlət reyestri"
+  },
+  "url": "https://www.e-taxes.gov.az/ebyn/commersialChecker.jsp",
+  "description": {
+    "en": "Available only in Azerbaijani"
+  },
+  "coverage": [
+    "AZ"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "AZ-IVI",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "Company can be searched by VÖEN or legal name. \n\nName searches return a list of possible company name matches and their VÖEN codes.\n\nIf searching by the VOEN more information will be provided: name of commercial organization, taxpayer's name, organizational-legal form, legal address, charter capital, fiscal year, legal representative, registration date. \n\nNo English interface.",
+    "publicDatabase": "https://www.e-taxes.gov.az/ebyn/commersialChecker.jsp",
+    "guidanceOnLocatingIds": "10-digit TIN (aka company registration number) is under 'VÖEN' header",
+    "exampleIdentifiers": "990001490, 3100073821",
+    "languages": [
+      "az"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "ProZorro Business Register Research",
+    "lastUpdated": "2017-11-08"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
