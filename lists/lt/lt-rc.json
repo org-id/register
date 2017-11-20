@@ -1,0 +1,49 @@
+{
+  "name": {
+    "en": "Information Platform of Legal Entities (Lithuania)",
+    "local": "Juridinių asmenų dalyvių informacinė sistema"
+  },
+  "url": "http://www.registrucentras.lt/jar/index_en.php",
+  "description": {
+    "en": "\"The Register of Legal Entities registers businesses, institutions and NGOs and collects detailed data about Lithuanian legal entities as well as branches and representative offices of foreign companies and organizations. \n\nThe Register contains complete information (and historical data) about legal form and status of legal entities, fields of its activity, size and structure of the authorized capital, members of sole and collective management bodies, licenses acquired, etc. It is obligatory for the most of business companies to submit annual financial statements to the Register of Legal Entities since 2004. Starting from March 2010 private limited liability companies are obliged to declare current list of shareholders to the Register. \"[1]\n\nGovernment agencies are also included in the register.\n\n[1] http://www.registrucentras.lt/jar/index_en.php"
+  },
+  "coverage": [
+    "LT"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company",
+    "charity",
+    "government_agency"
+  ],
+  "sector": [],
+  "code": "LT-RC",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "There is a public search providing limited information (code, name, registered address, legal form, legal status) free of charge (100 searches/day). Searches can be performed by legal entity name (including historical names) or code.\n\nCompanies, non-profit organisations and government agencies are included on the database.\n\nDetailed data on the registration of legal entities are provided only to registered users who have concluded service provision agreement. There is an English interface.",
+    "publicDatabase": "http://www.registrucentras.lt/jar/p_en/",
+    "guidanceOnLocatingIds": "Use the 'code' returned in search results.",
+    "exampleIdentifiers": "111484678, 304140248, 302308327",
+    "languages": [
+      ""
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "ProZorro Business Register Research",
+    "lastUpdated": "2017-11-08"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
