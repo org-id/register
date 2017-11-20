@@ -1,0 +1,47 @@
+{
+  "name": {
+    "en": "Slovenian Business Register",
+    "local": "Poslovni register Slovenije"
+  },
+  "url": "http://www.ajpes.eu/prs/",
+  "description": {
+    "en": "The Slovenian Business Register (PRS) is a central database containing information about all business entities involved in a profit or non-profit activity having their principal place of business located on the territory of the Republic of Slovenia, as well as information on their subsidiaries and other divisions of business entities performing business activities in the territory of the Republic of Slovenia."
+  },
+  "coverage": [
+    "SI"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "SI-PRS",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "5092108",
+    "languages": [
+      "sl"
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "ProZorro Business Register Research",
+    "lastUpdated": "2017-10-24"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
