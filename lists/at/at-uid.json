@@ -1,0 +1,49 @@
+{
+  "name": {
+    "en": "VAT number (Austria Company Register)",
+    "local": "Umsatzsteuer-Identifikationsnummer (Die Firmenbuchdatenbank)"
+  },
+  "url": "https://www.justiz.gv.at/web2013/html/default/2c9484852308c2a601240b693e1c0860.de.html",
+  "description": {
+    "en": "\"Since July 11, 2005, the records of all commercial register courts are kept electronically. The general ledger is kept by storing the entries in a central database, the so-called \"Firmenbuchdatenbank\" in the Federal Computing Center in Vienna.\"[1]\n\nClearing houses commissioned by the Federal Ministry of Justice (Die Österreichische Justiz) provide the only access to the database.[2] Interfaces are mostly available only in German, and access/fees vary between the different operators.\n\nConsider using the Business Register number with the prefix AT-FB (see list AT-FB) - which is a primary rather than secondary list - instead of the VAT number.\n\n[1] https://www.justiz.gv.at/web2013/html/default/2c9484852308c2a601240b693e1c0860.de.html\n[2] A full list of authorized clearing houses is available at https://www.justiz.gv.at/web2013/home/e-justice/firmenbuch/die_firmenbuchdatenbank~2c9484852308c2a601240b693e1c0860.de.html"
+  },
+  "coverage": [
+    "AT"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "AT-UID",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "Choose a clearing house from the list at https://www.justiz.gv.at/web2013/home/e-justice/firmenbuch/die_firmenbuchdatenbank~2c9484852308c2a601240b693e1c0860.de.html",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "U12345678",
+    "languages": [
+      "de"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "ProZorro Business Register Research",
+    "lastUpdated": "2017-11-08"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
