@@ -1,0 +1,53 @@
+{
+  "name": {
+    "en": "Federal Taxpayers Registry",
+    "local": "Registro Federal de Contribuyentes de México"
+  },
+  "url": "https://portalsat.plataforma.sat.gob.mx/ConsultaRFC/",
+  "description": {
+    "en": "The Registro Federal de Contribuyentes de México assigns an RFC identifier to both individual and corporate taxpayers.\n\nRegistration takes place through Servicio de Administración Tributaria (SAT) and registrants are provided with their RFC.\n\nWhilst there is no public database of RFCs available, a web service to validate RFCs is available at https://portalsat.plataforma.sat.gob.mx/ConsultaRFC/\n\nThe structure of an RFC encodes information about the initials and date of registration of a company\n\n"
+  },
+  "coverage": [
+    "MX"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company",
+    "unincorporated_body"
+  ],
+  "sector": [],
+  "code": "MX-RFC",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": "",
+    "publicDatabase": "https://portalsat.plataforma.sat.gob.mx/ConsultaRFC/",
+    "guidanceOnLocatingIds": "Ask the organisation you wish to identify to provide it's RFC. ",
+    "exampleIdentifiers": "ABC680524P-76",
+    "languages": [
+      "es"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [
+      "date_of_registration"
+    ],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "https://github.com/org-id/register/issues/82",
+    "lastUpdated": "2017-11-06"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": "https://es.wikipedia.org/wiki/Registro_Federal_de_Contribuyentes_(M%C3%A9xico)"
+  },
+  "formerPrefixes": []
+}
