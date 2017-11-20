@@ -1,46 +1,48 @@
 {
-    "links": {
-        "wikipedia": null,
-        "opencorporates": null
-    },
-    "sector": null,
-    "url": "https://www.handelsregister.de/rp_web/welcome.do",
-    "name": {
-        "en": "Common Register Portal",
-        "local": ""
-    },
-    "coverage": [
-        "DE"
-    ],
-    "code": "DE-CR",
-    "formerPrefixes": null,
-    "confirmed": null,
-    "data": {
-        "features": null,
-        "dataAccessDetails": null,
-        "licenseDetails": null,
-        "licenseStatus": "closed_license",
-        "availability": null
-    },
-    "deprecated": null,
-    "structure": [
-        "company"
-    ],
-    "description": {
-        "en": "This entry was imported from the Open Corporates Jurisdiction List."
-    },
-    "meta": {
-        "lastUpdated": "2016-09-07",
-        "source": null
-    },
-    "access": {
-        "languages": null,
-        "exampleIdentifiers": null,
-        "onlineAccessDetails": null,
-        "publicDatabase": null,
-        "availableOnline": false,
-        "guidanceOnLocatingIds": null
-    },
-    "subnationalCoverage": null,
-    "listType": null
+  "name": {
+    "en": "Common Register Portal of the German Federal States (CRP)",
+    "local": "Gemeinsames Registerportal der Länder"
+  },
+  "url": "https://www.handelsregister.de/rp_web/welcome.do",
+  "description": {
+    "en": "Common register portal of the German federal states provides  the registers of companies, cooperatives and partnerships and, to some extent, also of associations registered in all federal states in Germany as well as announcements for the register (publications)."
+  },
+  "coverage": [
+    "DE"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "DE-CR",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "Without registration, one may find out about the company's legal name, registered office, and status. Any further information can be obtained upon registration. Retrieving published information is free of charge, any other is subject to a fee. There is English, French, Italian, and Spanish interface.",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "",
+    "languages": [
+      ""
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "open_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "ProZorro Business Register Research",
+    "lastUpdated": "2017-11-08"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
 }
