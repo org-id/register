@@ -1,0 +1,51 @@
+{
+  "name": {
+    "en": "Tax Identification Number (Slovenia)",
+    "local": "Davčna številka"
+  },
+  "url": "https://www.ajpes.eu/",
+  "description": {
+    "en": "A unique tax identifier code (Davčna številka) which every legal entity or an individual entrepreneur must obtain.\n\nThese are entered on to the Slovenian Business Register (Poslovni register Slovenije)"
+  },
+  "coverage": [
+    "SI"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "SI-TIN",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "You will need to register (free) and log in to the business register to perform a search.",
+    "publicDatabase": "https://www.ajpes.eu/pru/",
+    "guidanceOnLocatingIds": "Use the Tax Number, including any non-numerical digits that appear as part of the code.\n\nSome tax identifiers are displayed on the website with spaces in the number. All the spaces should be removed when making use of the number within an identifier.",
+    "exampleIdentifiers": "90493826, 78310130, SI99190591, SI43301673",
+    "languages": [
+      "SL",
+      "EN"
+    ]
+  },
+  "data": {
+    "availability": [
+      "bulk"
+    ],
+    "dataAccessDetails": "From a paid service https://www.ajpes.si/registri/poslovni_register/splosno#",
+    "features": [],
+    "licenseStatus": "closed_license",
+    "licenseDetails": "https://www.ajpes.si/Registri/Poslovni_register/Ponovna_uporaba#b164"
+  },
+  "meta": {
+    "source": "ProZorro Business Register Research",
+    "lastUpdated": "2017-11-08"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
