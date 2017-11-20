@@ -1,0 +1,48 @@
+{
+  "name": {
+    "en": "Kyrgyz Republic Register of Legal Entities",
+    "local": "Юридикалык жактарды, Кыргыз Республикасынын кароо"
+  },
+  "url": "http://register.minjust.gov.kg/register/SearchAction.seam?logic=and&cid=205",
+  "description": {
+    "en": "The Ministry of Justice of the Kyrgyz Republic maintains the register of legal entities. Only Russian and Kyrgyz interfaces are available."
+  },
+  "coverage": [
+    "KG"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "KG-INN",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "Company can be searched by its name (`наименование`), registration number (`Рег. №`), tax number (`ИНН`), OKPO code (assigned to each legal entity for statistics purposes), company status, registration date etc.  Search is free-of-charge, no English interface.",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "Tax number is under `ИНН` header.",
+    "exampleIdentifiers": "1207199510092",
+    "languages": [
+      "kg",
+      "ru"
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "ProZorro Business Register Research",
+    "lastUpdated": "2017-10-24"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
