@@ -1,0 +1,51 @@
+{
+  "name": {
+    "en": "National Trade Register (Romania)",
+    "local": "Național al Registrului Comerțului"
+  },
+  "url": "http://www.onrc.ro/index.php/ro/",
+  "description": {
+    "en": "The National Trade Register Office (NTRO) is a public institution with legal personality, subordinated to the Ministry of Justice, entirely financed from the state budget, whose activity is regulated by the Law no. 26/1990 on trade register, as republished and subsequently amended and supplemented.\n\nThe National Trade Register Office carries out the following activities:\n\n* keeping the trade register;\n* providing documents and information;\n* archiving documents based on which the registrations in the trade register are made;\n* assisting legal and natural persons subject to registration in the trade register;\n* editing and publishing the Insolvency Proceedings Bulletin."
+  },
+  "coverage": [
+    "RO"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "RO-CUI",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "Upon registration and payment of 8 lei, a company's details can be requested through the ONRC Portal InfoCert service https://portal.onrc.ro/ONRCPortalWeb/appmanager/myONRC/wicket?p=rc.certificateConstatatoare.[1]\n\nInformation regarding a company including the following details: \n* order number in the trade register\n* company name\n* legal form\n* unique registration code\n* registered office\n* company’s status\n* main activity\n* share capital\n* administrators, partners/shareholders\n* data registered in the trade register attesting that a certain document or fact is/is not registered.\n\n[1] Other access choices are described at https://www.onrc.ro/index.php/en/informatii-2/informatii-rc",
+    "publicDatabase": "https://portal.onrc.ro/ONRCPortalWeb/appmanager/myONRC/wicket?p=rc.certificateConstatatoare",
+    "guidanceOnLocatingIds": "Use the 'unique registration number'",
+    "exampleIdentifiers": "",
+    "languages": [
+      "ro",
+      "en"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "ProZorro Business Register Research",
+    "lastUpdated": "2017-11-08"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
