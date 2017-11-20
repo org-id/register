@@ -1,0 +1,50 @@
+{
+  "name": {
+    "en": "Tax ID (DIČ) Czech Republic",
+    "local": "Daňové identifikační číslo"
+  },
+  "url": "http://www.kurzy.cz/dic/",
+  "description": {
+    "en": "A VAT registration number (DIČ) is a unique and unambiguous identification of each tax entity, a legal or natural person who is a taxpayer (taxpayer). The tax identification number is assigned only after the entity, natural or legal person, obtains its IČO - its unique identification number. Note that the list [CZ-ICO](/list/CZ-ICO) might therefore provide a better set of identifiers for legal entities.\n\nYou can search by VAT (DIČ) number for a of the VAT payer registered in the Czech Republic. You can also use your company ID or company name or your business name and surname if you want to verify your VAT payer details."
+  },
+  "coverage": [
+    "CZ"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "CZ-DIC",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "third_party",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "DIČ number can be validated by entering it in the `Vyhledávání v registru plátců DPH` section and then clicking `Vyhledat registraci`. Search results will provide company details",
+    "publicDatabase": "http://www.kurzy.cz/dic/",
+    "guidanceOnLocatingIds": "DIČ number will be under `DIČ` header",
+    "exampleIdentifiers": "CZ25111299",
+    "languages": [
+      "cs"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "ProZorro Business Register Research",
+    "lastUpdated": "2017-11-08"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
