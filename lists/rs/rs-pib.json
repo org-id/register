@@ -1,0 +1,47 @@
+{
+  "name": {
+    "en": "Tax identification number register",
+    "local": "Poreski identifikacioni broj (PIB)"
+  },
+  "url": "http://www.poreskauprava.gov.rs/pib.html",
+  "description": {
+    "en": "Ordinary taxpayer registration numbers start from the number 10000001 and end with the number 99999999. The PIB is determined so that the first eight digits are the regular registration number of the taxpayer, and the last digit is the control number. "
+  },
+  "coverage": [
+    "RS"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "RS-PIB",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "There is a simple form to enter taxpayer's PIB number to acess information from PIB registry (in Serbian, free of charge). English interface of the website does not allow to search the registry.",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "Registration number will be under `МБР` header, PIB - under `ПИБ` header.",
+    "exampleIdentifiers": "100000709",
+    "languages": [
+      "sr"
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "ProZorro Business Register Research",
+    "lastUpdated": "2017-10-24"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
