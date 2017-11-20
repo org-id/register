@@ -61,12 +61,6 @@
             }
         },
         {
-            "code":"contact_address",
-            "title":{
-                "en":"Contact address"
-            }
-        },
-        {
             "code":"legal_representatives",
             "title":{
                 "en":"Legal representatives"
