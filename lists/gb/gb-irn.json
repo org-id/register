@@ -1,0 +1,62 @@
+{
+  "name": {
+    "en": "Schools Plus, Department of Education (Northern Ireland)",
+    "local": ""
+  },
+  "url": "https://www.education-ni.gov.uk/services/schools-plus",
+  "description": {
+    "en": "Schools Plus is a directory of institutions, including schools, youth clubs, containing contact information and relevant statistics. Only Open schools seem to be on the list currently."
+  },
+  "coverage": [
+    "GB"
+  ],
+  "subnationalCoverage": [
+    "GB-NIR"
+  ],
+  "structure": [
+    "government_agency/public_service"
+  ],
+  "sector": [
+    "education"
+  ],
+  "code": "GB-IRN",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "Visit the database and search the whole list of institutions by name or reference number.",
+    "publicDatabase": "http://apps.education-ni.gov.uk/appinstitutes/default.aspx",
+    "guidanceOnLocatingIds": "Use the reference number (sometimes known as 'institution number') given in the search results and bulk download.",
+    "exampleIdentifiers": "542-0059, 201-1873, 311-6220",
+    "languages": [
+      "en"
+    ]
+  },
+  "data": {
+    "availability": [
+      "bulk",
+      "csv",
+      "excel"
+    ],
+    "dataAccessDetails": "Use the 'Export' tool to download either an Excel or CSV (Text) of the full set.",
+    "features": [
+      "contact_address",
+      "e-mail_address",
+      "contact_address",
+      "registration_number",
+      "phone_number"
+    ],
+    "licenseStatus": "open_license",
+    "licenseDetails": "UK Open Government Licence v3.0 http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  },
+  "meta": {
+    "source": "Desk research",
+    "lastUpdated": "2017-11-08"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
