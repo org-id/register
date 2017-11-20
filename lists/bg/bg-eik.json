@@ -1,0 +1,49 @@
+{
+  "name": {
+    "en": "Commercial Register",
+    "local": "Търговски регистър"
+  },
+  "url": "https://public.brra.bg/CheckUps/Verifications/VerificationPersonOrg.ra",
+  "description": {
+    "en": "This register uses Unified identification Codes (UIC) which certify the legality of one's business and under which one's company is signed in the National Statistics Agency."
+  },
+  "coverage": [
+    "BG"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "BG-EIK",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "204853663",
+    "languages": [
+      "bg",
+      "en"
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "open_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "ProZorro Business Register Research",
+    "lastUpdated": "2017-10-24"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
