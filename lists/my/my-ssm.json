@@ -1,0 +1,48 @@
+{
+  "name": {
+    "en": "Companies Commission of Malaysia",
+    "local": "Suruhanjaya Syarikat Malaysia (SSM)"
+  },
+  "url": "http://www.ssm.com.my/ms",
+  "description": {
+    "en": "The Companies Commission of Malaysia (SSM) is a statutory body formed as a result of a merger between the Registrar of Companies (ROC) and the Registrar of Businesses (ROB) in Malaysia which regulates companies and businesses. SSM came into operation on 16 April 2002.\n"
+  },
+  "coverage": [
+    "MY"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "MY-SSM",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "You first need to register a free account on https://www.ssm-einfo.my. e- Info is an internet based service to provide search and purchase of company and business information online.\n\nCompanies can be searched by legal name and registration number. Search results provide registration number and entity type. \n\nCompany profile, particular of registered address, certificates of incorporation/registration, particular of directors/officers can be purchased for +15.00 MYR each).",
+    "publicDatabase": "https://www.ssm-einfo.my/member/index.php?id=uni",
+    "guidanceOnLocatingIds": "Use the registration number which appears in search results.\n\nAny special characters should be removed (e.g. '993856-H' becomes '993856H') ",
+    "exampleIdentifiers": "993856H, 255990P",
+    "languages": [
+      "ML"
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "open_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "ProZorro Business Register Research",
+    "lastUpdated": "2017-11-09"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
