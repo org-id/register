@@ -1,0 +1,47 @@
+{
+  "name": {
+    "en": "Croatia Court Register",
+    "local": "Sudski Registar"
+  },
+  "url": "https://sudreg.pravosudje.hr/registar/f?p=150:1",
+  "description": {
+    "en": "Maintained by the Ministry of Justice of the Republic of Croatia."
+  },
+  "coverage": [
+    "HR"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "HR-OIB",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "Company can be searched by MBS, OIB number or legal name. Search results provide MBS and OIB numbers, registration court, company name, status, company name current status, and address. There is no English interface, search is free-of-charge.",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "82229652860",
+    "languages": [
+      "hr"
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "",
+    "lastUpdated": ""
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
