@@ -1,48 +1,49 @@
 {
-    "access": {
-        "availableOnline": false,
-        "exampleIdentifiers": "FALSE",
-        "guidanceOnLocatingIds": "",
-        "languages": [
-            ""
-        ],
-        "onlineAccessDetails": "",
-        "publicDatabase": ""
-    },
-    "code": "AE-ACCI",
-    "confirmed": true,
-    "coverage": [
-        "AE"
-    ],
-    "data": {
-        "availability": [],
-        "dataAccessDetails": "",
-        "features": [],
-        "licenseDetails": "",
-        "licenseStatus": "open_license"
-    },
-    "deprecated": false,
-    "description": {
-        "en": "There is Commercial and Industrial search. You can also use an online enquiry form to find necessary data. There are contact details of Ajman Chamber and heads of its sectors."
-    },
-    "formerPrefixes": [],
-    "links": {
-        "opencorporates": "",
-        "wikipedia": ""
-    },
-    "listType": "primary",
-    "meta": {
-        "lastUpdated": "2017-11-16",
-        "source": "ProZorro Business Register Research"
-    },
-    "name": {
-        "en": "Ajman Chamber of Commerce and Industry",
-        "local": "\u063a\u0631\u0641\u0629 \u062a\u062c\u0627\u0631\u0629 \u0648\u0635\u0646\u0627\u0639\u0629 \u0639\u062c\u0645\u0627\u0646"
-    },
-    "sector": [],
-    "structure": [
-        "company"
-    ],
-    "subnationalCoverage": [],
-    "url": "https://www.ajmanchamber.ae/en/Pages/default.aspx"
+  "name": {
+    "en": "Ajman Chamber of Commerce and Industry",
+    "local": "غرفة تجارة وصناعة عجمان"
+  },
+  "url": "https://www.ajmanchamber.ae/en/Pages/default.aspx",
+  "description": {
+    "en": "There are 2 types of search available: Commercial search and Industrial search. You can also use an online enquiry form to find the required information. The contact details of Ajman Chamber and the heads of its sectors are also available."
+  },
+  "coverage": [
+    "AE"
+  ],
+  "subnationalCoverage": [
+    "AE-AJ"
+  ],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "AE-ACCI",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": "",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "",
+    "languages": [
+      ""
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "ProZorro Business Register Research",
+    "lastUpdated": "2017-11-16"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
 }
