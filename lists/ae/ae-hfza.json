@@ -10,7 +10,9 @@
   "coverage": [
     "AE"
   ],
-  "subnationalCoverage": [],
+  "subnationalCoverage": [
+    "AE-SH"
+  ],
   "structure": [
     "company"
   ],
