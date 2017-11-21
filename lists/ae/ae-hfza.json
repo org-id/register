@@ -1,48 +1,47 @@
 {
-    "access": {
-        "availableOnline": false,
-        "exampleIdentifiers": "TRUE",
-        "guidanceOnLocatingIds": "",
-        "languages": [
-            ""
-        ],
-        "onlineAccessDetails": "",
-        "publicDatabase": ""
-    },
-    "code": "AE-HFZA",
-    "confirmed": true,
-    "coverage": [
-        "AE"
-    ],
-    "data": {
-        "availability": [],
-        "dataAccessDetails": "",
-        "features": [],
-        "licenseDetails": "",
-        "licenseStatus": "open_license"
-    },
-    "deprecated": false,
-    "description": {
-        "en": "Register contains company name, PO box, telephone, email, license number, activity, etc."
-    },
-    "formerPrefixes": [],
-    "links": {
-        "opencorporates": "",
-        "wikipedia": ""
-    },
-    "listType": "primary",
-    "meta": {
-        "lastUpdated": "2017-11-16",
-        "source": "ProZorro Business Register Research"
-    },
-    "name": {
-        "en": "Hamriyah Free Zone Authority",
-        "local": "\u0633\u0644\u0637\u0629 \u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u062d\u0631\u0629 \u0628\u0627\u0644\u062d\u0645\u0631\u064a\u0629"
-    },
-    "sector": [],
-    "structure": [
-        "company"
-    ],
-    "subnationalCoverage": [],
-    "url": "http://www.hfza.ae/en-us/directory.aspx"
+  "name": {
+    "en": "Hamriyah Free Zone Authority",
+    "local": "سلطة المنطقة الحرة بالحمرية"
+  },
+  "url": "http://www.hfza.ae/en-us/directory.aspx",
+  "description": {
+    "en": "A register that contains company names, addresses, phone numbers, emails, license numbers, activities, etc."
+  },
+  "coverage": [
+    "AE"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "AE-HFZA",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": "",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "TRUE",
+    "languages": [
+      ""
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "ProZorro Business Register Research",
+    "lastUpdated": "2017-11-16"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
 }
