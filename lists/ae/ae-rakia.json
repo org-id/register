@@ -1,48 +1,49 @@
 {
-    "access": {
-        "availableOnline": false,
-        "exampleIdentifiers": "FALSE",
-        "guidanceOnLocatingIds": "",
-        "languages": [
-            ""
-        ],
-        "onlineAccessDetails": "",
-        "publicDatabase": ""
-    },
-    "code": "AE-RAKIA",
-    "confirmed": true,
-    "coverage": [
-        "AE"
-    ],
-    "data": {
-        "availability": [],
-        "dataAccessDetails": "",
-        "features": [],
-        "licenseDetails": "",
-        "licenseStatus": "open_license"
-    },
-    "deprecated": false,
-    "description": {
-        "en": "There is no open registry but you can make an enquiry via contact form or telephone call."
-    },
-    "formerPrefixes": [],
-    "links": {
-        "opencorporates": "",
-        "wikipedia": ""
-    },
-    "listType": "primary",
-    "meta": {
-        "lastUpdated": "2017-11-16",
-        "source": "ProZorro Business Register Research"
-    },
-    "name": {
-        "en": "RAK Investment Authority",
-        "local": "\u0647\u064a\u0626\u0629 \u0631\u0623\u0633 \u0627\u0644\u062e\u064a\u0645\u0629 \u0644\u0644\u0627\u0633\u062a\u062b\u0645\u0627\u0631"
-    },
-    "sector": [],
-    "structure": [
-        "company"
-    ],
-    "subnationalCoverage": [],
-    "url": "http://www.rakia.ae/"
+  "name": {
+    "en": "Ras Al Khaimah Investment Authority",
+    "local": "هيئة رأس الخيمة للاستثمار"
+  },
+  "url": "http://www.rakia.ae/",
+  "description": {
+    "en": "There is no open registry but you can request more information via the contact form on the website or a phone call."
+  },
+  "coverage": [
+    "AE"
+  ],
+  "subnationalCoverage": [
+    "AE-RK"
+  ],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "AE-RAKIA",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": "",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "",
+    "languages": [
+      ""
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "ProZorro Business Register Research",
+    "lastUpdated": "2017-11-16"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
 }
