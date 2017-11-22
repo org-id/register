@@ -1,48 +1,49 @@
 {
-    "access": {
-        "availableOnline": false,
-        "exampleIdentifiers": "TRUE",
-        "guidanceOnLocatingIds": "",
-        "languages": [
-            ""
-        ],
-        "onlineAccessDetails": "",
-        "publicDatabase": ""
-    },
-    "code": "AE-FFZ",
-    "confirmed": true,
-    "coverage": [
-        "AE"
-    ],
-    "data": {
-        "availability": [],
-        "dataAccessDetails": "",
-        "features": [],
-        "licenseDetails": "",
-        "licenseStatus": "open_license"
-    },
-    "deprecated": false,
-    "description": {
-        "en": "There is no search available, but there is a listing of companies with telephone and fax numbers"
-    },
-    "formerPrefixes": [],
-    "links": {
-        "opencorporates": "",
-        "wikipedia": ""
-    },
-    "listType": "primary",
-    "meta": {
-        "lastUpdated": "2017-11-16",
-        "source": "ProZorro Business Register Research"
-    },
-    "name": {
-        "en": "Fujairah Free Zone Company Listing",
-        "local": "\u0634\u0631\u0643\u0629 \u0627\u0644\u0641\u062c\u064a\u0631\u0629 \u0644\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u062d\u0631\u0629"
-    },
-    "sector": [],
-    "structure": [
-        "company"
-    ],
-    "subnationalCoverage": [],
-    "url": "http://www.fujairahfreetradezone.com/appdir/company-listing.php"
+  "name": {
+    "en": "Fujairah Free Zone Company Listing",
+    "local": "شركة الفجيرة للمنطقة الحرة"
+  },
+  "url": "http://www.fujairahfreetradezone.com/appdir/company-listing.php",
+  "description": {
+    "en": "There is no search available in this registry, but there is a list of companies with corresponding phone and fax numbers."
+  },
+  "coverage": [
+    "AE"
+  ],
+  "subnationalCoverage": [
+    "AE-FU"
+  ],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "AE-FFZ",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": "",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "",
+    "languages": [
+      ""
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "ProZorro Business Register Research",
+    "lastUpdated": "2017-11-16"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
 }
