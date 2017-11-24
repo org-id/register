@@ -2,8 +2,8 @@
 import json
 import collections
 
-def update_schema(schema,filename,codelist,target,array=True):
 
+def update_schema(schema,filename,codelist,target,array=True):
     enum = []
     enum_titles = []
 
@@ -34,9 +34,8 @@ def update_schema(schema,filename,codelist,target,array=True):
 with open("list-schema.json") as schema_file:
     schema = json.loads(schema_file.read(),object_pairs_hook=collections.OrderedDict)
 
-
 schema = update_schema(schema,"codelist-coverage.json","coverage","coverage")
-schema = update_schema(schema,"codelist-coverage.json","subnational","subnationalJurisdiction")
+schema = update_schema(schema,"codelist-coverage.json","subnationalCoverage","subnationalCoverage")
 schema = update_schema(schema,"codelist-structure.json","structure","structure")
 schema = update_schema(schema,"codelist-sector.json","sector","sector")
 schema = update_schema(schema,"codelist-listType.json","listType","listType",False) 
