@@ -5324,6 +5324,13 @@
       }
     }, 
     {
+      "code": "CN-92", 
+      "countryCode": "China", 
+      "title": {
+        "en": "Macao"
+      }
+    }, 
+    {
       "code": "CN-63", 
       "countryCode": "China", 
       "title": {
