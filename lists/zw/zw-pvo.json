@@ -1,44 +1,50 @@
 {
-    "links": {
-        "wikipedia": null,
-        "opencorporates": null
-    },
-    "sector": null,
-    "url": null,
-    "name": {
-        "en": "Private Voluntary Organisations Council",
-        "local": ""
-    },
-    "coverage": [
-        "ZW"
+  "name": {
+    "en": "Private Voluntary Organisations Council (Zimbabwe)",
+    "local": ""
+  },
+  "url": "",
+  "description": {
+    "en": "\"NGOs in Zimbabwe are mainly registered under the Private Voluntary Organization Act (PVO Act). Registration is done through the Department of Social Welfare under the Ministry of Public Service Labour and Social Welfare.\" [1]\n\n[1] http://www.kanokangalawfirm.net/setting-ngo-zimbabwe/"
+  },
+  "coverage": [
+    "ZW"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity"
+  ],
+  "sector": [],
+  "code": "ZW-PVO",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": null,
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "Identifiers are not available online. Organizations should have a \"PVO Registered Number\" on their registration paperwork. Ask the organization to supply this.",
+    "exampleIdentifiers": "15/2003, 42/10 ",
+    "languages": [
+      ""
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
     ],
-    "code": "ZW-PVO",
-    "formerPrefixes": null,
-    "confirmed": null,
-    "data": {
-        "features": null,
-        "dataAccessDetails": null,
-        "licenseDetails": null,
-        "licenseStatus": null,
-        "availability": null
-    },
-    "deprecated": null,
-    "structure": null,
-    "description": {
-        "en": "\"NGOs in Zimbabwe are mainly registered under the Private Voluntary Organization Act (PVO Act). Registration is done through the Department of Social Welfare under the Ministry of Public Service Labour and Social Welfare.\" [1]\n\n[1] http://www.kanokangalawfirm.net/setting-ngo-zimbabwe/"
-    },
-    "meta": {
-        "lastUpdated": null,
-        "source": null
-    },
-    "access": {
-        "languages": null,
-        "exampleIdentifiers": null,
-        "onlineAccessDetails": null,
-        "publicDatabase": null,
-        "availableOnline": false,
-        "guidanceOnLocatingIds": null
-    },
-    "subnationalCoverage": null,
-    "listType": null
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "IATI Registration Agency List",
+    "lastUpdated": "2017-11-28"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
 }
