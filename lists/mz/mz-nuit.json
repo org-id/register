@@ -1,0 +1,47 @@
+{
+  "name": {
+    "en": "Taxpayer Single Identification Number (Mozambique)",
+    "local": "Número Unico de Identificacao Tributaria"
+  },
+  "url": "http://www.at.gov.mz/eng/Internacional-Trade/FAQ-s/NUIT",
+  "description": {
+    "en": "NUIT is the Mozambique Taxpayer Single Identification Number.\n\nIt is made up of 9 digits split into 3 parts: the first digit stands for the type of entity, the middle part is a sequential number, and the last digit provides a checksum. \n\nBoth individuals and corporate entities are assigned an NUIT. "
+  },
+  "coverage": [
+    "MZ"
+  ],
+  "subnationalCoverage": [],
+  "structure": [],
+  "sector": [],
+  "code": "MZ-NUIT",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": "",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "Ask each organisation for a record of it's NUIT. ",
+    "exampleIdentifiers": "",
+    "languages": [
+      "en",
+      "pt"
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "https://github.com/org-id/register/issues/129",
+    "lastUpdated": "2011-11-21"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
