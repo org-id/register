@@ -21,10 +21,10 @@
   "listType": "primary",
   "access": {
     "availableOnline": false,
-    "onlineAccessDetails": "2365119",
+    "onlineAccessDetails": "",
     "publicDatabase": "",
     "guidanceOnLocatingIds": "There is no free-of-charge search functionality or English interface. There are a couple of ways to place an enquiry (via phone, email, fax etc). An extract from the registry contains entity's legal name,  KTUT number (OKPO, legal entity indentification code), INN number (taxpayer's number), registration details etc. Example extract can be found at http://official2.gov.uz/uploads/RequiredDocs/d9f16dfe1c0daa2b91907b683414fbee.PNG",
-    "exampleIdentifiers": "",
+    "exampleIdentifiers": "2365119",
     "languages": [
       "uz"
     ]
