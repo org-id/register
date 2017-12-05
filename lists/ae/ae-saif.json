@@ -1,0 +1,49 @@
+{
+  "name": {
+    "en": "Sharjah Airport International Free Zone",
+    "local": "المنطقة الحرة في مطار الشارقة الدولي"
+  },
+  "url": "http://www.saif-zone.com/en/InvestorLounge/Pages/Investors.aspx",
+  "description": {
+    "en": "This register contains information on company name, business type, phone number, email, PO box."
+  },
+  "coverage": [
+    "AE"
+  ],
+  "subnationalCoverage": [
+    "AE-SH"
+  ],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "AE-SAIF",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": "",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "",
+    "languages": [
+      ""
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "ProZorro Business Register Research",
+    "lastUpdated": "2017-11-16"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
