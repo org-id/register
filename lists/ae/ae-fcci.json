@@ -1,0 +1,49 @@
+{
+  "name": {
+    "en": "Fujairah Chamber of Commerce and Industry",
+    "local": "غرفة تجارة وصناعة الفجيرة"
+  },
+  "url": "http://www.fujcci.ae/",
+  "description": {
+    "en": "There is no company information available directly from this registry, but Chamber of Commerce and Industry can be contacted via the form on the website, phone or email to request more information."
+  },
+  "coverage": [
+    "AE"
+  ],
+  "subnationalCoverage": [
+    "AE-FU"
+  ],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "AE-FCCI",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": "",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "",
+    "languages": [
+      ""
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "ProZorro Business Register Research",
+    "lastUpdated": "2017-11-16"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
