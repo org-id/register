@@ -1,0 +1,49 @@
+{
+  "name": {
+    "en": "Fujairah Free Zone Company Listing",
+    "local": "شركة الفجيرة للمنطقة الحرة"
+  },
+  "url": "http://www.fujairahfreetradezone.com/appdir/company-listing.php",
+  "description": {
+    "en": "There is no search available in this registry, but there is a list of companies with corresponding phone and fax numbers."
+  },
+  "coverage": [
+    "AE"
+  ],
+  "subnationalCoverage": [
+    "AE-FU"
+  ],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "AE-FFZ",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": "",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "",
+    "languages": [
+      ""
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "ProZorro Business Register Research",
+    "lastUpdated": "2017-11-16"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
