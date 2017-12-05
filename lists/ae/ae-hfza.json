@@ -1,0 +1,49 @@
+{
+  "name": {
+    "en": "Hamriyah Free Zone Authority",
+    "local": "سلطة المنطقة الحرة بالحمرية"
+  },
+  "url": "http://www.hfza.ae/en-us/directory.aspx",
+  "description": {
+    "en": "A register that contains company names, addresses, phone numbers, emails, license numbers, activities, etc."
+  },
+  "coverage": [
+    "AE"
+  ],
+  "subnationalCoverage": [
+    "AE-SH"
+  ],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "AE-HFZA",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": "",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "TRUE",
+    "languages": [
+      ""
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "ProZorro Business Register Research",
+    "lastUpdated": "2017-11-16"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
