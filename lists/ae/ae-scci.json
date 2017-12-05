@@ -1,0 +1,49 @@
+{
+  "name": {
+    "en": "Sharjah Chamber of Commerce and Industry",
+    "local": "غرفة تجارة وصناعة الشارقة: دليل الأعمال"
+  },
+  "url": "http://www.sharjah.gov.ae/BusinessDirectory",
+  "description": {
+    "en": "This business directory allows you to search for company names and provides information on their address, email, phone number, activity."
+  },
+  "coverage": [
+    "AE"
+  ],
+  "subnationalCoverage": [
+    "AE-SH"
+  ],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "AE-SCCI",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": "",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "",
+    "languages": [
+      ""
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "ProZorro Business Register Research",
+    "lastUpdated": "2017-11-16"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
