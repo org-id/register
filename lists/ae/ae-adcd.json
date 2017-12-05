@@ -1,0 +1,49 @@
+{
+  "name": {
+    "en": "Abu Dhabi Commercial Directory",
+    "local": "دليل أبوظبي التجاري"
+  },
+  "url": "http://www.abudhabichamber.ae/English/E-Services/Pages/EServices-Page.aspx?sm=1&ty=s",
+  "description": {
+    "en": "This register includes information on companies' Unified no., Membership no., name, address, phone number, email, activity etc."
+  },
+  "coverage": [
+    "AE"
+  ],
+  "subnationalCoverage": [
+    "AE-AZ"
+  ],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "AE-ADCD",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": "",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "",
+    "languages": [
+      ""
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "ProZorro Business Register Research",
+    "lastUpdated": "2017-11-16"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
