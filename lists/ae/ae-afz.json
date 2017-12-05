@@ -1,0 +1,49 @@
+{
+  "name": {
+    "en": "Ajman Free Zone Authority",
+    "local": "سلطة المنطقة الحرة في عجمان"
+  },
+  "url": "http://www.afz.gov.ae/",
+  "description": {
+    "en": "The authority's website can be used to find its address, email and call center contacts. No clear search functionality directly on the website."
+  },
+  "coverage": [
+    "AE"
+  ],
+  "subnationalCoverage": [
+    "AE-AJ"
+  ],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "AE-AFZ",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": "",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "",
+    "languages": [
+      ""
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "ProZorro Business Register Research",
+    "lastUpdated": "2017-11-16"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
