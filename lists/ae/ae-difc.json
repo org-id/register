@@ -1,0 +1,49 @@
+{
+  "name": {
+    "en": "Dubai International Financial Centre",
+    "local": "مركز دبي المالي العالمي"
+  },
+  "url": "https://www.difc.ae/public-register",
+  "description": {
+    "en": "This register includes information on companies' name, registration number, activity, phone number, address, etc."
+  },
+  "coverage": [
+    "AE"
+  ],
+  "subnationalCoverage": [
+    "AE-DU"
+  ],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "AE-DIFC",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": "",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "",
+    "languages": [
+      ""
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "ProZorro Business Register Research",
+    "lastUpdated": "2017-11-16"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
