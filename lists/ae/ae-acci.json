@@ -1,0 +1,49 @@
+{
+  "name": {
+    "en": "Ajman Chamber of Commerce and Industry",
+    "local": "غرفة تجارة وصناعة عجمان"
+  },
+  "url": "https://www.ajmanchamber.ae/en/Pages/default.aspx",
+  "description": {
+    "en": "There are 2 types of search available: Commercial search and Industrial search. You can also use an online enquiry form to find the required information. The contact details of Ajman Chamber and the heads of its sectors are also available."
+  },
+  "coverage": [
+    "AE"
+  ],
+  "subnationalCoverage": [
+    "AE-AJ"
+  ],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "AE-ACCI",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": "",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "",
+    "languages": [
+      ""
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "ProZorro Business Register Research",
+    "lastUpdated": "2017-11-16"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
