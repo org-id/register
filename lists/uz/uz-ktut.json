@@ -1,0 +1,49 @@
+{
+  "name": {
+    "en": "United State Register of Corporate Entites",
+    "local": "Корхоналар ва ташкилотларнинг ягона давлат"
+  },
+  "url": "https://my.gov.uz/uz/regService/413",
+  "description": {
+    "en": "The State Statistics Committee of the Republic of Uzbekistan maintans the United State Register of Corporate Entites and organizations (Корхоналар ва ташкилотларнинг ягона давлат)"
+  },
+  "coverage": [
+    "UZ"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "UZ-KTUT",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": "",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "There is no free-of-charge search functionality or English interface. There are a couple of ways to place an enquiry (via phone, email, fax etc). An extract from the registry contains entity's legal name,  KTUT number (OKPO, legal entity indentification code), INN number (taxpayer's number), registration details etc. Example extract can be found at http://official2.gov.uz/uploads/RequiredDocs/d9f16dfe1c0daa2b91907b683414fbee.PNG",
+    "exampleIdentifiers": "2365119",
+    "languages": [
+      "uz"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "ProZorro Business Register Research",
+    "lastUpdated": "2017-11-16"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
