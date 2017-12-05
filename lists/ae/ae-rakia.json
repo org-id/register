@@ -1,0 +1,49 @@
+{
+  "name": {
+    "en": "Ras Al Khaimah Investment Authority",
+    "local": "هيئة رأس الخيمة للاستثمار"
+  },
+  "url": "http://www.rakia.ae/",
+  "description": {
+    "en": "There is no open registry but you can request more information via the contact form on the website or a phone call."
+  },
+  "coverage": [
+    "AE"
+  ],
+  "subnationalCoverage": [
+    "AE-RK"
+  ],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "AE-RAKIA",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": "",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "",
+    "languages": [
+      ""
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "ProZorro Business Register Research",
+    "lastUpdated": "2017-11-16"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
