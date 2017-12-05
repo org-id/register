@@ -1,0 +1,49 @@
+{
+  "name": {
+    "en": "Umm al-Quwain Chamber of Commerce and Industry",
+    "local": "غرفة تجارة وصناعة أم القيوين"
+  },
+  "url": "http://www.uaqchamber.ae/",
+  "description": {
+    "en": "This register includes information about company name, PO box, address, activity, registration date."
+  },
+  "coverage": [
+    "AE"
+  ],
+  "subnationalCoverage": [
+    "AE-UQ"
+  ],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "AE-UQCCI",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": "",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "",
+    "languages": [
+      ""
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "ProZorro Business Register Research",
+    "lastUpdated": "2017-11-16"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
