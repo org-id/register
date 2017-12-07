@@ -30,7 +30,7 @@
             "html"
         ]
     },
-    "deprecated": null,
+    "deprecated": true,
     "structure": [
         "company"
     ],
