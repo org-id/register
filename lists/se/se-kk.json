@@ -18,7 +18,7 @@
   "sector": [],
   "code": "SE-KK",
   "confirmed": true,
-  "deprecated": false,
+  "deprecated": true,
   "listType": "secondary",
   "access": {
     "availableOnline": false,
