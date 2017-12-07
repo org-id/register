@@ -1,0 +1,53 @@
+{
+  "name": {
+    "en": "List of legal department names (Government of Canada)",
+    "local": "Liste d’appellation légale des ministères "
+  },
+  "url": "http://open.canada.ca/data/en/dataset/22090865-f8a6-4b83-9bad-e9d61f26a821",
+  "description": {
+    "en": "\"The dataset includes a list of legal department names and their respective numbers. The department number is assigned by the Receiver General to an organization listed in Schedules I, 1.1 and II of the Financial Administration Act authorized to use the Consolidated Revenue Fund and interface with the central systems operated by Public Works and Government Services Canada.\""
+  },
+  "coverage": [
+    "CA"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "government_agency"
+  ],
+  "sector": [],
+  "code": "CA-GOV",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "CSV and Excel versions of the list are available for download. ",
+    "publicDatabase": "http://open.canada.ca/data/en/dataset/22090865-f8a6-4b83-9bad-e9d61f26a821",
+    "guidanceOnLocatingIds": "Identifiers are in the \"Department_number-Ministère_numéro\" column in the downloadable spreadsheet.",
+    "exampleIdentifiers": "001, 097, 124",
+    "languages": [
+      "en",
+      "fr"
+    ]
+  },
+  "data": {
+    "availability": [
+      "bulk",
+      "csv",
+      "excel"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "open_license",
+    "licenseDetails": "Open Government Licence - Canada"
+  },
+  "meta": {
+    "source": "http://open.canada.ca/",
+    "lastUpdated": "2017-11-28"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
