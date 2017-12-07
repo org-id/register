@@ -11,7 +11,10 @@
     "SE"
   ],
   "subnationalCoverage": [],
-  "structure": [],
+  "structure": [
+    "company",
+    "trust"
+  ],
   "sector": [],
   "code": "SE-ON",
   "confirmed": true,
