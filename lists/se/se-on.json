@@ -42,5 +42,8 @@
     "opencorporates": "",
     "wikipedia": "https://sv.wikipedia.org/wiki/Organisationsnummer#Organisationsnummer"
   },
-  "formerPrefixes": []
+  "formerPrefixes": [
+    "SE-KK",
+    "SE-BLV"
+  ]
 }
