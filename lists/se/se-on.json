@@ -19,6 +19,7 @@
   "code": "SE-ON",
   "confirmed": true,
   "deprecated": false,
+  "listType": "primary",
   "access": {
     "availableOnline": true,
     "onlineAccessDetails": "The business register can be accessed for free through the Bolagsverket search interface https://snr4.bolagsverket.se/snrgate/startIn.do or http://www.bolagsverket.se/en/us/about/e-services/foretagsfakta. Users can search for a company by name, or by their organisationsnummer and find basic information without registering.\n\nAn alternative free-online name checker can be found at https://www.verksamt.se/sok-foretagsnamn",
