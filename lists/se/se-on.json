@@ -1,0 +1,43 @@
+{
+  "name": {
+    "en": "Organization Number (Sweden)",
+    "local": "Organisationsnummer (Sverige)"
+  },
+  "url": "",
+  "description": {
+    "en": "\"The organization number is a unique identifier assigned to legal entities, such as companies and associations. \n\nThe authority that registers the company or association when it is to be started assigns the organizational number. Most companies and associations have their organization number from the Swedish Companies Registration Office [Bolagsverket http://www.bolagsverket.se]. But also, for example, the Swedish Tax Agency and Land Survey allocate organizational numbers.\n\nFrom the Swedish Companies Registration Office, the company or association has its organization number when we have decided to register. The organization number is on the registration certificate that we send out.\"[1]\n\n[1] http://www.bolagsverket.se/ff/foretagsformer/organisationsnummer-1.7902"
+  },
+  "coverage": [],
+  "subnationalCoverage": [],
+  "structure": [],
+  "sector": [],
+  "code": "",
+  "confirmed": false,
+  "deprecated": false,
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": "",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "",
+    "languages": [
+      ""
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "open_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Desk research",
+    "lastUpdated": "2017-11-07"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
