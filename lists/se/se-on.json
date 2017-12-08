@@ -22,7 +22,7 @@
   "listType": "primary",
   "access": {
     "availableOnline": true,
-    "onlineAccessDetails": "The business register can be accessed for free through the Bolagsverket search interface https://snr4.bolagsverket.se/snrgate/startIn.do or http://www.bolagsverket.se/en/us/about/e-services/foretagsfakta. Users can search for a company by name, or by their organisationsnummer and find basic information without registering.\n\nAn alternative free-online name checker can be found at https://www.verksamt.se/sok-foretagsnamn",
+    "onlineAccessDetails": "The business register can be accessed for free through the Bolagsverket search interface https://snr4.bolagsverket.se/snrgate/startIn.do or http://www.bolagsverket.se/en/us/about/e-services/foretagsfakta. Users can search for a organisation by name, or by their organisationsnummer and find basic information without registering.\n\nAn alternative free-online name checker can be found at https://www.verksamt.se/sok-foretagsnamn\n\nThe Swedish Tax Agency (Skatteverket) searches in the reverse manner: an organisationsnummer can be confirmed to be that of a particular organisation.",
     "publicDatabase": "https://snr4.bolagsverket.se/snrgate/startIn.do",
     "guidanceOnLocatingIds": "Look for an organisationsnummer (or registration number) which is a 10-digit number in the format 000000-0000",
     "exampleIdentifiers": "556091-2148, 556012-5790",
@@ -40,7 +40,7 @@
   },
   "meta": {
     "source": "Desk research",
-    "lastUpdated": "2017-11-07"
+    "lastUpdated": "2017-11-08"
   },
   "links": {
     "opencorporates": "",
