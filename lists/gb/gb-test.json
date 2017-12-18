@@ -7,12 +7,14 @@
   "description": {
     "en": ""
   },
-  "coverage": [],
+  "coverage": [
+    "GB"
+  ],
   "subnationalCoverage": [],
   "structure": [],
   "sector": [],
-  "code": "",
-  "confirmed": false,
+  "code": "GB-TEST",
+  "confirmed": true,
   "deprecated": false,
   "access": {
     "availableOnline": false,
