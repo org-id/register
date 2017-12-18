@@ -5,7 +5,7 @@
   },
   "url": "https://get-information-schools.service.gov.uk",
   "description": {
-    "en": "Schools and colleges in England must be registered with the Department of Education, and in Wales with the Welsh Government.[1]\n\nThe Register of Schools is provided by the Department of Education and provides a URN for each school, university and other educational establishment in England and Wales.\n\nThe full Register of Schools in England is available (Alpha version) on https://registers.cloudapps.digital/registers?phase=in+progress. **The register for Welsh Schools is not yet launched and so all schools in Wales may not yet be present on this list.**\n\n[1] This includes independent schools which meet the criteria on https://www.gov.uk/independent-school-registration"
+    "en": "Schools and Colleges in England must be registered with the Department of Education, and in Wales with the Welsh Government.[1]\n\nThe Register of Schools is maintained by the Department of Education and provides a URN for each school, university and other educational establishment in England and Wales.\n\nThe full Register of Schools in England is available (Alpha version) on https://registers.cloudapps.digital/registers?phase=in+progress. **The register for Welsh Schools is not yet launched and so all schools in Wales may not yet be present on this list.**\n\n[1] This includes independent schools which meet the criteria on https://www.gov.uk/independent-school-registration"
   },
   "coverage": [
     "GB"
