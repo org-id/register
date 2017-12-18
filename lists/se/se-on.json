@@ -1,0 +1,53 @@
+{
+  "name": {
+    "en": "Business Registration Number (Organisationsnummer), Sweden",
+    "local": "Organisationsnummer, Sverige"
+  },
+  "url": "http://www.bolagsverket.se/ff/foretagsformer/organisationsnummer-1.7902",
+  "description": {
+    "en": "\"The organization number is a unique identifier assigned to legal entities, such as companies and associations. \n\nThe authority that registers the company or association when it is to be started assigns the organizational number. Most companies and associations have their organization number from the Swedish Companies Registration Office [Bolagsverket http://www.bolagsverket.se]. But also, for example, the Swedish Tax Agency and Land Survey allocate organizational numbers.\n\nFrom the Swedish Companies Registration Office, the company or association has its organization number when we have decided to register. The organization number is on the registration certificate that we send out.\"[1]\n\n\"The first digit of the organization number is called \"Group Number\" and specifies the company form or other legal form to which the legal entity is grouped. The following group numbers may occur.\n\n1 - Death certificate\n2 - State, county council, municipalities, parishes\n3 - Foreign companies engaged in business activities or own real estate in Sweden\n5 - Aktiebolag\n6 - Single company\n7 - Economic associations , tenant-owner associations\n8 - Ideal associations and foundations\n9 - Trading companies , limited companies and simple companies\"[2]\n\n[1] http://www.bolagsverket.se/ff/foretagsformer/organisationsnummer-1.7902\n[2] https://sv.wikipedia.org/wiki/Organisationsnummer#Organisationsnummer"
+  },
+  "coverage": [
+    "SE"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company",
+    "trust"
+  ],
+  "sector": [],
+  "code": "SE-ON",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "The business register can be accessed for free through the Bolagsverket search interface https://snr4.bolagsverket.se/snrgate/startIn.do or http://www.bolagsverket.se/en/us/about/e-services/foretagsfakta. Users can search for a organisation by name, or by their organisationsnummer and find basic information without registering.\n\nAn alternative free-online name checker can be found at https://www.verksamt.se/sok-foretagsnamn\n\nThe Swedish Tax Agency (Skatteverket) searches in the reverse manner: an organisationsnummer can be confirmed to be that of a particular organisation.",
+    "publicDatabase": "https://snr4.bolagsverket.se/snrgate/startIn.do",
+    "guidanceOnLocatingIds": "Look for an organisationsnummer (or registration number) which is a 10-digit number in the format 000000-0000",
+    "exampleIdentifiers": "556091-2148, 556012-5790",
+    "languages": [
+      "SE"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Desk research",
+    "lastUpdated": "2017-11-08"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": "https://sv.wikipedia.org/wiki/Organisationsnummer#Organisationsnummer"
+  },
+  "formerPrefixes": [
+    "SE-KK",
+    "SE-BLV"
+  ]
+}
