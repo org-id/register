@@ -5,7 +5,7 @@
   },
   "url": "https://get-information-schools.service.gov.uk",
   "description": {
-    "en": "All educational establishments in the United Kingdom must be registered with the Department of Education. Edubase is provided by the Department of Education and provides a URN for each school, university and other educational establishment in England and Wales.\n\nHowever, the EduBase CSV contains 4,248 records, and therefore cannot be said to be a complete dataset for all educational establishments in England and Wales. \n\n\"In January 2012, there were 8.2 million pupils attending 24,372 schools in England \" [1] \n\n[1] https://www.gov.uk/government/publications/number-of-schools-teachers-and-students-in-england"
+    "en": "All educational establishments in England must be registered with the Department of Education. \n\nThe Register of Schools is provided by the Department of Education and provides a URN for each school, university and other educational establishment in England and Wales.\n\nThe database currently contains 30,032 records for England and Wales, whereas the (Alpha) Schools England Register has 42,357 entries[1], so it is unclear whether this is a fully representative list."
   },
   "coverage": [
     "GB"
