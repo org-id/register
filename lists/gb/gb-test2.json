@@ -1,0 +1,43 @@
+{
+  "name": {
+    "en": "Newlist2",
+    "local": ""
+  },
+  "url": "",
+  "description": {
+    "en": ""
+  },
+  "coverage": [],
+  "subnationalCoverage": [],
+  "structure": [],
+  "sector": [],
+  "code": "GB-TEST2",
+  "confirmed": true,
+  "deprecated": false,
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": "",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "",
+    "languages": [
+      ""
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "open_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "",
+    "lastUpdated": ""
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
