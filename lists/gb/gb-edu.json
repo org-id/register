@@ -1,11 +1,11 @@
 {
   "name": {
     "en": "Register of Schools (England and Wales)",
-    "local": "Formerly 'Edubase', Department of Education"
+    "local": "'Edubase', UK Register of Learning Providers"
   },
   "url": "https://get-information-schools.service.gov.uk",
   "description": {
-    "en": "All educational establishments in England must be registered with the Department of Education. \n\nThe Register of Schools is provided by the Department of Education and provides a URN for each school, university and other educational establishment in England and Wales.\n\nThe database currently contains 30,032 records for England and Wales, whereas the (Alpha) Schools England Register has 42,357 entries[1], so it is unclear whether this is a fully representative list."
+    "en": "Schools and colleges in England must be registered with the Department of Education, and in Wales with the Welsh Government.[1]\n\nThe Register of Schools is provided by the Department of Education and provides a URN for each school, university and other educational establishment in England and Wales.\n\nThe full Register of Schools in England is available (Alpha version) on https://registers.cloudapps.digital/registers?phase=in+progress. **The register for Welsh Schools is not yet launched and so all schools in Wales may not yet be present on this list.**\n\n[1] This includes independent schools which meet the criteria on https://www.gov.uk/independent-school-registration"
   },
   "coverage": [
     "GB"
@@ -27,9 +27,9 @@
   "listType": "secondary",
   "access": {
     "availableOnline": true,
-    "onlineAccessDetails": "Users can search for an educational establishment on this webpage - https://get-information-schools.service.gov.uk",
+    "onlineAccessDetails": "Users can search for an educational establishment on this webpage https://get-information-schools.service.gov.uk",
     "publicDatabase": "https://get-information-schools.service.gov.uk",
-    "guidanceOnLocatingIds": "After conducting a search and selecting a school, college etc from the search results, the identifier will be next to the heading 'URN'.\n\nUsers can also download a CSV or Excel file of search results data by clicking on 'Download these search results', or access the full register from https://registers.cloudapps.digital/registers",
+    "guidanceOnLocatingIds": "After conducting a search and selecting a school, college etc from the search results, the identifier will be next to the heading 'URN'.\n\nUsers can also download a CSV or Excel file of search results data by clicking on 'Download these search results', or access the full open data register from https://registers.cloudapps.digital/registers in a variety of alternative formats.",
     "exampleIdentifiers": "125554, 125756, 134533",
     "languages": [
       "en"
