@@ -1,16 +1,19 @@
 {
   "name": {
-    "en": "Edubase, by the Department of Education",
-    "local": ""
+    "en": "Register of Schools (England and Wales)",
+    "local": "'Edubase', UK Register of Learning Providers"
   },
-  "url": "http://www.education.gov.uk/edubase/home.xhtml",
+  "url": "https://get-information-schools.service.gov.uk",
   "description": {
-    "en": "All educational establishments in the United Kingdom must be registered with the Department of Education. Edubase is provided by the Department of Education and provides a URN for each school, university and other educational establishment in England and Wales.\n\nHowever, the EduBase CSV contains 4,248 records, and therefore cannot be said to be a complete dataset for all educational establishments in England and Wales. \n\n\"In January 2012, there were 8.2 million pupils attending 24,372 schools in England \" [1] \n\n[1] https://www.gov.uk/government/publications/number-of-schools-teachers-and-students-in-england"
+    "en": "Schools and Colleges in England must be registered with the Department of Education, and in Wales with the Welsh Government.[1]\n\nThe Register of Schools is maintained by the Department of Education and provides a URN for each school, university and other educational establishment in England and Wales.\n\nThe full Register of Schools in England is available (Alpha version) on https://registers.cloudapps.digital/registers?phase=in+progress. **The register for Welsh Schools is not yet launched and so all schools in Wales may not yet be present on this list.**\n\n[1] This includes independent schools which meet the criteria on https://www.gov.uk/independent-school-registration"
   },
   "coverage": [
     "GB"
   ],
-  "subnationalCoverage": [],
+  "subnationalCoverage": [
+    "GB-ENG",
+    "GB-WLS"
+  ],
   "structure": [
     "government_agency/public_service",
     "government_agency"
@@ -24,9 +27,9 @@
   "listType": "secondary",
   "access": {
     "availableOnline": true,
-    "onlineAccessDetails": "Users can search using an easy to use form, or downloading the CSV.",
-    "publicDatabase": "http://www.education.gov.uk/edubase/home.xhtml",
-    "guidanceOnLocatingIds": "Users can search for an educational establishment on this webpage - http://www.education.gov.uk/edubase/home.xhtml\n\nAfter conducting a search and selecting a school, college etc from the search results, the identifier will be next to the subject heading 'URN'\n\nUsers can also download a CSV of the EduBase data by scrolling down the same webpage and clicking on the 'All EduBase data.csv ' link under 'Data Downloads'",
+    "onlineAccessDetails": "Users can search for an educational establishment on this webpage https://get-information-schools.service.gov.uk",
+    "publicDatabase": "https://get-information-schools.service.gov.uk",
+    "guidanceOnLocatingIds": "After conducting a search and selecting a school, college etc from the search results, the identifier will be next to the heading 'URN'.\n\nUsers can also download a CSV or Excel file of search results data by clicking on 'Download these search results', or access the full open data register from https://registers.cloudapps.digital/registers in a variety of alternative formats.",
     "exampleIdentifiers": "125554, 125756, 134533",
     "languages": [
       "en"
@@ -34,19 +37,26 @@
   },
   "data": {
     "availability": [
-      "csv"
+      "api",
+      "bulk",
+      "csv",
+      "json",
+      "excel"
     ],
-    "dataAccessDetails": "",
+    "dataAccessDetails": "The 'School Eng Register' is available at https://school-eng.alpha.openregister.org/ and contains the URN or 'key' as the identifier.\n\nA downloadable register for Wales is in progress but not yet available (Dec 2017)",
     "features": [
-      "registered_address",
-      "registration_number"
+      "date_of_registration",
+      "number_of_employees",
+      "registration_number",
+      "expiry_date",
+      "status"
     ],
     "licenseStatus": "open_license",
-    "licenseDetails": ""
+    "licenseDetails": "UK Open Government Licence v3 https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
   },
   "meta": {
     "source": "Desk research",
-    "lastUpdated": "2016-11-23"
+    "lastUpdated": "2017-12-18"
   },
   "links": {
     "opencorporates": "",
