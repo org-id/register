@@ -11,7 +11,10 @@ def update_schema(schema,filename,codelist,target,array=True):
         filedata = json.loads(file.read(),object_pairs_hook=collections.OrderedDict)
         for code in filedata[codelist]:
             enum.append(code['code'])
-            enum_titles.append(code['title']['en'])
+            try:
+                enum_titles.append(code['countryCode'] + " > " + code['title']['en'])
+            except:
+                enum_titles.append(code['title']['en'])
 
     if "/" in target:
         if array:
