@@ -12,8 +12,8 @@
     "coverage": [
         "CA"
     ],
-    "code": "CA_ON-ONT",
-    "formerPrefixes": null,
+    "code": "CA-ON_ONT",
+    "formerPrefixes": ["CA_ON-ONT"],
     "confirmed": true,
     "data": {
         "features": null,

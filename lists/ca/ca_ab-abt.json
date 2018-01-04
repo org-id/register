@@ -12,8 +12,8 @@
     "coverage": [
         "CA"
     ],
-    "code": "CA_AB-ABT",
-    "formerPrefixes": null,
+    "code": "CA-AB_ABT",
+    "formerPrefixes": ["CA_AB-ABT"],
     "confirmed": true,
     "data": {
         "features": null,

@@ -12,8 +12,8 @@
     "coverage": [
         "CA"
     ],
-    "code": "CA_NU-NNV",
-    "formerPrefixes": null,
+    "code": "CA-NU_NNV",
+    "formerPrefixes": ["CA_NU-NNV"],
     "confirmed": true,
     "data": {
         "features": null,

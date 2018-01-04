@@ -12,8 +12,8 @@
     "coverage": [
         "CA"
     ],
-    "code": "CA_BC-BRC_CBR",
-    "formerPrefixes": null,
+    "code": "CA-BC_BRC_CBR",
+    "formerPrefixes": ["CA_BC-BRC_CBR"],
     "confirmed": true,
     "data": {
         "features": null,

@@ -12,8 +12,8 @@
     "coverage": [
         "CA"
     ],
-    "code": "CA_YT-YKT",
-    "formerPrefixes": null,
+    "code": "CA-YT_YKT",
+    "formerPrefixes": ["CA_YT-YKT"],
     "confirmed": true,
     "data": {
         "features": null,

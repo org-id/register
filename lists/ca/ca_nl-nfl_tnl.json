@@ -12,8 +12,8 @@
     "coverage": [
         "CA"
     ],
-    "code": "CA_NL-NFL_TNL",
-    "formerPrefixes": null,
+    "code": "CA-NL_NFL_TNL",
+    "formerPrefixes": ["CA_NL-NFL_TNL"],
     "confirmed": true,
     "data": {
         "features": null,

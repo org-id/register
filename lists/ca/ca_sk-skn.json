@@ -12,8 +12,8 @@
     "coverage": [
         "CA"
     ],
-    "code": "CA_SK-SKN",
-    "formerPrefixes": null,
+    "code": "CA-SK_SKN",
+    "formerPrefixes": ["CA_SK-SKN"],
     "confirmed": true,
     "data": {
         "features": null,

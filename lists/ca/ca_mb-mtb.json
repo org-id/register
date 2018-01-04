@@ -12,8 +12,8 @@
     "coverage": [
         "CA"
     ],
-    "code": "CA_MB-MTB",
-    "formerPrefixes": null,
+    "code": "CA-MB_MTB",
+    "formerPrefixes": ["CA_MB-MTB"],
     "confirmed": true,
     "data": {
         "features": null,

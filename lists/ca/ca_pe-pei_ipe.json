@@ -12,8 +12,8 @@
     "coverage": [
         "CA"
     ],
-    "code": "CA_PE-PEI_IPE",
-    "formerPrefixes": null,
+    "code": "CA-PE_PEI_IPE",
+    "formerPrefixes": ["CA_PE-PEI_IPE"],
     "confirmed": true,
     "data": {
         "features": null,

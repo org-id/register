@@ -12,8 +12,8 @@
     "coverage": [
         "CA"
     ],
-    "code": "CA_NT-NWT_TNO",
-    "formerPrefixes": null,
+    "code": "CA-NT_NWT_TNO",
+    "formerPrefixes": ["CA_NT-NWT_TNO"],
     "confirmed": true,
     "data": {
         "features": null,

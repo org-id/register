@@ -12,8 +12,8 @@
     "coverage": [
         "CA"
     ],
-    "code": "CA_QC-QBC",
-    "formerPrefixes": null,
+    "code": "CA-QC_QBC",
+    "formerPrefixes": ["CA_QC-QBC"],
     "confirmed": true,
     "data": {
         "features": null,

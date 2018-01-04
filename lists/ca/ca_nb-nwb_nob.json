@@ -12,8 +12,8 @@
     "coverage": [
         "CA"
     ],
-    "code": "CA_NB-NWB_NOB",
-    "formerPrefixes": null,
+    "code": "CA-NB_NWB_NOB",
+    "formerPrefixes": ["CA_NB-NWB_NOB"],
     "confirmed": true,
     "data": {
         "features": null,

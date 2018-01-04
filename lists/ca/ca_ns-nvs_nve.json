@@ -12,8 +12,8 @@
     "coverage": [
         "CA"
     ],
-    "code": "CA_NS-NVS_NVE",
-    "formerPrefixes": null,
+    "code": "CA-NS_NVS_NVE",
+    "formerPrefixes": ["CA_NS-NVS_NVE"],
     "confirmed": true,
     "data": {
         "features": null,
