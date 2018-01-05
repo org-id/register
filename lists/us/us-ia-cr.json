@@ -12,7 +12,7 @@
     "coverage": [
         "US"
     ],
-    "code": "US-IA-CR",
+    "code": "US-IA_CR",
     "formerPrefixes": null,
     "confirmed": null,
     "data": {
@@ -44,7 +44,7 @@
         "guidanceOnLocatingIds": null
     },
     "subnationalCoverage": [
-        "US_IA"
+        "US-IA"
     ],
     "listType": null
 }

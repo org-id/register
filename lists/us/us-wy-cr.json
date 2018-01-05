@@ -12,7 +12,7 @@
     "coverage": [
         "US"
     ],
-    "code": "US-WY-CR",
+    "code": "US-WY_CR",
     "formerPrefixes": null,
     "confirmed": null,
     "data": {
@@ -46,7 +46,7 @@
         "guidanceOnLocatingIds": null
     },
     "subnationalCoverage": [
-        "US_WY"
+        "US-WY"
     ],
     "listType": null
 }

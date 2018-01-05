@@ -12,7 +12,7 @@
     "coverage": [
         "US"
     ],
-    "code": "US-SC-CR",
+    "code": "US-SC_CR",
     "formerPrefixes": null,
     "confirmed": null,
     "data": {
@@ -42,7 +42,7 @@
         "guidanceOnLocatingIds": null
     },
     "subnationalCoverage": [
-        "US_SC"
+        "US-SC"
     ],
     "listType": null
 }

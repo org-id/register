@@ -4,22 +4,22 @@
         "opencorporates": null
     },
     "sector": null,
-    "url": "http://www.dubaichamber.com/en/resources/commercial-directory",
+    "url": "http://www.rakchamber.ae/",
     "name": {
-        "en": "Dubai Chamber of Commerce and Industry- Commercial Directory",
+        "en": "Ras al-Khaimah Chamber of Commerce and Industry",
         "local": ""
     },
     "coverage": [
         "AE"
     ],
-    "code": "AE_DU-CR",
+    "code": "AE-RK_CR",
     "formerPrefixes": null,
     "confirmed": null,
     "data": {
         "features": null,
         "dataAccessDetails": null,
         "licenseDetails": null,
-        "licenseStatus": "no_license",
+        "licenseStatus": "closed_license",
         "availability": null
     },
     "deprecated": null,
@@ -42,7 +42,7 @@
         "guidanceOnLocatingIds": null
     },
     "subnationalCoverage": [
-        "AE_DU"
+        "AE-RK"
     ],
     "listType": null
 }
