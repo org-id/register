@@ -5,7 +5,7 @@
   },
   "url": "http://www.ccd.gov.jo/",
   "description": {
-    "en": "The Companies Control Department is an independent national financial and administrative institution affiliated to the Minister of Industry and Trade in Jordan under the provisions of the amended Companies Law No. (40) of 2002. The work of the department is governed by the 1997 Companies Law No.\n\nThe department is responsible for registration of various types of companies within the Hashemite Kingdom of Jordan, including non-profit companies. \n\nIt maintains a number of online services for searching company information. "
+    "en": "The Companies Control Department is an independent national financial and administrative institution affiliated to the Minister of Industry and Trade in Jordan under the provisions of the amended Companies Law No. (40) of 2002. The work of the department is governed by the 1997 Companies Law No.\n\nThe Department is responsible for registration of various types of companies within the Hashemite Kingdom of Jordan, including non-profit companies. \n\nIt maintains a number of online services for searching company information at http://www.ccd.gov.jo/e-services/home/db available in Arabic only."
   },
   "coverage": [
     "JO"
@@ -24,8 +24,8 @@
     "availableOnline": true,
     "onlineAccessDetails": "The CCD offer e-Services which provide search via company name, board members, company number and national identifier numbers. ",
     "publicDatabase": "http://www.ccd.gov.jo/e-services/home/db",
-    "guidanceOnLocatingIds": "Search and results are only available in Arabic. You may need to use a translation service to access information in English. \n\nThe search will generally return two identifiers. It is the national number/ national identifier that should be used. \n\nFor some old companies, a national number may not be available. \n\nThe other identifier will be accompanied by an organisation type (e.g. non-profit, limited company) and these numbers may only be unique for that type of organisation not across all organisations. These numbers should be be used with the JO-CCD prefix. ",
-    "exampleIdentifiers": "200138796, 200063296, 200115256",
+    "guidanceOnLocatingIds": "Search terms and results are only available in Arabic. You may need to use a translation service to access information in English. \n\nThe search will generally return two identifiers. It is the national number of origin/establishment or national identifier that should be used with the JO-CCD prefix.\n\nFor some old companies, a national number may not be available. \n\nThe other identifier will be accompanied by an organisation type (e.g. non-profit, limited company) and these numbers may only be unique for that type of organisation not across all organisations. These numbers should be be used with the JO-CCD prefix. ",
+    "exampleIdentifiers": "200105534, 200138796, 200063296, 200115256",
     "languages": [
       "ar"
     ]
@@ -53,7 +53,7 @@
   },
   "meta": {
     "source": "Desk research",
-    "lastUpdated": "2017-08-24"
+    "lastUpdated": "2018-01-10"
   },
   "links": {
     "opencorporates": "",
