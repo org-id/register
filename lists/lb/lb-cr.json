@@ -4,43 +4,43 @@
         "opencorporates": null
     },
     "sector": null,
-    "url": "http://www.dawlati.gov.lb/",
+    "url": "http://cr.justice.gov.lb/desc/desc.aspx",
     "name": {
-        "en": "Ministry of Justice, Company Registry",
-        "local": ""
+        "en": "Lebanese Ministry of Justice, Commercial Register",
+        "local": " وزارة العدل اللبنانية، السجل التجاري"
     },
     "coverage": [
         "LB"
     ],
     "code": "LB-CR",
     "formerPrefixes": null,
-    "confirmed": null,
+    "confirmed": true,
     "data": {
         "features": null,
-        "dataAccessDetails": null,
-        "licenseDetails": null,
+        "dataAccessDetails": "",
+        "licenseDetails": "",
         "licenseStatus": "closed_license",
         "availability": null
     },
-    "deprecated": null,
+    "deprecated": false,
     "structure": [
         "company"
     ],
     "description": {
-        "en": "This entry was imported from the Open Corporates Jurisdiction List."
+        "en": "'Article 23 of the Lebanese Trade Law stipulates that 'every court of first instance shall have a record carefully recorded by the author under the supervision of the President or a judge appointed by the President specifically in each year'. The Clerk of the Court is limited to the recording of data submitted by stakeholders without examination or scrutiny and without verifying their validity.\n\nThe Commercial Register is divided into two types:\n- a general register in which traders and companies register.\n- A special register in which commercial establishments and contracts are registered'[1]\n\n[1]: http://cr.justice.gov.lb/desc/desc.aspx (translated)"
     },
     "meta": {
-        "lastUpdated": "2016-09-07",
-        "source": null
+        "lastUpdated": "2018-01-12",
+        "source": "Desk research"
     },
     "access": {
-        "languages": null,
-        "exampleIdentifiers": null,
-        "onlineAccessDetails": null,
-        "publicDatabase": null,
-        "availableOnline": false,
-        "guidanceOnLocatingIds": null
+        "languages": ["ar"],
+        "exampleIdentifiers": "77621, 77668, 1500001",
+        "onlineAccessDetails": "There is a freely accessible serach interface at http://cr.justice.gov.lb/ where companies can be searched by name or record number (in Arabic only). More information about each company is given in the search results, including address, type of activites, officers, date of registration and legal form.",
+        "publicDatabase": "http://cr.justice.gov.lb/",
+        "availableOnline": true,
+        "guidanceOnLocatingIds": "Use the registration number (رقم التسجيل) given for each company."
     },
     "subnationalCoverage": null,
-    "listType": null
+    "listType": "primary"
 }
