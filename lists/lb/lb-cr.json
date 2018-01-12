@@ -34,7 +34,7 @@
         "source": "Desk research"
     },
     "access": {
-        "languages": ["en"],
+        "languages": ["ar"],
         "exampleIdentifiers": "77621, 77668, 1500001",
         "onlineAccessDetails": "There is a freely accessible serach interface at http://cr.justice.gov.lb/ where companies can be searched by name or record number (in Arabic only). More information about each company is given in the search results, including address, type of activites, officers, date of registration and legal form.",
         "publicDatabase": "http://cr.justice.gov.lb/",
