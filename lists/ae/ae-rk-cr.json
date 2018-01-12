@@ -14,7 +14,7 @@
     ],
     "code": "AE-RK_CR",
     "formerPrefixes": null,
-    "confirmed": null,
+    "confirmed": true,
     "data": {
         "features": null,
         "dataAccessDetails": null,
@@ -30,7 +30,7 @@
         "en": "This entry was imported from the Open Corporates Jurisdiction List."
     },
     "meta": {
-        "lastUpdated": "2016-09-07",
+        "lastUpdated": "2018-01-12",
         "source": null
     },
     "access": {
