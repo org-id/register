@@ -4,15 +4,15 @@
         "opencorporates": null
     },
     "sector": null,
-    "url": "http://www.abudhabichamber.ae/English/E-Services/Pages/EServices-Page.aspx?sm=1%20&ty=s",
+    "url": "http://www.sharjah.gov.ae/EN/Services/Pages/BusinessDirectory.aspx",
     "name": {
-        "en": "Abu Dhabi Chamber of Commerce and Industry- Online Commercial Directory",
+        "en": "Sharjah Chamber of Commerce and Industry- Business Directory",
         "local": ""
     },
     "coverage": [
         "AE"
     ],
-    "code": "AE_AZ-CR",
+    "code": "AE-SH_CR",
     "formerPrefixes": null,
     "confirmed": null,
     "data": {
@@ -42,7 +42,7 @@
         "guidanceOnLocatingIds": null
     },
     "subnationalCoverage": [
-        "AE_AZ"
+        "AE-SH"
     ],
     "listType": null
 }

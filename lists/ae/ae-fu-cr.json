@@ -4,22 +4,22 @@
         "opencorporates": null
     },
     "sector": null,
-    "url": "http://www.sharjah.gov.ae/EN/Services/Pages/BusinessDirectory.aspx",
+    "url": "http://www.flashgrpclient.com/fujdir/",
     "name": {
-        "en": "Sharjah Chamber of Commerce and Industry- Business Directory",
+        "en": "Fujairah Chamber of Commerce & Industry- Online Directory",
         "local": ""
     },
     "coverage": [
         "AE"
     ],
-    "code": "AE_SH-CR",
+    "code": "AE-FU_CR",
     "formerPrefixes": null,
     "confirmed": null,
     "data": {
         "features": null,
         "dataAccessDetails": null,
         "licenseDetails": null,
-        "licenseStatus": "no_license",
+        "licenseStatus": "closed_license",
         "availability": null
     },
     "deprecated": null,
@@ -42,7 +42,7 @@
         "guidanceOnLocatingIds": null
     },
     "subnationalCoverage": [
-        "AE_SH"
+        "AE-FU"
     ],
     "listType": null
 }

@@ -12,7 +12,7 @@
     "coverage": [
         "US"
     ],
-    "code": "US-SD-CR",
+    "code": "US-SD_CR",
     "formerPrefixes": null,
     "confirmed": null,
     "data": {
@@ -42,7 +42,7 @@
         "guidanceOnLocatingIds": null
     },
     "subnationalCoverage": [
-        "US_SD"
+        "US-SD"
     ],
     "listType": null
 }

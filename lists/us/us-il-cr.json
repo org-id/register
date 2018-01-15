@@ -12,7 +12,7 @@
     "coverage": [
         "US"
     ],
-    "code": "US-IL-CR",
+    "code": "US-IL_CR",
     "formerPrefixes": null,
     "confirmed": null,
     "data": {
@@ -42,7 +42,7 @@
         "guidanceOnLocatingIds": null
     },
     "subnationalCoverage": [
-        "US_IL"
+        "US-IL"
     ],
     "listType": null
 }

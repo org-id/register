@@ -12,7 +12,7 @@
     "coverage": [
         "US"
     ],
-    "code": "US-LA-CR",
+    "code": "US-LA_CR",
     "formerPrefixes": null,
     "confirmed": null,
     "data": {
@@ -42,7 +42,7 @@
         "guidanceOnLocatingIds": null
     },
     "subnationalCoverage": [
-        "US_LA"
+        "US-LA"
     ],
     "listType": null
 }

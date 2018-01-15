@@ -12,7 +12,7 @@
     "coverage": [
         "US"
     ],
-    "code": "US-WA-CR",
+    "code": "US-WA_CR",
     "formerPrefixes": null,
     "confirmed": null,
     "data": {
@@ -44,7 +44,7 @@
         "guidanceOnLocatingIds": null
     },
     "subnationalCoverage": [
-        "US_WA"
+        "US-WA"
     ],
     "listType": null
 }

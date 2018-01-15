@@ -12,7 +12,7 @@
     "coverage": [
         "US"
     ],
-    "code": "US-MD-CR",
+    "code": "US-MD_CR",
     "formerPrefixes": null,
     "confirmed": null,
     "data": {
@@ -42,7 +42,7 @@
         "guidanceOnLocatingIds": null
     },
     "subnationalCoverage": [
-        "US_MD"
+        "US-MD"
     ],
     "listType": null
 }

@@ -12,7 +12,7 @@
     "coverage": [
         "US"
     ],
-    "code": "US-KY-CR",
+    "code": "US-KY_CR",
     "formerPrefixes": null,
     "confirmed": null,
     "data": {
@@ -42,7 +42,7 @@
         "guidanceOnLocatingIds": null
     },
     "subnationalCoverage": [
-        "US_KY"
+        "US-KY"
     ],
     "listType": null
 }

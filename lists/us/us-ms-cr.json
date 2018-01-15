@@ -12,7 +12,7 @@
     "coverage": [
         "US"
     ],
-    "code": "US-MS-CR",
+    "code": "US-MS_CR",
     "formerPrefixes": null,
     "confirmed": null,
     "data": {
@@ -42,7 +42,7 @@
         "guidanceOnLocatingIds": null
     },
     "subnationalCoverage": [
-        "US_MS"
+        "US-MS"
     ],
     "listType": null
 }

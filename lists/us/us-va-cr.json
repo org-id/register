@@ -12,7 +12,7 @@
     "coverage": [
         "US"
     ],
-    "code": "US-VA-CR",
+    "code": "US-VA_CR",
     "formerPrefixes": null,
     "confirmed": null,
     "data": {
@@ -42,7 +42,7 @@
         "guidanceOnLocatingIds": null
     },
     "subnationalCoverage": [
-        "US_VA"
+        "US-VA"
     ],
     "listType": null
 }
