@@ -1,0 +1,52 @@
+{
+  "name": {
+    "en": "Dubai Multi Commodities Centre",
+    "local": "مركز دبي للسلع المتعددة"
+  },
+  "url": "https://www.dmcc.ae/",
+  "description": {
+    "en": "Dubai Multi Commodities Centre is a Free Zone Authority established by the government of Dubai in 2002. The DMCC authority registers and licenses companies to operate in the DMCC Free Zone.\n\nN.B There is a 'Business Directory', however, this does not provide registration numbers[1] \n\n[1]: https://www.dmcc.ae/business-search"
+  },
+  "coverage": [
+    "AE"
+  ],
+  "subnationalCoverage": [
+    "AE-DU"
+  ],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "AE-DMCC",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": "",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "Use the license number given for the company (not the plot number).",
+    "exampleIdentifiers": "JLT-65609",
+    "languages": [
+      "AE",
+      "EN"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Desk research (prompted by request from publisher)",
+    "lastUpdated": "2018-01-09"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dubai_Multi_Commodities_Centre"
+  },
+  "formerPrefixes": []
+}
