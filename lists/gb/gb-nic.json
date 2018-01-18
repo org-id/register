@@ -1,69 +1,64 @@
 {
-    "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Charity_Commission_for_Northern_Ireland",
-        "opencorporates": null
-    },
-    "sector": null,
-    "url": "http://www.charitycommissionni.org.uk/charity-search/",
-    "name": {
-        "en": "The Charity Commission for Northern Ireland",
-        "local": "Register of Charities Northern Ireland (CCNI)"
-    },
-    "coverage": [
-        "GB"
+  "name": {
+    "en": "The Charity Commission for Northern Ireland",
+    "local": "Register of Charities Northern Ireland (CCNI)"
+  },
+  "url": "http://www.charitycommissionni.org.uk/charity-search/",
+  "description": {
+    "en": "The Register of Charities is an accurate and up-to-date list of all organisations in Northern Ireland considered by law to be charitable. Currently, registration is a managed process and only organisations called forward by the Commission are considered eligible to register. For more information on the Register please visit http://www.charitycommissionni.org.uk/manage-your-charity/register-your-charity/charity-registration-faqs/."
+  },
+  "coverage": [
+    "GB"
+  ],
+  "subnationalCoverage": [
+    "GB-NIR"
+  ],
+  "structure": [
+    "charity"
+  ],
+  "sector": [],
+  "code": "GB-NIC",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "Visit http://www.charitycommissionni.org.uk/charity-search/, select relevant filters and download the csv. The data is updated daily.",
+    "publicDatabase": "http://www.charitycommissionni.org.uk/charity-search/",
+    "guidanceOnLocatingIds": "Use the 'Reg charity number' field, as this is a unique registration identifier to each organisation. Though 'Sub charity number' is intended for those that are subsidiaries, in reality this is not used.",
+    "exampleIdentifiers": "100019,100048,100050",
+    "languages": [
+      "en"
+    ]
+  },
+  "data": {
+    "availability": [
+      "csv",
+      "bulk"
     ],
-    "code": "GB-NIC",
-    "formerPrefixes": null,
-    "confirmed": true,
-    "data": {
-        "features": [
-          "organisation_name",
-          "date_of_registration",
-          "registration_number",
-          "status",
-          "website",
-          "registered_address",
-          "contact_address",
-          "e-mail_address",
-          "phone_number",
-          "objectives_purpose",
-          "financial_turnover_details"
-        ],
-        "dataAccessDetails": "Visit http://www.charitycommissionni.org.uk/charity-search/, select relevant filters and download the csv. The data is updated daily.",
-        "licenseDetails": "UK Open Government Licence v3.0 (uk-ogl) http://reference.data.gov.uk/id/open-government-licence",
-        "licenseStatus": "open_license",
-        "availability": [
-          "csv",
-          "bulk"
-        ]
-    },
-    "deprecated": null,
-    "structure": [
-        "charity"
+    "dataAccessDetails": "Visit http://www.charitycommissionni.org.uk/charity-search/, select relevant filters and download the csv. The data is updated daily.",
+    "features": [
+      "date_of_registration",
+      "registration_number",
+      "status",
+      "website",
+      "registered_address",
+      "contact_address",
+      "e-mail_address",
+      "phone_number",
+      "objectives_purpose",
+      "financial_turnover_details"
     ],
-    "description": {
-        "en": "The Register of Charities is an accurate and up-to-date list of all organisations in Northern Ireland considered by law to be charitable. Currently, registration is a managed process and only organisations called forward by the Commission are considered eligible to register. For more information on the Register please visit http://www.charitycommissionni.org.uk/manage-your-charity/register-your-charity/charity-registration-faqs/."
-    },
-    "meta": {
-        "lastUpdated": "2017-08-17",
-        "source": "https://www.opendatani.gov.uk/dataset/register-of-charities"
-    },
-    "access": {
-        "languages": [
-          "en"
-        ],
-        "exampleIdentifiers": [
-          "100019",
-          "100048",
-          "100050"
-        ],
-        "onlineAccessDetails": "Visit http://www.charitycommissionni.org.uk/charity-search/, select relevant filters and download the csv. The data is updated daily.",
-        "publicDatabase": "http://www.charitycommissionni.org.uk/charity-search/",
-        "availableOnline": true,
-        "guidanceOnLocatingIds": "Use the 'Reg charity number' field, as this is a unique registration identifier to each organisation. Though 'Sub charity number' is intended for those that are subsidiaries, in reality this is not used."
-    },
-    "subnationalCoverage": [
-        "GB-NIR"
-    ],
-    "listType": "primary"
+    "licenseStatus": "open_license",
+    "licenseDetails": "UK Open Government Licence v3.0 (uk-ogl) http://reference.data.gov.uk/id/open-government-licence"
+  },
+  "meta": {
+    "source": "https://www.opendatani.gov.uk/dataset/register-of-charities",
+    "lastUpdated": "2017-08-17"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": "https://en.wikipedia.org/wiki/Charity_Commission_for_Northern_Ireland"
+  },
+  "formerPrefixes": []
 }
