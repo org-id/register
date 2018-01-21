@@ -13,7 +13,7 @@
         "GB"
     ],
     "code": "GB-GOV",
-    "formerPrefixes": null,
+    "formerPrefixes": ["GB-GOVUK"],
     "confirmed": true,
     "data": {
         "features": [
@@ -43,7 +43,7 @@
         "languages": [
             "en"
         ],
-        "exampleIdentifiers": "GB-GOV-1, GB-GOV-4",
+        "exampleIdentifiers": "1, 4, 9",
         "onlineAccessDetails": "Available as ODS file",
         "publicDatabase": "https://data.gov.uk/dataset/iati-organisation-identifier-for-uk-government-bodies",
         "availableOnline": false,

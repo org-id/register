@@ -48,7 +48,7 @@
         "languages": [
             "en"
         ],
-        "exampleIdentifiers": "XI-IATI-IADB, XI-IATI-WAI, XI-IATI-1001",
+        "exampleIdentifiers": "IADB, WAI, 1001",
         "onlineAccessDetails": null,
         "publicDatabase": "http://iatistandard.org/202/codelists/IATIOrganisationIdentifier/",
         "availableOnline": false,
