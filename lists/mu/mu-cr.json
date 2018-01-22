@@ -1,46 +1,48 @@
 {
-    "links": {
-        "wikipedia": null,
-        "opencorporates": null
-    },
-    "sector": null,
-    "url": "https://portalmns.mu/",
-    "name": {
-        "en": "Ministry of Finance and Economic Development, Companies Division - Companies and Businesses Registration Integrated System",
-        "local": ""
-    },
-    "coverage": [
-        "MU"
+  "links": {
+    "wikipedia": null,
+    "opencorporates": null
+  },
+  "sector": null,
+  "url": "http://companies.govmu.org/",
+  "name": {
+    "en": "Companies and Businesses Registration Integrated System, Mauritius",
+    "local": ""
+  },
+  "coverage": [
+    "MU"
+  ],
+  "code": "MU-CR",
+  "formerPrefixes": null,
+  "confirmed": true,
+  "data": {
+    "features": null,
+    "dataAccessDetails": null,
+    "licenseDetails": null,
+    "licenseStatus": "no_license",
+    "availability": null
+  },
+  "deprecated": false,
+  "structure": [
+    "company"
+  ],
+  "description": {
+    "en": "The Corporate and Business Registration Department has the following main functions:\n- The incorporation, registration and striking-off of companies\n- The registration of documents that must be filed under the Companies Act 2001\n- The provision of company information to the  public\n- The enforcement of compliance with the legal requirements\n- Registration of Businesses\n- The Insolvency Service\n- Registration of Limited Partnerships and Foundations"
+  },
+  "meta": {
+    "lastUpdated": "2018-01-22",
+    "source": "Desk research"
+  },
+  "access": {
+    "languages": [
+      "en"
     ],
-    "code": "MU-CR",
-    "formerPrefixes": null,
-    "confirmed": null,
-    "data": {
-        "features": null,
-        "dataAccessDetails": null,
-        "licenseDetails": null,
-        "licenseStatus": "closed_license",
-        "availability": null
-    },
-    "deprecated": null,
-    "structure": [
-        "company"
-    ],
-    "description": {
-        "en": "This entry was imported from the Open Corporates Jurisdiction List."
-    },
-    "meta": {
-        "lastUpdated": "2016-09-07",
-        "source": null
-    },
-    "access": {
-        "languages": null,
-        "exampleIdentifiers": null,
-        "onlineAccessDetails": null,
-        "publicDatabase": null,
-        "availableOnline": false,
-        "guidanceOnLocatingIds": null
-    },
-    "subnationalCoverage": null,
-    "listType": null
+    "exampleIdentifiers": "C136127, I06004428, C078008",
+    "onlineAccessDetails": "Visit https://portalmns.mu/cbris-name-search/MASTActionServlet?do=acceptlic",
+    "publicDatabase": "https://portalmns.mu/cbris-name-search/MASTActionServlet?do=acceptlic",
+    "availableOnline": true,
+    "guidanceOnLocatingIds": "For companies, use the \"Company/Partnership No\" that appears in search results and company information pages.\n\nUsers should be aware that a \"business registration number\" is also in use for some companies, which differs from the Company No/File No.\n\nFor business other than companies/partnerships (e.g. societies), use the Business Registration Number."
+  },
+  "subnationalCoverage": null,
+  "listType": "primary"
 }
