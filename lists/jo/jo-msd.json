@@ -1,0 +1,48 @@
+{
+  "name": {
+    "en": "Register of Associations, Jordan",
+    "local": "سجل الجمعيات"
+  },
+  "url": "http://www.societies.gov.jo/",
+  "description": {
+    "en": "\"The register of associations was established in the Ministry of Social Development in the Hashemite Kingdom of Jordan by virtue of the Associations Law No. (51) of 2008 and its amendments which abolished the Law of Associations and Voluntary Organizations No. 33 of 1966 and its amendments. The register of associations is the regulator of the associations sector in the Kingdom and in line with the legislation in force.\"[1]\n\n[1]: http://www.societies.gov.jo/SitePage.aspx?PageId=107 (translated from Arabic)"
+  },
+  "coverage": [
+    "JO"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity"
+  ],
+  "sector": [],
+  "code": "JO-MSD",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "The front page of http://www.societies.gov.jo has a search box where NGOs can be searched by name. The interface is available in Arabic only.",
+    "publicDatabase": "http://www.societies.gov.jo",
+    "guidanceOnLocatingIds": "Use the \"national number of association\" (الرقم الوطني للجمعية in original Arabic) as found on the search results page. \n\nThese are typically 13-digit numbers.",
+    "exampleIdentifiers": "2013011100066, 2017011116227, 2017011116153",
+    "languages": [
+      "ar"
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "open_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Desk research Open Data Services (request from IATI publisher)",
+    "lastUpdated": "2018-01-15"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
