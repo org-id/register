@@ -22,7 +22,7 @@
   "access": {
     "availableOnline": true,
     "onlineAccessDetails": "Company can be searched by legal name and corporate number. Search results provide corporate number, name, address, change history information. English interface available, search is free of charge. ",
-    "publicDatabase": "",
+    "publicDatabase": "http://www.houjin-bangou.nta.go.jp/",
     "guidanceOnLocatingIds": "",
     "exampleIdentifiers": "3000020278670",
     "languages": [
