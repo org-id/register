@@ -23,7 +23,7 @@
   "listType": "primary",
   "access": {
     "availableOnline": true,
-    "onlineAccessDetails": "The online interface allows free searches of the RUC database to be performed.",
+    "onlineAccessDetails": "The [online interface](http://www.ruc.com.py/) allows free searches of the RUC database to be performed.",
     "publicDatabase": "http://www.ruc.com.py/",
     "guidanceOnLocatingIds": "Search for organisations by name and use the 'RUC' number returned by the system.",
     "exampleIdentifiers": "80013889-9, 80007525-0, 80005190-4",
