@@ -1,0 +1,55 @@
+{
+  "name": {
+    "en": "Unique Taxpayer Registry, Paraguay",
+    "local": "Registro Único de Contribuyente del Paraguay"
+  },
+  "url": "http://www.hacienda.gov.py/web-hacienda/index.php?c=77",
+  "description": {
+    "en": "The Registro Único del Contribuyente (RUC) is the unique taxpayer registry that maintains the personal, non-transferable, identification number for all those physical persons (national or foreign) and legal entities (for-profit and non-profit) that carry out economic activities in the Paraguayan territory. \n\nThe identification number is created primarily for tax purposes."
+  },
+  "coverage": [
+    "PY"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company",
+    "charity",
+    "trust",
+    "government_agency"
+  ],
+  "sector": [],
+  "code": "PY-RUC",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "The online interface http://www.ruc.com.py/ allows free searches of the RUC database to be performed.",
+    "publicDatabase": "http://www.ruc.com.py/",
+    "guidanceOnLocatingIds": "Search for organisations by name and use the 'RUC' number returned by the system.",
+    "exampleIdentifiers": "80013889-9, 80007525-0, 80005190-4",
+    "languages": [
+      "es"
+    ]
+  },
+  "data": {
+    "availability": [
+      "csv"
+    ],
+    "dataAccessDetails": "The registry can be downloaded from separate files (zipped text format) located at http://www.set.gov.py/portal/PARAGUAY-SET/InformesPeriodicos?folder-id=repository:collaboration:/sites/PARAGUAY-SET/categories/SET/Informes%20Periodicos/listado-de-ruc-con-sus-equivalencias\n\nTo then use the identifer as they are presented on http://www.ruc.com.py/, one must combine the numbers in the first and the third columns,e.g 80013889 and 9 to make '80013889-9'\n\nThe licence is unknown.",
+    "features": [
+      "registration_number"
+    ],
+    "licenseStatus": "no_license",
+    "licenseDetails": "License unknown."
+  },
+  "meta": {
+    "source": "Request via github https://github.com/org-id/register/issues/180",
+    "lastUpdated": "2018-02-02"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
