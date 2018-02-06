@@ -5,7 +5,7 @@
   },
   "url": "http://www.hacienda.gov.py/web-hacienda/archivo.php?a=keke1117221b211c20db1d141bdedcdde2db1019ke2016131610ke111c1fdedcdde2da1d1113ke0ac&x=6262001&y=keke0ac",
   "description": {
-    "en": "Provides identifiers for organizations and institutions from the Paraguayan State, including national public bodies, administrative departments, and municipalities.\n\nFrom the National Budget Law (Presupuesto General de la Nación (PGN)) of 2016 from Paraguay:\n\n“The objective of the classification by entities is to organize information related income, spending and budgetary credits from the different state organisms and entities at various institutional levels according to their functions, nature, characteristics and dependencies.”[1]\n\nThe list is yearly updated given each the yearly national budget law.\n\n[1]: http://bit.ly/PGNPY2016"
+    "en": "Provides identifiers for organizations and institutions from the Paraguayan State, including national public bodies, administrative departments, and municipalities.\n\nFrom the National Budget Law (Presupuesto General de la Nación (PGN)) of 2016 from Paraguay:\n\n“The objective of the classification by entities is to organize information related income, spending and budgetary credits from the different state organisms and entities at various institutional levels according to their functions, nature, characteristics and dependencies.”[1]\n\nThe list is yearly updated given each the yearly national budget law.\n\nN.B. Please note, many government organisations also have an 'RUC' code (list [PY-RUC](/list/PY-RUC)), which is preferred to this list.\n\n[1]: http://bit.ly/PGNPY2016"
   },
   "coverage": [
     "PY"
