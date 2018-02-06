@@ -23,7 +23,7 @@
     "availableOnline": true,
     "onlineAccessDetails": "The list of all entities from 2011 to 2016 is available in an open data format at https://datos.hacienda.gov.py/data/entidad",
     "publicDatabase": "https://datos.hacienda.gov.py/data/entidad",
-    "guidanceOnLocatingIds": "Combine the 'nivel' (level code) with the 'codigoEntidad' (entity code) using a dot ('.') to concatenate.\n\n e.g. for Vicepresidencia de la Republica use '12' (which identifies the level/nivel of Poder Ejecutivo) with the entity code/codigo entidad '002' for the Vice President together with the prefix PY-PGN as 'PY-PGN-12.002'.\n\nLeading zeros should remain in the codes (e.g. '01.001', '02.012')\n\n\Nivel/level codes can also be used on their own without entity codes: e.g. PY-PGN-12 to identify the level of Poder Ejecutivo.\n\nN.B. The 'RUC' code in the dataset is a different code, from the list [PY-RUC](/list/PY-RUC) which is preferred use for entity identifiers.",
+    "guidanceOnLocatingIds": "Combine the 'nivel' (level code) with the 'codigoEntidad' (entity code) using a dot ('.') to concatenate.\n\n e.g. for Vicepresidencia de la Republica use '12' (which identifies the level/nivel of Poder Ejecutivo) with the entity code/codigo entidad '002' for the Vice President together with the prefix PY-PGN as 'PY-PGN-12.002'.\n\nLeading zeros should remain in the codes (e.g. '01.001', '02.012')\n\nNivel/level codes can also be used on their own without entity codes: e.g. PY-PGN-12 to identify the level of Poder Ejecutivo.\n\nN.B. The 'RUC' code in the dataset is a different code, from the list [PY-RUC](/list/PY-RUC) which is preferred use for entity identifiers.",
     "exampleIdentifiers": "12,12.001,12.002,12.006",
     "languages": [
       "es"
