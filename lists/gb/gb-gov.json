@@ -6,7 +6,7 @@
     "sector": null,
     "url": "http://data.gov.uk/dataset/iati-organisation-identifier-for-uk-government-bodies",
     "name": {
-        "en": "UK Government Departments Reference Numbers",
+        "en": "UK Government Departments Reference Numbers (IATI Standard)",
         "local": ""
     },
     "coverage": [
@@ -33,7 +33,7 @@
         "government_agency"
     ],
     "description": {
-        "en": "IATI Version 2.x codes for use by IATI for UK Government Departments."
+        "en": "IATI Version 2.x codes for use by IATI for UK Government Departments.\n\nUsers looking for non-IATI codes for government organsiations should use the UK Government Organsiation Register GB-GOR"
     },
     "meta": {
         "lastUpdated": "2016-11-23",
