@@ -1,0 +1,43 @@
+{
+  "name": {
+    "en": "Example Data Prefix",
+    "local": ""
+  },
+  "url": "",
+  "description": {
+    "en": "List code prefix reserved for use in example data which require a valid org-id.guide prefix (e.g. for use in data validator testing)."
+  },
+  "coverage": [],
+  "subnationalCoverage": [],
+  "structure": [],
+  "sector": [],
+  "code": "XE-EXAMPLE",
+  "confirmed": false,
+  "deprecated": false,
+  "listType": "third_party",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": "",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "",
+    "languages": [
+      ""
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "",
+    "lastUpdated": "2018-02-12"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
