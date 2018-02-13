@@ -1,0 +1,50 @@
+{
+  "name": {
+    "en": "Classification of Entities in the National Budget for Paraguay",
+    "local": "Clasificación por Entidades del Presupuesto General de la Nación del Paraguay"
+  },
+  "url": "http://www.hacienda.gov.py/web-hacienda/archivo.php?a=keke1117221b211c20db1d141bdedcdde2db1019ke2016131610ke111c1fdedcdde2da1d1113ke0ac&x=6262001&y=keke0ac",
+  "description": {
+    "en": "Provides identifiers for organizations and institutions from the Paraguayan State, including national public bodies, administrative departments, and municipalities.\n\nFrom the National Budget Law (Presupuesto General de la Nación (PGN)) of 2016 from Paraguay:\n\n“The objective of the classification by entities is to organize information related income, spending and budgetary credits from the different state organisms and entities at various institutional levels according to their functions, nature, characteristics and dependencies.”[1]\n\nThe list is yearly updated given each the yearly national budget law.\n\nN.B. Please note, many government organisations also have an 'RUC' code (list [PY-RUC](/list/PY-RUC)), which is preferred to this list.\n\n[1]: http://bit.ly/PGNPY2016"
+  },
+  "coverage": [
+    "PY"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "government_agency"
+  ],
+  "sector": [],
+  "code": "PY-PGN",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "The list of all entities from 2011 to 2016 is available in an open data format at https://datos.hacienda.gov.py/data/entidad",
+    "publicDatabase": "https://datos.hacienda.gov.py/data/entidad",
+    "guidanceOnLocatingIds": "Combine the 'nivel' (level code) with the 'codigoEntidad' (entity code) using a dot ('.') to concatenate.\n\n e.g. for Vicepresidencia de la Republica use '12' (which identifies the level/nivel of Poder Ejecutivo) with the entity code/codigo entidad '002' for the Vice President together with the prefix PY-PGN as 'PY-PGN-12.002'.\n\nLeading zeros should remain in the codes (e.g. '01.001', '02.012')\n\nNivel/level codes can also be used on their own without entity codes: e.g. PY-PGN-12 to identify the level of Poder Ejecutivo.\n\nN.B. The 'RUC' code in the dataset is a different code, from the list [PY-RUC](/list/PY-RUC) which is preferred use for entity identifiers.",
+    "exampleIdentifiers": "12,12.001,12.002,12.006",
+    "languages": [
+      "es"
+    ]
+  },
+  "data": {
+    "availability": [
+      "csv"
+    ],
+    "dataAccessDetails": "A list of entities is available in open data format form from https://datos.hacienda.gov.py/data/entidad with a data dictionary https://datos.hacienda.gov.py/def/entidad",
+    "features": [],
+    "licenseStatus": "open_license",
+    "licenseDetails": "https://datos.hacienda.gov.py/license"
+  },
+  "meta": {
+    "source": "github proposal from juanpane",
+    "lastUpdated": "2018-02-06"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
