@@ -1,0 +1,56 @@
+{
+  "name": {
+    "en": "NHS Digital - Organisation Data Service",
+    "local": ""
+  },
+  "url": "https://digital.nhs.uk/organisation-data-service",
+  "description": {
+    "en": "\"The Organisation Data Service (ODS) is responsible for publishing organisation and practitioner codes, along with related national policies and standards. We're also responsible for the ongoing maintenance of the organisation and person nodes of the Spine Directory Service, the central data repository used within various NHS systems and services.\n\nFind out more about Organisation Reference data by reading the fundamental standard.\"[1][2]\n\nCodes are allocated for:[3]\n\n* Independent Sector Healthcare Providers (ISHP)\n* NHS organisations\n* Non-NHS organisations\n* optical organisations \n* private dental practices\n* system suppliers\n\n[1]: https://digital.nhs.uk/organisation-data-service\n[2]: Information standard SCCI0090 (Health and Social Care Organisation Reference Data): http://content.digital.nhs.uk/isce/publication/scci0090\n[3]: List from https://digital.nhs.uk/organisation-data-service/our-services#code allocation"
+  },
+  "coverage": [
+    "GB"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "government_agency/public_service"
+  ],
+  "sector": [],
+  "code": "GB-NHS",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "Download the relevant zipped files from https://digital.nhs.uk/organisation-data-service/data-downloads\n\nRegular users can also subscribe to the TRUD (Technology Reference Data Update Distribution) service to receive XML format updates of new distributions: https://isd.digital.nhs.uk/trud3/user/authenticated/group/0/pack/5 ",
+    "publicDatabase": "https://digital.nhs.uk/organisation-data-service/data-downloads",
+    "guidanceOnLocatingIds": "In most cases, the organisation code is in the first column of each csv. A pdf is usually included in each distribution so that this can be confirmed, as there are no header rows in the datasets themselves.",
+    "exampleIdentifiers": "GB-NHS-01F, GB-NHS-7A1A5, GB-NHS-Z1070, GB-NHS-RAX",
+    "languages": [
+      "en"
+    ]
+  },
+  "data": {
+    "availability": [
+      "api",
+      "bulk",
+      "csv",
+      "xml"
+    ],
+    "dataAccessDetails": "Bulk downloads are available on an organsiation type basis (e.g. health authorities and support agencies, GP practices) for England and Wales, and separately for Scotland, Northern Ireland and the Isle of Man. All can be accessed via https://digital.nhs.uk/organisation-data-service/data-downloads\n\nThe full organsiation reference data is available in XML format, but only from the TRUD (Technology Reference Data Update Distribution) service to which users can subscribe for updates. See https://digital.nhs.uk/Organisation-data-service/XML-Organisation-Data-Products for more information.\n\nN.B. The API is currently under development and expected to be available from March/April 2018 https://digital.nhs.uk/organisation-data-service/APIskaid",
+    "features": [
+      "date_of_registration",
+      "registration_number"
+    ],
+    "licenseStatus": "open_license",
+    "licenseDetails": "Open Government Licence http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/ (https://digital.nhs.uk/article/235/Terms-and-conditions)"
+  },
+  "meta": {
+    "source": "Github request (David Kane) https://github.com/org-id/register/issues/184",
+    "lastUpdated": "2018-02-14"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
