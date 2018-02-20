@@ -25,7 +25,7 @@
     "onlineAccessDetails": "Data for companies available in a free, simple search. Further details and documents can be requested at a fee. Users can search for a charity or NPO and then download a PDF of the charity/NPO statement",
     "publicDatabase": "Companies - https://www.greg.gg/webCompSearch.aspx Charities - http://www.guernseyregistry.com/article/112909/Charities-Register NPOs - http://www.guernseyregistry.com/article/112771/NPO-Register",
     "guidanceOnLocatingIds": "For Companies:\n\nUsers can find identifiers using the simple, searchable database - https://www.greg.gg/webCompSearch.aspx\n\nThe identifier will be under the column heading 'Entity Reg Number' on the results returned, and if the user clicks on document icon to the left, more details will be shown. The identifier will be shown next to 'Company Reg Number'\n\nFor Charities and NPOs:\n\nUsers can scroll down the two public lists to search for an organisation, or they can use 'Ctrl-F' to search for a name. The identifier can be found in the left hand column under the header 'Number'",
-    "exampleIdentifiers": "Companies - 56234, 14392, 28419 / Charities - CH1, CH144, CH545 / NPOs - NP3, NP126, NP219",
+    "exampleIdentifiers": "56234, CH441, NP3, 14392, 28419, CH1, CH545, NP126, NP219",
     "languages": [
       "en"
     ]
