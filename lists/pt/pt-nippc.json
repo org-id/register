@@ -21,10 +21,10 @@
   "listType": "primary",
   "access": {
     "availableOnline": true,
-    "onlineAccessDetails": "The search is made using the tax identification number of the entity, which is the entity's registration number in the business register as well as its tax number. Paper extracts must be applied for at registry offices but the relevant information may be accessed on the one-stop-shop website for entrepreneurs (Balcão do Empreendedor) in the form of an electronic extract on the entity's legal situation, which is constantly updated and available in Portuguese and English. Extracts from the register and of related documents, whether in paper or electronic form, must be paid for.",
+    "onlineAccessDetails": "The search is made using the tax identification number of the entity, which is the entity's registration number in the business register as well as its tax number. Paper extracts must be applied for at registry offices but the relevant information may be accessed on the one-stop-shop website for entrepreneurs (Balcão do Empreendedor[1]) in the form of an electronic extract on the entity's legal situation, which is constantly updated and available in Portuguese and English. Extracts from the register and of related documents, whether in paper or electronic form, must be paid for.\n\n[1]: https://bde.portaldocidadao.pt/evo/Templates/GeralEO.aspx?NRNODEGUID={0AB79FDE-92FE-4BEF-84CE-962D954F4D59}",
     "publicDatabase": "",
-    "guidanceOnLocatingIds": "",
-    "exampleIdentifiers": "9 digits; the last digit is the check digit. The first digit depends on what the number refers to (5 are companies.)",
+    "guidanceOnLocatingIds": "9 digits; the last digit is the check digit. The first digit depends on what the number refers to (5 are companies.)",
+    "exampleIdentifiers": "",
     "languages": [
       "pt",
       "en"
