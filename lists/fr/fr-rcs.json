@@ -56,11 +56,11 @@
             "en",
             "fr"
         ],
-        "exampleIdentifiers": "*799 640 131 00014 (SIRET) = 799 640 131 (SIREN) - 00014 (NIC)* , 512 788 308 00025, 798 620 860 00022",
+        "exampleIdentifiers": "799 640 131, 512 788 308 00025, 798 620 860",
         "onlineAccessDetails": "Data is available through a simple search for free, a bulk download of more detailed documentation for a fee, and also through an open data portal",
         "publicDatabase": "https://www.infogreffe.com/societes/ , https://datainfogreffe.fr/explore/?sort=modified&q=",
         "availableOnline": false,
-        "guidanceOnLocatingIds": "Users can find identifiers using the simple, search bar present near the top of every webpage on the Infogreffe website - https://www.infogreffe.com/societes/\n\nAfter searching for a company, address, director or number, the identifier is under the column header 'SIREN / SIRET' \n\nPlease note : users may have to click on the record in order to see the full SIRET identifier number\n\nUsers can also analyse datasets on the Infogreffe Open Data portal - https://datainfogreffe.fr/explore/?sort=modified&q=\n\nThe Identifier is under the column header 'SIREN'.\n\nThe SIREN directory is available as zipped csv files in daily updates published to https://www.data.gouv.fr/en/datasets/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/. An (unofficial) API for access data from this directly is accessible from https://public.opendatasoft.com/explore/dataset/sirene/api/, which also allows searching with a geofilter."
+        "guidanceOnLocatingIds": "Users can find identifiers using the simple, search bar present near the top of every webpage on the Infogreffe website - https://www.infogreffe.com/societes/\n\nAfter searching for a company, address, director or number, the identifier is under the column header 'SIREN / SIRET' \n\nPlease note : users may have to click on the record in order to see the full SIREN / SIRET identifier number\n\nUsers can also analyse datasets on the Infogreffe Open Data portal - https://datainfogreffe.fr/explore/?sort=modified&q=\n\nThe Identifier is under the column header 'SIREN'.\n\nThe SIREN directory is available as zipped csv files in daily updates published to https://www.data.gouv.fr/en/datasets/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/. An (unofficial) API for access data from this directly is accessible from https://public.opendatasoft.com/explore/dataset/sirene/api/, which also allows searching with a geofilter."
     },
     "subnationalCoverage": null,
     "listType": "secondary"
