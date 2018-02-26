@@ -24,7 +24,7 @@
     "onlineAccessDetails": "Download the relevant zipped files from https://digital.nhs.uk/organisation-data-service/data-downloads\n\nRegular users can also subscribe to the TRUD (Technology Reference Data Update Distribution) service to receive XML format updates of new distributions: https://isd.digital.nhs.uk/trud3/user/authenticated/group/0/pack/5 ",
     "publicDatabase": "https://digital.nhs.uk/organisation-data-service/data-downloads",
     "guidanceOnLocatingIds": "In most cases, the organisation code is in the first column of each csv. A pdf is usually included in each distribution so that this can be confirmed, as there are no header rows in the datasets themselves.",
-    "exampleIdentifiers": "GB-NHS-01F, GB-NHS-7A1A5, GB-NHS-Z1070, GB-NHS-RAX",
+    "exampleIdentifiers": "01F, 7A1A5, Z1070, RAX",
     "languages": [
       "en"
     ]
