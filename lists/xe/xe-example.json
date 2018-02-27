@@ -12,7 +12,7 @@
   "structure": [],
   "sector": [],
   "code": "XE-EXAMPLE",
-  "confirmed": false,
+  "confirmed": true,
   "deprecated": false,
   "listType": "third_party",
   "access": {
