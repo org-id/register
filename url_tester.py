@@ -54,7 +54,7 @@ def uri_validator(url):
 def main():
     with open('url_testing.csv', 'w') as outputfile:
         csvwriter  = csv.writer(outputfile, quoting=csv.QUOTE_MINIMAL)
-        csvwriter.writerow(['List', 'URL', 'Status'])
+        csvwriter.writerow(['List', 'Field', 'URL', 'Status'])
 
         '''
         walk through all of the registration agency lists to test url_status
