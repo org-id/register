@@ -1,0 +1,577 @@
+"List","Field","URL","Status"
+"AE-ACCI","url","https://www.ajmanchamber.ae/en/Pages/default.aspx","error connecting"
+"AE-ADCD","url","http://www.abudhabichamber.ae/English/E-Services/Pages/EServices-Page.aspx?sm=1&ty=s",200
+"AE-AFZ","url","http://www.afz.gov.ae/",200
+"AE-DCCI","url","http://www.dcciinfo.com/",200
+"AE-DFSA","url","https://www.dfsa.ae/Public-Register/Firm",302
+"AE-DIFC","url","https://www.difc.ae/public-register",200
+"AE-DMCC","url","https://www.dmcc.ae/",200
+"AE-FCCI","url","http://www.fujcci.ae/",200
+"AE-FFZ","url","http://www.fujairahfreetradezone.com/appdir/company-listing.php",200
+"AE-HFZA","url","http://www.hfza.ae/en-us/directory.aspx",301
+"AE-RAKIA","url","https://www.rakez.com",200
+"AE-RK_CR","url","http://www.rakchamber.ae/",302
+"AE-SAIF","url","http://www.saif-zone.com/en/InvestorLounge/Pages/Investors.aspx",200
+"AE-SCCI","url","http://www.sharjah.gov.ae/BusinessDirectory",200
+"AE-UQCCI","url","http://www.uaqchamber.ae/",200
+"AF-CBR","url","http://acbr.gov.af/",200
+"AF-CBR","access.publicDatabase","Information about companies registered with ACBR is recorded in the Official Gazette (written in Arabic), but there is no public database - http://www.moj.gov.af/content/files/OfficialGazette/0401/OG_0455.pdf","not valid"
+"AF-MOE","url","http://moec.gov.af/en","Timeout Error"
+"AF-MOE","access.publicDatabase","http://ngos.moec.gov.af/Public/Default.aspx",404
+"AG-CR","url","http://www.antigua.gov.ag/","error connecting"
+"AL-CR","url","http://www.qkr.gov.al/nrc/default.aspx",404
+"AM-CR","url","https://www.e-register.am/en/search",200
+"AO-CR","url","http://www.minjusdh.gov.ao/VerPrestadorServico.aspx?id=233",200
+"AR-CENOC","url","http://www.cenoc.gob.ar/",200
+"AR-CENOC","access.publicDatabase","http://www.cenoc.gob.ar/public/documentos/ListadoOrganizacionesWeb.xls",404
+"AR-CR","url","http://www.jus.gob.ar/igj/",200
+"AR-CUIT","url","NO URL","NO URL"
+"AT-CR","url","http://www.justiz.gv.at/web2013/html/default/8ab4a8a422985de30122a90fc2ca620b.de.html",302
+"AT-FB","url","https://www.justiz.gv.at/web2013/html/default/2c9484852308c2a601240b693e1c0860.de.html",200
+"AT-UID","url","https://www.justiz.gv.at/web2013/html/default/2c9484852308c2a601240b693e1c0860.de.html",200
+"AU-ABN","url","http://abr.business.gov.au/",302
+"AU-ACNC","url","http://www.acnc.gov.au/ACNC/",302
+"AU-ASIC","url","https://connectonline.asic.gov.au/RegistrySearch/",302
+"AU-CR","url","https://connectonline.asic.gov.au/RegistrySearch/",302
+"AW-CR","url","http://www.kvk.aw/registers",200
+"AZ-CR","url","https://www.e-taxes.gov.az/ebyn/commersialChecker.jsp","error connecting"
+"AZ-IVI","url","https://www.e-taxes.gov.az/ebyn/commersialChecker.jsp","error connecting"
+"AZ-IVI","access.publicDatabase","https://www.e-taxes.gov.az/ebyn/commersialChecker.jsp","error connecting"
+"BA-CR","url","http://bizreg.pravosudje.ba/",301
+"BB-CR","url","http://www.caipo.gov.bb/site/index.php",301
+"BD-CR","url","http://www.roc.gov.bd:7781/psp/rjschome","error connecting"
+"BD-NAB","url","http://www.ngoab.gov.bd , http://103.234.24.210/","error connecting"
+"BD-NAB","access.publicDatabase","A list of all NGOs registered with the NGO Affairs Bureau, and thus all NGOs who have projects in Bangladesh, is available on the website","not valid"
+"BE-BCE_KBO","url","http://economie.fgov.be/fr/entreprises/BCE ",301
+"BE-BCE_KBO","access.publicDatabase","http://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?lang=en&nummer=&actionLu=Research",200
+"BE-CR","url","http://kbopub.economie.fgov.be/kbopub/zoeknaamfonetischform.html?lang=fr",200
+"BE-GTCF","url","http://www.juridat.be/tribunal_commerce/bruxelles/index.htm",200
+"BF-CR","url","http://www.me.bf/",200
+"BG-CR","url","https://public.brra.bg","error connecting"
+"BG-EIK","url","https://public.brra.bg/CheckUps/Verifications/VerificationPersonOrg.ra","error connecting"
+"BH-CR","url","http://www.moic.gov.bh/En/Pages/Home.aspx",200
+"BI-CR","url","http://www.investburundi.com/",200
+"BJ-CR","url","http://www.ccibenin.org/",200
+"BJ-IFU","url","http://www.impots.finances.gouv.bj/tout-savoir-sur-lifu/",200
+"BM-CR","url","https://www.roc.gov.bm/roc/rocweb.nsf/ReviewPublicRegA-Z?OpenForm",200
+"BN-CR","url","http://www.eregistry.agc.gov.bn/WorkAreaMain/WorkFunctionMain/WebViewMain/Main.aspx",200
+"BO-CR","url","http://www.fundempresa.org.bo/inicio/",200
+"BR-CR","url","http://www.mdic.gov.br/",200
+"BS-CR","url","http://rgd.bahamas.gov.bs:8081/netdata/db2www.pgm/findcompany.ndm/searchcomps",200
+"BT-CR","url","http://www.moea.gov.bt/content/index.php",404
+"BW-CIPA","url","http://www.cipa.co.bw/",200
+"BW-CR","url","http://www.mtinamesearch.gov.bw/search/",200
+"BY-ADR","url","http://egr.gov.by/egrn/index.jsp?language=en",200
+"BY-ADR","access.publicDatabase","http://egr.gov.by/egrn/index.jsp?content=Find&language=en",200
+"BY-CR","url","http://egr.gov.by/egrn/index.jsp?content=findname",200
+"BZ-CR","url","http://www.ibcbelize.com/",200
+"CA_AB-ABT","url","http://www.servicealberta.ca/Corporate_Registry.cfm",302
+"CA_BC-BRC_CBR","url","http://www.bcregistryservices.gov.bc.ca/bcreg/corppg/index.page",502
+"CA_MB-MTB","url","https://direct.gov.mb.ca/mbohtml/html/internet/en/mb_online.html",200
+"CA_NB-NWB_NOB","url","https://www.pxw1.snb.ca/snb7001/e/2000/2500e.asp",200
+"CA_NB-NWB_NOB","access.publicDatabase","http://www.snb.ca/e/6000/6600e.asp",200
+"CA_NL-NFL_TNL","url","http://www.servicenl.gov.nl.ca/registries/companies.html",200
+"CA_NS-NVS_NVE","url","http://novascotia.ca/sns/access/business/registry-joint-stock-companies.asp",302
+"CA_NS-NVS_NVE","access.publicDatabase","https://rjsc.gov.ns.ca/rjsc/search/doSearch.do",302
+"CA_NT-NWT_TNO","url","https://www.justice.gov.nt.ca/en/divisions/legal-registries-division/corporate-registries/",200
+"CA_NT-NWT_TNO","access.publicDatabase","https://www.justice.gov.nt.ca/en/corporate-registry-searches/",200
+"CA_NU-NNV","url","http://nunavutlegalregistries.ca/cr_index_en.shtml",200
+"CA_ON-ONT","url","https://www.ontario.ca/page/business-and-economy",200
+"CA_PE-PEI_IPE","url","http://www.gov.pe.ca/corporations/index.php",200
+"CA_PE-PEI_IPE","access.publicDatabase","https://www.registreentreprises.gouv.qc.ca/RQAnonymeGR/GR/GR03/GR03A2_19A_PIU_RechEnt_PC/PageRechSimple.aspx?T1.CodeService=S00436&Clng=F&WT.co_f=2c711dfd08c3696dc2c1481744819355",200
+"CA_QC-QBC","url","http://www.registreentreprises.gouv.qc.ca/",302
+"CA_SK-SKN","url","http://www.isc.ca/CorporateRegistry/",302
+"CA_YT-YKT","url","http://www.community.gov.yk.ca/corp/index.html",200
+"CA-CC","url","http://www.ic.gc.ca/eic/site/cd-dgc.nsf/eng/home",200
+"CA-CC","access.publicDatabase","https://www.ic.gc.ca/app/scr/ccbr/search-chercher?lang=eng , https://www.ic.gc.ca/app/scr/cc/CorporationsCanada/fdrlCrpSrch.html?locale=en_CA",302
+"CA-CRA_ACR","url","http://www.cra-arc.gc.ca/",200
+"CA-CRA_ACR","access.publicDatabase","https://www.ic.gc.ca/app/scr/cc/CorporationsCanada/fdrlCrpSrch.html?locale=en_CA",200
+"CA-GOV","url","http://open.canada.ca/data/en/dataset/22090865-f8a6-4b83-9bad-e9d61f26a821",301
+"CA-GOV","access.publicDatabase","http://open.canada.ca/data/en/dataset/22090865-f8a6-4b83-9bad-e9d61f26a821",301
+"CD-CR","url","http://www.guichetunique.cd/",302
+"CF-CR","url","http://www.centrafricaine.info/en.html",302
+"CG-CR","url","http://www.sgg.cg/","error connecting"
+"CH-CR","url","http://www.zefix.admin.ch/",302
+"CH-FDJP","url","https://www.zefix.ch/de/search/entity/welcome",200
+"CH-FDJP","access.publicDatabase","https://www.zefix.ch/",200
+"CI-CR","url","http://www.cepici.gouv.ci/faq.php?&id=13&lang=",404
+"CL-CR","url","http://www.tuempresaenundia.cl/",200
+"CM-CR","url","http://www.ccima.net/annuaire_fr.php",302
+"CN-11-CR","url","http://qyxy.baic.gov.cn/",200
+"CN-12-CR","url","http://www.tjaic.gov.cn/info/","error connecting"
+"CN-13-CR","url","http://www.hebscztxyxx.gov.cn/notice",302
+"CN-14-CR","url","http://218.26.1.108/Portal/Default.aspx",404
+"CN-15-CR","url","http://www.nmgxygs.gov.cn:7001/aiccips/","error connecting"
+"CN-21-CR","url","http://gsxt.lngs.gov.cn/saicpub/",200
+"CN-22-CR","url","http://211.141.74.198:8081/aiccips/",200
+"CN-23-CR","url","http://222.171.175.16:9080/ECPS/search.jspx","error connecting"
+"CN-31-CR","url","https://www.sgs.gov.cn/notice",500
+"CN-32-CR","url","http://www.jsgsj.gov.cn:58888/ecipplatform/",200
+"CN-33-CR","url","http://gsxt.zjaic.gov.cn/zhejiang.jsp","error connecting"
+"CN-34-CR","url","http://www.ahcredit.gov.cn/search.jspx",404
+"CN-35-CR","url","http://wsgs.fjaic.gov.cn/creditpub/home",302
+"CN-36-CR","url","http://gsxt.jxaic.gov.cn/ECPS/ecps.jsp",404
+"CN-37-CR","url","http://218.57.139.24/shandong/shandong.jsp",404
+"CN-41-CR","url","http://222.143.24.157/search.jspx","error connecting"
+"CN-42-CR","url","http://xyjg.egs.gov.cn/ECPS_HB/index.jsp",200
+"CN-43-CR","url","http://gsxt.hnaic.gov.cn/","error connecting"
+"CN-44-CR","url","http://gsxt.gdgs.gov.cn/",403
+"CN-45-CR","url","http://gxqyxygs.gov.cn/search.jspx","error connecting"
+"CN-46-CR","url","http://aic.hainan.gov.cn:1888/aiccips","error connecting"
+"CN-50-CR","url","http://gsxt.cqgs.gov.cn/",200
+"CN-51-CR","url","http://gsxt.scaic.gov.cn/ztxy.do?method=index&random=1423496775271",403
+"CN-52-CR","url","http://gsxt.gzgs.gov.cn/",200
+"CN-53-CR","url","http://gsxt.ynaic.gov.cn/notice/",500
+"CN-54-CR","url","http://gsxt.xzaic.gov.cn/search.jspx","error connecting"
+"CN-61-CR","url","http://117.22.252.219:8002/p/ent2","error connecting"
+"CN-62-CR","url","http://xygs.gsaic.gov.cn/gsxygs/","error connecting"
+"CN-63-CR","url","http://gsxt.qhaic.gov.cn/search.jspx",200
+"CN-64-CR","url","http://gsxt.ngsh.gov.cn/ECPS/ecps.jsp",404
+"CN-65-CR","url","http://gsxt.xjaic.gov.cn:7001/ztxy.do?method=index&random=1423496833401","error connecting"
+"CN-92-CR","url","http://www.dsaj.gov.mo/",200
+"CN-CR","url","http://gsxt.saic.gov.cn/zjgs/",403
+"CN-SAIC","url","http://gsxt.saic.gov.cn/",403
+"CO-CCB","url","http://www.ccb.org.co/",302
+"CO-CCB","access.publicDatabase","None located","not valid"
+"CO-RUE","url","http://www.rues.org.co/RUES_Web/",403
+"CO-RUE","access.publicDatabase","http://www.rues.org.co/RUES_Web/",403
+"CR-CR","url","https://www.rnpdigital.com/personas_juridicas/index.htm",200
+"CU-CR","url","http://www.one.cu/nomencladores.htm",200
+"CV-CR","url","https://portoncv.gov.cv/portal/page?_pageid=118,188559&_dad=portal&_schema=PORTAL&p_dominio=29","error connecting"
+"CY-CR","url","https://efiling.drcor.mcit.gov.cy/DrcorPublic/SearchForm.aspx?lang=EN&sc=1","error connecting"
+"CY-DRCOR","url","https://efiling.drcor.mcit.gov.cy/DrcorPublic/Default.aspx?cultureInfo=en-AU","error connecting"
+"CY-DRCOR","access.publicDatabase","https://efiling.drcor.mcit.gov.cy/DrcorPublic/Default.aspx?cultureInfo=en-AU","error connecting"
+"CZ-CR","url","http://wwwinfo.mfcr.cz/ares/ares.html.en",200
+"CZ-DIC","url","http://www.kurzy.cz/dic/",301
+"CZ-DIC","access.publicDatabase","http://www.kurzy.cz/dic/",301
+"CZ-ICO","url","http://wwwinfo.mfcr.cz/ares/ares_es.html.en",200
+"CZ-ICO","access.publicDatabase","http://wwwinfo.mfcr.cz/ares/ares_es.html.en",200
+"DE-CR","url","https://www.handelsregister.de/rp_web/welcome.do",200
+"DJ-CR","url","http://www.ccd.dj/",200
+"DK-CR","url","http://www.cvr.dk",302
+"DK-CVR","url","https://datacvr.virk.dk/data/",405
+"DK-CVR","access.publicDatabase","https://datacvr.virk.dk/data/",405
+"DM-CR","url","http://cipo.gov.dm/dominica/Name_Search.aspx",404
+"DO-CR","url","http://www.onapi.gob.do/busqueda-consulta.html",404
+"DZ-CR","url","http://www.cnrc.org.dz/",200
+"EC-CR","url","http://www.supercias.gob.ec/portalinformacion/portal/",200
+"EE-CR","url","https://ariregister.rik.ee",200
+"EE-KMKR","url","http://www.rik.ee/en/e-business-register",200
+"EE-KMKR","access.publicDatabase","https://ariregister.rik.ee/index?lang=eng",200
+"EE-RIK","url","http://www.rik.ee/en/e-business-register",200
+"EE-RIK","access.publicDatabase","http://avaandmed.rik.ee/andmed/ARIREGISTER/",200
+"EG-CR","url","http://www.gafi.gov.eg/ar/onestopshop/onestop.aspx",404
+"EG-MOSS","url","http://www.moss.gov.eg/",200
+"EG-MOSS","access.publicDatabase","http://196.204.6.120/","error connecting"
+"ER-CR","url","http://www.shabait.com/index.php",200
+"ES-CR","url","https://www.registradores.org/mercantil/jsp/home.jsp",302
+"ES-DIR3","url","http://administracionelectronica.gob.es/ctt/dir3/descargas",403
+"ES-DIR3","access.publicDatabase","http://www.minhap.gob.es/es-ES/GobiernoAbierto/Datos%20Abiertos/Paginas/CatalogoRISPSecretariadeEstadodeAdministracionesPublicas.aspx",302
+"ES-RMC","url","http://www.rmc.es/Home.aspx",200
+"ET-CR","url","http://www.ethiopia.gov.et/",200
+"ET-CSA","url","http://www.chsa.gov.et/",200
+"ET-MFA","url","http://www.mfa.gov.et/","error connecting"
+"ET-MFA","access.publicDatabase","Unable to find","not valid"
+"ET-MOT","url","http://www.mot.gov.et",503
+"FI-CR","url","http://www.ytj.fi/",302
+"FI-PRO","url","http://www.prh.fi/en/index.html",302
+"FI-PRO","access.publicDatabase","https://www.ytj.fi/en/index.html , http://avoindata.prh.fi/ytj_en.html",404
+"FJ-CR","url","https://www.egov.gov.fj/g2b/Commerce/default.aspx","error connecting"
+"FM-CR","url","http://fsmroc.fm/corps.php",200
+"FR-INSEE","url","http://www.insee.fr/fr/service/default.asp?page=entreprises/entreprise.htm",301
+"FR-RCS","url","http://www.infogreffe.fr",302
+"FR-RCS","access.publicDatabase","https://www.infogreffe.com/societes/ , https://datainfogreffe.fr/explore/?sort=modified&q=",301
+"GA-CR","url","http://www.cdegabon.com/",302
+"GB-CHC","url","http://www.charity-commission.gov.uk/",301
+"GB-CHC","access.publicDatabase","https://www.gov.uk/government/organisations/charity-commission",200
+"GB-COH","url","http://www.companieshouse.gov.uk/",301
+"GB-COH","access.publicDatabase","https://www.gov.uk/get-information-about-a-company",200
+"GB-EDU","url","https://get-information-schools.service.gov.uk",404
+"GB-EDU","access.publicDatabase","https://get-information-schools.service.gov.uk",404
+"GB-GOR","url","https://government-organisation.register.gov.uk/records",200
+"GB-GOR","access.publicDatabase","https://government-organisation.register.gov.uk/records",200
+"GB-GOV","url","http://data.gov.uk/dataset/iati-organisation-identifier-for-uk-government-bodies",301
+"GB-GOV","access.publicDatabase","https://data.gov.uk/dataset/iati-organisation-identifier-for-uk-government-bodies",200
+"GB-GOVUK","url","https://www.gov.uk/government/organisations",200
+"GB-IRN","url","https://www.education-ni.gov.uk/services/schools-plus",200
+"GB-IRN","access.publicDatabase","http://apps.education-ni.gov.uk/appinstitutes/default.aspx",200
+"GB-LAE","url","https://local-authority-eng.register.gov.uk/records?page-index=1&page-size=5000",200
+"GB-LAE","access.publicDatabase","https://local-authority-eng.register.gov.uk/records",200
+"GB-LAS","url","https://local-authority-sct.register.gov.uk/",200
+"GB-LAS","access.publicDatabase","https://local-authority-sct.register.gov.uk/records",200
+"GB-MPR","url","https://mutuals.fsa.gov.uk/",200
+"GB-NHS","url","https://digital.nhs.uk/organisation-data-service",200
+"GB-NHS","access.publicDatabase","https://digital.nhs.uk/organisation-data-service/data-downloads",200
+"GB-NIC","url","http://www.charitycommissionni.org.uk/charity-search/",200
+"GB-NIC","access.publicDatabase","http://www.charitycommissionni.org.uk/charity-search/",200
+"GB-PLA","url","https://principal-local-authority.alpha.openregister.org/records","error connecting"
+"GB-PLA","access.publicDatabase","https://principal-local-authority.alpha.openregister.org/","error connecting"
+"GB-REV","url","http://www.hmrc.gov.uk/",301
+"GB-SC","url","http://www.oscr.org.uk/",301
+"GB-SC","access.publicDatabase","http://www.oscr.org.uk/public/search-scottish-charity-register",301
+"GB-SHPE","url","https://social-housing-provider-eng.alpha.openregister.org/",200
+"GB-SHPE","access.publicDatabase","https://social-housing-provider-eng.alpha.openregister.org/records",200
+"GB-UKPRN","url","https://www.ukrlp.co.uk/",200
+"GD-CR","url","http://www.gov.gd/departments/supreme_court_registry.html",200
+"GE-CR","url","https://enreg.reestri.gov.ge",302
+"GE-NAPR","url","https://enreg.reestri.gov.ge/main.php?m=new_index",200
+"GE-NAPR","access.publicDatabase","https://enreg.reestri.gov.ge",302
+"GG-RCE","url","http://www.guernseyregistry.com/ , http://www.guernseyregistry.com/charities",404
+"GG-RCE","access.publicDatabase","Companies - https://www.greg.gg/webCompSearch.aspx Charities - http://www.guernseyregistry.com/article/112909/Charities-Register NPOs - http://www.guernseyregistry.com/article/112771/NPO-Register","not valid"
+"GH-CR","url","http://www.rgd.gov.gh/",301
+"GH-DSW","url","NO URL","NO URL"
+"GI-CR","url","https://www.companieshouse.gi/namesearchauth.html",200
+"GL-CR","url","http://aka.gl/da/Virksomhed/GER/Find-virksomhed/Find-juridisk-enhed","Timeout Error"
+"GM-CR","url","http://www.icommerceregistry.com/",403
+"GN-CR","url","http://www.apiguinee.gov.gn/",301
+"GQ-CR","url","http://www.guineaecuatorialpress.com/index.php",200
+"GR-CR","url","http://www.businessportal.gr/english/index.html",404
+"GT-CR","url","http://www.registromercantil.gob.gt/",200
+"GW-CR","url","http://www.guinebissaurepublic.com/",200
+"GY-CR","url","http://legalaffairs.gov.gy/deeds-registry/registry-overview",301
+"HK-CR","url","https://www.icris.cr.gov.hk/csci/",302
+"HK-CR","access.publicDatabase","https://www.icris.cr.gov.hk/csci/",302
+"HN-CR","url","http://190.5.103.114/clienteremoto/default.aspx",200
+"HR-CR","url","http://www1.biznet.hr/",301
+"HR-MBS","url","https://sudreg.pravosudje.hr/registar",302
+"HR-MBS","access.publicDatabase","https://sudreg.pravosudje.hr/registar",302
+"HR-OIB","url","https://sudreg.pravosudje.hr/registar/f?p=150:1",200
+"HT-CR","url","http://registre.mci.gouv.ht/documents.php","error connecting"
+"HU-AFA","url","http://www.e-cegjegyzek.hu/?cegkereses",302
+"HU-CR","url","http://e-beszamolo.kim.gov.hu/kereses-Default.aspx",302
+"ID-KDN","url","http://www.kemendagri.go.id/",200
+"ID-KDN","access.publicDatabase","None available","not valid"
+"ID-KHH","url","http://www.kemenkumham.go.id/",301
+"ID-KLN","url","http://www.kemlu.go.id/",302
+"ID-KLN","access.publicDatabase","http://www.smeru.or.id/en/content/ngo-database",200
+"ID-PRO","url","http://www.satulayanan.net/layanan/pendaftaran-lsm-atau-ormas/perizinan-lsm-atau-ormas-baru",403
+"ID-PRO","access.publicDatabase","None available","not valid"
+"ID-SMR","url","http://www.smeru.or.id/en",200
+"ID-SMR","access.publicDatabase","http://www.smeru.or.id/en/content/ngo-database",200
+"IE-CHY","url","https://www.charitiesregulatoryauthority.ie/",200
+"IE-CHY","access.publicDatabase","https://www.charitiesregulatoryauthority.ie/en/cra/pages/CharitySearch , http://charitiesregulatoryauthority.ie/en/cra/pages/search_a_charity",400
+"IE-CR","url","http://www.cro.ie/search/",302
+"IE-CRO","url","http://www.cro.ie/",302
+"IE-CRO","access.publicDatabase","https://search.cro.ie/company/ , https://services.cro.ie/index.aspx, https://www.cro.ie/Publications/Fees/Bulk-Data",302
+"IL-CR","url","http://havarot.justice.gov.il/","Timeout Error"
+"IL-ROC","url","http://www.justice.gov.il/Units/RasutHataagidim/units/RashamHachvarot/Pages/default.aspx",200
+"IL-ROC","access.publicDatabase","http://havarot.justice.gov.il/","Timeout Error"
+"IM-CR","url","https://www.gov.im/categories/business-and-industries/companies-registry",200
+"IM-GR","url","http://www.gov.im/registries/courts/charities/",301
+"IM-GR","access.publicDatabase","https://www.gov.im/lib/docs/registries/courts/publicindex_latest.pdf",404
+"IN-CR","url","http://www.mca.gov.in/MCA21/Master_data.html",302
+"IN-MCA","url","http://www.mca.gov.in/",200
+"IN-MCA","access.publicDatabase","https://data.gov.in/catalogs/ministry_department/ministry-corporate-affairs",200
+"IN-MHA","url","https://fcraonline.nic.in/",200
+"IN-MHA","access.publicDatabase","https://fcraonline.nic.in/fc_reg_certificate_details_verification1.aspx",200
+"IQ-CR","url","http://bsr-mot.com/English/search.htm","error connecting"
+"IR-CR","url","http://www.president.ir/en/",500
+"IS-CR","url","https://www.rsk.is/fyrirtaekjaskra/",200
+"IT-CF","url","http://www.registroimprese.it/",200
+"IT-CF","access.publicDatabase","http://www.registroimprese.it/",200
+"IT-CR","url","http://www.registroimprese.it/",200
+"IT-RI","url","http://www.registroimprese.it/",200
+"IT-RI","access.publicDatabase","http://www.registroimprese.it/",200
+"JE-FSC","url","http://www.jerseyfsc.org/index.asp",301
+"JE-FSC","access.publicDatabase","https://www.jerseyfsc.org/registry/documentsearch/",200
+"JE-OAC","url","http://www.jerseyoverseasaid.org.je/",301
+"JE-OAC","access.publicDatabase","None available ","not valid"
+"JM-CR","url","https://www.orcjamaica.com/","error connecting"
+"JO-CCD","url","http://www.ccd.gov.jo/","error connecting"
+"JO-CCD","access.publicDatabase","http://www.ccd.gov.jo/e-services/home/db","error connecting"
+"JO-CR","url","http://www.ccd.gov.jo/en/home/e-services","error connecting"
+"JO-MSD","url","http://www.societies.gov.jo/",200
+"JO-MSD","access.publicDatabase","http://www.societies.gov.jo",200
+"JP-CR","url","http://www1.touki.or.jp/gateway.html",200
+"JP-JCN","url","http://www.houjin-bangou.nta.go.jp/",200
+"KE-NCB","url","http://www.ngobureau.or.ke/",200
+"KE-NCB","access.publicDatabase","None available","not valid"
+"KE-RCO","url","http://www.attorney-general.go.ke/","error connecting"
+"KE-RCO","access.publicDatabase","None available","not valid"
+"KE-RSO","url","http://www.attorney-general.go.ke/","error connecting"
+"KE-RSO","access.publicDatabase","None available","not valid"
+"KG-CR","url","https://register.minjust.gov.kg/register/home.seam","error connecting"
+"KG-ID","url","http://register.minjust.gov.kg/register/SearchAction.seam?logic=and&cid=204",200
+"KG-ID","access.publicDatabase","http://register.minjust.gov.kg/register/SearchAction.seam?logic=and&cid=1184653",200
+"KG-INN","url","http://register.minjust.gov.kg/register/SearchAction.seam?logic=and&cid=205",200
+"KH-CR","url","http://www.moc.gov.kh/",303
+"KI-CR","url","http://www.mcic.gov.ki/?page_id=51",301
+"KM-CR","url","http://www.beit-salam.km/",301
+"KN-CR","url","http://registry.fsrc.kn/","error connecting"
+"KR-CR","url","http://www.iros.go.kr/ifrontservlet?cmd=INSEInputNseC&FINDGB=2",200
+"KW-CR","url","http://www.kuwaitchamber.org.kw/echamber/website/index.jsp",200
+"KZ-BIN","url","http://kgd.gov.kz/en/services/taxpayer_search/legal_entity",200
+"KZ-BIN","access.publicDatabase","http://kgd.gov.kz/en/services/taxpayer_search/legal_entity",200
+"KZ-CR","url","http://www.adilet.gov.kz/en/baza_zt",301
+"LA-CR","url","http://www.moic.gov.la/?page_id=283&lang=en",200
+"LB-CR","url","http://cr.justice.gov.lb/desc/desc.aspx",200
+"LB-CR","access.publicDatabase","http://cr.justice.gov.lb/",200
+"LB-MOI","url","http://www.interior.gov.lb/",200
+"LC-CR","url","http://www.rocip.gov.lc/",302
+"LI-CR","url","http://www.oera.li/hrweb/ger/firmensuche_afj.htm",200
+"LK-CR","url","http://www.drc.gov.lk/App/comreg.nsf?Open",200
+"LR-CR","url","http://www.lbr.gov.lr/","error connecting"
+"LS-CR","url","https://www.companies.org.ls/lesotho-companies-br/viewInstance/view.html?id=13c857736aeecb0a09b5d94dcd0806b1fbc38865177758399a303edf5386cceb&_timestamp=1546598047677291",200
+"LS-LCN","url","http://www.lcn.org.ls/",412
+"LT-CR","url","http://www.registrucentras.lt/jar/p/index.php",200
+"LT-PVM","url","http://www.registrucentras.lt/jar/index_en.php",200
+"LT-RC","url","http://www.registrucentras.lt/jar/index_en.php",200
+"LT-RC","access.publicDatabase","http://www.registrucentras.lt/jar/p_en/",200
+"LU-CR","url","http://www.rcsl.lu/",302
+"LV-CR","url","http://www.lursoft.lv/database_of_all_companies_registered_in_Latvia.html",301
+"LV-RE","url","http://www.ur.gov.lv/",302
+"LV-RE","access.publicDatabase","http://www.ur.gov.lv/",302
+"MA-CR","url","http://www.directinfo.ma",302
+"MD-CR","url","http://www.mtic.gov.md/WebPublic/index.php?action=company&lang=md","error connecting"
+"MD-IDNO","url","http://www.idno.md/",200
+"MD-IDNO","access.publicDatabase","http://www.idno.md/",200
+"ME-CR","url","http://pretraga.crps.me/Home/pretraga",404
+"MH-CR","url","http://www.register-iri.com/miCorporate/",301
+"MK-CR","url","http://www.crm.com.mk",302
+"ML-CCIM","url","http://www.cci.ml/",200
+"ML-CR","url","http://www.apimali.gov.ml/api/en/index.php?page=start-a-business",404
+"ML-NIF","url","http://demarchesadministratives.gouv.ml/demarches/afficher/Numero-d-Identification-Fiscale-NIF",200
+"MM-CR","url","http://dica.gov.mm.x-aas.net/",200
+"MM-MHA","url","NO URL","NO URL"
+"MN-CR","url","https://www.burtgel.gov.mn/","error connecting"
+"MR-CR","url","http://www.mauritania.mr/",403
+"MT-CR","url","http://rocsupport.mfsa.com.mt/",302
+"MU-CR","url","http://companies.govmu.org/",302
+"MU-CR","access.publicDatabase","https://portalmns.mu/cbris-name-search/MASTActionServlet?do=acceptlic","error connecting"
+"MV-CR","url","http://www.trade.gov.mv/?lid=30",200
+"MW-CNM","url","http://www.congoma.mw",200
+"MW-CR","url","http://www.malawi.gov.mw/index.php?option=com_content&view=article&id=43&Itemid=7",200
+"MW-MRA","url","http://www.mra.mw/",200
+"MW-NBM","url","http://ngoboardmalawi.mw/directory.php","error connecting"
+"MW-NBM","access.publicDatabase","http://ngoboardmalawi.mw/downloads/malawi_ngo_directory_nov_2013.pdf , http://ngoboardmalawi.mw/downloads/ingo_directory_nov%202013.pdf , http://ngoboardmalawi.mw/downloads/national%20ngo_directory_nov%202013.pdf","error connecting"
+"MW-RG","url","https://www.registrargeneral.gov.mw/index.html","error connecting"
+"MX-CPA","url","http://www.transparenciapresupuestaria.gob.mx/work/models/PTP/DatosAbiertos/Metadatos/catalogos_presupuestarios.xlsx",200
+"MX-CPA","access.publicDatabase","http://www.transparenciapresupuestaria.gob.mx/work/models/PTP/DatosAbiertos/Metadatos/catalogos_presupuestarios.xlsx",200
+"MX-CR","url","http://www.siem.gob.mx",302
+"MX-RFC","url","https://portalsat.plataforma.sat.gob.mx/ConsultaRFC/",200
+"MX-RFC","access.publicDatabase","https://portalsat.plataforma.sat.gob.mx/ConsultaRFC/",200
+"MY-CR","url","https://www.ssm-einfo.my/index.php",410
+"MY-SSM","url","http://www.ssm.com.my/ms",200
+"MY-SSM","access.publicDatabase","https://www.ssm-einfo.my/member/index.php?id=uni",410
+"MZ-CR","url","http://www.portaldogoverno.gov.mz/Empresas/Registos/Registo-de-Sociedades",200
+"MZ-MOJ","url","http://www.commonwealthofnations.org/sectors-mozambique/civil_society/",200
+"MZ-NUIT","url","http://www.at.gov.mz/eng/Internacional-Trade/FAQ-s/NUIT",200
+"NA-CR","url","http://www.mti.gov.na/index.html",200
+"NE-CR","url","http://www.stat-niger.org/statistique/pages/repentreprise/entreprise_list.php?lng=fr",404
+"NG-BPP","url","http://federalcontractors.bpp.gov.ng/",200
+"NG-BPP","access.publicDatabase","http://federalcontractors.bpp.gov.ng/SearchforRegisteredContractors.aspx",200
+"NG-CAC","url","http://new.cac.gov.ng/home/",200
+"NG-CAC","access.publicDatabase","http://publicsearch.cac.gov.ng:8080/comsearch/test.php","error connecting"
+"NG-CR","url","http://cacnigeria.org/",200
+"NI-CR","url","http://www.mific.gob.ni/",200
+"NL-KVK","url","https://www.kvk.nl/english/",200
+"NL-KVK","access.publicDatabase","https://www.kvk.nl/producten-bestellen/",200
+"NL-OWMS","url","http://standaarden.overheid.nl/owms/4.0/doc/waardelijsten",200
+"NL-OWMS","access.publicDatabase","http://standaarden.overheid.nl/owms/beheer",200
+"NO-BRC","url","http://www.brreg.no/",302
+"NO-BRC","access.publicDatabase","https://www.brreg.no/home/ , https://www.brreg.no/produkter-og-tjenester/apne-data/",301
+"NO-CR","url","http://w2.brreg.no/enhet/sok/",200
+"NP-CR","url","http://www.ocr.gov.np/index.php/en/",200
+"NP-CRO","url","http://www.cro.gov.np/",200
+"NP-CRO","access.publicDatabase","http://www.ocr.gov.np/index.php/en/",200
+"NP-SWC","url","http://www.swc.org.np/",200
+"NP-SWC","access.publicDatabase","http://www.swc.org.np/?p=228",200
+"NZ-CR","url","http://www.business.govt.nz/companies/",301
+"OM-CR","url","https://www.business.gov.om/wps/portal/pes/services/searchcommercialname/!ut/p/c5/",301
+"PA-CR","url","http://www.registro-publico.gob.pa/",302
+"PE-CR","url","http://www.sunarp.gob.pe/RelacionS_01.asp","error connecting"
+"PG-CR","url","http://www.ipa.gov.pg/",200
+"PH-CR","url","http://www.business.gov.ph/",301
+"PH-SEC","url","http://www.sec.gov.ph/",200
+"PH-SEC","access.publicDatabase","http://www.sec.gov.ph/online-services/search-registered-companies/",200
+"PK-CR","url","http://www.secp.gov.pk/ns/index.asp",301
+"PK-PCP","url","http://pcp.org.pk/index.php",404
+"PK-PCP","access.publicDatabase","http://pcp.org.pk/index.php",404
+"PK-VSWA","url","http://www.swkpk.gov.pk/ , http://social_welfare.kp.gov.pk/",404
+"PL-KRS","url","https://ems.ms.gov.pl/krs/wyszukiwaniepodmiotu",200
+"PL-KRS","access.publicDatabase","https://ems.ms.gov.pl/krs/wyszukiwaniepodmiotu",200
+"PL-NIP","url","https://pl.wikipedia.org/wiki/NIP",200
+"PL-NIP","access.publicDatabase","https://wyszukiwarkaregon.stat.gov.pl/appBIR/index.aspx",200
+"PL-REGON","url","http://stat.gov.pl/en/metainformations/glossary/terms-used-in-official-statistics/2963,term.html",200
+"PL-REGON","access.publicDatabase","https://wyszukiwarkaregon.stat.gov.pl/appBIR/index.aspx",200
+"PR-CR","url","https://prcorpfiling.f1hst.com/CorporationSearch.aspx",200
+"PS-CR","url","http://www.mne.gov.ps/comp_search.aspx?lng=1&tabindex=100",200
+"PS-MOI","url","http://www.moi.pna.ps/NGOs/List",200
+"PS-MOI","access.publicDatabase","http://www.moi.pna.ps/NGOs/List",200
+"PT-CR","url","https://www.portaldaempresa.pt/CVE/Services/Online/Pedidos.aspx?service=PNS",302
+"PT-NIPPC","url","https://www.portaldocidadao.pt/",200
+"PW-CR","url","http://palaugov.org/office-of-the-attorney-general/",301
+"PY-CR","url","http://www.pj.gov.py",200
+"PY-PGN","url","http://www.hacienda.gov.py/web-hacienda/archivo.php?a=keke1117221b211c20db1d141bdedcdde2db1019ke2016131610ke111c1fdedcdde2da1d1113ke0ac&x=6262001&y=keke0ac",200
+"PY-PGN","access.publicDatabase","https://datos.hacienda.gov.py/data/entidad",200
+"PY-RUC","url","http://www.hacienda.gov.py/web-hacienda/index.php?c=77",200
+"PY-RUC","access.publicDatabase","http://www.ruc.com.py/",200
+"QA-CR","url","http://qatarchamber.com/site/qmem/",404
+"RO-CR","url","http://www.mfinante.ro/pjuridice.html?pagina=domenii","error connecting"
+"RO-CUI","url","http://www.onrc.ro/index.php/ro/",200
+"RO-CUI","access.publicDatabase","https://portal.onrc.ro/ONRCPortalWeb/appmanager/myONRC/wicket?p=rc.certificateConstatatoare",200
+"RS-APR","url","http://www.apr.gov.rs/eng/Home.aspx",200
+"RS-APR","access.publicDatabase","http://pretraga2.apr.gov.rs/ObjedinjenePretrage/Search/Search",200
+"RS-CR","url","http://pretraga2.apr.gov.rs/ObjedinjenePretrage/Search/Search",200
+"RS-PIB","url","http://www.poreskauprava.gov.rs/pib.html",200
+"RU-CR","url","http://egrul.nalog.ru/",301
+"RU-INN","url","https://russianpartner.biz/",200
+"RU-OGRN","url","https://www.egrul.ru/",200
+"RU-OGRN","access.publicDatabase","https://www.egrul.ru/",200
+"RW-CR","url","http://org.rdb.rw/inf/Public/Products/EntSearch.aspx","error connecting"
+"SA-CR","url","http://eservices.mci.gov.sa/Eservices/Commerce/Corporations.aspx",302
+"SB-CR","url","http://www.companyhaus.gov.sb/app/search/entity","error connecting"
+"SC-CR","url","https://eservice.egov.sc/BizRegistration/WebSearchBusiness.aspx",503
+"SD-CR","url","http://www.crd.gov.sd/",200
+"SE-BLV","url","http://www.bolagsverket.se/",200
+"SE-BLV","access.publicDatabase","https://www.verksamt.se/sok-foretagsnamn",200
+"SE-CR","url","http://www.bolagsverket.se/",200
+"SE-KK","url","https://www.kammarkollegiet.se/",200
+"SE-ON","url","http://www.bolagsverket.se/ff/foretagsformer/organisationsnummer-1.7902",200
+"SE-ON","access.publicDatabase","https://snr4.bolagsverket.se/snrgate/startIn.do",200
+"SG-ACRA","url","http://www.acra.gov.sg/",301
+"SG-ACRA","access.publicDatabase","https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/BizfileHomepage.jspx?_afrLoop=335483016357989&_afrWindowMode=0&_afrWindowId=null#%40%3F_afrWindowId%3Dnull%26_afrLoop%3D335483016357989%26_afrWindowMode%3D0%26_adf.ctrl-state%3D13fqtwn2la_4",200
+"SG-CR","url","http://www.bizfile.gov.sg/",301
+"SI-CR","url","http://www.ajpes.si/prs/",302
+"SI-PRS","url","http://www.ajpes.eu/prs/",302
+"SI-TIN","url","https://www.ajpes.eu/",200
+"SI-TIN","access.publicDatabase","https://www.ajpes.eu/pru/",200
+"SK-CR","url","http://www.orsr.sk/search_subjekt.asp?lan=en",200
+"SK-ORSR","url","http://www.orsr.sk/search_subjekt.asp?lan=en",200
+"SK-ORSR","access.publicDatabase","http://www.orsr.sk/search_subjekt.asp?lan=en",200
+"SK-ZRSR","url","http://www.orsr.sk/search_subjekt.asp?lan=en",200
+"SK-ZRSR","access.publicDatabase","http://www.orsr.sk/search_subjekt.asp?lan=en",200
+"SL-CR","url","http://www.oarg.gov.sl/",200
+"SM-CR","url","https://registroimprese.cc.sm/",200
+"SN-CR","url","http://www.servicepublic.gouv.sn/index.php/demarche_administrative/demarche/1/196",200
+"SN-NINEA","url","http://creationdentreprise.sn/en/finding-business",200
+"SN-NINEA","access.publicDatabase","http://creationdentreprise.sn/en/finding-business",200
+"SR-CR","url","http://www.surinamedirectory.biz/",302
+"SS-CR","url","http://www.mojss.org/Busireg/","error connecting"
+"SS-RRC","url","NO URL","NO URL"
+"ST-CR","url","http://www.gue-stp.net/",302
+"SV-CR","url","https://www.e.cnr.gob.sv/portal/",200
+"SY-CR","url","http://www.syrianfinance.gov.sy/english/home.html",200
+"SZ-CR","url","http://www.sipa.org.sz/index.php?option=com_content&task=view&id=15&Itemid=27",200
+"TD-CR","url","http://www.gouvernementdutchad.org/fr/institutions/conseil-economique-social-et-culturel",301
+"TG-CR","url","http://www.republicoftogo.com/Toutes-les-rubriques/Economie/Business-friendly",200
+"TH-CR","url","http://www.dbd.go.th/dbdweb_en/main.php?filename=index",200
+"TJ-CR","url","http://andoz.tj/index.php/ru/elektronnye-uslugi",200
+"TL-CR","url","http://www.mj.gov.tl/",200
+"TN-CR","url","http://www.registre-commerce.tn/search/RCCSearch.do?action=getPage&rg_type=PM&search_mode=NORMAL",200
+"TO-CR","url","http://www.companies.gov.to/cms/banner_template/CNAME","error connecting"
+"TR-CR","url","http://mersis.gumrukticaret.gov.tr/Mersis/%C5%9EirketSorgulama.aspx",302
+"TR-MERSIS","url","https://mersis.gtb.gov.tr/",200
+"TR-MOI","url","https://www.dernekler.gov.tr/",200
+"TT-CR","url","http://rgd.legalaffairs.gov.tt/",302
+"TW-CR","url","http://gcis.nat.gov.tw/pub/cmpy/cmpyInfoListAction.do",302
+"TZ-BRLA","url","http://www.brela.go.tz/",200
+"TZ-BRLA","access.publicDatabase","https://ors.brela.go.tz/login / https://opencorporates.com/companies/tz/",404
+"TZ-CR","url","http://www.brela-tz.org/",200
+"TZ-TRA","url","http://www.tra.go.tz/",200
+"TZ-TRA","access.publicDatabase","None available","not valid"
+"UA-CR","url","http://irc.gov.ua/ua/Poshuk-v-YeDR.html","Timeout Error"
+"UA-EDR","url","https://usr.minjust.gov.ua/ua/home",200
+"UA-EDR","access.publicDatabase","Ministry - https://usr.minjust.gov.ua/ua/freesearch Third-party - http://askpapir.com/","not valid"
+"UG-CR","url","http://www.ursb.go.ug/",301
+"UG-NGB","url","http://www.mia.go.ug/?page_id=62",200
+"UG-NGB","access.publicDatabase","http://brs.ursb.go.ug/brs/pro/bnr/searchname#SearchNamePub",302
+"UG-RSB","url","http://www.ursb.go.ug/",301
+"UG-RSB","access.publicDatabase","http://brs.ursb.go.ug/brs/pro/bnr/searchname#SearchNamePub",302
+"US-AK_CR","url","http://commerce.alaska.gov/",301
+"US-AL_CR","url","http://www.sos.alabama.gov/default.aspx",301
+"US-AR_CR","url","http://www.sos.arkansas.gov/BCS/",301
+"US-AZ_CR","url","http://starpas.azcc.gov/scripts/cgiip.exe/WService=wsbroker1/main.p",200
+"US-CA_CR","url","http://kepler.sos.ca.gov/","error connecting"
+"US-CO_CR","url","http://www.sos.state.co.us/",200
+"US-CT_CR","url","http://www.concord-sots.ct.gov/",302
+"US-DC_CR","url","https://corp.dcra.dc.gov/Account.aspx/LogOn?","error connecting"
+"US-DE_CR","url","https://delecorp.delaware.gov/tin/GINameSearch.jsp","error connecting"
+"US-DOS","url","http://www.companieshouse.gov.uk/links/usaLink.shtml",301
+"US-EIN","url","https://apps.irs.gov/app/eos/",200
+"US-EIN","access.publicDatabase","https://apps.irs.gov/app/eos/",200
+"US-FL_CR","url","http://www.sunbiz.org/",301
+"US-GA_CR","url","https://cgov.sos.state.ga.us","error connecting"
+"US-HI_CR","url","http://hbe.ehawaii.gov",301
+"US-IA_CR","url","http://sos.iowa.gov/search/business/",307
+"US-ID_CR","url","http://www.accessidaho.org/online_services/business.html",301
+"US-IL_CR","url","http://www.cyberdriveillinois.com/departments/business_services/corp.html","error connecting"
+"US-IN_CR","url","https://secure.in.gov/sos/online_corps/name_search.aspx",302
+"US-KS_CR","url","https://www.kansas.gov/bess/",302
+"US-KY_CR","url","http://sos.ky.gov/Pages/default.aspx",301
+"US-LA_CR","url","http://www.sos.la.gov/BusinessServices/SearchForLouisianaBusinessFilings/Pages/default.aspx",301
+"US-MA_CR","url","http://corp.sec.state.ma.us/corpweb/corpsearch/CorpSearch.aspx",403
+"US-MD_CR","url","http://sdatcert3.resiusa.org/UCC-Charter/","error connecting"
+"US-ME_CR","url","https://icrs.informe.org/nei-sos-icrs/ICRS?MainPage=x",403
+"US-MI_CR","url","http://www.dleg.state.mi.us/bcs_corp/sr_corp.asp",302
+"US-MN_CR","url","http://mblsportal.sos.state.mn.us/",302
+"US-MO_CR","url","https://bsd.sos.mo.gov/BusinessEntity/BESearch.aspx?SearchType=0","error connecting"
+"US-MS_CR","url","http://www.sos.ms.gov/Pages/Online-Services-Directory.aspx",200
+"US-MT_CR","url","https://app.mt.gov/corprecords/",302
+"US-NC_CR","url","http://www.secretary.state.nc.us/corporations/CSearch.aspx",302
+"US-ND_CR","url","https://apps.nd.gov/sc/busnsrch/busnSearch.htm",200
+"US-NE_CR","url","https://www.nebraska.gov/sos/corp/corpsearch.cgi",200
+"US-NH_CR","url","https://www.sos.nh.gov/corporate/soskb/csearch.asp",503
+"US-NJ_CR","url","https://www.njportal.com/DOR/businessrecords/",200
+"US-NM_CR","url","https://portal.sos.state.nm.us/corps/(S(pw0xbvcenvxfscevwgveqnhv))/Corplookup/Lookdn.aspx","Timeout Error"
+"US-NV_CR","url","http://nvsos.gov/sosentitysearch/",200
+"US-NY_CR","url","http://www.dos.ny.gov/corps/bus_entity_search.html",302
+"US-OH_CR","url","http://www2.sos.state.oh.us/pls/bsqry/f?p=100:1:0:::::",503
+"US-OK_CR","url","https://www.sos.ok.gov/corp/corpInquiryFind.aspx",200
+"US-OR_CR","url","http://egov.sos.state.or.us/br/pkg_web_name_srch_inq.login","error connecting"
+"US-PA_CR","url","https://www.corporations.state.pa.us/corp/soskb/searchbycharternumber.asp","error connecting"
+"US-RI_CR","url","http://ucc.state.ri.us/CorpSearch/CorpSearchInput.asp",200
+"US-SC_CR","url","http://www.scsos.com/search%20business%20filings",200
+"US-SD_CR","url","https://sos.sd.gov/business/Search.aspx",302
+"US-TN_CR","url","https://tnbear.tn.gov/ECommerce/FilingSearch.aspx",200
+"US-TX_CR","url","https://direct.sos.state.tx.us/acct/acct-login.asp","error connecting"
+"US-USAGOV","url","https://www.usa.gov/",200
+"US-USAGOV","access.publicDatabase","http://www.usa.gov/directory/federal/index.shtml",301
+"US-UT_CR","url","https://secure.utah.gov/bes/",405
+"US-VA_CR","url","http://sccefile.scc.virginia.gov/Find/Business",302
+"US-VT_CR","url","http://corps.sec.state.vt.us/corpbrow.aspx","error connecting"
+"US-WA_CR","url","http://www.sos.wa.gov/corps/corps_search.aspx",301
+"US-WI_CR","url","http://www.wdfi.org/apps/CorpSearch/Search.aspx","error connecting"
+"US-WV_CR","url","http://apps.sos.wv.gov/business/corporations/",200
+"US-WY_CR","url","http://wyobiz.wy.gov/Business/FilingSearch.aspx",302
+"UY-CR","url","http://www.dgr.gub.uy/",200
+"UZ-CR","url","https://my.gov.uz/en/service/121/56",302
+"UZ-KTUT","url","https://my.gov.uz/uz/regService/413",200
+"VC-CR","url","http://www.cipo.gov.vc/",302
+"VE-CR","url","http://declaraciones.seniat.gob.ve/portal/page/portal/PORTAL_SENIAT",200
+"VN-CR","url","http://hieudinh.dangkykinhdoanh.gov.vn/en-us/searchenterprises.aspx",301
+"VU-CR","url","http://vfsc.vu/",302
+"WS-CR","url","http://www.companies.gov.ws/","error connecting"
+"XI-EORI","url","http://ec.europa.eu/taxation_customs/dds2/eos/eori_validation.jsp",500
+"XI-EORI","access.publicDatabase","http://ec.europa.eu/taxation_customs/business/calculation-customs-duties/rules-origin/general-aspects-preferential-origin/arrangements-list/generalised-system-preferences/the_register_exporter_system_en",302
+"XI-GRID","url","https://www.grid.ac/",200
+"XI-GRID","access.publicDatabase","https://www.grid.ac/downloads",200
+"XI-IATI","url","http://iatistandard.org/codelists/IATIOrganisationIdentifier/",301
+"XI-IATI","access.publicDatabase","http://iatistandard.org/202/codelists/IATIOrganisationIdentifier/",200
+"XI-PB","url","http://publicbodies.org/",200
+"XI-PB","access.publicDatabase","http://publicbodies.org/",200
+"XI-PID","url","https://permid.org",200
+"XI-PID","access.publicDatabase","https://permid.org",200
+"XI-WIKIDATA","url","NO URL","NO URL"
+"XK-CR","url","http://www.arbk.org/en/Home",404
+"XM-DAC","url","http://www.oecd.org/dac/stats/dacandcrscodelists.htm",302
+"XM-DAC","access.publicDatabase","http://www.oecd.org/dac/stats/dacandcrscodelists.htm",302
+"XM-OCHA","url","http://www.unocha.org",200
+"XM-OCHA","access.publicDatabase","https://fts.unocha.org/",200
+"XR-NUTS","url","http://ec.europa.eu/eurostat/web/nuts/local-administrative-units",200
+"XR-NUTS","access.publicDatabase","http://ec.europa.eu/eurostat/web/nuts/local-administrative-units",200
+"YE-CR","url","http://www.moit.gov.ye/search/",200
+"ZA-CIP","url","http://www.cipro.gov.za/",200
+"ZA-CIP","access.publicDatabase","http://www.cipro.co.za/products_services/name_search.asp, https://eservices.cipc.co.za/ , https://opencorporates.com/companies/za?page=1",404
+"ZA-CR","url","http://www.cipro.co.za",200
+"ZA-NPO","url","http://www.npo.gov.za/",200
+"ZA-NPO","access.publicDatabase","http://www.npo.gov.za/PublicNpo/Npo",200
+"ZA-PBO","url","http://www.sars.gov.za/home.asp?pid=170",404
+"ZA-PBO","access.publicDatabase","None available","not valid"
+"ZM-CR","url","http://www.pacra.org.zm/",302
+"ZM-NRB","url","NO URL","NO URL"
+"ZM-PCR","url","http://www.pacra.org.zm/",302
+"ZM-PCR","access.publicDatabase","http://www.onlinepacra.org.zm/pacranc/default.aspx?UR=http://www.pacra.org.zm/index.php?option=com_content&view=article&id=95&Itemid=136",404
+"ZW-CR","url","http://www.dcip.gov.zw/index.php/companies",200
+"ZW-PVO","url","NO URL","NO URL"
+"ZW-ROD","url","http://www.dcip.gov.zw/",200
