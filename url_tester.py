@@ -54,7 +54,7 @@ def uri_validator(url):
 def main():
     with open('url_testing.csv', 'w') as outputfile:
         csvwriter  = csv.writer(outputfile, quoting=csv.QUOTE_MINIMAL)
-        csvwriter.writerow(['List', 'Field', 'URL', 'Status'])
+        csvwriter.writerow(['List', 'Field', 'Status', 'URL'])
 
         '''
         walk through all of the registration agency lists to test url_status
@@ -78,15 +78,15 @@ def main():
                     if reglist['url'] and reglist['access']['publicDatabase']:
                         urls = {'list_url': reglist['url'], 'database_url': reglist['access']['publicDatabase']}
                         url, status = url_status(urls['list_url'])
-                        csvwriter.writerow([reglist['code'], 'url', url, status])
+                        csvwriter.writerow([reglist['code'], 'url', status, url])
                         url, status = url_status(urls['database_url'])
-                        csvwriter.writerow([reglist['code'], 'access.publicDatabase', url, status])
+                        csvwriter.writerow([reglist['code'], 'access.publicDatabase', status, url])
                     elif reglist['url']:
                         urls = {'list_url': reglist['url']}
                         url, status = url_status(urls['list_url'])
-                        csvwriter.writerow([reglist['code'], 'url', url, status])
+                        csvwriter.writerow([reglist['code'], 'url', status, url])
                     else:
-                        csvwriter.writerow([reglist['code'], 'url', 'NO URL', 'NO URL'])
+                        csvwriter.writerow([reglist['code'], 'url', 'NO URL', ''])
 
 if __name__ == '__main__':
     main()
