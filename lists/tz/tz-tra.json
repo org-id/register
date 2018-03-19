@@ -16,7 +16,7 @@
   "code": "TZ-TRA",
   "confirmed": true,
   "deprecated": false,
-  "listType": "primary",
+  "listType": "secondary",
   "access": {
     "availableOnline": false,
     "onlineAccessDetails": "TINs are not accessible online. Please use a known TIN, or check the list TZ-BRLA as an alternative.",
