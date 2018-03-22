@@ -15,7 +15,7 @@
     "coverage": null,
     "code": "XI-GRID",
     "formerPrefixes": null,
-    "confirmed": null,
+    "confirmed": true,
     "data": {
         "features": [
             "contact_address",
