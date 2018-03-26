@@ -1,44 +1,47 @@
 {
-    "links": {
-        "wikipedia": null,
-        "opencorporates": null
-    },
-    "sector": null,
-    "url": "http://www.tra.go.tz/",
-    "name": {
-        "en": "Tanzania Revenue Agency",
-        "local": ""
-    },
-    "coverage": [
-        "TZ"
+  "name": {
+    "en": "Tanzania Revenue Agency",
+    "local": ""
+  },
+  "url": "https://www.tra.go.tz/index.php",
+  "description": {
+    "en": "\"The Tanzania Revenue Authority (TRA) was established by Act of Parliament No. 11 of 1995, and started its operations on 1st July 1996.  In carrying out its statutory functions, TRA is regulated by law, and is responsible for administering impartially various taxes of the Central Government.\"[1]\n\nThe Tanzanian Revenue Authority provides Taxpayer Identification Numbers (TIN) for organisations registered in Tanzania. This is issued under section 3A(4) of the Income Tax Act no. 33 of 1973. As amended by the financial laws (miscellaneous amendments) 2000.\n\nThere is no searchable database for TIN. It's possible that a company with a TIN could be on the Tanzanian Business Registrations and Licensing Agency (BRELA) Online Registration System, which can be searched free of charge. It is worth checking list TZ-BRLA before deciding to use this list.\n\n[1]: https://www.tra.go.tz/index.php/about-tra/corporate-news\n \n"
+  },
+  "coverage": [
+    "TZ"
+  ],
+  "subnationalCoverage": [],
+  "structure": [],
+  "sector": [],
+  "code": "TZ-TRA",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": "TINs are not accessible online. Please use a known TIN, or check the list TZ-BRLA as an alternative.",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "Use Taxpayer Identifiers Numbers (TINs) without any hyphens or spaces.",
+    "exampleIdentifiers": " 101091759",
+    "languages": [
+      "en"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
     ],
-    "code": "TZ-TRA",
-    "formerPrefixes": null,
-    "confirmed": null,
-    "data": {
-        "features": null,
-        "dataAccessDetails": null,
-        "licenseDetails": null,
-        "licenseStatus": "closed_license",
-        "availability": null
-    },
-    "deprecated": null,
-    "structure": null,
-    "description": {
-        "en": "Following company registration with the Business Registrations and Licensing Agency (BRELA), all corporate entities must register for a tax identification number (TIN) from the Tanzania Revenue Agency (TRA). This TIN appears to be the only unique identifier available for companies in Tanzania. \n\nA search for company information/TIN is not available.\n\n\"The Tanzania Revenue Authority (TRA) has recently introduced the requirement for all taxpayers registered with the Authority to immediately verify their Tax Identification Numbers (TIN). All taxpayers are to receive a new TIN certificate. Failure to register will lead to the revocation of taxpayer\u2019s TIN certificate.\" [1] \n\n[1] http://www.ey.com/gl/en/services/tax/international-tax/alert--tanzania-tax-authorities-introduce-requirement-to-verify-tax-identification-numbers"
-    },
-    "meta": {
-        "lastUpdated": "2016-12-07",
-        "source": null
-    },
-    "access": {
-        "languages": null,
-        "exampleIdentifiers": null,
-        "onlineAccessDetails": null,
-        "publicDatabase": "None available",
-        "availableOnline": false,
-        "guidanceOnLocatingIds": "None available"
-    },
-    "subnationalCoverage": null,
-    "listType": "secondary"
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "https://github.com/org-id/register/issues/198",
+    "lastUpdated": "2018-03-19"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
 }
