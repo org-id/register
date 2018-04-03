@@ -1,0 +1,53 @@
+{
+  "name": {
+    "en": "Peruvian National Superintendency of Public Registries - Registered Legal Entities ",
+    "local": "Superintendencia Nacional de los Registros Públicos - Personas Jurídicas Inscritas"
+  },
+  "url": "https://www.sunarp.gob.pe/dn-personas-juridicas.asp",
+  "description": {
+    "en": "The SUNARP is an autonomous decentralized body of the Justice Sector in Peru and the governing body of the National System of Public Registries. It maintains the register of Legal Entities (\"Registro De Personas Juridicas\") which covers corporate and non-corporate bodies including:\n\n* Non Corporate\n  * Associations\n  * Foundations\n  * Committees\n  * Peasant and native communities\n  * Cooperatives\n  * Grassroots social organizations\n* Corporate\n  * Public Limited Companies (open and closed)\n  * Collective Societies\n  * Limited Partnerships\n  * Limited Liability Company\n  * Civil Companies\n\n"
+  },
+  "coverage": [
+    "PE"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity",
+    "company"
+  ],
+  "sector": [],
+  "code": "PE-SUNARP",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "A search service is available supporting search by name. \n\nThe search appears to look for complete strings, so the name, or a fragment of the name, must be provided exactly as registered to get results. ",
+    "publicDatabase": "https://www.sunarp.gob.pe/dn-personas-juridicas.asp",
+    "guidanceOnLocatingIds": "For a successful search, identifiers are displayed in the 'Partida' column.\n\nOrganisations may also be able to find their identifier on their registration certificate prefixed by 'Nº Partida'. ",
+    "exampleIdentifiers": "12623829, 00890227, 13964442",
+    "languages": [
+      "es"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [
+      "registration_number"
+    ],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "https://github.com/org-id/register/issues/202",
+    "lastUpdated": "2018-03-26"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": "https://es.wikipedia.org/wiki/Superintendencia_Nacional_de_los_Registros_P%C3%BAblicos"
+  },
+  "formerPrefixes": []
+}
