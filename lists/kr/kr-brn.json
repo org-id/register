@@ -18,8 +18,9 @@
   ],
   "sector": [],
   "code": "KR-BRN",
-  "confirmed": false,
+  "confirmed": true,
   "deprecated": false,
+  "listType": "secondary",
   "access": {
     "availableOnline": true,
     "onlineAccessDetails": "A Check Certificate Authenticity service is available on the hometax.go.kr website.\n\nBoth the Issuance Number and the Business Registration Number are required to look up an organization's registration certificate.\n\nEither Internet Explorer or a user agent switcher which enables your browser to be identified as Internet Explorer are required to access the service.",
@@ -47,6 +48,5 @@
     "opencorporates": "",
     "wikipedia": "https://en.wikipedia.org/wiki/National_Tax_Service_of_South_Korea"
   },
-  "formerPrefixes": [],
-  "listType": "secondary"
+  "formerPrefixes": []
 }
