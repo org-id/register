@@ -17,7 +17,7 @@
     "government_agency"
   ],
   "sector": [],
-  "code": "KO-BRN",
+  "code": "KR-BRN",
   "confirmed": false,
   "deprecated": false,
   "access": {
@@ -40,12 +40,13 @@
     "licenseDetails": ""
   },
   "meta": {
-    "source": "original research",
-    "lastUpdated": ""
+    "source": "Original research - https://github.com/org-id/register/issues/208",
+    "lastUpdated": "2018-04-18"
   },
   "links": {
     "opencorporates": "",
-    "wikipedia": ""
+    "wikipedia": "https://en.wikipedia.org/wiki/National_Tax_Service_of_South_Korea"
   },
-  "formerPrefixes": []
+  "formerPrefixes": [],
+  "listType": "secondary"
 }
