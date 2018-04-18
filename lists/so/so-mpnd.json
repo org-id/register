@@ -1,0 +1,54 @@
+{
+  "name": {
+    "en": "General Register for Non-Governmental Organizations",
+    "local": ""
+  },
+  "url": "http://slministryofplanning.org/",
+  "description": {
+    "en": "(1) This register covers the operations of non-governmental, independent and not-for-profit organizations; Local/National NGOs, Foreign NGOs, and International NGOs within Somaliland. It also includes the Umbrellas and Consortium of Non-governmental Organizations[1]. It does not include any regulation for the activities of UN organizations, Professional Associations, Private Companies and Industrial and Employee Associations, and those not relating to humanitarian activities [2]. The General Register for Non-Governmental Organizations records and maintains all information and data relating to NGOs. The General Register has separate registration sections for National, International, Foreign, and Umbrellas NGOs [3]. \n(2) An NGO is entered into the General Register using the official name of the NGO and the date of registration, serial number and registration number of the certificate. Additional requirements also exist [4].\n[1]: Article2.2 and 2.3: http://slministryofplanning.org/images/NGO/ngo-law-final.pdf\n[2]: Article2.4: http://slministryofplanning.org/images/NGO/ngo-law-final.pdf\n[3]: Article 9.1: Register for Non-Governmental Organizations in http://slministryofplanning.org/images/NGO/ngo-law-final.pdf\n[4]: Article 9.7(f):  Register for Non-Governmental Organizations in http://slministryofplanning.org/images/NGO/ngo-law-final.pdf"
+  },
+  "coverage": [
+    "SO"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity",
+    "company/community_interest_company",
+    "trust",
+    "company/partnership",
+    "company/mutual"
+  ],
+  "sector": [],
+  "code": "SO-MPND",
+  "confirmed": false,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": "",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "",
+    "languages": [
+      ""
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "closed_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Original research",
+    "lastUpdated": "2018-04-18"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
