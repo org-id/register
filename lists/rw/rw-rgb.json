@@ -16,7 +16,7 @@
   ],
   "sector": [],
   "code": "RW-RGB",
-  "confirmed": false,
+  "confirmed": true,
   "deprecated": false,
   "listType": "primary",
   "access": {
