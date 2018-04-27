@@ -16,7 +16,7 @@
   ],
   "sector": [],
   "code": "TZ-NNCB",
-  "confirmed": false,
+  "confirmed": true,
   "deprecated": false,
   "listType": "primary",
   "access": {
