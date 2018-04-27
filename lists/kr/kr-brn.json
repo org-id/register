@@ -1,0 +1,52 @@
+{
+  "name": {
+    "en": "National Tax Service Business Registration Number",
+    "local": "국세청 사업자 등록 번호"
+  },
+  "url": "http://www.nts.go.kr",
+  "description": {
+    "en": "The Business Registration Number covers the following types of organization, as designated by the middle two digits of the number [1]:\n\n- 01-79 sole proprietor liable for value-added tax (VAT)\n- 90-99 sole proprietor exempted from value-added tax (VAT)\n- 89 non-corporate religious organization\n- 80 non-corportate organization excluding religious group\n- 81,86-88 head office of a for-profit organization\n- 82 head or branch office of a non-profit corporation\n- 83 country, local government or local government association\n- 84 head, branch or liaison office of a foreign corporation\n- 85 branch office of a for-profit corporation\n\nAn individual or corporation starting a business should obtain a Business Registration Number from the head of the district tax office in their jurisdiction [2].\n\nThe Business Registration Number can be found on the Business Registration Certificate issued by the National Tax Service [3].\n\n[1,2,3] https://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Korea-TIN.pdf"
+  },
+  "coverage": [
+    "KR"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity",
+    "company",
+    "government_agency"
+  ],
+  "sector": [],
+  "code": "KR-BRN",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "A Check Certificate Authenticity service is available on the hometax.go.kr website.\n\nBoth the Issuance Number and the Business Registration Number are required to look up an organization's registration certificate.\n\nEither Internet Explorer or a user agent switcher which enables your browser to be identified as Internet Explorer are required to access the service.",
+    "publicDatabase": "https://www.hometax.go.kr/websquare/websquare.wq?w2xPath=/ui/pp/index_pp.xml&tmIdx=02&tm2lIdx=0203000000&tm3lIdx=",
+    "guidanceOnLocatingIds": "The service cannot be used to look up the identifier for an organization, only to validate the authenticity of an identifier.",
+    "exampleIdentifiers": "402-82-24197",
+    "languages": [
+      "KR",
+      "EN"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Original research - https://github.com/org-id/register/issues/208",
+    "lastUpdated": "2018-04-18"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": "https://en.wikipedia.org/wiki/National_Tax_Service_of_South_Korea"
+  },
+  "formerPrefixes": []
+}
