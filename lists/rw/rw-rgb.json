@@ -1,0 +1,49 @@
+{
+  "name": {
+    "en": "Rwanda Governance Board",
+    "local": "Urwego rw'Igihugu rw'Imiyoborere"
+  },
+  "url": "http://rgb.rw/",
+  "description": {
+    "en": "Rwanda Governance Board registers and grants legal personality to national non-governmental organisations and religious based organisations. [1]\n\nNational non-governmental organisations are classified into three categories [2]:\n\n* Public interest organisations\n* Common interest organisations\n* Foundations\n\nCommon interest organisations and foundations may operate for up to two years before registering with Rwanda Governance Board. [2]\n\nOrganisations registering with Rwanda Governance Board are issued a temporary operational certificate of registration, valid for a period 12 months, and must apply for legal personality within 9 months from the issue of the temporary certificate [2].\n\nDecisions to grant legal personality to national non-governmental organisations are published in the [Official Gazette of the Republic of Rwanda](http://primature.gov.rw/media-publication/publication/latest-offical-gazettes.html). [2]\n\nBased on examples from the Official Gazette the final four digits of the identifier represent either the year of issue of the temporary certificate or the year legal personality was granted and the preceding 3 characters identify the type of organisation as follows [3]:\n\n* NGO for non-governmental organisatios\n* RBO for religious based organisations\n\n[1] http://rgb.rw/fileadmin/Key_documents/Law-RGS-Gazette/Law_Establishing_RGB_2016.pdf\n[2] http://rgb.rw/fileadmin/Key_documents/Law_Governing_Organization___Functioning_of_NGOs.pdf\n[3] http://primature.gov.rw/media-publication/publication/latest-offical-gazettes.html?no_cache=1&tx_drblob_pi1%5BdownloadUid%5D=324"
+  },
+  "coverage": [
+    "RW"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity"
+  ],
+  "sector": [],
+  "code": "RW-RGB",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": "The Rwanda Governance Board website includes a placeholder page for the list of national non-governmental organisations.",
+    "publicDatabase": "http://rgb.rw/non-governmental-and-faith-based-organisations/non-goverment-organisations/national-ngos/",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "57-RGB-RBO-2016,92-RGB-NGO-2016",
+    "languages": [
+      ""
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Original research - see https://github.com/org-id/register/issues/213",
+    "lastUpdated": "2018-04-23"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
