@@ -21,10 +21,10 @@
   "listType": "primary",
   "access": {
     "availableOnline": false,
-    "onlineAccessDetails": "The list of NGOs is published on the [Tanzania National NGO Coordination Board website](http://www.tnnc.go.tz/ngoresults.php) with a search by name, category, region and district available on the [homepage](http://www.tnnc.go.tz/index.php). However identifiers are not published for most organisations on the list.",
+    "onlineAccessDetails": "The list of NGOs is published on the [Tanzania National NGO Coordination Board website](http://www.tnnc.go.tz/ngoresults.php) with a search by name, category, region and district available on the [homepage](http://www.tnnc.go.tz/index.php). However identifiers are not published for most organisations on the list and the list appears to be incomplete or out of date",
     "publicDatabase": "http://www.tnnc.go.tz/ngoresults.php",
     "guidanceOnLocatingIds": "Clicking the name of an entry in the list displays the NGO profile view which includes links to annual and financial reports. Where organisations have provided an annual report the identifier may be found in the registration number field, where this is completed.",
-    "exampleIdentifiers": "00NGO/1787,00NGO/0027,00NGO/0136",
+    "exampleIdentifiers": "00NGO/1787,00NGO/00007227,00NGO/0008891,00NGO00002182",
     "languages": [
       "EN"
     ]
