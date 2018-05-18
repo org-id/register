@@ -1,0 +1,49 @@
+{
+  "name": {
+    "en": "Tanzania National NGO Coordination Board",
+    "local": "Bodi ya Taifa ya Uratibu wa NGOs"
+  },
+  "url": "http://www.tnnc.go.tz",
+  "description": {
+    "en": "The National NGO Coordination Board is part of the Ministry of Community Development, Gender and Children and is responsible for registration of [1]:\n\n* National NGOs, which are established via registration with the Board\n* International NGOS, which are established outside Tanzania but must register with the Board to operate in the country\n\nNGOs must submit an application for registration to the public officer appointed by the Board at either district, regional or national level depending on the scope of their activities [1], [2], [3]. Successful applicants will be issued with a certificate of registration as evidence of authority to operate as an NGO [1].\n\n[1] https://www.fiu.go.tz/NGOact.pdf\n[2] http://www.tnnc.go.tz/Procedures_registration_NGOs.pdf\n[3] http://www.tnnc.go.tz/documents/application.pdf"
+  },
+  "coverage": [
+    "TZ"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity"
+  ],
+  "sector": [],
+  "code": "TZ-NNCB",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": "The list of NGOs is published on the [Tanzania National NGO Coordination Board website](http://www.tnnc.go.tz/ngoresults.php) with a search by name, category, region and district available on the [homepage](http://www.tnnc.go.tz/index.php). However identifiers are not published for most organisations on the list and the list appears to be incomplete or out of date",
+    "publicDatabase": "http://www.tnnc.go.tz/ngoresults.php",
+    "guidanceOnLocatingIds": "Clicking the name of an entry in the list displays the NGO profile view which includes links to annual and financial reports. Where organisations have provided an annual report the identifier may be found in the registration number field, where this is completed.",
+    "exampleIdentifiers": "00NGO/1787,00NGO/00007227,00NGO/0008891,00NGO00002182",
+    "languages": [
+      "EN"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "original research (see https://github.com/org-id/register/issues/220#event-1597098877)",
+    "lastUpdated": "2018-04-27"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ministry_of_Community_Development,_Gender_and_Children"
+  },
+  "formerPrefixes": []
+}
