@@ -57,5 +57,6 @@
     "opencorporates": "",
     "wikipedia": "https://es.wikipedia.org/wiki/Registro_%C3%9Anico_de_Contribuyente"
   },
-  "formerPrefixes": []
+  "formerPrefixes": [],
+  "listType": "primary"
 }
