@@ -3,7 +3,7 @@
     "en": "Rol Único Tributario de Chile (Taxpayer Number)",
     "local": "Rol Único Tributario de Chile"
   },
-  "url": "",
+  "url": "http://www.chileproveedores.cl/",
   "description": {
     "en": "Any company that will be subject to taxes in Chile must obtain a Rol Único Tributario (RUT).  \n\nA RUT has 7 or 8 digits, plus a check digit. Identifiers should be presented without any punctuation and including the check digit. "
   },
