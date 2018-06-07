@@ -1,0 +1,78 @@
+{
+  "name": {
+    "en": "European Union Corporate Bodies authority list",
+    "local": ""
+  },
+  "url": "https://publications.europa.eu/en/web/eu-vocabularies/at-dataset/-/resource/dataset/corporate-body?target=About",
+  "description": {
+    "en": "The European Union Publications Office maintain a list of 'Corporate Bodies' covering offices and bodies of the European Union (labelled EU), as well as external bodies referenced regularly in European Systems (labelled INT).\n\nThe list is more authoritative for EU Institutions, than for International institutions the EU works with. \n\nNote that not all of the bodies in the list are legal entities: some represent 'projects' as opposed to organizations that the European Union institutions have worked with.\n\nThe list contains some meta-data on organisational hierarchy, and succession where one organization has replaced another. "
+  },
+  "coverage": [
+    "XI"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "government_agency"
+  ],
+  "sector": [],
+  "code": "XR-EUCB",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "third_party",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "Through EU Vocabularies it is possible to browse the list, which is also available for download in a variety of formats. ",
+    "publicDatabase": "https://publications.europa.eu/en/web/eu-vocabularies/at-concept-scheme/-/resource/authority/corporate-body/?target=Browse",
+    "guidanceOnLocatingIds": "When viewing an individual entry in the list, identifiers are given in the field 'Authority code'",
+    "exampleIdentifiers": "ACP_MIN, COR_COM5, DEL_SSD",
+    "languages": [
+      "bg",
+      "hr",
+      "cs",
+      "da",
+      "nl",
+      "en",
+      "et",
+      "fi",
+      "fr",
+      "de",
+      "el",
+      "hu",
+      "ga",
+      "it",
+      "lv",
+      "lt",
+      "mt",
+      "pl",
+      "pt",
+      "ro",
+      "sk",
+      "sl",
+      "es",
+      "sv"
+    ]
+  },
+  "data": {
+    "availability": [
+      "bulk",
+      "xml",
+      "rdf"
+    ],
+    "dataAccessDetails": "The data is available for download in Excel in each of the European Union Languages. ",
+    "features": [
+      "akas",
+      "business_id_history"
+    ],
+    "licenseStatus": "open_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "GitHub issue: https://github.com/org-id/register/issues/30",
+    "lastUpdated": "2018-05-31"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
