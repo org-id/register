@@ -1,0 +1,62 @@
+{
+  "name": {
+    "en": "Ecuador Unique Taxpayer Registry",
+    "local": "Registro Único de Contribuyentes (Ecuador)"
+  },
+  "url": "http://www.sri.gob.ec/web/guest/RUC",
+  "description": {
+    "en": "To carry out economic activity in Ecuador, an organisation must have a unique taxpayer identifier (RUC). Both individuals and organisations may hold a taxpayer identifier.\n\nThe Superintendency of Companies provides a search of companies, with each record showing their RUC. "
+  },
+  "coverage": [
+    "EC"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company",
+    "charity",
+    "unincorporated_body"
+  ],
+  "sector": [],
+  "code": "EC-RUC",
+  "confirmed": true,
+  "deprecated": false,
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "An online search with company details is available from the Superintendency of Companies.",
+    "publicDatabase": "http://www.supercias.gob.ec/portalinformacion/portal/",
+    "guidanceOnLocatingIds": "The portal at http://www.supercias.gob.ec/portalinformacion/portal/ provides links to the Directorio de Companias, which has a search facility.\n\nThe RUC is provided in the results. ",
+    "exampleIdentifiers": "1790027740001, 1790004104001, 0992231815001",
+    "languages": []
+  },
+  "data": {
+    "availability": [
+      "csv",
+      "xml",
+      "excel",
+      "pdf"
+    ],
+    "dataAccessDetails": "An export of search results is available through the portal. ",
+    "features": [
+      "directors_trustees_governors",
+      "registered_address",
+      "industry_classifications",
+      "date_of_registration",
+      "tax_id_number",
+      "objectives_purpose",
+      "financial_turnover_details",
+      "status"
+    ],
+    "licenseStatus": "no_license",
+    "licenseDetails": "No license given"
+  },
+  "meta": {
+    "source": "GitHub and research https://github.com/org-id/register/issues/196",
+    "lastUpdated": "2018-05-30"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": "https://es.wikipedia.org/wiki/Registro_%C3%9Anico_de_Contribuyente"
+  },
+  "formerPrefixes": [],
+  "listType": "primary"
+}
