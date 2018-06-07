@@ -1,0 +1,53 @@
+{
+  "name": {
+    "en": "Securities and Exchange Commission of Pakistan",
+    "local": ""
+  },
+  "url": "https://www.secp.gov.pk/",
+  "description": {
+    "en": "Companies and other forms of association in Pakistan can be registered with the Securities and Exchange Commission (SEC). "
+  },
+  "coverage": [
+    "PK"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company",
+    "charity"
+  ],
+  "sector": [],
+  "code": "PK-SEC",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "A search of company names is provided on the Securities and Exchange Commission website. ",
+    "publicDatabase": "https://www.secp.gov.pk/company-name-search/",
+    "guidanceOnLocatingIds": "Search at https://www.secp.gov.pk/company-name-search/ and look for the Incorporation Number (CUIN)",
+    "exampleIdentifiers": "0086650, 0081550,  0078867",
+    "languages": [
+      "en"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [
+      "date_of_registration"
+    ],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "User request & desk research",
+    "lastUpdated": "2018-05-31"
+  },
+  "links": {
+    "opencorporates": "https://opencorporates.com/companies/pk/",
+    "wikipedia": "https://en.wikipedia.org/wiki/Securities_and_Exchange_Commission_of_Pakistan"
+  },
+  "formerPrefixes": []
+}
