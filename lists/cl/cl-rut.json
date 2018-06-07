@@ -1,0 +1,51 @@
+{
+  "name": {
+    "en": "Rol Único Tributario de Chile (Taxpayer Number)",
+    "local": "Rol Único Tributario de Chile"
+  },
+  "url": "http://www.chileproveedores.cl/",
+  "description": {
+    "en": "Any company that will be subject to taxes in Chile must obtain a Rol Único Tributario (RUT).  \n\nA RUT has 7 or 8 digits, plus a check digit. Identifiers should be presented without any punctuation and including the check digit. "
+  },
+  "coverage": [
+    "CL"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company",
+    "charity"
+  ],
+  "sector": [],
+  "code": "CL-RUT",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "A search of government suppliers is available. ",
+    "publicDatabase": "http://www.chileproveedores.cl/",
+    "guidanceOnLocatingIds": "Search for registered government suppliers by name or RUT at http://www.chileproveedores.cl/ and then view the profile of the organisation to find the RUT under the heading 'RUTH'.\n\nYou can ask other organisations to provide their RUT, and in some cases will find this from a google search.",
+    "exampleIdentifiers": "764241355, 616021214, 764957423",
+    "languages": [
+      "es"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "GitHub issue: https://github.com/org-id/register/issues/225",
+    "lastUpdated": "2018-05-30"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": "https://en.wikipedia.org/wiki/National_identification_number#Chile"
+  },
+  "formerPrefixes": []
+}
