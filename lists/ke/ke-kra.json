@@ -25,7 +25,7 @@
   "listType": "secondary",
   "access": {
     "availableOnline": false,
-    "onlineAccessDetails": "The Kenya Revenue Authority provide a PIN Checker service at https://itax.kra.go.ke/KRA-Portal/pinChecker.htm?actionCode=loadPage&viewType=static which can be used to verify a PIN. No search of existing PIN values is available. ",
+    "onlineAccessDetails": "The Kenya Revenue Authority provide a PIN Checker service at https://itax.kra.go.ke/KRA-Portal/pinChecker.htm?actionCode=loadPage&viewType=static which can be used to verify a PIN and lookup the address and tax registration details of an organisation. ",
     "publicDatabase": "",
     "guidanceOnLocatingIds": "Consult with an organisation to ask for their PIN. This will be available on a PIN Certificate. ",
     "exampleIdentifiers": "P00000000150Q, A0000001059V, P051365947M",
