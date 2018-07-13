@@ -1,0 +1,51 @@
+{
+  "name": {
+    "en": "Registro de Personas Jurídicas (Costa Rica)",
+    "local": "Registro de Personas Jurídicas (Costa Rica)"
+  },
+  "url": "http://www.registronacional.go.cr/",
+  "description": {
+    "en": "Companies and foundations may be registered with the Registro de Personas Jurídicas managed by the National Registry (Registro Nacional). \n\nNumbers are assigned in with the structure N-NNN-NNNNNN. Sometimes, these are written without leading zeros for the second set of numbers, but in org-id.guide the leading zeros should be include (e.g. 3-001-111111 rather than 3-1-1111111). \n"
+  },
+  "coverage": [
+    "CR"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity",
+    "company"
+  ],
+  "sector": [],
+  "code": "CR-RPJ",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "A free online search by organisation name is available (after free registration) through the https://www.rnpdigital.com/ platform (Under 'Consultas Gratuitas > Consulta por Nombre Social')",
+    "publicDatabase": "https://www.rnpdigital.com/",
+    "guidanceOnLocatingIds": "Use the search at https://www.rnpdigital.com/ after registering and logging in. This is accessed from the  'Consultas Gratuitas' menu, and then the 'Consulta por Nombre Social' option.\n\nThe name to search for is entered into the 'Buscar Por', and a captcha completed to allow search.\n\nIn the search results, click the value in the 'Identificación' column to get the full identifier (CEDULA JURÍDICA). ",
+    "exampleIdentifiers": "3-006-125548, 3-101-711395, 3-102-742470",
+    "languages": [
+      "es"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "https://github.com/org-id/register/issues/235",
+    "lastUpdated": "2018-07-13"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
