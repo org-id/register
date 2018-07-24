@@ -1,0 +1,50 @@
+{
+  "name": {
+    "en": "Afghanistan Chart of Accounts",
+    "local": ""
+  },
+  "url": "http://www.budgetmof.gov.af/index.php/en/84-budget-execution-directorate/124-chart-of-accounts",
+  "description": {
+    "en": "The Government of Afghanistan provide a Chart of Accounts spreadsheet on an annual basis. \n\nThis includes codes for each ministry or portfolio, each sub-organization and each organizational unit assigned funds within the budget covering centrally budgeted government departments and agencies, hospitals, universities and services. \n"
+  },
+  "coverage": [
+    "AF"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "government_agency"
+  ],
+  "sector": [],
+  "code": "AF-COA",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "An excel spreadsheet is provided for download. This contains an 'Organization' tab.",
+    "publicDatabase": "http://www.budgetmof.gov.af/index.php/en/84-budget-execution-directorate/124-chart-of-accounts",
+    "guidanceOnLocatingIds": "The five-digit 'Unit' code from the Organization tab of the Chart of Accounts spreadsheet should be used. ",
+    "exampleIdentifiers": "20000, 28010, 42000",
+    "languages": [
+      "en"
+    ]
+  },
+  "data": {
+    "availability": [
+      "excel"
+    ],
+    "dataAccessDetails": "A download of the Chart of Accounts is available from http://www.budgetmof.gov.af/index.php/en/84-budget-execution-directorate/124-chart-of-accounts",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Desk research",
+    "lastUpdated": "2018-07-24"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
