@@ -1,0 +1,51 @@
+{
+  "name": {
+    "en": "Bangladesh Office of the Register of Joint Stock Companies and Firms ",
+    "local": ""
+  },
+  "url": "http://www.roc.gov.bd/",
+  "description": {
+    "en": "The Register of Joint Stock Companies is the institution responsible for registering and preserving documentation of the following types of organizations:\n\n(A) Public companies\n(B) Private companies\n(C) Foreign companies\n(D) Trade Organization (Trade Organization)\n(E) Society (association), and\n(F) Partnership firm (partnership business)\n\nRJSC registers various organizations and ensures that they operate according to the rules of applicable law. Applicable laws include:\n\n(A) Company and Trade Organization: Company Act, 1994 (Amendment to Company Law, 1913)\n(B) Societies : Societies Registration Act, 1860\n(C) Partnership Deed: Partnership Act, 1932."
+  },
+  "coverage": [
+    "BD"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity",
+    "company"
+  ],
+  "sector": [],
+  "code": "BD-ROC",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "A search is available at http://app.roc.gov.bd:7781/psp/rjschome accessed from the 'Search entity names' option.\n\nThe result includes a registration number.",
+    "publicDatabase": "http://app.roc.gov.bd:7781/psp/rjschome",
+    "guidanceOnLocatingIds": "Organisations can be searched by name following completion of a CAPTCHA. ",
+    "exampleIdentifiers": "3-S123, C-69103, CH-5884, 66885",
+    "languages": [
+      "en"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "No open data version of this list was discovered from government sources - but a search of firms is available from OpenCorporates at https://opencorporates.com/companies/bd suggesting it may be possible to get hold of a list from some source.",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Desk research",
+    "lastUpdated": "2018-07-24"
+  },
+  "links": {
+    "opencorporates": "https://opencorporates.com/companies/bd",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
