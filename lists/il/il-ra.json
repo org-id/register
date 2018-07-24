@@ -1,0 +1,57 @@
+{
+  "name": {
+    "en": "Israel Charity Registry",
+    "local": "Rasham Ha'amutot "
+  },
+  "url": "http://www.justice.gov.il/Units/RasutHataagidim/apps/Pages/RashamAmutot.aspx",
+  "description": {
+    "en": "In Israel, charitable organisations may take two forms:\n\n* Companies registered for public benefit (which are in the Register of Companies - IL-ROC)\n* Charities registered with the register of charities (Rasham Ha'amutot) which are contained within this list (IL-RA)\n\nRasham Ha'amutot registration numbers begin with '58'. "
+  },
+  "coverage": [
+    "IL"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity"
+  ],
+  "sector": [],
+  "code": "IL-RA",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "A search service is available.",
+    "publicDatabase": "https://ica.justice.gov.il/Request/OpenRequest?rt=ExposeDocumentsAssociation",
+    "guidanceOnLocatingIds": "Names may need to be translated into Hebrew before searching. Enter organisation names in to the 'Name of Amuta' search box. The results will provide the name and number of the organisation. ",
+    "exampleIdentifiers": "580197770, 580166452",
+    "languages": [
+      "he"
+    ]
+  },
+  "data": {
+    "availability": [
+      "bulk"
+    ],
+    "dataAccessDetails": "Bulk data is available from https://data.gov.il/dataset/moj-amutot ",
+    "features": [
+      "registered_address",
+      "industry_classifications",
+      "date_of_registration",
+      "registration_number",
+      "activities_sector_code",
+      "financial_turnover_details"
+    ],
+    "licenseStatus": "open_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Desk research",
+    "lastUpdated": "2018-07-24"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
