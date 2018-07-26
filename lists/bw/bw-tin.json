@@ -22,7 +22,7 @@
     "onlineAccessDetails": "No online search or service to check Taxpayer Identification Numbers was located. ",
     "publicDatabase": "",
     "guidanceOnLocatingIds": "Ask an organisation to supply you with their TIN. Sometimes these may be provided with dash-separated digits. Remove the dashes when constructing an organisation identifier",
-    "exampleIdentifiers": "C00123402021, T08738901010",
+    "exampleIdentifiers": "C00123402021, T087389",
     "languages": [
       "en"
     ]
