@@ -1,0 +1,48 @@
+{
+  "name": {
+    "en": "Botswana Taxpayers Identification Number",
+    "local": ""
+  },
+  "url": "http://www.burs.org.bw/",
+  "description": {
+    "en": "The Botswana Unified Revenue Service (BURS) issues Taxpayer Identification Numbers (TIN) to individuals, companies and other entities that may have a tax obligation. \n\nAn organisation should be able to supply details of their TIN. "
+  },
+  "coverage": [
+    "BW"
+  ],
+  "subnationalCoverage": [],
+  "structure": [],
+  "sector": [],
+  "code": "BW-TIN",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": "No online search or service to check Taxpayer Identification Numbers was located. ",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "Ask an organisation to supply you with their TIN. Sometimes these may be provided with dash-separated digits. Remove the dashes when constructing an organisation identifier",
+    "exampleIdentifiers": "C00123402021, T087389",
+    "languages": [
+      "en"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Desk Research",
+    "lastUpdated": "2018-07-26"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
