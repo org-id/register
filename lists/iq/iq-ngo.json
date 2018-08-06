@@ -1,0 +1,50 @@
+{
+  "name": {
+    "en": "NGO Directorate (Republic of Iraq)",
+    "local": ""
+  },
+  "url": "http://www.ngoao.gov.iq/",
+  "description": {
+    "en": "The NGO Directory registers both local and international NGOs operating in Iraq, and assigns a registration number to each. "
+  },
+  "coverage": [
+    "IQ"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity"
+  ],
+  "sector": [],
+  "code": "IQ-NGO",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": "",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "Organisations are provided with a registration certificate which contains their registration number.",
+    "exampleIdentifiers": "1Z2364",
+    "languages": [
+      "ar"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Desk research",
+    "lastUpdated": "2018-08-06"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
