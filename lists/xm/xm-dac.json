@@ -18,6 +18,7 @@
   "code": "XM-DAC",
   "confirmed": true,
   "deprecated": false,
+  "listType": "third_party",
   "access": {
     "availableOnline": true,
     "onlineAccessDetails": "",
@@ -46,6 +47,5 @@
     "opencorporates": "",
     "wikipedia": ""
   },
-  "formerPrefixes": [],
-  "listType": "third_party"
+  "formerPrefixes": []
 }
