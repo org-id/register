@@ -5,7 +5,7 @@
   },
   "url": "http://www.oecd.org/dac/stats/dacandcrscodelists.htm",
   "description": {
-    "en": "The Organisation for Economic Co-operation and Development (OECD) Development Assistance Committee (DAC) has created a list of organisations whom are involved in the transfer of financial flows within the work of the OECD DAC. A list of all the Donors, Agencies and Recipients can be downloaded from the OECD website. This list is updated every three years.\n\nSee Donor, Agency and Delivery Channel codes.\n\n\"The overarching objective of the DAC for 2011-2015  is to promote development co-operation and other policies so as to contribute to sustainable development, including pro-poor economic growth, poverty reduction, improvement of living standards in developing countries, and to a future in which no country will depend on aid.\" [1]\n\n\"The DAC revises the list every three years. Countries that have exceeded the high-income threshold for three consecutive years at the time of the review are removed.\" [2] \n\n[1] http://www.oecd.org/dac/thedevelopmentassistancecommitteesmandate.htm\n[2] http://www.oecd.org/dac/stats/daclist.htm"
+    "en": "The Organisation for Economic Co-operation and Development (OECD) Development Assistance Committee (DAC) maintain a list of organisations whom are involved in the transfer of 'Official Development Assistance' (ODA) financial flows. This list provides a useful fall-back source of identification for government agencies and multilateral organisations involved in aid, and in some cases, for international NGOs. \n\nThe list is updated perioidically in response to demand for new entries from DAC members. \n\nUsers should note that this list is designed to identify both organisations *and* funds or programmes, and so not all entries in this list equate to legally registered organisations. \n\nThe list is available as a spreadsheet containing multiple codelists. Two can be used to construct organisation identifiers.\n\n* The **Agency** list is used to construct identifiers for aid donor and recipient government agencies. This is constructed by combining the **donorcode** and **AgencyCode**, separated with a dash. For example, XM-DAC-1-8 identifies the Austrian (1) Development Agency (8).\n \n* The **Channel codes** list is used to construct identifiers for multilateral organisations, and international NGOs for whom no other identifier is available. The 'Channel ID' should be used. For example, XM-DAC-41301 is the identifier for the UN Food and Agriculture Organisation (FAO). \n\n* The **Donor** list contains donor code values referring to the donor country as a whole. To maximise consistency, donor codes should not be used unless a specific agency, government department or fund is not identified for the reporting. In all other cases codes should be published in their 'Agency' form (e.g. XM-DAC-1-8 for Austrian Development Agency, rather than XM-DAC-1). \n\nUsers should also note that some organisations exist in both the 'Channel Codes' and 'Agency' lists. As the Channel Codes list provides a cross-walk, use of the Channel Codes is preferred in these cases."
   },
   "coverage": [],
   "subnationalCoverage": [],
@@ -18,12 +18,13 @@
   "code": "XM-DAC",
   "confirmed": true,
   "deprecated": false,
+  "listType": "third_party",
   "access": {
-    "availableOnline": false,
-    "onlineAccessDetails": null,
+    "availableOnline": true,
+    "onlineAccessDetails": "",
     "publicDatabase": "http://www.oecd.org/dac/stats/dacandcrscodelists.htm",
-    "guidanceOnLocatingIds": "Users can download an Excel file of the DAC and CRS codes from the OECD website. Organisation identifiers can be found in the tabs 'See Donor', 'Agency' and 'Delivery Channel' codes. Identifiers will be under 'Donor code' and 'Channel ID' respectively.\n\nUsers should not that the data is available in a Excel file that contains much formatting.",
-    "exampleIdentifiers": "7, 104, 914, 1312",
+    "guidanceOnLocatingIds": "Users can download an Excel file of the DAC and CRS codes from the OECD website.\n\nIf you are searching for a multilateral organisation or international NGO, search the 'Channel codes' list. If you find the organisation you are looking for, use the value of the 'Channel ID' column.\n\nIf you are searching for government agency, search the 'Agency' list, and when you find the row you want, combine the 'donorcode' and 'AgencyCode' columns, separated by '-'. \n",
+    "exampleIdentifiers": "963-1, 1-8, 41301",
     "languages": [
       "en",
       "fr"
@@ -40,7 +41,7 @@
   },
   "meta": {
     "source": "Desk research",
-    "lastUpdated": "2016-12-27"
+    "lastUpdated": "2018-08-07"
   },
   "links": {
     "opencorporates": "",
