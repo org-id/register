@@ -1,0 +1,53 @@
+{
+  "name": {
+    "en": "Georgian Revenue Service",
+    "local": ""
+  },
+  "url": "http://www.rs.ge/5385",
+  "description": {
+    "en": "The Revenue Service of Georgia (RS) operates under the Ministry of Finance of the Republic of Georgia. \n\nAll individuals and institutions with a relationship to the tax authority are issued with an identification number. Governmental organisations and individuals register directly with the Revenue Service of Georgia (RS).  Entrepreneurs (Limited Companies, Joint Stock Companies, Co-operatives etc.) register with the Ministry of Justice/National Agency of Public Registry, but are immediately entered also into the Revenue Service register. "
+  },
+  "coverage": [
+    "GE"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity",
+    "company",
+    "government_agency"
+  ],
+  "sector": [],
+  "code": "GE-RS",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "A search by name, or registered number, of the Taxpayer Register is available on the Revenue Service website. A CAPTCH needs to be completed. ",
+    "publicDatabase": "http://www.rs.ge/5385",
+    "guidanceOnLocatingIds": "The identifiers are displayed in search results under the 'Identification code' heading.",
+    "exampleIdentifiers": "226166895, 404384297, 401985027",
+    "languages": [
+      "en",
+      "ka"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "https://github.com/org-id/register/issues/259",
+    "lastUpdated": "2018-08-21"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
