@@ -1,0 +1,50 @@
+{
+  "name": {
+    "en": "Supplier Registration Service, Crown Commercial Service, UK",
+    "local": ""
+  },
+  "url": "https://supplierregistration.cabinetoffice.gov.uk/",
+  "description": {
+    "en": "The UK Government Supplier Registration Service (SRS) is used by both buyers and suppliers to log in to procurement-related systems. The system assigns an identifier to each registered organisation, and may record details of other identifiers for the organisation, such as a DUNS number.\n\nCrown Commercial Service (part of the Cabinet Office) publishes a list of the identifiers for all organisations that are registered in the system as **buyers**. Whilst primarily covering government agencies from all levels of government, the list also includes some private companies, trusts and charities who have been assigned the buyer role within the system.\n\nThe use of Supplier Registration System identifiers is considered a temporary measure. They should only be used when no other stable identifier for a government agency is available, and should not be used to identify private organisations, for which company registration numbers are preferred. "
+  },
+  "coverage": [
+    "GB"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "government_agency"
+  ],
+  "sector": [],
+  "code": "GB-SRS",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "third_party",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "A CSV download of buyers recorded within the Supplier Registration System is available. ",
+    "publicDatabase": "https://supplierregistration.cabinetoffice.gov.uk/notices/buyers.csv",
+    "guidanceOnLocatingIds": "Identifiers are given in the 'Buyer Corporate Identifier' column, and consist of a domain, followed by / and a unique string.\n\nThis full value should be used as part of org-id.guide identifiers. E.g. \n\n\"GB-SRS-supplierregistration.cabinetoffice.gov.uk/B85F8jBe\"\n\nor\n\n\"GB-SRS-sid4gov.cabinetoffice.gov.uk/tBq37PN7\"",
+    "exampleIdentifiers": "sid4gov.cabinetoffice.gov.uk/tBq37PN7, supplierregistration.cabinetoffice.gov.uk/B85F8jBe, sid4gov.cabinetoffice.gov.uk/9dg3Y6Xv",
+    "languages": [
+      "en"
+    ]
+  },
+  "data": {
+    "availability": [
+      "csv"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "https://github.com/org-id/register/issues/261",
+    "lastUpdated": "2018-08-23"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
