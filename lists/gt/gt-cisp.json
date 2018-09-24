@@ -1,0 +1,50 @@
+{
+  "name": {
+    "en": "Public Sector Institution Classifications (Guetmala)",
+    "local": "Clasificador Institucional del Sector Público (Guetmala)"
+  },
+  "url": "http://www.minfin.gob.gt/",
+  "description": {
+    "en": "The Ministry of Finance of Guatemala provide a classification of all public institutions in receipt of budget allocations. This can be used to provide organisation identifiers for public sector entities, including central and local government, and public enterprises. \n"
+  },
+  "coverage": [
+    "GT"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "government_agency"
+  ],
+  "sector": [],
+  "code": "GT-CISP",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "The identifiers can be constructed using the latest edition of the \"Manual de Clasificaciones Presupuestarias para el Sector Público de Guatemala\". ",
+    "publicDatabase": "http://www.minfin.gob.gt/images/downloads/leyes_manuales/manuales_dtp/clasificaciones_presup_sector_publico.pdf",
+    "guidanceOnLocatingIds": "The \"Manual de Clasificaciones Presupuestarias para el Sector Público de Guatemala\" contains a table labelled 'Clasificador del Sector Público\" which consists of five numeric columns, and then the agency name. \n\nThe numbers should be concatenated to produce an identifier. ",
+    "exampleIdentifiers": "21100078, 11120002, 12100102",
+    "languages": [
+      "es"
+    ]
+  },
+  "data": {
+    "availability": [
+      "pdf"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "https://github.com/org-id/register/issues/268",
+    "lastUpdated": "2018-09-24"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
