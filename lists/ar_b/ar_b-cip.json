@@ -1,0 +1,52 @@
+{
+  "name": {
+    "en": "Budget Classification - Institution Codes (City of Buenos Aires)",
+    "local": "Clasificación Institucional del Presupuesto de la Ciudad de Buenos Aires"
+  },
+  "url": "http://www.buenosaires.gob.ar/economiayfinanzas/presupuesto/",
+  "description": {
+    "en": "The annual budget of the City of Buenos Aires provides a classification of the agencies that form part of the city government. \n\nThese budget identifiers can be used to construct an organisation identifier. "
+  },
+  "coverage": [
+    "AR"
+  ],
+  "subnationalCoverage": [
+    "AR-B"
+  ],
+  "structure": [
+    "government_agency"
+  ],
+  "sector": [],
+  "code": "AR_B-CIP",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "The list of agencies is provided in a resolution of government. This was last updated in 2009. ",
+    "publicDatabase": "http://www.buenosaires.gob.ar/areas/hacienda/pdf/resolucion_1280_mhgc_09_clasificadores.pdf",
+    "guidanceOnLocatingIds": "The identifiers are provided under the heading 'Clasificación Institucional' and consist of dotted numbers. ",
+    "exampleIdentifiers": "1.1.1.99.00.000,1.1.2.35.00.933, 1.1.2.50.00.512",
+    "languages": [
+      "es"
+    ]
+  },
+  "data": {
+    "availability": [
+      "pdf"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "https://github.com/org-id/register/issues/270",
+    "lastUpdated": "2018-09-24"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
