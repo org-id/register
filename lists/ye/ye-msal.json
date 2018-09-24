@@ -1,0 +1,51 @@
+{
+  "name": {
+    "en": "Ministry of Social Affairs and Labour",
+    "local": ""
+  },
+  "url": "http://www.yemen.gov.ye/portal/mosal/%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9/tabid/2201/Default.aspx",
+  "description": {
+    "en": "The Ministry of Social Affairs and Labor, Social Development Sector, issue licenses for the operation of associations, civil organisations and unions. \n\nThese include a license number that appears to be based on the date of incorporation, and that is provided on a certificate granting or renewing the license. \n\nThe license is renewed yearly, but the license number remains the same. "
+  },
+  "coverage": [
+    "YE"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity",
+    "trust"
+  ],
+  "sector": [],
+  "code": "YE-MSAL",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": "No online source was located.",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "Ask the organisation to provide their 'License for practicing civil society for Associations, Civil Organisation and Unions'. The identifier will be provided as the License Number.",
+    "exampleIdentifiers": "4/M/2012",
+    "languages": [
+      "en"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "https://github.com/org-id/register/issues/258",
+    "lastUpdated": "2018-09-03"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
