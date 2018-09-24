@@ -21,10 +21,11 @@
   "code": "GE-NAPR",
   "confirmed": true,
   "deprecated": false,
+  "listType": "primary",
   "access": {
     "onlineAccessDetails": "Through this web site you can search for any legal entity (individual entrepreneur, commercial legal entity, nonprofit legal entity, etc.) in Georgia.  You can also obtain their statements and scanned archive documents, as well as information about the legal form of the organization, persons with representative authority, liquidation process and other registered data.",
     "publicDatabase": "https://enreg.reestri.gov.ge",
-    "guidanceOnLocatingIds": "Search for a company using it's title (using the Georgian language). This will return a list of matches with an 'identification code' (საიდენტიფიკაციო კოდი).",
+    "guidanceOnLocatingIds": "Search for a company using it's title (using the Georgian language). This will return a list of matches with an 'identification code' (საიდენტიფიკაციო კოდი).\n\nSearch by registration number, and other parameters, is also available. ",
     "exampleIdentifiers": "233105449, 416337084, 202378480",
     "languages": [
       "GE"
@@ -38,12 +39,11 @@
   },
   "meta": {
     "source": "Github proposal https://github.com/org-id/register/issues/72",
-    "lastUpdated": "2017-10-10"
+    "lastUpdated": "2018-09-24"
   },
   "links": {
     "opencorporates": "",
     "wikipedia": ""
   },
-  "formerPrefixes": [],
-  "listType": "primary"
+  "formerPrefixes": []
 }
