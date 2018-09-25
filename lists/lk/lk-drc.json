@@ -1,0 +1,50 @@
+{
+  "name": {
+    "en": "Department of the Registrar of Companies (Sri Lanka)",
+    "local": ""
+  },
+  "url": "http://www.drc.gov.lk/",
+  "description": {
+    "en": "Companies ins Sri Lanka are registered through the Department of the Registrar of Companies. \n\nUnder the Companies Act No 7. of 2007, DRC are responsible for:\n\n* Incorporation of Private Limited Liability Companies\n* Incorporation of Public Limited Liability Companies\n* Registration of Foreign Companies\n* Registration of Off-Shore Companies\n* Incorporation of Unlimited Companies\n* Incorporation of Public Quoted Companies\n* Incorporation of Guarantee Companies\n* Incorporation of Associations\n* Registration of Auditors and Company Secretaries\n\nUnder the Societies Ordinance No 16. of 1891 they also have responsibility for registration of societies. \n"
+  },
+  "coverage": [
+    "LK"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "LK-DRC",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "A simple search of company names and registration numbers is available through the 'EROC' online services. ",
+    "publicDatabase": "http://43.224.127.148:8080/InfoBizRegWeb/pages/public/companySearch.xhtml#!",
+    "guidanceOnLocatingIds": "Search by name, and the registration number is returned under the 'Registration No.' column.\n\n(Note: in testing, we found some spelling mistakes in names in the register. If you cannot find an organisation by it's full name, try searching for individual words)",
+    "exampleIdentifiers": "GA139, PV82258, NPVS171, NPVS20325",
+    "languages": [
+      "en"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Desk research",
+    "lastUpdated": "2018-09-25"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
