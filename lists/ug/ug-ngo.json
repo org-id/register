@@ -18,7 +18,7 @@
   "code": "UG-NGO",
   "confirmed": true,
   "deprecated": false,
-  "listType": "primary",
+  "listType": "secondary",
   "access": {
     "availableOnline": false,
     "onlineAccessDetails": "No online search of identifiers has been located. ",
