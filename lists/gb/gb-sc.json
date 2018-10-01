@@ -27,7 +27,7 @@
             "post_code/zip_code",
             "objectives/purpose"
         ],
-        "dataAccessDetails": "http://www.oscr.org.uk/charities/search-scottish-charity-register/charity-register-download",
+        "dataAccessDetails": "https://www.oscr.org.uk/about-charities/search-the-register/charity-register-download",
         "licenseDetails": "Open Government Licence v.2.0. ",
         "licenseStatus": "open_license",
         "availability": [
@@ -53,9 +53,9 @@
         ],
         "exampleIdentifiers": "SC042386, SC025693, SC000587",
         "onlineAccessDetails": null,
-        "publicDatabase": "http://www.oscr.org.uk/public/search-scottish-charity-register",
+        "publicDatabase": "https://www.oscr.org.uk/about-charities/search-the-register/register-search",
         "availableOnline": false,
-        "guidanceOnLocatingIds": "Users can find identifiers using the easy, searchable database at this webpage - http://www.oscr.org.uk/public/search-scottish-charity-register\n\nIdentifiers are located on the left under the column heading 'Charity Number'\n\nUsers can also download a CSV of the dataset at this webpage - http://www.oscr.org.uk/charities/search-scottish-charity-register/charity-register-download\n\nThey will need to accept the Terms and Conditions, and then open the resulting zip file. Identifiers are under the column header ' Charity Number'"
+        "guidanceOnLocatingIds": "Users can find identifiers using the easy, searchable database at this webpage - https://www.oscr.org.uk/about-charities/search-the-register/register-search\n\nIdentifiers are located on the left under the column heading 'Charity Number'\n\nUsers can also download a CSV of the dataset at this webpage - https://www.oscr.org.uk/about-charities/search-the-register/charity-register-download\n\nThey will need to accept the Terms and Conditions, and then open the resulting zip file. Identifiers are under the column header ' Charity Number'"
     },
     "subnationalCoverage": [
         "GB-SCT"
