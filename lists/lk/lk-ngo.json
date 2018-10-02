@@ -1,0 +1,50 @@
+{
+  "name": {
+    "en": "Sri Lanka - National Secretariat for Non-Governmental Organisations",
+    "local": ""
+  },
+  "url": "http://www.ngosecretariat.gov.lk/",
+  "description": {
+    "en": "The National Secretariat for Non-Governmental Organisations maintain a directory of registered NGOs. "
+  },
+  "coverage": [
+    "LK"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity"
+  ],
+  "sector": [],
+  "code": "LK-NGO",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "A simple online directory providing registration numbers for currently active NGOs is available. ",
+    "publicDatabase": "http://www.ngosecretariat.gov.lk/web/",
+    "guidanceOnLocatingIds": "Search by name, and use the identifier in the 'Reg No' column.",
+    "exampleIdentifiers": "80505, 146512, 32912",
+    "languages": [
+      "en"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Desk research",
+    "lastUpdated": "2018-09-24"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
