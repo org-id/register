@@ -1,0 +1,52 @@
+{
+  "name": {
+    "en": "Afghanistan Tax Identification Number",
+    "local": ""
+  },
+  "url": "https://www.acbrip.gov.af/companyverification/",
+  "description": {
+    "en": "TIN is a ten digit number which is issued to all individuals, companies and organizations that operate in Afghanistan. It is a permanent identification number and never changes, but the date of issue has to be renewed annually on the date of expiration."
+  },
+  "coverage": [
+    "AF"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity",
+    "company",
+    "trust"
+  ],
+  "sector": [],
+  "code": "AF-TIN",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "Information on the Afghanistan Tax Identification Number can be found here: https://www.ahg.af/data/offer/taxation/English/Guide%2018%20-%20Taxpayer%20Identification%20No.pdf\n\nAn identifier lookup portal can be found here: https://www.acbrip.gov.af/companyverification/",
+    "publicDatabase": "https://www.acbrip.gov.af/companyverification/",
+    "guidanceOnLocatingIds": "Enter the name, or one of reference number, registration number, licence number, or TIN number of the desired business or organisation. Note that only the top 50 results are shown, so a generic search such as \"consulting\" will likely not show the desired results. As such it is advisable to include the full name.",
+    "exampleIdentifiers": "9000082348, 9000453309",
+    "languages": [
+      "en"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "Research suggests that the information can only be accessed via a web portal, and no download function is provided.",
+    "features": [],
+    "licenseStatus": "closed_license",
+    "licenseDetails": "Copyright © 2017 Directorate General of Afghanistan Central Business Registry & Intellectual Property. All rights reserved."
+  },
+  "meta": {
+    "source": "Information provided by a github issue, and found on the portal pages linked within the record.",
+    "lastUpdated": "2018-10-16"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
