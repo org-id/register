@@ -1,0 +1,51 @@
+{
+  "name": {
+    "en": "Humanitarian Aid Commission",
+    "local": ""
+  },
+  "url": "",
+  "description": {
+    "en": "The Humanitarian Aid Commission is Sudan's governmental organisation for the co-ordination of voluntary humanitarian aid work. This includes the registration of charities, civil society and voluntary organisations.\n\nAn online resource has not been found. Verification is provided through the registration certificate of an organisation. Registrations have to be updated annually."
+  },
+  "coverage": [
+    "SD"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity"
+  ],
+  "sector": [
+    "humantiarian_relief"
+  ],
+  "code": "SD-HAC",
+  "confirmed": false,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": "",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "The identifier is a number that appears on the right hand side of an organisation's registration certificate.",
+    "exampleIdentifiers": "45",
+    "languages": [
+      ""
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Desk research prompted by a request for a unique identifier from a Sudanese NGO",
+    "lastUpdated": "2019-01-03"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
