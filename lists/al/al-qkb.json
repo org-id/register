@@ -1,0 +1,62 @@
+{
+  "name": {
+    "en": "Albanian National Business Center",
+    "local": "Qendra Kombetare e Biznesit"
+  },
+  "url": "http://www.qkr.gov.al",
+  "description": {
+    "en": "The list is the trade register of all the businesses registered with the National Business Center (NBC) of Albania. The NBC provides service in the territory, through service desks at local government units, through service desks open to the Union of Chambers of Commerce and Industry and / or chambers of commerce through the electronic desks.\n"
+  },
+  "coverage": [
+    "AL"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company/sole_trader",
+    "company",
+    "company/limited_company"
+  ],
+  "sector": [],
+  "code": "AL-QKB",
+  "confirmed": false,
+  "deprecated": false,
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "An online search is available at the center's website. It is possible to search by NUIS (equivalent of a VAT number), name of company, address, shareholder name, trade name and identification number.",
+    "publicDatabase": "http://www.qkr.gov.al/search/search-in-trade-register/search-for-subject/",
+    "guidanceOnLocatingIds": "Each business is assigned a Numri i Identifikimit për Personin e Tatueshëm (NIPT) aka a NUIS code which consists of two letters, one at the beginning and one at the end, and 8 numbers from 0 to 9 in the middle. ",
+    "exampleIdentifiers": "L39308501E, L62406015S, K31712102D, J91807001S",
+    "languages": [
+      "al",
+      "en"
+    ]
+  },
+  "data": {
+    "availability": [
+      "pdf"
+    ],
+    "dataAccessDetails": "Following a search on the database it is possible to download PDFs with the registration details of individual businesses.",
+    "features": [
+      "shareholders",
+      "registered_address",
+      "date_of_registration",
+      "legal_representatives",
+      "registration_number",
+      "tax_id_number",
+      "post_code_zip_code",
+      "objectives_purpose",
+      "status"
+    ],
+    "licenseStatus": "no_license",
+    "licenseDetails": "At the bottom of each page on the NBC website there is \"© 2018 QKB ALL RIGHTS RESERVED\". Individual records can be downloaded as pdfs. They contain no license information."
+  },
+  "meta": {
+    "source": "original desk research",
+    "lastUpdated": "2018-12-17"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": "https://en.wikipedia.org/wiki/National_Business_Center_(Albania)"
+  },
+  "formerPrefixes": []
+}
