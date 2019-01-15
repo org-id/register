@@ -1,0 +1,48 @@
+{
+  "name": {
+    "en": "Rwanda Revenue Authority",
+    "local": ""
+  },
+  "url": "https://www.rra.gov.rw/index.php?id=45&L=1%27A%3D0",
+  "description": {
+    "en": "The Rwanda Revenue Authority issues Taxpayer Identification Numbers (TIN) for all physical and moral persons (people and companies/legal entities) undertaking taxable activities:\n\n\"This is a unique number which is issued to a taxpayer by the tax Administration. It is obligatory for every taxpayer to have this unique number. Taxpayers have the obligation to indicate this number on all correspondences they do with RRA. This number has to be indicated on all documents which the taxpayer provides to the tax administration as proof.\"\n\nA TIN is issued after the person or entity submits the required papers to the Revenue Authority. Note that from Feb 2015, no RRA TIN certificate is issued to newly registered companies. Instead, a TIN is issued at the point of company registration with the Rwanda Development Board (https://org.rdb.rw/busregonline) and the registration certificate contains the TIN. See: https://www.rra.gov.rw/typo3conf/ext/complete/Resources/Public/download/pdf/itangazo_tin_17_feb.pdf"
+  },
+  "coverage": [
+    "RW"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "RW-RRA",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": "",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "RW-RRA-103197639",
+    "languages": [
+      ""
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "open_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "",
+    "lastUpdated": ""
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
