@@ -1,0 +1,50 @@
+{
+  "name": {
+    "en": "Ministerio de Justicia ",
+    "local": "es"
+  },
+  "url": "http://www.mjusticia.gob.es/cs/Satellite/Portal/es/areas-tematicas/registros",
+  "description": {
+    "en": "The Ministry of Justice keeps a broad array of records, covering organisations, events, and individuals. Some of these records (such as organisations) are public and searchable, whilst others (civil registration) are not.\n\nThis list covers the following types of organisations (roughly translated): \"Property and Mercantile\", \"Mediators and Mediation Institutions\", \"Foundations Under the Jurisdiction of the State\", and \"Religious Entities\"."
+  },
+  "coverage": [
+    "ES"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity",
+    "company"
+  ],
+  "sector": [],
+  "code": "ES-MDJ",
+  "confirmed": false,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "High level records page (including non-organisation sections): http://www.mjusticia.gob.es/cs/Satellite/Portal/es/areas-tematicas/registros\n\nNavigable from this page, there are multiple search interfaces for each of the organisation types which can be accessed through the direct links below, though there does not appear to be any way of bulk downloading the data.\n\nNote that this search is very brittle. Searching for \"AYUDA EN ACCION\" yields a result for the organisation of that name, but searching \"AYUDA ACCION\" does not yield any results, nor does searching for all three words in the wrong order.\n\nMediators and Mediation Institutions: http://www.mjusticia.gob.es/cs/Satellite/Portal/es/areas-tematicas/registros/mediadores-instituciones\nState Competition Foundations: http://www.mjusticia.gob.es/cs/Satellite/Portal/es/ciudadanos/registros/fundaciones-competencia\nReligious Entities: http://www.mjusticia.gob.es/cs/Satellite/Portal/es/areas-tematicas/registros/entidades-religiosas",
+    "publicDatabase": "http://www.mjusticia.gob.es/cs/Satellite/Portal/es/areas-tematicas/registros",
+    "guidanceOnLocatingIds": "Search using the appropriate finder interface.",
+    "exampleIdentifiers": "539SND; 842EDU",
+    "languages": [
+      "es"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Original research; official website",
+    "lastUpdated": "2019-01-28"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ministry_of_Justice_(Spain)"
+  },
+  "formerPrefixes": []
+}
