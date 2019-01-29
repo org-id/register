@@ -17,7 +17,7 @@
   ],
   "sector": [],
   "code": "ES-MDJ",
-  "confirmed": false,
+  "confirmed": true,
   "deprecated": false,
   "listType": "secondary",
   "access": {
