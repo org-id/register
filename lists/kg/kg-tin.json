@@ -1,0 +1,50 @@
+{
+  "name": {
+    "en": "Electronic database of legal entities and branches (Krygyzstan) TIN",
+    "local": "Юридикалык жактардын, филиалдардын электрондук базасы ИНН"
+  },
+  "url": "http://register.minjust.gov.kg/register/SearchAction.seam",
+  "description": {
+    "en": "The Ministry of Justice of the Republic of Kyrgyz maintains the register of legal entities. This list references Taxpayer Identification Numbers (TIN)"
+  },
+  "coverage": [
+    "KG"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "KG-TIN",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "Company can be searched by its name ('наименование'), registration number ('Рег. №'), tax number ('ИНН'), OKPO code ('Код ОКПО', assigned to each legal entity for statistics purposes). Additional search criteria exist for company status ('Статус'), registration date ('Дата') etc.  \n\nSearch is free-of-charge, no English interface.",
+    "publicDatabase": "http://register.minjust.gov.kg/register/SearchAction.seam",
+    "guidanceOnLocatingIds": "To find a company's TIN you will need to know one of company name ('наименование'), registration number ('Рег. №'), OKPO code (Код ОКПО). A search for one of these will return a link to the full company details, which includes the TIN",
+    "exampleIdentifiers": "02507199510010, 20502198100469",
+    "languages": [
+      "ky",
+      "ru"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": " ProZorro Business Register Research",
+    "lastUpdated": "2019-01-29"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
