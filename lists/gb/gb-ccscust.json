@@ -1,0 +1,56 @@
+{
+  "name": {
+    "en": "Crown Commercial Services Customers",
+    "local": ""
+  },
+  "url": "https://www.gov.uk/guidance/current-crown-commercial-service-suppliers-what-you-need-to-know",
+  "description": {
+    "en": "The Crown Commercial Service is an executive agency and trading fund of the Cabinet Office of the UK Government.\n\nIt primarily contains entries for government buyers, but also include companies and \"Not for profits\" (churches are in this category, for instance). The sectors covered are:\n* Local Government \n* Education \n* Police \n* Health \n* Devolved Administrations \n* Wider Public Sector \n* Private \n* Central Government \n* Fire and Rescue \n* Utility Historic"
+  },
+  "coverage": [
+    "GB",
+    "GG",
+    "JE"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "government_agency",
+    "charity",
+    "company"
+  ],
+  "sector": [],
+  "code": "GB-CCSCUST",
+  "confirmed": false,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": "It is possible to download a full list of customers",
+    "publicDatabase": "https://www.gov.uk/guidance/current-crown-commercial-service-suppliers-what-you-need-to-know#customer-unique-reference-number-urn-list",
+    "guidanceOnLocatingIds": "Unique identifiers are listed under 'URN' in the downloadable file",
+    "exampleIdentifiers": "10032245, 10028473, 10002594",
+    "languages": [
+      "en"
+    ]
+  },
+  "data": {
+    "availability": [
+      "excel"
+    ],
+    "dataAccessDetails": "The latest list of customers can be downloaded from https://www.gov.uk/guidance/current-crown-commercial-service-suppliers-what-you-need-to-know#customer-unique-reference-number-urn-list",
+    "features": [
+      "activities_sector_code"
+    ],
+    "licenseStatus": "open_license",
+    "licenseDetails": "There is no reference to licensing within the downloaded file. The page that links to it has the OGL \"All content is available under the Open Government Licence v3.0, except where otherwise stated\" in the footer, next to a © Crown Copyright image."
+  },
+  "meta": {
+    "source": "Original research",
+    "lastUpdated": "2018-12-18"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": "https://en.wikipedia.org/wiki/Crown_Commercial_Service"
+  },
+  "formerPrefixes": []
+}
