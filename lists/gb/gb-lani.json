@@ -1,0 +1,58 @@
+{
+  "name": {
+    "en": "Local authorities for Northern Ireland register",
+    "local": ""
+  },
+  "url": "https://www.registers.service.gov.uk/registers/local-authority-nir",
+  "description": {
+    "en": "The Local Authorities for Northern Ireland Register is published by the Department for Communities (Northern Ireland), and contains identifiers for 36 local authorities, of which 11 are current."
+  },
+  "coverage": [
+    "GB"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "government_agency/local_government"
+  ],
+  "sector": [],
+  "code": "GB-LANI",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "",
+    "publicDatabase": "https://www.registers.service.gov.uk/registers/local-authority-nir",
+    "guidanceOnLocatingIds": "Look for the value of the 'Local authority nir' field",
+    "exampleIdentifiers": "ANN, AND, BFS",
+    "languages": [
+      "en"
+    ]
+  },
+  "data": {
+    "availability": [
+      "api",
+      "bulk",
+      "csv",
+      "json"
+    ],
+    "dataAccessDetails": "",
+    "features": [
+      "website",
+      "date_of_registration",
+      "registration_number",
+      "expiry_date"
+    ],
+    "licenseStatus": "open_license",
+    "licenseDetails": "Open Government Licence v3.0"
+  },
+  "meta": {
+    "source": "https://github.com/org-id/register/issues/323",
+    "lastUpdated": "2019-03-04"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": "https://en.wikipedia.org/wiki/Local_government_in_Northern_Ireland"
+  },
+  "formerPrefixes": []
+}
