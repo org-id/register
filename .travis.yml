@@ -3,7 +3,7 @@ python:
     - "3.6"
 
 install: 
-    - "pip install pytest jsonschema"
+    - "pip install --upgrade pytest jsonschema attrs"
 
 script:
     - "py.test tests/*"
