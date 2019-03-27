@@ -13,7 +13,7 @@
     },
     "coverage": null,
     "code": "XM-OCHA",
-    "formerPrefixes": null,
+    "formerPrefixes": ["XM-OCHA-FTS"],
     "confirmed": true,
     "data": {
         "features": [
