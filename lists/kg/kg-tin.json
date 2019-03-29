@@ -5,14 +5,19 @@
   },
   "url": "http://register.minjust.gov.kg/register/SearchAction.seam",
   "description": {
-    "en": "The Ministry of Justice of the Republic of Kyrgyz maintains the register of legal entities. This list references Taxpayer Identification Numbers (TIN)"
+    "en": "The Ministry of Justice of the Republic of Kyrgyz maintains the register of legal entities. It contains  entries for many kinds of companies, including:\n\n* Companies\n* Partnerships\n* Co-operatives\n* Trade unions\n* Local and state enterprises\n* Joint ventures\n* Small businesses\n* Political Parties\n* Credit unions\n\nThis list references the Taxpayer Identification Numbers (TIN) scheme. "
   },
   "coverage": [
     "KG"
   ],
   "subnationalCoverage": [],
   "structure": [
-    "company"
+    "company",
+    "charity",
+    "company/limited_company",
+    "company/mutual",
+    "company/partnership",
+    "government_agency"
   ],
   "sector": [],
   "code": "KG-TIN",
