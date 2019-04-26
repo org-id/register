@@ -1,0 +1,53 @@
+{
+  "name": {
+    "en": "Registrar General's Department",
+    "local": ""
+  },
+  "url": "http://rgd.gov.gh/",
+  "description": {
+    "en": "The Registrar General's Department is Ghana's register of companies.\n\nIt contains entries for various kinds of companies, including:\n\n* Limited Liability Companies \n* Companies limited by guarantee\n* External Companies\n* Partnership"
+  },
+  "coverage": [
+    "GH"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company/partnership",
+    "company/limited_company",
+    "company"
+  ],
+  "sector": [],
+  "code": "GH-RGD",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": null,
+    "publicDatabase": "https://egovonline.gegov.gov.gh/RGDPortalWeb/portal/RGDHome/eghana.portal?_nfpb=true&_st=&_pageLabel=portal_RGDHome_NameSearchPage_page&linksPageTitle=Name+Search&service=namesearch#wlp_portal_RGDHome_NameSearchPage_page",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "CS160152013, CS142392016",
+    "languages": [
+      "en"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [
+    ],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Desk research based on https://github.com/org-id/register/issues/333",
+    "lastUpdated": "2016-09-17"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
