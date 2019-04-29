@@ -36,14 +36,13 @@
       "data_not_available"
     ],
     "dataAccessDetails": "",
-    "features": [
-    ],
+    "features": [],
     "licenseStatus": "no_license",
     "licenseDetails": ""
   },
   "meta": {
     "source": "Desk research based on https://github.com/org-id/register/issues/333",
-    "lastUpdated": "2016-09-17"
+    "lastUpdated": "2019-04-29"
   },
   "links": {
     "opencorporates": "",
