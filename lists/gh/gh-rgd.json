@@ -5,7 +5,7 @@
   },
   "url": "http://rgd.gov.gh/",
   "description": {
-    "en": "The Registrar General's Department is Ghana's register of companies.\n\nIt contains entries for various kinds of companies, including:\n\n* Limited Liability Companies \n* Companies limited by guarantee\n* External Companies\n* Partnership"
+    "en": "The Registrar General's Department is Ghana's register of companies.\n\nIt contains entries for various kinds of companies, including:\n\n* Limited Liability Companies \n* Companies limited by guarantee\n* External Companies\n* Partnership\n\nSearches of the register, by company name, can be made at https://egovonline.gegov.gov.gh/RGDPortalWeb/portal/RGDHome/eghana.portal?_nfpb=true&_st=&_pageLabel=portal_RGDHome_NameSearchPage_page&linksPageTitle=Name+Search&service=namesearch#wlp_portal_RGDHome_NameSearchPage_page \n"
   },
   "coverage": [
     "GH"
