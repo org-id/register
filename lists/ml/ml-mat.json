@@ -1,0 +1,60 @@
+{
+  "name": {
+    "en": "Ministere de l'Administration Territoriale ",
+    "local": ""
+  },
+  "url": "http://www.matcl.gov.ml/",
+  "description": {
+    "en": "The list consists of associations and NGOs in the Republic of Mali, excluding: trading companies; mutuals; cultural associations; congregations; cooperatives; unions; political parties ; professional orders and foundations.\n\nAssociations/NGOs in Mali \"form freely without authorization or declaration, but they will only enjoy the legal capacity if they\" make a declaration to the Ministre chargé de l'administration territoriale if they are political, humanitarian or foreign associations. Otherwise \"The preliminary declaration will be made to the representative of the State in the District of Bamako or in the Circle in whose jurisdiction the head office is located\"[1].\n\n\"Within three months, the association will be made public by the care of its founders by means of an insertion in the Official Journal\"[1]. We have been unable to find an online version of the journal, which in this case is the list.\n\n[1] https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/97007/114925/F-1897106720/MLI-97007.pdf"
+  },
+  "coverage": [
+    "ML"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity",
+    "unincorporated_body",
+    "trust"
+  ],
+  "sector": [],
+  "code": "ML-MAT",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": "",
+    "publicDatabase": "http://www.matcl.gov.ml/",
+    "guidanceOnLocatingIds": "An historic list is available (accessed 2019-05-13) through the menu item \"ASSOCIATIONS ET ONG\". This appears to have a different coding scheme to one shown in a certificate provided to org-id from 2016.",
+    "exampleIdentifiers": "0003 (dated 2013), 0603-G-DB (dated 2016)",
+    "languages": [
+      "fr"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available",
+      "pdf"
+    ],
+    "dataAccessDetails": "",
+    "features": [
+      "registered_address",
+      "industry_classifications",
+      "date_of_registration",
+      "registration_number",
+      "post_code_zip_code",
+      "activities_sector_code"
+    ],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Desk research based on https://github.com/org-id/register/issues/340",
+    "lastUpdated": "2019-05-13"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
