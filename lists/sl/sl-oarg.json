@@ -1,0 +1,52 @@
+{
+  "name": {
+    "en": "Office of Administrator and Registrar General",
+    "local": ""
+  },
+  "url": "http://www.oarg.gov.sl/",
+  "description": {
+    "en": "The Office of Administrator and Registrar General in Sierra Leone is responsible for the \"administration of and registration of entities such as business registration, land transactions, industrial property, marriages and administration of the estates of deceased persons as mandated by law\". The types of business that can be registered through the OARG include sole proprietors, partnerships and companies.\n\nThe registration process is available online on the office's website. I was not able to find a searchable list of company registrations. The registration process includes a search to check whether the applicant's desired company name already exists."
+  },
+  "coverage": [
+    "SL"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company",
+    "company/sole_trader",
+    "company/partnership",
+    "charity"
+  ],
+  "sector": [],
+  "code": "SL-OARG",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": "",
+    "publicDatabase": "http://www.oarg.gov.sl",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "CF-218-2018 ",
+    "languages": [
+      "en"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Original research",
+    "lastUpdated": "2019-03-15"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
