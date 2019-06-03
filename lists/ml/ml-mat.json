@@ -25,7 +25,7 @@
     "availableOnline": false,
     "onlineAccessDetails": "",
     "publicDatabase": "http://www.matcl.gov.ml/",
-    "guidanceOnLocatingIds": "An historic list is available (accessed 2019-05-13) through the menu item \"ASSOCIATIONS ET ONG\". This appears to have a different coding scheme to one shown in a certificate provided to org-id from 2016.",
+    "guidanceOnLocatingIds": "An organisation's registration certificate is the means by which their id can be determined.\nAn historic list is available (accessed 2019-05-13) through the menu item \"ASSOCIATIONS ET ONG\". This appears to have a different coding scheme to one shown in a certificate provided to org-id from 2016.",
     "exampleIdentifiers": "0003 (dated 2013), 0603-G-DB (dated 2016)",
     "languages": [
       "fr"
