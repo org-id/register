@@ -1,0 +1,52 @@
+{
+  "name": {
+    "en": "National Revenue Agency",
+    "local": ""
+  },
+  "url": "https://nra.gov.sl/taxpayer-identification-number",
+  "description": {
+    "en": "The Taxpayer Identification Number, or TIN, is a unique computer-generated number allocated to each taxpayer, whether they are an individual, a commercial business, a Government department, public corporation, or a special body. As its name implies, the TIN identifies taxpayers for the purpose of all their tax and other revenue liabilities, including:\n\nGoods and Services Tax (GST)\nIncome Tax on personal income\nCorporation Tax\nCapital Gains Tax\nNon-tax revenues\nCustoms Duties\nExcise Duties\nProperty Tax\nThe TIN is also required for identification in all other transactions and dealings with the NRA."
+  },
+  "coverage": [
+    "SL"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity",
+    "company",
+    "government_agency"
+  ],
+  "sector": [],
+  "code": "SL-NRA",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": "",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "Organisations receive a certificate recording their TIN. In the absence of an online, searchable list this should be the means of identification.",
+    "exampleIdentifiers": "",
+    "languages": [
+      "en"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "desk research",
+    "lastUpdated": "2019-06-10"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
