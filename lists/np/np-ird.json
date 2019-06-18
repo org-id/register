@@ -1,0 +1,51 @@
+{
+  "name": {
+    "en": "Inland Revenue Department",
+    "local": "आन्तरिक राजस्व विभागको "
+  },
+  "url": "https://ird.gov.np/",
+  "description": {
+    "en": "The Inland Revenue Department is responsible for the administration of Value Added Tax, Income Tax, and Excise Duty. In the performance of these duties it maintains a register of Permanent Account Numbers (PANs) the unique taxpayer identification number for Nepal.\n\nThis register covers individuals as well as legal entities. Org-id does not recommend using the PAN of an individual person as a unique identifier.\n\nThe PAN is described as follows[1]:\n\nPAN is a unique identification number, which is issued to all the taxpayers and Tax Deducted at Source (TDS) withholding agents throughout the kingdom. PAN identifies each taxpayer or TDS withholding agent uniquely countrywide.\nPAN is necessary to process taxpayers or TDS withholding agents using computer systems.\nPAN is allotted only once in the lifetime of a taxpayer or TDS withholding agent. It never changes.\n\n[1] https://ird.gov.np/Content/ContentAttachment/1020/IndividualRegistration(English)1172014102329AM.pdf"
+  },
+  "coverage": [
+    "NP"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity",
+    "company"
+  ],
+  "sector": [],
+  "code": "NP-IRD",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "A Tax Identifier Lookup is available at https://ird.gov.np/PanSearch\n\nIt is necessary to know an organisation's PAN in order to perform the lookup. The lookup requires a captcha to be completed before showing the result. There is no sign up. Upon successfully completing the lookup the organisation's details are shown in a mix of English and Nepali.",
+    "publicDatabase": "https://ird.gov.np/PanSearch",
+    "guidanceOnLocatingIds": "You need to know the identifier in advance. Lookups are from identifier to company only.",
+    "exampleIdentifiers": "302274734",
+    "languages": [
+      "en",
+      "ne"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "desk research based on enquiry made to org-id contact address",
+    "lastUpdated": "2019-06-18"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": "https://en.wikipedia.org/wiki/Inland_Revenue_Department_(Nepal)"
+  },
+  "formerPrefixes": []
+}
