@@ -1,0 +1,64 @@
+{
+  "name": {
+    "en": "Commissioner of Charities",
+    "local": ""
+  },
+  "url": "https://www.charities.gov.sg/Pages/Home.aspx",
+  "description": {
+    "en": "The Commissioner of Charities (COC) in Singapore maintains a register of Charities and Institutions of a Public Character."
+  },
+  "coverage": [
+    "SG"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity"
+  ],
+  "sector": [],
+  "code": "SG-COC",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "The search function on the Commission of Charities website allows the user to browse by sector or to search by specific criteria.\nNo login is required to make a search nor to view information about the organisation with the exception of financial information\" and \"annual report\". The latter require a 'SingPass' login.",
+    "publicDatabase": "https://www.charities.gov.sg/_layouts/MCYSCPSearch/MCYSCPSearchCriteriaPage.aspx",
+    "guidanceOnLocatingIds": "Identifiers are the 'UEN' or 'UEN No' listed against a charity's entry on the register",
+    "exampleIdentifiers": "S83SS0014K, 200400944W, T01SS0187E, 199500566R",
+    "languages": [
+      "en"
+    ]
+  },
+  "data": {
+    "availability": [
+      "bulk",
+      "excel"
+    ],
+    "dataAccessDetails": "You may obtain a list of registered charities by performing an Advanced Search at the Charity Portal. Select the criteria “Registered charities” and click “Search”, the results will be generated which you can download into an Excel file",
+    "features": [
+      "directors_trustees_governors",
+      "registered_address",
+      "website",
+      "e-mail_address",
+      "industry_classifications",
+      "date_of_registration",
+      "legal_representatives",
+      "registration_number",
+      "phone_number",
+      "country_of_origin",
+      "activities_sector_code",
+      "status"
+    ],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "desk research provided by KDuerden see https://github.com/org-id/register/issues/354",
+    "lastUpdated": "2019-06-17"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
