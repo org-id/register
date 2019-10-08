@@ -1,0 +1,63 @@
+{
+  "name": {
+    "en": "Register of Schools (Wales)",
+    "local": "Welsh Government - Address List of Schools"
+  },
+  "url": "https://gov.wales/address-list-schools",
+  "description": {
+    "en": "Schools and other education establishments in Wales must be registered with the Department of Education in the Welsh Government.\n\nThe Register of Schools is maintained by the Department of Education which provides a School number as the unique identifier for each school or other educational establishment in Wales.\n\nUniversities are not registered through this registrar. Welsh schools used to be registered by the Department of Education for England and Wales and, although it is not the registrar, the English Department of Education still held records for Welsh schools as of October 2019. Use this list in preference over the English one for Welsh schools."
+  },
+  "coverage": [
+    "GB"
+  ],
+  "subnationalCoverage": [
+    "GB-WLS"
+  ],
+  "structure": [
+    "government_agency/public_service",
+    "government_agency"
+  ],
+  "sector": [
+    "education"
+  ],
+  "code": "GB-WALEDU",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "Users can download an .ods file at https://gov.wales/address-list-schools",
+    "publicDatabase": "https://gov.wales/address-list-schools",
+    "guidanceOnLocatingIds": "Upon downloading the .ods file the seven digit School number can be found in the first column of the relevant worksheet. Each type of school or educational establishment is listed twice, once in Welsh and again in English. The School number is the same. It consist of a seven digit number. The first three digits identify the local authority in which the school is located and the final four digits uniquely identify the school within that authority.",
+    "exampleIdentifiers": "6602130, 6612060, 6614039",
+    "languages": [
+      "en",
+      "cy"
+    ]
+  },
+  "data": {
+    "availability": [
+      "bulk",
+      "csv"
+    ],
+    "dataAccessDetails": "The 'Address list of schools' for Wales is available at https://gov.wales/address-list-schools and contains the School number as the identifier.",
+    "features": [
+      "registration_number",
+      "registered_address",
+      "phone_number",
+      "post_code_zip_code",
+      "status"
+    ],
+    "licenseStatus": "open_license",
+    "licenseDetails": "The web site states that the information featured (not including logos) can be used and/or re-used free of charge in any format or medium, under the terms of the Open Government License. The file states that its content is available under the Open Government Licence v3.0 ."
+  },
+  "meta": {
+    "source": "Desk research",
+    "lastUpdated": "2019-10-06"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": "https://en.wikipedia.org/wiki/Education_in_Wales"
+  },
+  "formerPrefixes": []
+}
