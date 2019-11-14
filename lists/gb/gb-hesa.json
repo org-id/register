@@ -1,0 +1,50 @@
+{
+  "name": {
+    "en": "Higher Education Statistics Agency",
+    "local": ""
+  },
+  "url": "https://www.hesa.ac.uk/support/providers",
+  "description": {
+    "en": "This is a list of all higher education providers that provide data to the Higher Education Statistics Agency (HESA). Those providers include all publicly funded universities and other higher educations institutions (HEIs) in the UK, alternative HE providers (APs) that offer HE courses but do not receive annual public funding, and further education colleges (FECs) in Wales which provide some HE level courses.\n\nThe list is maintained for statistical purposes by the Higher Education Statistics Agency. It contains institutions' names alongside the internal ID that HESA assigns them. This internal higher education provider ID is given in the INSTID field. (Higher education providers submit their UK Provider Reference Number (UKPRN) as part of the data submission process to HESA. The mapping to a HESA higher education provider identifier (INSTID) is carried out through the use of a static data lookup table [1].)\n\nUse a UKPRN identifier in preference to this list. See: http://org-id.guide/list/GB-UKPRN.\n\n[1]: See https://www.hesa.ac.uk/collection/c18052/derived/xinstid01 for more information.\n"
+  },
+  "coverage": [
+    "GB"
+  ],
+  "subnationalCoverage": [],
+  "structure": [],
+  "sector": [
+    "education"
+  ],
+  "code": "GB-HESA",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "The list can be searched at the URL https://www.hesa.ac.uk/support/providers.",
+    "publicDatabase": "https://www.hesa.ac.uk/support/providers",
+    "guidanceOnLocatingIds": "The identifier for an institution is given in the INSTID column.",
+    "exampleIdentifiers": "0177,0069",
+    "languages": [
+      "EN"
+    ]
+  },
+  "data": {
+    "availability": [
+      "csv"
+    ],
+    "dataAccessDetails": "For a CSV download, see https://www.hesa.ac.uk/collection/c18052/derived/xinstid01.",
+    "features": [],
+    "licenseStatus": "open_license",
+    "licenseDetails": "From https://www.hesa.ac.uk/data-and-analysis: \"Data published on the HESA website is free to copy, use, share, and adapt for any purpose. HESA open data is published under the Creative Commons Attribution 4.0 International (CC BY 4.0) licence. You must give appropriate credit (HESA, www.hesa.ac.uk), provide a link to the licence, and indicate if any changes have been made.\""
+  },
+  "meta": {
+    "source": "Original research ",
+    "lastUpdated": "2019-10-14"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
