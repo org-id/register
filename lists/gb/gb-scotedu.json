@@ -1,0 +1,63 @@
+{
+  "name": {
+    "en": "Register of Schools (Scotland)",
+    "local": "Scottish Government - School Contact List"
+  },
+  "url": "https://www2.gov.scot/Topics/Statistics/Browse/School-Education/Datasets/contactdetails",
+  "description": {
+    "en": "Schools and other education establishments in Scotland must be registered with the Department of Education in the Scottish Government.\n\nThe Register of Schools is maintained by the Department of Education which provides a SEED code as the unique identifier for each school or other educational establishment in Scotland.\n\nUniversities are not registered through this registrar"
+  },
+  "coverage": [
+    "GB"
+  ],
+  "subnationalCoverage": [
+    "GB-SCT"
+  ],
+  "structure": [
+    "government_agency/public_service",
+    "government_agency"
+  ],
+  "sector": [
+    "education"
+  ],
+  "code": "GB-SCOTEDU",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "Users can download an .xlsx file at https://www2.gov.scot/Topics/Statistics/Browse/School-Education/Datasets/contactdetails",
+    "publicDatabase": "https://www2.gov.scot/Topics/Statistics/Browse/School-Education/Datasets/contactdetails",
+    "guidanceOnLocatingIds": "Upon downloading the .xlsx file the seven digit SEED code can be found in the first column of the worksheet that lists the currently open schools and education establishments.",
+    "exampleIdentifiers": "8212627, 5520924, 5237521",
+    "languages": [
+      "en"
+    ]
+  },
+  "data": {
+    "availability": [
+      "bulk",
+      "csv",
+      "excel"
+    ],
+    "dataAccessDetails": "The 'School Contact List' is available at https://www2.gov.scot/Topics/Statistics/Browse/School-Education/Datasets/contactdetails and contains the SEED code as the identifier.",
+    "features": [
+      "date_of_registration",
+      "number_of_employees",
+      "registration_number",
+      "expiry_date",
+      "status"
+    ],
+    "licenseStatus": "no_license",
+    "licenseDetails": "The web page claims Crown Copyright. There are no license details in the file."
+  },
+  "meta": {
+    "source": "Desk research",
+    "lastUpdated": "2019-10-06"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": "https://en.wikipedia.org/wiki/Education_in_Scotland"
+  },
+  "formerPrefixes": []
+}
