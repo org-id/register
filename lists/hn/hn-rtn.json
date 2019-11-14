@@ -1,0 +1,52 @@
+{
+  "name": {
+    "en": "National Tax Registry",
+    "local": "Registro Tributario Nacional"
+  },
+  "url": "https://sde.gob.hn/registro-tributario-nacional-numerico-rtn/",
+  "description": {
+    "en": "The National Tax Registry register taxpayers in Honduras.\n\nThe following organisations and individuals are obliged to register with the National Tax Registry:\n\n1 All individuals or legal entities, national or foreign, domiciled in the country as taxpayers with tax obligations such as: payment of taxes, fees and contributions.\n2 Taxpayers with formal obligations: for filing different tax returns and withholdings.\n3 Taxpayers with tax obligations:\n* Importers, exporters and those who re-apply wholesale purchase purchase management.\n* The companies legally constituted according to the Commercial Code.\n* Foreign companies that carry out operations in Honduras.\n* Irregular or de facto societies.\n* The Undivided Successions (Undivided Heritage).\n* Charitable institutions and Organized Groups for scientific, political, cultural or sporting purposes without profit and that have employees under their charge.\n* Cooperatives of any degree.\n* The Deconcentrated Institutions.\n* The Decentralized Institutions.\n* Others.\n4. Institutions that must register for control purposes:\n* Secretaries of State\n* Autonomous Institutions\n* Semi-autonomous institutions\n* State Corporations\n* City Halls [1]\n[1] https://sde.gob.hn/registro-tributario-nacional-numerico-rtn/"
+  },
+  "coverage": [
+    "HN"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company",
+    "government_agency",
+    "unincorporated_body",
+    "charity"
+  ],
+  "sector": [],
+  "code": "HN-RTN",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "The complete list is not open, but you can query by code. ",
+    "publicDatabase": "http://www.sar.gob.hn/consulta-enlace-rtn/",
+    "guidanceOnLocatingIds": "It is necessary to know an organisation's National Tax Registry Number beforehand. There is no sign up. Upon successfully completing the lookup only the organisation's name is shown.",
+    "exampleIdentifiers": "05019002058739, 07039015796732",
+    "languages": [
+      "es"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "desk research based on https://github.com/org-id/register/issues/296",
+    "lastUpdated": "2019-06-24"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
