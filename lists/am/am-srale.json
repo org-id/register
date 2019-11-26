@@ -1,0 +1,62 @@
+{
+  "name": {
+    "en": "State Register Agency of Legal Entities of Armenia",
+    "local": "իրավաբանական անձանց պետական ռեգիստրի"
+  },
+  "url": "https://www.e-register.am/",
+  "description": {
+    "en": "The State Register Agency of Legal Entities of Armenia maintains an Electronic Register where on line applications for the registration of legal entities can be made. It also has a search function that allows unregistered users to see limited details about existing companies. Full information about any company requires registration and the payment of a fee."
+  },
+  "coverage": [
+    "AM"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+        "Company", 
+	"Company > Listed company", 
+        "Company > Limited Company", 
+        "Company > Mutual", 
+        "Company > Partnership", 
+        "Company >  Sole trader", 
+        "Government Agency", 
+        "Government Agency > Local Government", 
+        "Government Agency > Public service", 
+        "Trust"
+  ],
+  "sector": [],
+  "code": "AM-SRALE",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": null,
+    "publicDatabase": "https://www.e-register.am/am/search",
+    "guidanceOnLocatingIds": "The free, unregistered search facility provides basic information about a company or indivdual. At present search is only available in Armenian and the charters of companies registered before April 2011 are not available electronically.",
+    "exampleIdentifiers": "16.110.00666, 26.180.01938",
+    "languages": [
+	"en", 
+	"am",
+	"ru"
+    ]
+  },
+  "data": {
+    "availability": [
+      "Data not available"
+    ],
+    "dataAccessDetails": "",
+    "features": [
+    ],
+    "licenseStatus": "",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "",
+    "lastUpdated": "2019-11-19"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
