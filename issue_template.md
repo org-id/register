@@ -1,4 +1,8 @@
-<!-- Choose one of the templates below. Delete the others -->
+## NOTE
+
+As of 18th Dec 2019, we (Open Data Service Co-operative) are not currently adding new, unsolicited entries to org-id while we focus our efforts on improving the service. Some open data standards have made arrangements to add fully researched org-id entries. Requests from those organisations will be dealt with under those arrangements. See the root README.md for more information. 
+
+<!-- Choose one of the three templates below. Delete the others -->
 <!-- Edit the issue title before creating your issue -->
 
 <!-- +++ TEMPLATE 1: REQUEST A LIST +++ -->
