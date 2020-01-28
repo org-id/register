@@ -1,0 +1,51 @@
+{
+  "name": {
+    "en": "Community amateur sports clubs (CASCs) registered with HMRC",
+    "local": ""
+  },
+  "url": "https://github.com/ThreeSixtyGiving/cascs/blob/master/readme.md",
+  "description": {
+    "en": "This is the list of Community amateur sports clubs (CASCs) registered with HMRC, and as listed at HMRC [1], which has been enhanced with unique identifiers.\n\n[1]: https://www.gov.uk/government/publications/community-amateur-sports-clubs-casc-registered-with-hmrc--2"
+  },
+  "coverage": [
+    "GB"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "unincorporated_body"
+  ],
+  "sector": [],
+  "code": "GB-CASC",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "third_party",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "The list is available in CSV and JSON formats",
+    "publicDatabase": "https://github.com/ThreeSixtyGiving/cascs/blob/master/cascs.csv",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "df679063,2a36d1ee,18e597ee",
+    "languages": [
+      "EN"
+    ]
+  },
+  "data": {
+    "availability": [
+      "csv",
+      "json"
+    ],
+    "dataAccessDetails": "In addition to the CSV format, the repository contains a JSON file: https://github.com/ThreeSixtyGiving/cascs/blob/master/cascs.json",
+    "features": [],
+    "licenseStatus": "open_license",
+    "licenseDetails": "The original list of CASCs from HMRC is licensed under an Open Government Licence, v3: https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  },
+  "meta": {
+    "source": "HMRC, UK Government",
+    "lastUpdated": "2020-02-28"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
