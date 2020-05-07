@@ -1,6 +1,6 @@
 ## NOTE
 
-As of 18th Dec 2019, we (Open Data Service Co-operative) are not currently adding new, unsolicited entries to org-id while we focus our efforts on improving the service. Some open data standards have made arrangements to add fully researched org-id entries. Requests from those organisations will be dealt with under those arrangements. See the root README.md for more information. 
+As of 18th Dec 2019, we (Open Data Service Co-operative) are not currently adding new, unsolicited entries to org-id while we focus our efforts on improving the service. Some open data standards have made arrangements to add fully researched org-id entries. Requests from those organisations will be dealt with under those arrangements; please make sure you mention the open data standard related to your request or proposal (e.g. 'OCDS', '360Giving', 'BODS' etc.). See the root README.md for more information. 
 
 <!-- Choose one of the three templates below. Delete the others -->
 <!-- Edit the issue title before creating your issue -->
@@ -10,6 +10,8 @@ As of 18th Dec 2019, we (Open Data Service Co-operative) are not currently addin
 <!-- You have an organization/organization to identify. You need researchers to find a suitable list. -->
 
 ## Request
+
+**What open data standard are you working with? (e.g. 'OCDS', '360Giving', 'BODS' etc.)**
 
 **What type of organization do you want identifiers for?** [ Government / NGO or Charity / Government / other]
 
@@ -26,6 +28,8 @@ As of 18th Dec 2019, we (Open Data Service Co-operative) are not currently addin
 <!--Please provide as many details as you can -->
 
 ## Proposal
+
+**What open data standard are you working with? (e.g. 'OCDS', '360Giving', 'BODS' etc.)**
 
 **The name of the list (or the organization that manages the list)**
 
