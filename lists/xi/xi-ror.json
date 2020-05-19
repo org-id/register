@@ -5,7 +5,7 @@
   },
   "url": "https://ror.community/",
   "description": {
-    "en": "A community-led project to develop an open, sustainable, usable, and unique identifier for every research organization in the world."
+    "en": "The Research Organization Registry (ROR) is a community-led project to develop an open, sustainable, usable, and unique identifier for every research organization in the world. The definition ROR use for a \"research organization\" is \"any organization that conducts, produces, manages, or touches research\".\n\nThe list is seeded from GRID, but with a long-term intention to diverge from this."
   },
   "coverage": [
     "XI"
@@ -25,12 +25,13 @@
     "trust"
   ],
   "sector": [
-    "research"
+    "research",
+    "education"
   ],
   "code": "XI-ROR",
   "confirmed": true,
   "deprecated": false,
-  "listType": "primary",
+  "listType": "third_party",
   "access": {
     "availableOnline": true,
     "onlineAccessDetails": "Using the URL, there is a search interface which allows you to find research organizations and identifiers",
@@ -44,10 +45,13 @@
   "data": {
     "availability": [
       "api",
-      "bulk"
+      "bulk",
+      "json"
     ],
     "dataAccessDetails": "API: https://api.ror.org/organizations\nBulk Download: https://figshare.com/collections/ROR_Data/4596503",
     "features": [
+      "akas",
+      "website",
       "industry_classifications",
       "country_of_origin",
       "status"
