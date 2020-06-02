@@ -1,0 +1,59 @@
+{
+  "name": {
+    "en": "Jersey Charity Register",
+    "local": ""
+  },
+  "url": "https://charitycommissioner.je/",
+  "description": {
+    "en": "The Jersey Charity Register register contains key information about each registered charity and, with some limited exceptions, is fully open to public inspection so that people can if they wish understand more about the purposes, finances and public benefit delivery of the charities registered in Jersey."
+  },
+  "coverage": [
+    "JE"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity",
+    "company/limited_company",
+    "unincorporated_body",
+    "trust"
+  ],
+  "sector": [],
+  "code": "JE-JCR",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "",
+    "publicDatabase": "https://portal.charitycommissioner.je/Public-Register/",
+    "guidanceOnLocatingIds": "Using the website link go to the Public Register webpage. The identifier is the \"Jersey Charity Number\" column in the table. Further details are available by clicking through to the pages for each organization.",
+    "exampleIdentifiers": "345, 69, 120",
+    "languages": [
+      "EN"
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "Although there is no means of accessing records as structured data, it is possible to browse the data fields across multiple web pages.",
+    "features": [
+      "directors_trustees_governors",
+      "registered_address",
+      "website",
+      "date_of_registration",
+      "registration_number",
+      "objectives_purpose",
+      "status"
+    ],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Original Research",
+    "lastUpdated": "2020-05-19"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
