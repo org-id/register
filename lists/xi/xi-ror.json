@@ -1,0 +1,71 @@
+{
+  "name": {
+    "en": "Research Organization Registry",
+    "local": ""
+  },
+  "url": "https://ror.community/",
+  "description": {
+    "en": "The Research Organization Registry (ROR) is a community-led project to develop an open, sustainable, usable, and unique identifier for every research organization in the world. The definition ROR use for a \"research organization\" is \"any organization that conducts, produces, manages, or touches research\".\n\nThe list is seeded from GRID, but with a long-term intention to diverge from this."
+  },
+  "coverage": [
+    "XI"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity",
+    "company",
+    "company/community_interest_company",
+    "company/limited_company",
+    "company/listed_company",
+    "company/mutual",
+    "company/partnership",
+    "government_agency",
+    "government_agency/local_government",
+    "government_agency/public_service",
+    "trust"
+  ],
+  "sector": [
+    "research",
+    "education"
+  ],
+  "code": "XI-ROR",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "third_party",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "Using the URL, there is a search interface which allows you to find research organizations and identifiers",
+    "publicDatabase": "https://ror.org/",
+    "guidanceOnLocatingIds": "Using the URL, there is a search interface which allows you to find research organizations and identifiers",
+    "exampleIdentifiers": "05asf4e91, 01kj2bm70, 049e6bc10",
+    "languages": [
+      "en"
+    ]
+  },
+  "data": {
+    "availability": [
+      "api",
+      "bulk",
+      "json"
+    ],
+    "dataAccessDetails": "API: https://api.ror.org/organizations\nBulk Download: https://figshare.com/collections/ROR_Data/4596503",
+    "features": [
+      "akas",
+      "website",
+      "industry_classifications",
+      "country_of_origin",
+      "status"
+    ],
+    "licenseStatus": "open_license",
+    "licenseDetails": "https://creativecommons.org/publicdomain/zero/1.0//"
+  },
+  "meta": {
+    "source": "Original Research",
+    "lastUpdated": "2020-05-05"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
