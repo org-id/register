@@ -1,0 +1,40 @@
+{
+  "name": {
+    "en": "Bolivia Institutional Classifier",
+    "local": "Bolivia Clasificador Institucional"
+  },
+  "url": "https://www.sicoes.gob.bo/portal/clasificadores/institucional.php",
+  "description": {
+    "en": "The institutional classifier reflects the organizational structure of the public sector, taking into account the legal nature, institutional level and entity (code, name and acronym), for the administration of State resources, according to competencies in current regulations."
+  },
+  "coverage": [
+    "BO"
+  ],
+  "structure": [
+    "government_agency"
+  ],
+  "sector": [],
+  "code": "BO-CINS",
+  "confirmed": true,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "Access is via the portal which may be filtered https://www.sicoes.gob.bo/portal/clasificadores/institucional.php",
+    "publicDatabase": "https://www.sicoes.gob.bo/portal/clasificadores/institucional.php",
+    "guidanceOnLocatingIds": "Use the provided link and the code is in the column titled \"Código\"",
+    "exampleIdentifiers": "BO-CINS-0065-10, BO-CINS-0025-57, BO-CINS-0359-00",
+    "languages": ["es"]
+  },
+  "data": {
+    "availability": [
+      "pdf"
+    ],
+    "dataAccessDetails": "https://medios.economiayfinanzas.gob.bo/MH/documentos/DC_interes/2018/CLASIFICADORES_2019.pdf",
+    "features": [
+      "contact_address",
+      "phone_number"
+    ],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  }
+}
