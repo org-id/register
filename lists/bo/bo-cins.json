@@ -11,7 +11,8 @@
     "BO"
   ],
   "structure": [
-    "government_agency"
+    "government_agency",
+    "company"
   ],
   "sector": [],
   "code": "BO-CINS",
