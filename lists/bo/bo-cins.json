@@ -16,7 +16,7 @@
   "sector": [],
   "code": "BO-CINS",
   "confirmed": true,
-  "listType": "primary",
+  "listType": "secondary",
   "access": {
     "availableOnline": true,
     "onlineAccessDetails": "Access is via the portal which may be filtered https://www.sicoes.gob.bo/portal/clasificadores/institucional.php",
