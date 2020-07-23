@@ -5,7 +5,7 @@
   },
   "url": "https://www.sicoes.gob.bo/portal/clasificadores/institucional.php",
   "description": {
-    "en": "The institutional classifier reflects the organizational structure of the public sector, taking into account the legal nature, institutional level and entity (code, name and acronym), for the administration of State resources, according to competencies in current regulations."
+    "en": "This is a list of public sector entities in Bolivia, published through SICOES (Sistema de Contraciones Estatales), which is the national state contracting system. It publishes identifiers for a range of entities, including: ministries, departmental and municipal government; national, regional and municipal companies and universities"
   },
   "coverage": [
     "BO"
