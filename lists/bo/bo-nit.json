@@ -1,0 +1,29 @@
+{
+  "name": {
+    "en": "Tax Identification Number",
+    "local": "Número de Identificación Tributaria "
+  },
+  "coverage": [
+    "BO"
+  ],
+  "description": {
+    "en": "The NIT or Identify Tax Number is the number assigned by the Tax Administration to a natural person, a legal entity at the time of registration for any economic activity, by virtue of which they are taxable persons of some of the taxes established by Law.\nhttps://impuestos.com.bo/rnd-03-13/"
+  },
+  "structure": [
+    "company/sole_trader"
+  ],
+  "code": "BO-NIT",
+  "confirmed": true,
+  "listType": "primary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": null,
+    "guidanceOnLocatingIds": "There are yearly lists of named providers (nomina de proveedores) at the following URL https://www.senapi.gob.bo/contrataciones/nomina-de-proveedores. Open a PDF link and you may find identifiers using the NIT column.",
+    "exampleIdentifiers": "BO-NIT-301140029, BO-NIT-4746889017, BO-NIT-308468025",
+    "languages": ["es"]
+  },
+  "meta": {
+    "source": "Original Research",
+    "lastUpdated": "2020-07-23"
+  }
+}
