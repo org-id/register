@@ -1,0 +1,67 @@
+{
+  "name": {
+    "en": "National Registry of Legal Entities",
+    "local": "Cadastro Nacional da Pessoa Jurídica"
+  },
+  "url": "http://cnpj.info/",
+  "description": {
+    "en": "The CNPJ is the national registry that administers identification numbers issued by the Ministério da Fazenda, for all non-personal legal entities in Brazil.\nOrganizations register exclusively on the Federal Revenue website. After filling in the necessary data online, relevant documents are sent by mail or presented in person.\nThe CNPJ Registration Number is a fourteen digit number that must be included on all receipts and invoices. Tax authorities assign an eight-digit company registration number that makes up the first part of the CNPJ. The following four digits refer to the business place or branch. Company headquarters are usually assigned the number 0001 for this section of the identification number, with other branches receiving different numbers. The final two numbers are check digits."
+  },
+  "coverage": [
+    "BR"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company",
+    "trust",
+    "unincorporated_body",
+    "government_agency"
+  ],
+  "sector": [],
+  "code": "BR-CNPJ",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": null,
+    "publicDatabase": "http://cnpj.info/",
+    "guidanceOnLocatingIds": "Search in the box on top of the page. Limit of two per day per IP address.",
+    "exampleIdentifiers": "02.326.629/0001-51, 24.367.342/0001-02, 02.881.697/0001-82",
+    "languages": []
+  },
+  "data": {
+    "availability": [
+      "bulk"
+    ],
+    "dataAccessDetails": "There are several (currently 20) files to be downloaded in ZIP-format. They take some time. ",
+    "features": [
+      "directors_trustees_governors",
+      "registered_address",
+      "akas",
+      "e-mail_address",
+      "industry_classifications",
+      "date_of_registration",
+      "legal_representatives",
+      "registration_number",
+      "phone_number",
+      "country_of_origin",
+      "tax_id_number",
+      "post_code_zip_code",
+      "activities_sector_code",
+      "expiry_date",
+      "status"
+    ],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": "https://pt.wikipedia.org/wiki/Cadastro_Nacional_da_Pessoa_Jur%C3%ADdica"
+  },
+  "formerPrefixes": [],
+  "meta": {
+    "source": "Original research",
+    "lastUpdated": "2020-06-08"
+  }
+}
