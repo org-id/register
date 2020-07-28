@@ -5,7 +5,7 @@
   },
   "url": "http://cnpj.info/",
   "description": {
-    "en": "The CNPJ is the national tax identification number issued by the Ministério da Fazenda, for all non-personal legal entities in Brazil.\nOrganizations register exclusively on the Federal Revenue website. After filling in the necessary data online, relevant documents are sent by mail or presented in person.\nIt is a fourteen digit number that must be included on all receipts and invoices. Tax authorities assign an eight-digit company registration number that makes up the first part of the CNPJ. The following four digits refer to the business place or branch. Company headquarters are usually assigned the number 0001 for this section of the identification number, with other branches receiving different numbers. The final two numbers are check digits."
+    "en": "The CNPJ is the national registry that administers identification numbers issued by the Ministério da Fazenda, for all non-personal legal entities in Brazil.\nOrganizations register exclusively on the Federal Revenue website. After filling in the necessary data online, relevant documents are sent by mail or presented in person.\nThe CNPJ Registration Number is a fourteen digit number that must be included on all receipts and invoices. Tax authorities assign an eight-digit company registration number that makes up the first part of the CNPJ. The following four digits refer to the business place or branch. Company headquarters are usually assigned the number 0001 for this section of the identification number, with other branches receiving different numbers. The final two numbers are check digits."
   },
   "coverage": [
     "BR"
