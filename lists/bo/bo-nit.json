@@ -18,7 +18,7 @@
   "access": {
     "availableOnline": false,
     "onlineAccessDetails": null,
-    "guidanceOnLocatingIds": "There are yearly lists of named providers (nomina de proveedores) at the following URL https://www.senapi.gob.bo/contrataciones/nomina-de-proveedores. Open a PDF link and you may find identifiers using the NIT column.",
+    "guidanceOnLocatingIds": "Although there is no NIT lookup service (whereby the NIT number of an individual or entity can be sought or verified) NITs are published in specific cases. For example, there are yearly lists of named providers to government (nomina de proveedores) at the following URL https://www.senapi.gob.bo/contrataciones/nomina-de-proveedores. Open a PDF link and you may find identifiers using the NIT column",
     "exampleIdentifiers": "BO-NIT-301140029, BO-NIT-4746889017, BO-NIT-308468025",
     "languages": ["es"]
   },
