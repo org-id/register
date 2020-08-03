@@ -1,0 +1,41 @@
+{
+  "name": {
+    "en": "Bolivia Institutional Classifier",
+    "local": "Bolivia Clasificador Institucional"
+  },
+  "url": "https://www.sicoes.gob.bo/portal/clasificadores/institucional.php",
+  "description": {
+    "en": "This is a list of public sector entities in Bolivia, published through SICOES (Sistema de Contraciones Estatales), which is the national state contracting system. It publishes identifiers for a range of entities, including: ministries, departmental and municipal government; national, regional and municipal companies and universities"
+  },
+  "coverage": [
+    "BO"
+  ],
+  "structure": [
+    "government_agency",
+    "company"
+  ],
+  "sector": [],
+  "code": "BO-CINS",
+  "confirmed": true,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "Access is via the portal which may be filtered https://www.sicoes.gob.bo/portal/clasificadores/institucional.php",
+    "publicDatabase": "https://www.sicoes.gob.bo/portal/clasificadores/institucional.php",
+    "guidanceOnLocatingIds": "Use the provided link and the code is in the column titled \"Código\"",
+    "exampleIdentifiers": "BO-CINS-0065-10, BO-CINS-0025-57, BO-CINS-0359-00",
+    "languages": ["es"]
+  },
+  "data": {
+    "availability": [
+      "pdf"
+    ],
+    "dataAccessDetails": "https://medios.economiayfinanzas.gob.bo/MH/documentos/DC_interes/2018/CLASIFICADORES_2019.pdf",
+    "features": [
+      "contact_address",
+      "phone_number"
+    ],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  }
+}
