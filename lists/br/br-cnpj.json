@@ -26,8 +26,8 @@
     "availableOnline": true,
     "onlineAccessDetails": null,
     "publicDatabase": "http://cnpj.info/",
-    "guidanceOnLocatingIds": "Search in the box on top of the page. Limit of two per day per IP address.",
-    "exampleIdentifiers": "02.326.629/0001-51, 24.367.342/0001-02, 02.881.697/0001-82",
+    "guidanceOnLocatingIds": "Search in the box on top of the page. Limit of two per day per IP address. Remove dots, '.', and replace slashes, '/', with a dash, '-'.",
+    "exampleIdentifiers": "02326629-0001-51, 24367342-0001-02, 02881697-0001-82",
     "languages": []
   },
   "data": {
