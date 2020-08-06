@@ -31,8 +31,15 @@
   "data": {
     "availability": [],
     "dataAccessDetails": "",
-    "features": [],
-    "licenseStatus": "open_license",
+    "features": [
+      "registered_address",
+      "industry_classifications",
+      "legal_representatives",
+      "registration_number",
+      "tax_id_number",
+      "objectives_purpose"
+    ],
+    "licenseStatus": "closed_license",
     "licenseDetails": ""
   },
   "links": {
