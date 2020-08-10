@@ -27,7 +27,8 @@
     "lastUpdated": "2020-07-23"
   },
   "data": {
-    "licenseStatus": null,
-    "licenseDetails": null
+    "licenseStatus": "no_license",
+    "licenseDetails": "",
+    
   }
 }
