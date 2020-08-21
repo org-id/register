@@ -1,0 +1,48 @@
+{
+  "name": {
+    "en": "Department of Registrar for NGOs",
+    "local": ""
+  },
+  "url": "https://www.mcdsw.gov.zm/?page_id=5232",
+  "description": {
+    "en": "All NGOs, including INGOs, are required since 2009 to be registered here to be allowed to operate (Act 16, 2009). Registration needs to be renewed every 5 years. The year of registration/renewal is part of the ID but should be omitted."
+  },
+  "coverage": [
+    "ZM"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity"
+  ],
+  "sector": [],
+  "code": "ZM-RNGO",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": null,
+    "publicDatabase": "https://www.mcdsw.gov.zm/?page_id=5232",
+    "guidanceOnLocatingIds": "NGOs and INGOs should be able to provide this number on request. Remove slashes and the year of registration/renewal (last four digits)",
+    "exampleIdentifiers": "RNGO1010147",
+    "languages": []
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Official records ",
+    "lastUpdated": "2020-08-21"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
