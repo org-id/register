@@ -35,7 +35,8 @@
     "availability": [
       "api",
       "bulk",
-      "xml"
+      "xml",
+      "json"
     ],
     "dataAccessDetails": "Links to source data are available here - https://www.gleif.org/en/lei-data/global-lei-index. Full documentation is provided.",
     "features": [
