@@ -1,0 +1,50 @@
+{
+  "name": {
+    "en": "Guatemala Tax Identification Number",
+    "local": "Número de Identificación Tributaria de Guatemala"
+  },
+  "url": "https://portal.sat.gob.gt/portal/",
+  "description": {
+    "en": "The Número de Identificación Tributaria (NIT) is a number assigned by the Superintendencia de Administración Tributaria in Guatemala to every tax payer, including both companies,  and individuals.\n\nCompanies must register with the Commercial Registry (Registro Mercantil) online at https://minegocio.gt/ to be incorporated and assigned an NIT number."
+  },
+  "coverage": [
+    "GT"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity",
+    "company",
+    "trust",
+    "government_agency",
+    "unincorporated_body"
+  ],
+  "sector": [],
+  "code": "GT-NIT",
+  "confirmed": true,
+  "deprecated": false,
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "It is possible to search the list by NIT number.",
+    "publicDatabase": "https://portal.sat.gob.gt/portal/consulta-cui-nit/",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "7555605-7",
+    "languages": [
+      "ES"
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Github proposal, World Bank Doing Business website, agency websites",
+    "lastUpdated": "2020-09-07"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
