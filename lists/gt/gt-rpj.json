@@ -5,7 +5,7 @@
   },
   "url": "https://mingob.gob.gt/mingobsites/repeju/",
   "description": {
-    "en": "Registry for both non-profits (churches, civil society organisations, NGOs, foundations, etc) and 'Branches or Agencies of Foreign Entities'. Without this, NGOs cannot operate in Guatemala. Not to be confused with the Registro Nacional de las Personas (for individuals) or the NIT, which is the tax identification number. The length varies, and consists of a combination of several columns in registries or several numbers in a document. The document could say 'partida no 236, folio(s) 413, de(l) (los) libro(s) 45' which results in the ID 23641345."
+    "en": "This is the primary registry for domestic non-profits (churches, civil society organisations, NGOs, foundations, etc) and also where 'Branches or Agencies of Foreign Entities' should register. Without registration, NGOs cannot operate in Guatemala. Not to be confused with the Registro Nacional de las Personas (for individuals) or the NIT, which is the tax identification number. The length of ID varies, and consists of a combination of several columns in registries or several numbers in a document. The document could say 'partida no 236, folio(s) 413, de(l) (los) libro(s) 45' which results in the ID 23641345."
   },
   "coverage": [
     "GT"
@@ -18,7 +18,7 @@
   "code": "GT-RPJ",
   "confirmed": true,
   "deprecated": false,
-  "listType": "secondary",
+  "listType": "primary",
   "access": {
     "availableOnline": true,
     "onlineAccessDetails": null,
