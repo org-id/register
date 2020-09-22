@@ -28,7 +28,7 @@
     "publicDatabase": "http://teledeclaration-dgi.cm/",
     "guidanceOnLocatingIds": "At http://teledeclaration-dgi.cm/ use the link ' Vérifier un NIU' to check an NIU. Alternatively you can search via name or NIU here: http://teledeclaration-dgi.cm/modules/immatriculation/Consultation/listecontribuable.aspx.",
     "exampleIdentifiers": "M099600009248R",
-    "languages": ['fr']
+    "languages": ["fr"]
   },
   "data": {
     "availability": [
