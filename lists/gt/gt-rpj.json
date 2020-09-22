@@ -1,0 +1,52 @@
+{
+  "name": {
+    "en": "Registry for Legal Entities (Guatemala)",
+    "local": "Registro de las Personas Jurídicas"
+  },
+  "url": "https://mingob.gob.gt/mingobsites/repeju/",
+  "description": {
+    "en": "This is the primary registry for domestic non-profits (churches, civil society organisations, NGOs, foundations, etc) and also where 'Branches or Agencies of Foreign Entities' should register. Without registration, NGOs cannot operate in Guatemala. Not to be confused with the Registro Nacional de las Personas (for individuals) or the NIT, which is the tax identification number. The length of ID varies, and consists of a combination of several columns in registries or several numbers in a document. The document could say 'partida no 236, folio(s) 413, de(l) (los) libro(s) 45' which results in the ID 23641345."
+  },
+  "coverage": [
+    "GT"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity"
+  ],
+  "sector": [],
+  "code": "GT-RPJ",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": null,
+    "publicDatabase": "https://mingob.gob.gt/mingobsites/repeju/entidades-inscritas/",
+    "guidanceOnLocatingIds": "The website has a list of several PDF files which can be opened and searched by Ctrl-F. The names of the organisations are in Spanish. Combine the numbers in the first four (sometimes three) columns to find the ID.",
+    "exampleIdentifiers": "38634663461, 17272, 23641345",
+    "languages": ["es"]
+  },
+  "data": {
+    "availability": [
+      "pdf"
+    ],
+    "dataAccessDetails": "PDFs are linked to from https://mingob.gob.gt/mingobsites/repeju/entidades-inscritas/",
+    "features": [
+      "date_of_registration",
+      "registration_number",
+      "activities_sector_code"
+    ],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Government websites, legal documents provided by organisation",
+    "lastUpdated": "2020-08-21"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
