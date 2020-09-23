@@ -21,7 +21,7 @@
   "code": "CM-NIU",
   "confirmed": true,
   "deprecated": false,
-  "listType": "primary",
+  "listType": "secondary",
   "access": {
     "availableOnline": true,
     "onlineAccessDetails": "",
