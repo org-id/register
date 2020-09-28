@@ -1,0 +1,56 @@
+{
+  "name": {
+    "en": "Tax Identification Number (Cameroon)",
+    "local": "Numéro d'Identifiant fiscal Unique (NIU)"
+  },
+  "url": "https://www.impots.cm/",
+  "description": {
+    "en": "The Directorate General of Tax (Direction Générale des Impôts) of Cameroon issues a unique tax identification number (Numéro d'Identifiant fiscal Unique, or NIU) to all individuals and legal persons liable to pay tax in the country. "
+  },
+  "coverage": [
+    "CM"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity",
+    "company",
+    "trust",
+    "unincorporated_body"
+  ],
+  "sector": [],
+  "code": "CM-NIU",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "",
+    "publicDatabase": "http://teledeclaration-dgi.cm/",
+    "guidanceOnLocatingIds": "At http://teledeclaration-dgi.cm/ use the link ' Vérifier un NIU' to check an NIU. Alternatively you can search via name or NIU here: http://teledeclaration-dgi.cm/modules/immatriculation/Consultation/listecontribuable.aspx.",
+    "exampleIdentifiers": "M099600009248R",
+    "languages": ["fr"]
+  },
+  "data": {
+    "availability": [
+      "excel"
+    ],
+    "dataAccessDetails": "Tax filing information including NIUs is available under 'Archives' here: http://teledeclaration-dgi.cm/modules/immatriculation/Consultation/listecontribuable.aspx",
+    "features": [
+      "registered_address",
+      "phone_number",
+      "tax_id_number",
+      "activities_sector_code"
+    ],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Original research",
+    "lastUpdated": "2020-09-22"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
