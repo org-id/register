@@ -5,7 +5,7 @@
   },
   "url": "https://bridge-registry.org/",
   "description": {
-    "en": "Led by three nonprofit partners – Foundation Center, GlobalGiving, and GuideStar – BRIDGE assigns a unique identification number, known as a BRIDGE number, to individual social sector entities around the world. Each 10-digit BRIDGE number is randomly generated and unique to an organization.\n\n**The country or countries that the list covers**: BRIDGE is global in scope. To date, BRIDGE numbers for organizations/entities in eight countries have been released as open data: Australia, Canada, Ireland, Mexico, Netherlands, New Zealand, United Kingdom, and United States. Data for additional countries will be released on an ongoing basis as the BRIDGE team assesses and addresses any potential data privacy and security risks of making this data publicly available.\n\n**The legal form or organizations that the list covers**: BRIDGE covers a variety of entities. Any private organization or program anywhere in the world devoted to social good can be assigned a BRIDGE number. The social sector encompasses the entire ecosystem of institutions that work to advance social good, regardless of organization type. This includes foundations, nonprofit organizations, schools, religious organizations, and companies. In addition, BRIDGE may assign numbers to individual chapters or branches of an organization, to programs (such as corporate giving programs), as well as to funds, which often essentially function as independent organizations. A BRIDGE number can be assigned to any entity, whether active or inactive, valid or fraudulent, new or old. A BRIDGE number itself conveys no information about the validity, veracity, quality, or status of an organization, including its current existence as a viable entity. It only serves to disambiguate and uniquely define records. BRIDGE does not assign numbers to individuals.\n\n"
+    "en": "As of August 2020 the BRIDGE project has been shut down. It was led by four nonprofit partners – GlobalGiving, TechSoup Global, GuideStar, and Foundation Center – BRIDGE assigned a unique identification number, known as a BRIDGE number, to individual social sector entities around the world. Each 10-digit BRIDGE number was randomly generated and unique to an organization.\n\n**The legal form or organizations that the list covers**: BRIDGE covered a variety of entities. Any private organization or program anywhere in the world devoted to social good could be assigned a BRIDGE number. The historical data archives of BRIDGE are no longer maintained or updated, but can be accessed at https://www.bridge-registry.org/data/index.html.\n\n"
   },
   "coverage": [],
   "subnationalCoverage": [],
@@ -18,11 +18,11 @@
   "sector": [],
   "code": "XI-BRIDGE",
   "confirmed": true,
-  "deprecated": false,
+  "deprecated": true,
   "listType": "third_party",
   "access": {
     "availableOnline": true,
-    "onlineAccessDetails": "There are two primary ways to access BRIDGE numbers: (1) You can search the [BRIDGE registry](https://bridge-registry.org/bridge-look-up/) by organization name, location, or BRIDGE number. (2) BRIDGE numbers are also available as [open data](https://bridge-registry.org/homepage/data/).",
+    "onlineAccessDetails": "The historical data archives of BRIDGE are no longer maintained or updated, but can be accessed at https://www.bridge-registry.org/data/index.html.",
     "publicDatabase": "https://bridge-registry.org/",
     "guidanceOnLocatingIds": "",
     "exampleIdentifiers": "XI-BRIDGE-7924198567; XI-BRIDGE-1241896123; XI-BRIDGE-62155056",
@@ -35,7 +35,7 @@
       "bulk",
       "csv"
     ],
-    "dataAccessDetails": "BRIDGE numbers are also available as open data, in CSV files [here](https://bridge-registry.org/homepage/data/). A description of the fields is given at the landing page.",
+    "dataAccessDetails": "The historical data archives of BRIDGE are no longer maintained or updated, but can be accessed at https://www.bridge-registry.org/data/index.html.",
     "features": [
       "registration_number",
       "country_of_origin"
@@ -44,8 +44,8 @@
     "licenseDetails": "BRIDGE open data is made available for reuse under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license."
   },
   "meta": {
-    "source": "Information and copy provided by a member of the consortium responsible for the list. See this [github issue](https://github.com/org-id/register/issues/276) along with the pages it links to for full details.",
-    "lastUpdated": "2018-10-11"
+    "source": "Information and copy provided by a member of the consortium responsible for the list. See this [github issue](https://github.com/org-id/register/issues/276) along with the pages it links to for full details. Update on closure of BRIDGE received from Petya Kangalova, with thanks.",
+    "lastUpdated": "2020-09-21"
   },
   "links": {
     "opencorporates": "",
