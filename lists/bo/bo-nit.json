@@ -3,12 +3,12 @@
     "en": "Tax Identification Number",
     "local": "Número de Identificación Tributaria "
   },
-  "coverage": [
-    "BO"
-  ],
   "description": {
     "en": "The Número de Identificación Tributaria (NIT), or Tax Identification Number, is the number assigned by the National Tax Service of Bolivia to a taxable natural person or legal entity. It is assigned once an individual or entity registers with the Service, acknowledging that their economic activity can, by law, be taxed.\nhttps://impuestos.com.bo/rnd-03-13/"
   },
+  "coverage": [
+    "BO"
+  ],
   "structure": [
     "company"
   ],
@@ -22,12 +22,21 @@
     "exampleIdentifiers": "BO-NIT-301140029, BO-NIT-4746889017, BO-NIT-308468025",
     "languages": ["es"]
   },
+  "data": {
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
   "meta": {
     "source": "Original Research",
     "lastUpdated": "2020-07-23"
   },
-  "data": {
-    "licenseStatus": "no_license",
-    "licenseDetails": ""
-  }
+  "url": "",
+  "subnationalCoverage": [],
+  "sector": [],
+  "deprecated": false,
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
 }
