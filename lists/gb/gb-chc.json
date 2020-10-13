@@ -1,9 +1,9 @@
 {
   "name": {
-    "en": "Charity Commission",
-    "local": ""
+    "en": "Charity Commission/Comisiwn Elusennau",
+    "local": "en/cy"
   },
-  "url": "http://www.charity-commission.gov.uk/",
+  "url": "https://www.gov.uk/government/organisations/charity-commission",
   "description": {
     "en": "There are four main types of charity structure in the UK: \n\n(1) Charitable incorporated organisation (CIO) \n(2) charitable company (limited by guarantee) \n(3) unincorporated association \n(4) trust\n\n\n"
   },
@@ -24,32 +24,44 @@
   "listType": "primary",
   "access": {
     "availableOnline": true,
-    "onlineAccessDetails": "",
-    "publicDatabase": "https://www.gov.uk/government/organisations/charity-commission",
-    "guidanceOnLocatingIds": "",
+    "onlineAccessDetails": "Information about the data and information available through the search is available on the page listed as the list URL. Click through to \"Find a charity\" for a simple text search of a charity's name. Use the advanced search to filter the search across multiple different aspects of the dataset.",
+    "publicDatabase": "https://register-of-charities.charitycommission.gov.uk/",
+    "guidanceOnLocatingIds": "Identifiers are listed as \"Charity numbers\" and are shown in the returned list view to a search.",
     "exampleIdentifiers": "279417, 1090095,  1173575",
     "languages": [
-      "en"
-    ]
+    	"en",
+    	"cy"
+    	]
   },
   "data": {
     "availability": [
       "bulk"
     ],
-    "dataAccessDetails": "Bulk download available at http://data.charitycommission.gov.uk/",
+    "dataAccessDetails": "Bulk download available at https://register-of-charities.charitycommission.gov.uk/register/full-register-download",
     "features": [
-      "registered_address"
+      "directors_trustees_governors",
+      "registered_address",
+      "contact_address",
+      "akas",
+      "website",
+      "e-mail_address",
+      "date_of_registration",
+      "registration_number",
+      "phone_number",
+      "objectives_purpose",
+      "activities_sector_code",
+      "financial_turnover_details"
     ],
     "licenseStatus": "open_license",
     "licenseDetails": "Open Government Licence v2.0"
   },
   "meta": {
-    "source": "",
-    "lastUpdated": "2016-09-17"
+    "source": "original research",
+    "lastUpdated": "2020-10-13"
   },
   "links": {
     "opencorporates": "",
-    "wikipedia": ""
+    "wikipedia": "https://en.wikipedia.org/wiki/Charity_Commission_for_England_and_Wales"
   },
   "formerPrefixes": []
 }
