@@ -1,0 +1,49 @@
+{
+  "name": {
+    "en": "Public Market Suppliers and Buyer Units, Chile",
+    "local": "Proveedores y Unidades Compradoras Mercado Público, Chile"
+  },
+  "url": "https://www.mercadopublico.cl/Home",
+  "description": {
+    "en": "[Mercado Público](https://www.mercadopublico.cl/Home/Contenidos/QueEsMercadoPublico?esNuevaHome=true) is an electronic platform managed by Chilecompra, part of the Ministry of Finance, which public organizations use to make purchases.\n\nOrganizations registered as buyers or suppliers on the Mercado Público platform are assigned an identifier in the system. This identifier is used in the data from the Mercado Público OCDS API.\n\nThe use of Mercado Público identifiers is considered a temporary measure. They should only be used when no other stable identifier for a government agency or company is available"
+  },
+  "coverage": [
+    "CL"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company",
+    "government_agency"
+  ],
+  "sector": [],
+  "code": "CL-MP",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "local",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "The only access to Mercado Publico data available online is through the API, which is freely available and requires no sign up.",
+    "publicDatabase": "https://apis.mercadopublico.cl/OCDS/data/comprador/unidad/{CodigoOrganismo}",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "2544,2391,26797",
+    "languages": ["es"]
+  },
+  "data": {
+    "availability": [
+      "API"
+    ],
+    "dataAccessDetails": "The API accepts an identifier as a parameter and returns the name and taxpayer number ([RUT](http://org-id.guide/list/CL-RUT)) for the organization.\n\nThe `/comprador/` endpoint covers both buyers and suppliers, whilst the [`/proveedor/` endpoint](https://apis.mercadopublico.cl/OCDS/data/proveedor/unidad/{CodigoOrganismo}) covers only suppliers.\n\n There is no public list of identifiers, however the identifiers are used in Chile's [OCDS API](https://desarrolladores.mercadopublico.cl/docs/services/5a9ed02f718ed712f4403e75/operations/5c07f9b0bffba6b1c82076e8?) which includes links to the appropriate endpoint for each identifier.",
+    "features": [],
+    "licenseStatus": "open_license",
+    "licenseDetails": ""
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": "https://es.wikipedia.org/wiki/ChileCompra"
+  },
+  "formerPrefixes": [],
+  "meta": {
+    "source": "https://github.com/org-id/register/issues/380",
+    "lastUpdated": "2020-09-24T00:00:00Z"
+  }
+}
