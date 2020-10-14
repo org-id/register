@@ -24,9 +24,9 @@
   "listType": "primary",
   "access": {
     "availableOnline": true,
-    "onlineAccessDetails": "Information about the data and information available through the search is available on the page listed as the list URL. Click through to \"Find a charity\" for a simple text search of a charity's name. Use the advanced search to filter the search across multiple different aspects of the dataset.",
+    "onlineAccessDetails": "Information about the data and information available through the search is available available at https://register-of-charities.charitycommission.gov.uk'. Click through to \"Find a charity\" for a simple text search of a charity's name. Use the advanced search to filter the search across multiple different aspects of the dataset.",
     "publicDatabase": "https://register-of-charities.charitycommission.gov.uk/",
-    "guidanceOnLocatingIds": "Identifiers are listed as \"Charity numbers\" and are shown in the returned list view to a search.",
+    "guidanceOnLocatingIds": "Identifiers are listed as \"Charity numbers\" and are shown in the list returned by a search.",
     "exampleIdentifiers": "279417, 1090095,  1173575",
     "languages": [
     	"en",
