@@ -1,0 +1,50 @@
+{
+  "name": {
+    "en": "Thai Revenue Department - Tax Identification Number",
+    "local": "หมายเลขประจำตัวผู้เสียภาษี"
+  },
+  "url": "https://www.rd.go.th/publish/272.0.html",
+  "description": {
+    "en": "This is the standard tax number issued to legal entities, domestic and foreign, that pay taxes or that pay income to employees. NGOs require one, too. Individuals can be issued with a TIN if they are a foreigner or if they want to register for Value Added Tax or Specific Business Tax. The procedure is here: http://www.rd.go.th/publish/21987.0.html The government site still mentions a 10-digit number but the law changed in 2012 and the TIN is now 13 digits long (see: https://msnagroup.com/new-thai-tax-id-number). The TIN should not be confused with the PIN, for individuals."
+  },
+  "coverage": [
+    "TH"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity",
+    "company",
+    "trust"
+  ],
+  "sector": [],
+  "code": "TH-TIN",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": null,
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "0994000368968 (Plan International Regional Office for Asia) ",
+    "languages": ["TH"]
+  },
+  "data": {
+    "availability": [
+      "api"
+    ],
+    "dataAccessDetails": "There is a SOAP API for checking whether TINs are valid. Details provided here: http://www.rd.go.th/publish/42533.0.html",
+    "features": [],
+    "licenseStatus": "closed_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Government website, original research, local NGO",
+    "lastUpdated": "2020-10-14"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
