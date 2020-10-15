@@ -5,7 +5,7 @@
   },
   "url": "https://www.gov.uk/government/organisations/charity-commission",
   "description": {
-    "en": "There are four main types of charity structure in the UK: \n\n(1) Charitable incorporated organisation (CIO) \n(2) charitable company (limited by guarantee) \n(3) unincorporated association \n(4) trust\n\n\n"
+    "en": "The Charity Commission registers and regulates charities in the nations of England and Wales within the United Kingdom. \nThere are four main types of charity structure in the UK: \n\n(1) Charitable incorporated organisation (CIO) \n(2) charitable company (limited by guarantee) \n(3) unincorporated association \n(4) trust\n\n\n"
   },
   "coverage": [
     "GB"
@@ -24,7 +24,7 @@
   "listType": "primary",
   "access": {
     "availableOnline": true,
-    "onlineAccessDetails": "Information about the data and information available through the search is available available at https://register-of-charities.charitycommission.gov.uk'. Click through to \"Find a charity\" for a simple text search of a charity's name. Use the advanced search to filter the search across multiple different aspects of the dataset.",
+    "onlineAccessDetails": "Information about the data and information available through the search is at https://register-of-charities.charitycommission.gov.uk'. Click through to \"Find a charity\" for a simple text search of a charity's name. Use the advanced search to filter the search across multiple different aspects of the dataset.",
     "publicDatabase": "https://register-of-charities.charitycommission.gov.uk/",
     "guidanceOnLocatingIds": "Identifiers are listed as \"Charity numbers\" and are shown in the list returned by a search.",
     "exampleIdentifiers": "279417, 1090095,  1173575",
