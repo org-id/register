@@ -14,7 +14,7 @@
   ],
   "code": "BO-NIT",
   "confirmed": true,
-  "listType": "primary",
+  "listType": "secondary",
   "access": {
     "availableOnline": false,
     "onlineAccessDetails": null,
