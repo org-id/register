@@ -25,7 +25,7 @@
     "publicDatabase": "https://www.rci.gouv.mc/rc/index.jsp",
     "guidanceOnLocatingIds": "When search results are returned, the RCI is found in the 'Numéro RCI' column. Numbers are formed by \"the year in two digits, the letters \"P\" or \"S\" and five digits corresponding to the registration number\". The year appears to be the year of formation. P signifies a sole trader (personne physique) and S a company (an SAM, SARL, SCS, SNC or a foreign company).",
     "exampleIdentifiers": "00S03773,01S03983,17P07673",
-    "languages": ["FR,"EN"]
+    "languages": ["FR","EN"]
   },
   "data": {
     "availability": [],
