@@ -1,0 +1,48 @@
+{
+  "name": {
+    "en": "Lithuanian State Tax Inspectorate (PVM)",
+    "local": "Lietuvos Valstybinė Mokesčių Inspekcija (PVM)"
+  },
+  "url": "https://www.vmi.lt/",
+  "description": {
+    "en": "The State Tax Inspectorate is Lithuania's institution responsible for tax administration. The tasks of the State Tax Inspectorate include: helping taxpayers and withholding agents to exercise their rights and obligations; implementing tax laws; ensuring the payment of taxes to the budget; ensuring the efficient work of the Bank of Lithuania by coordinating, controlling and methodically managing it. The State Tax Inspectorate issues Pridetines Vertes Mokestis (PVM) codes (VAT in English), the identifiers that can be referenced using this code."
+  },
+  "coverage": [
+    "LT"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "LT-PVM",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "",
+    "publicDatabase": "https://www.vmi.lt/cms/en/informacija-apie-mokesciu-moketojus",
+    "guidanceOnLocatingIds": "Searches can be conducted for individuals, companies or groups. Individuals can be searched for by their name and identification number, their VAT number or their Individual activity certificate number. Companies can be searched for by their name, their identification number or their VAT code. Searches are free, but a captcha must be completed.",
+    "exampleIdentifiers": "LT100006480716",
+    "languages": [
+      "lt",
+      "en"
+    ]
+  },
+  "data": {
+    "availability": ["Data not available"],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseDetails": "no_license"
+  },
+  "meta": {
+    "source": "desk research",
+    "lastUpdated": "2020-12-14"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": "https://lt.wikipedia.org/wiki/Valstybin%C4%97_mokes%C4%8Di%C5%B3_inspekcija"
+  },
+  "formerPrefixes": []
+}
