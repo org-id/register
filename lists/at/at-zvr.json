@@ -1,0 +1,55 @@
+{
+  "name": {
+    "en": "Austrian Central Register of Associations",
+    "local": "Zentrales Vereinsregister"
+  },
+  "url": "https://www.bmi.gv.at/609/zvr.aspx",
+  "coverage": [
+    "AT"
+  ],
+  "description": {
+    "en": "The central register of associations contains information about associations that have been established and formed under Austrian law [1]. They are identified by their official registration number, their ZVR-Zahl. Anyone can use the Central Register of Associations (ZVR) to search for an association, using its ZVR number, its name, or part of its name. A summary extract of the association is returned as a PDF. Additional details of an association can be requested where there is legitimate interest.\n\n[1]: https://www.bmi.gv.at/609/start.aspx"
+  },
+  "subnationalCoverage": [],
+  "structure": [
+    "charity",
+    "trust"
+  ],
+  "sector": [],
+  "code": "AT-ZVR",
+  "deprecated": false,
+  "confirmed": true,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": null,
+    "publicDatabase": "https://citizen.bmi.gv.at/at.gv.bmi.fnsweb-p/zvn/public/Registerauszug",
+    "guidanceOnLocatingIds": "Use the search boxes at the foot of the page to find an association's details. Search by registration number (ZVR-Zahl) or by supplying all or part of its name (Vereinsname). The latter type of search can be temperamental.",
+    "exampleIdentifiers": "555769679",
+    "languages": ["de"]
+  },
+  "data": {
+    "availability": [
+      "pdf"
+    ],
+    "dataAccessDetails": "Details of individual associations are returned in a PDF. There is no bulk access facility. 'The Association Act 2002 takes comprehensive precautions to protect personal data. This includes that information can only be queried for a clearly identifiable club (\"individual query\").' (https://www.bmi.gv.at/609/faq.aspx#f3)",
+    "features": [
+      "registered_address",
+      "contact_address",
+      "date_of_registration",
+      "legal_representatives",
+      "registration_number"
+    ],
+    "licenseStatus": "open_license",
+    "licenseDetails": ""
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": [],
+  "meta": {
+    "source": "Official Records",
+    "lastUpdated": "2020-12-02"
+  }
+}
