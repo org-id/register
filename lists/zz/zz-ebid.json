@@ -1,0 +1,63 @@
+{
+  "name": {
+    "en": "European Business Identifier (EBID)",
+    "local": ""
+  },
+  "url": "https://www.ebid.org/en/",
+  "description": {
+    "en": "The EBID is an initiative of the CAS Group. Via Unternehmensverzeichnis.org they provide a free directory of German and Austrian companies and production facilities. \"The Unternehmensverzeichnis provides you with all the very latest company information. This information helps to make cooperation with potential business partners much easier.\" [1]\n\nGerman and Austrian companies can apply at Unternehmensverzeichnis.org to have their company issued an EBID, listed and to manage their listing [2]. \n\nOnce issued an EBID number is not re-used [3]. \n\n\n\n[1]: https://www.ebid.org/en/solutions/unternehmensverzeichnis/\n[2]: https://www.unternehmensverzeichnis.org/info/firmeneintrag2/\n[3]: http://www.cyber-identity.com/download/ICD-list.pdf"
+  },
+  "coverage": [
+    "DE",
+    "AT"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "ZZ-EBID",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "third_party",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "A free search returns a limited amount of information about a company: address information, contact information, short company profile, company changes, address history. There is a fee associated with the following information: management team, balance sheets, credit rating reports, industry codes, customer references.",
+    "publicDatabase": "https://www.unternehmensverzeichnis.org/",
+    "guidanceOnLocatingIds": "Search fields are provided on the homepage. Search via Company Name (Firmenname) or search by EBID (Suche nach EBID-Nummer ein).",
+    "exampleIdentifiers": "2-500897-444478,2-511576-798133,2-510004-542942",
+    "languages": ["de","en"]
+  },
+  "data": {
+    "availability": [
+      "api"
+    ],
+    "dataAccessDetails": "Limited API information can be found here: https://www.ebid.org/en/solutions/the-ebid-api.",
+    "features": [
+      "directors_trustees_governors",
+      "shareholders",
+      "registered_address",
+      "contact_address",
+      "website",
+      "e-mail_address",
+      "registration_number",
+      "phone_number",
+      "country_of_origin",
+      "tax_id_number",
+      "post_code_zip_code",
+      "objectives_purpose",
+      "financial_turnover_details"
+    ],
+    "licenseStatus": "closed_license",
+    "licenseDetails": ""
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": [],
+  "meta": {
+    "source": "Original research",
+    "lastUpdated": "2020-12-21"
+  }
+}
