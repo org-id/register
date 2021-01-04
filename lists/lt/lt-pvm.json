@@ -1,11 +1,11 @@
 {
   "name": {
-    "en": "Lithuania Register of Legal Entities",
-    "local": "Juridinių asmenų registras"
+    "en": "Lithuanian State Tax Inspectorate (PVM)",
+    "local": "Lietuvos Valstybinė Mokesčių Inspekcija (PVM)"
   },
-  "url": "http://www.registrucentras.lt/jar/index_en.php",
+  "url": "https://www.vmi.lt/",
   "description": {
-    "en": "The Register of Legal Entities registers businesses, institutions and NGOs and collects detailed data about Lithuanian legal entities as well as branches and representative offices of foreign companies and organizations. The Register contains complete information (and historical data) about legal form and status of legal entities, fields of its activity, size and structure of the authorized capital, members of sole and collective management bodies, licenses acquired, etc. It is obligatory for the most of business companies to submit annual financial statements to the Register of Legal Entities since 2004. Starting from March 2010 private limited liability companies are obliged to declare current list of shareholders to the Register. "
+    "en": "The State Tax Inspectorate is Lithuania's institution responsible for tax administration. The tasks of the State Tax Inspectorate include: helping taxpayers and withholding agents to exercise their rights and obligations; implementing tax laws; ensuring the payment of taxes to the budget; ensuring the efficient work of the Bank of Lithuania by coordinating, controlling and methodically managing it. The State Tax Inspectorate issues Pridetines Vertes Mokestis (PVM) codes (VAT in English), the identifiers that can be referenced using this code."
   },
   "coverage": [
     "LT"
@@ -18,31 +18,31 @@
   "code": "LT-PVM",
   "confirmed": true,
   "deprecated": false,
-  "listType": "primary",
+  "listType": "secondary",
   "access": {
     "availableOnline": true,
     "onlineAccessDetails": "",
-    "publicDatabase": "",
-    "guidanceOnLocatingIds": "Detailed data on the registration of legal entities are provided ONLY TO REGISTERED USERS who have concluded service provision agreement.\nIt is allowed to perform max 100 searches per day.",
-    "exampleIdentifiers": "302416388",
+    "publicDatabase": "https://www.vmi.lt/cms/en/informacija-apie-mokesciu-moketojus",
+    "guidanceOnLocatingIds": "Searches can be conducted for individuals, companies or groups. Individuals can be searched for by their name and identification number, their VAT number or their Individual activity certificate number. Companies can be searched for by their name, their identification number or their VAT code. Searches are free, but a captcha must be completed.",
+    "exampleIdentifiers": "LT100006480716",
     "languages": [
       "lt",
       "en"
     ]
   },
   "data": {
-    "availability": [],
+    "availability": ["Data not available"],
     "dataAccessDetails": "",
     "features": [],
-    "licenseDetails": ""
+    "licenseDetails": "no_license"
   },
   "meta": {
-    "source": "ProZorro Business Register Research",
-    "lastUpdated": "2017-10-24"
+    "source": "desk research",
+    "lastUpdated": "2020-12-14"
   },
   "links": {
     "opencorporates": "",
-    "wikipedia": ""
+    "wikipedia": "https://lt.wikipedia.org/wiki/Valstybin%C4%97_mokes%C4%8Di%C5%B3_inspekcija"
   },
   "formerPrefixes": []
 }
