@@ -1,0 +1,52 @@
+{
+  "name": {
+    "en": "Trade and Industry Registry Number",
+    "local": "Numéro de Répertoire du Commerce et de l'Industrie"
+  },
+  "url": "https://service-public-entreprises.gouv.mc/Creation-d-activite/Demarches-de-creation/Immatriculation-et-declaration-d-existence/Le-Repertoire-du-Commerce-et-de-l-Industrie-RCI",
+  "description": {
+    "en": "\"The Trade and Industry Registry is an official register of all commercial activities, companies other than non-trading companies, and economic interest groups.\n\nIt ensures that all the legal formalities relating to setting up a business, and authorisation to run and advertise a business, have been met.\n\nRegistration with the Trade and Industry Registry (click here for the factsheet : “How to register your company on the Trade and Industry Registry\") is obligatory and must be completed within the two months which follow the commencement of activity. \"[1]\n\nRegistration follows the establishment of the entity and this being recognised by publication of its new status in the Journal de Monaco [2]. Sole traders (Personne Physique) are also registered and issued RCI numbers, as are some foreign commercial establishments [3].\n\n[1]: https://en.service-public-entreprises.gouv.mc/Starting-a-business/Start-up-services/Registration-and-statement-of-existence/The-Trade-and-Industry-Register-RCI , retrieved 12th Dec 2020\n[2]: https://en.service-public-entreprises.gouv.mc/Starting-a-business/Start-up-services/Registration-and-statement-of-existence/How-to-register-your-company-on-the-Trade-and-Industry-Registry, retrieved 12th Dec 2020\n[3]: https://www.monacostatistics.mc/Economy-and-Finance/RCI, retrieved 12th Dec 2020"
+  },
+  "coverage": [
+    "MC"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "MC-RCI",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "",
+    "publicDatabase": "https://www.rci.gouv.mc/rc/index.jsp",
+    "guidanceOnLocatingIds": "When search results are returned, the RCI is found in the 'Numéro RCI' column. Numbers are formed by \"the year in two digits, the letters \"P\" or \"S\" and five digits corresponding to the registration number\". The year appears to be the year of formation. P signifies a sole trader (personne physique) and S a company (an SAM, SARL, SCS, SNC or a foreign company).",
+    "exampleIdentifiers": "00S03773,01S03983,17P07673",
+    "languages": ["FR","EN"]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [
+      "registered_address",
+      "registration_number",
+      "post_code_zip_code",
+      "activities_sector_code",
+      "status"
+    ],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": [],
+  "meta": {
+    "source": "Original research",
+    "lastUpdated": "2020-12-12"
+  }
+}
