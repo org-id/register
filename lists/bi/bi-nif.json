@@ -1,0 +1,53 @@
+{
+  "name": {
+    "en": "Tax Identification Number, Burundi",
+    "local": "Numero d’Identification Fiscale, Burundi"
+  },
+  "url": "https://www.obr.bi/index.php/en/",
+  "description": {
+    "en": "Any individual, company, cooperative, non-profit association, non-governmental organisation or international organisation starting a commercial activity in Burundi must register with the Office Burundais des Recettes (OBR) and receive a Tax Identification Number (Numero d’Identification Fiscale) [1]. There is a publicly available site to verify the ownership and validity of the Tax Identification Numbers. The search is done using the NIF number and the result returns plain text stating who the NIF belongs to and whether the number is recognised by the OBR.\n\n[1] https://www.obr.bi/index.php/faqs"
+  },
+  "coverage": [
+    "BI"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity",
+    "company",
+    "unincorporated_body",
+    "trust"
+  ],
+  "sector": [],
+  "code": "BI-NIF",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": null,
+    "publicDatabase": "https://www.obr.bi/index.php/en/verification-de-validite-de-documents?option=com_odvc&view=odvc&id=1&type_doc=4",
+    "guidanceOnLocatingIds": "The NIF number needs to be requested from the company or organisation. After obtaining the NIF number, the publicly available web page can be used to verify the ownership and validity of the NIF number. On the web page, for Type de document select 'NIF contribuable' and enter the NIF number in the displayed textbox. The result returns plain text stating who the NIF belongs to and whether the number is recognised by the OBR.",
+    "exampleIdentifiers": "4000742330, 4000942310",
+    "languages": [
+		"fr"
+	]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": [],
+  "meta": {
+    "source": "Original research",
+    "lastUpdated": "2021-01-25"
+  }
+}
