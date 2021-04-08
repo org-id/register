@@ -1,0 +1,54 @@
+{
+  "name": {
+    "en": " Societies Registration Act, 1860 Pakistan",
+    "local": ""
+  },
+  "url": "http://",
+  "description": {
+    "en": " According to Societies Registration Act, 1860 the society may be registered for the grant of charitable assistance, for the promotion of science, literature, the fine arts, for instruction, the diffusion of useful knowledge, diffusion of political education the foundation or maintenance of libraries or reading rooms, public museums and galleries of paintings and other works of art, collection of natural history, mechanical and philosophical inventions, instruments or designs."
+  },
+  "coverage": [
+    "PK"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity"
+  ],
+  "sector": [],
+  "code": "PK-SRA",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": null,
+    "publicDatabase": "http://",
+    "guidanceOnLocatingIds": "No website for registration agency",
+    "exampleIdentifiers": "None available",
+    "languages": [EN]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "Organisation sent a PDF of the paper copy of their registration certificate",
+    "features": [
+      "registered_address",
+      "contact_address",
+      "date_of_registration",
+      "registration_number",
+      "country_of_origin"
+    ],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": "https://en.wikipedia.org/wiki/Societies_Registration_Act,_1860"
+  },
+  "formerPrefixes": [],
+  "meta": {
+    "source": "Original registration certificate",
+    "lastUpdated": "2020/02/20"
+  }
+}
