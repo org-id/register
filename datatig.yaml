@@ -1,0 +1,29 @@
+title: Org-Id register
+description: The data From Org-Id
+githost:
+  type: github
+  url: org-id/register
+  primary_branch: master
+types:
+- id: lists
+  directory: lists
+  fields:
+  - id: code
+    key: code
+    title: Code
+  - id: title_en
+    key: name/en
+    title: Name (EN)
+  - id: url
+    key: url
+    title: URL
+    type: url
+  - id: description_en
+    key: description/en
+    title: Description (EN)
+  list_fields:
+  - code
+  - title_en
+  json_schema: schema/list-schema.json
+  pretty_json_indent: 2
+  default_format: json
