@@ -1,0 +1,4 @@
+[build]
+  publish = "out"
+  command = "pip install datatig && export PYTHONPATH=$(pwd) && python -m datatig.cli build . --staticsiteoutput out"
+
