@@ -3,7 +3,7 @@
     "en": "Taxpayer Identification Number",
     "local": ""
   },
-  "url": "https://en.wikipedia.org/wiki/Federal_Inland_Revenue_Service",
+  "url": "https://apps.firs.gov.ng/tinverification/",
   "description": {
     "en": "The Tax Identification Number (TIN) is a unique number given to Individuals, Limited Liability Companies, Incorporated Trustees, Enterprises, Cooperative Society, MDAs, Trade Association etc. for the purpose of tax payment [1]. The Federal Inland Revenue Service (FIRS) is the agency responsible for providing the Tax Identification Number (TIN)[2].\n\nThere is a publicly available site to verify the ownership and validity of the Tax Identification Numbers [3]. The search is done using the TIN number and the result returns plain text stating who the TIN belongs to.\n \n[1]: https://www.wikiprocedure.com/index.php?title=Nigeria_-_Obtain_Tax_Identification_Number_(TIN)#Eligibility\n[2]: https://en.wikipedia.org/wiki/Federal_Inland_Revenue_Service\n     https://firs.gov.ng/\n[3]: https://apps.firs.gov.ng/tinverification/"
   },
@@ -19,7 +19,7 @@
   "subnationalCoverage": [],
   "sector": [],
   "code": "NG-TIN",
-  "confirmed": false,
+  "confirmed": true,
   "deprecated": false,
   "listType": "secondary",
   "access": {
