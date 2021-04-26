@@ -1,0 +1,52 @@
+{
+  "name": {
+    "en": "Tax Identification Number",
+    "local": "Número de Identificación Fiscal"
+  },
+  "url": "http://www.agenciatributaria.es/AEAT.internet/en_gb/Inicio/La_Agencia_Tributaria/Campanas/Censos__NIF_y_domicilio_fiscal/Empresas_y_profesionales__Declaracion_censal__Modelos_036_y_037/Informacion/NIF_de_personas_juridicas_y_entidades.shtml",
+  "description": {
+    "en": "The Tax Identification Number, Número de Identificación Fiscal (NIF), is a unique number given to every legal person and organisation (companies, associations, civil societies, public institutions etc.) required to pay taxes. The NIF is allocated by the Tax Agency [1]. There is no publicly available site to verify the ownership and validity of the number. Prior to 2008 the NIF number was called CIF. These two numbers are now merged; however, some still refer to the number as CIF.\n\n[1]: https://www.agenciatributaria.es/AEAT.internet/en_gb/Inicio/La_Agencia_Tributaria/Campanas/Censos__NIF_y_domicilio_fiscal/Empresas_y_profesionales__Declaracion_censal__Modelos_036_y_037/Informacion/NIF_de_personas_juridicas_y_entidades.shtml"
+  },
+  "coverage": [
+    "ES"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company",
+    "charity",
+    "government_agency",
+    "trust",
+    "unincorporated_body"
+  ],
+  "sector": [],
+  "code": "ES-NIF",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": null,
+    "publicDatabase": "http://",
+    "guidanceOnLocatingIds": "Ask the organisation you wish to identify to provide its NIF/CIF number.",
+    "exampleIdentifiers": "G02766913, G85960730",
+    "languages": ["en"]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "open_license",
+    "licenseDetails": ""
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": [],
+  "meta": {
+    "source": "Original research",
+    "lastUpdated": "2021-04-22"
+  }
+}
