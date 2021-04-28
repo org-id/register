@@ -1,0 +1,51 @@
+{
+  "name": {
+    "en": "Taxpayer Identification Number",
+    "local": ""
+  },
+  "url": "https://apps.firs.gov.ng/tinverification/",
+  "description": {
+    "en": "The Tax Identification Number (TIN) is a unique number given to Individuals, Limited Liability Companies, Incorporated Trustees, Enterprises, Cooperative Society, MDAs, Trade Association etc. for the purpose of tax payment [1]. The Federal Inland Revenue Service (FIRS) is the agency responsible for providing the Tax Identification Number (TIN)[2].\n\nThere is a publicly available site to verify the ownership and validity of the Tax Identification Numbers [3]. The search is done using the TIN number and the result returns plain text stating who the TIN belongs to.\n \n[1]: https://www.wikiprocedure.com/index.php?title=Nigeria_-_Obtain_Tax_Identification_Number_(TIN)#Eligibility\n[2]: https://en.wikipedia.org/wiki/Federal_Inland_Revenue_Service\n     https://firs.gov.ng/\n[3]: https://apps.firs.gov.ng/tinverification/"
+  },
+  "coverage": [
+    "NG"
+  ],
+  "structure": [
+    "company",
+    "government_agency",
+    "trust",
+    "unincorporated_body"
+  ],
+  "subnationalCoverage": [],
+  "sector": [],
+  "code": "NG-TIN",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "The TIN number needs to be requested from the company or organisation. After obtaining the TIN number, you can search using the number.",
+    "publicDatabase": "https://apps.firs.gov.ng/tinverification/",
+    "guidanceOnLocatingIds": "The search is done using the TIN number and the result returns plain text stating who the TIN belongs to.",
+    "exampleIdentifiers": "23227964-0001, 01567727-0001",
+    "languages": ["en"]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "open_license",
+    "licenseDetails": ""
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": [],
+  "meta": {
+    "source": "Original research",
+    "lastUpdated": "2021-04-16"
+  }
+}
