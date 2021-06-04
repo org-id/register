@@ -1,0 +1,51 @@
+{
+  "name": {
+    "en": "South African Corporate Income Tax (CIT) number",
+    "local": ""
+  },
+  "url": "https://www.sars.gov.za/",
+  "description": {
+    "en": "The Corporate Income Tax (CIT) is a tax imposed on companies resident in the Republic of South Africa.\n\nThe South African Revenue Service (SARS) is South Africa’s tax collecting authority responsible for issuing CIT numbers [1]. Businesses can receive multiple tax numbers from SARS such as CIT, VAT, PAYE etc., however CIT is the preferred identifier to be used. [2] Businesses that receive CIT numbers include public and private companies, co-operatives, universities, trusts, governments and embassies.\n\n [1]. https://www.sars.gov.za/types-of-tax/ \n[2]. https://www.sars.gov.za/businesses-and-employers/"
+  },
+  "coverage": [
+    "ZA"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company",
+    "trust",
+    "unincorporated_body",
+    "government_agency"
+  ],
+  "sector": [],
+  "code": "ZA-CIT",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": null,
+    "publicDatabase": "http://",
+    "guidanceOnLocatingIds": "Ask the organisation you wish to identify to provide its Corporate Income Tax number, sometimes referred to as Income Tax number.",
+    "exampleIdentifiers": "9415005603, 9045478147",
+    "languages": ["en"]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "open_license",
+    "licenseDetails": ""
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": [],
+  "meta": {
+    "source": "Original research",
+    "lastUpdated": "2021-06-03"
+  }
+}
