@@ -1,6 +1,6 @@
 {
   "name": {
-    "en": "Electronic database of companies (South Africa) CIT",
+    "en": "South African Corporate Income Tax (CIT) number",
     "local": ""
   },
   "url": "https://www.sars.gov.za/",
@@ -26,7 +26,7 @@
     "availableOnline": false,
     "onlineAccessDetails": null,
     "publicDatabase": "http://",
-    "guidanceOnLocatingIds": "Ask the organisation you wish to identify to provide it's Corporate Income Tax number, sometimes referred to as Income Tax number.",
+    "guidanceOnLocatingIds": "Ask the organisation you wish to identify to provide its Corporate Income Tax number, sometimes referred to as Income Tax number.",
     "exampleIdentifiers": "9415005603, 9045478147",
     "languages": ["en"]
   },
