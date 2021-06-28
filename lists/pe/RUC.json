@@ -5,7 +5,7 @@
   },
   "url": "https://www.sunat.gob.pe/",
   "description": {
-    "en": "The SUNAT according to its creation Law No. 24829, is a specialized technical agency, attached to the Ministry of Economy and Finance. Its main purpose is to administer the taxes of the national government and the tax and non-tax concepts entrusted to it by Law or according to the inter-institutional agreements entered into, providing the resources required for fiscal solvency and macroeconomic stability; ensuring the correct application of the regulations governing the matter and combating tax and customs crimes in accordance with its powers."
+    "en": "The 'Registro Único del Contribuyente' (RUC) number is an 11-digit tax ID number for any natural or legal person (such as a company) in Peru, and is provided and maintained by SUNAT. The SUNAT, according to its creation Law No. 24829, is a specialized technical agency, attached to the Ministry of Economy and Finance. Its main purpose is to administer the taxes of the national government and the tax and non-tax concepts entrusted to it by Law or according to the inter-institutional agreements entered into, providing the resources required for fiscal solvency and macroeconomic stability; ensuring the correct application of the regulations governing the matter and combating tax and customs crimes in accordance with its powers."
   },
   "coverage": [
     "PE"
@@ -16,8 +16,8 @@
     "charity"
   ],
   "code": "PE-SUNAT",
-  "confirmed": false,
-  "listType": "primary",
+  "confirmed": true,
+  "listType": "secondary",
   "access": {
     "availableOnline": true,
     "onlineAccessDetails": "Head to the list URL, where you can search for company information. Alternatively, it is navigable via the SUNAT website: https://www.sunat.gob.pe/",
