@@ -1,0 +1,50 @@
+{
+  "name": {
+    "en": "D-U-N-S Number",
+    "local": ""
+  },
+  "url": "https://www.dnb.com/duns-number.html",
+  "description": {
+    "en": "The D-U-N-S Number is a unique nine-digit number that identifies organizations on a location-specific basis. Companies, charities, and government agencies can all receive a D-U-N-S Number [1][2].\n\nDun & Bradstreet (D&B) assigns and maintains D-U-N-S Numbers. The process for requesting a D-U-N-S Number varies by country, but organizations can typically request a D-U-N-S Number via the D&B website for their country. In the UK and Ireland, all registered businesses are automatically issued with a D-U-N-S Number [3][4].\n\nD-U-N-S Numbers are location-specific so one legal entity may have many associated D-U-N-S Numbers, one for each business location [2].\n\n[1] https://www.dnb.co.uk/duns-number.html\n[2] https://developer.apple.com/support/D-U-N-S/\n[3] https://www.dnb.com/solutions/government/duns-number-request-guide.html\n[4] https://www.dnb.co.uk/duns-number/lookup/request-a-duns-number.html"
+  },
+  "coverage": [
+    "XI"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity",
+    "company",
+    "government_agency"
+  ],
+  "sector": [],
+  "code": "XI-DUNS",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "third_party",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": null,
+    "publicDatabase": "https://www.dnb.com/choose-your-country.html",
+    "guidanceOnLocatingIds": "The process for accessing the list varies by country. For more information, see the D&B website for each country. The D&B websites for the US, Canada, and the UK and Ireland offer lookup tools that return D-U-N-S Numbers via email.",
+    "exampleIdentifiers": "242183440,752489963,593348001",
+    "languages": []
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": "https://en.wikipedia.org/wiki/Data_Universal_Numbering_System"
+  },
+  "formerPrefixes": [],
+  "meta": {
+    "source": "Original research",
+    "lastUpdated": "2021-06-30"
+  }
+}
