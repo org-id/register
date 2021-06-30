@@ -26,7 +26,7 @@
   },
   "subnationalCoverage": [],
   "structure": [
-    "government_agency"
+    "charity","company","trust","government_agency"
   ],
   "sector": ["research"],
   "confirmed": true,
@@ -36,9 +36,7 @@
       "data_not_available"
     ],
     "dataAccessDetails": "",
-    "features": [
-      "website"
-    ],
+    "features": [],
     "licenseStatus": "open_license",
     "licenseDetails": ""
   },
