@@ -18,7 +18,7 @@
   ],
   "sector": [],
   "code": "XI-DUNS",
-  "confirmed": false,
+  "confirmed": true,
   "deprecated": false,
   "listType": "third_party",
   "access": {
