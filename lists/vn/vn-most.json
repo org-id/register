@@ -1,0 +1,48 @@
+{
+  "name": {
+    "en": "Ministry of Science and Technology",
+    "local": " Bộ Khoa học và Công nghệ"
+  },
+  "url": "https://www.most.gov.vn/en/Pages/home.aspx",
+  "description": {
+    "en": "The Ministry of Science and Technology (MOST, Vietnamese: Bộ Khoa học và Công nghệ) is a government ministry in Vietnam responsible for state administration of science and technology activities; development of science and technology potentials; intellectual property; standards, metrology and quality control; atomic energy, radiation and nuclear safety. The Registration Office of Science and Technology activities (hereinafter called the Registration Office) is a professional agency, which assists the Minister to fulfil functions of management and registration of scientific research organizations with the Ministry’s authority. Organisations are provided with a registration certificate."
+  },
+  "coverage": [
+    "VN"
+  ],
+  "code": "VN-MOST",
+  "listType": "secondary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": null,
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "There is no public database of the registration numbers, so organisations need to provide their registration certificate. The number is located in the registration certificate and starts with a letter, followed by a dash and a three digit number.",
+    "exampleIdentifiers": "A399",
+    "languages": ["en","vn"]
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "subnationalCoverage": [],
+  "structure": [
+    "charity","company","trust","government_agency"
+  ],
+  "sector": ["research"],
+  "confirmed": true,
+  "deprecated": false,
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "open_license",
+    "licenseDetails": ""
+  },
+  "formerPrefixes": [],
+  "meta": {
+    "source": "Original research plus information obtained from https://www.most.gov.vn/en/Pages/home.aspx",
+    "lastUpdated": "6/28/2021"
+  }
+}
