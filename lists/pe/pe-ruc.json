@@ -1,0 +1,51 @@
+{
+  "name": {
+    "en": "RUC Number (Peru)",
+    "local": "Registro Único del Contribuyente (Perú)"
+  },
+  "url": "https://www.sunat.gob.pe/",
+  "description": {
+    "en": "The 'Registro Único del Contribuyente' (RUC) number is an 11-digit tax ID number for any natural or legal person (such as a company) in Peru, and is provided and maintained by The Superintendencia Nacional de Aduanas y de Administración Tributaria (The SUNAT). The SUNAT, according to its creation Law No. 24829, is a specialized technical agency, attached to the Ministry of Economy and Finance. Its main purpose is to administer the taxes of the national government and the tax and non-tax concepts entrusted to it by Law or according to the inter-institutional agreements entered into, providing the resources required for fiscal solvency and macroeconomic stability; ensuring the correct application of the regulations governing the matter and combating tax and customs crimes in accordance with its powers."
+  },
+  "coverage": [
+    "PE"
+  ],
+  "structure": [
+    "government_agency",
+    "company",
+    "charity"
+  ],
+  "code": "PE-RUC",
+  "confirmed": true,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "Head to the list URL, where you can search for company information. Alternatively, it is navigable via the SUNAT website: https://www.sunat.gob.pe/",
+    "publicDatabase": "https://e-consultaruc.sunat.gob.pe/cl-ti-itmrconsruc/FrameCriterioBusquedaWeb.jsp",
+    "guidanceOnLocatingIds": "The search functionality is available via the RUC number directly or the legal name. To locate an identifier, enter a search term in the \"name\" (Por Nomb.) field, and the results clearly show the organization names alongside the RUC (tax identifier number).",
+    "exampleIdentifiers": "20496123116,  20510446497, 20489461430",
+    "languages": ["es", "en"]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [
+      "registered_address",
+      "date_of_registration",
+      "tax_id_number",
+      "activities_sector_code",
+      "expiry_date",
+      "status"
+    ],
+    "licenseStatus": "no_license",
+    "licenseDetails": "No license is listed on the SUNAT website"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": "https://en.wikipedia.org/wiki/Taxation_in_Peru"
+  },
+  "meta": {
+    "source": "Original research performed on 2021-06-08 via the SUNAT website and supporting sites to confirm the scope of the RUC",
+    "lastUpdated": "2021-06-08T09:00:00+1"
+  }
+}
