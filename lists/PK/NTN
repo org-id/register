@@ -1,0 +1,53 @@
+{
+  "name": {
+    "en": "Pakistan National Tax Number",
+    "local": "English"
+  },
+  "url": "https://e.fbr.gov.pk/esbn/Verification#",
+  "description": {
+    "en": "This list is a record from the Federal Board of Revenue, Government of Pakistan. It contains active, blacklisted and exempt Taxpayer Lists based on the National Tax Number (NTN) of organisations.\nIt also contains Customs information.\nOrganisations registered with the Inland Revenue in Pakistan should be found on this list."
+  },
+  "coverage": [
+    "PK"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company/community_interest_company"
+  ],
+  "sector": [
+    "humantiarian_relief"
+  ],
+  "code": "PK-NTN",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": null,
+    "publicDatabase": "https://e.fbr.gov.pk/esbn/Verification#:",
+    "guidanceOnLocatingIds": "From homepage use the drop down on the left to choose Active Taxpayer List (income tax)\nParameter type: NTN\nEnter Registration number\nVerify\nNote - National Tax Number format is 4174941-3\nThe number after the dash is the check number - remove this when you search.",
+    "exampleIdentifiers": "4174941-3",
+    "languages": ["en"]
+  },
+  "data": {
+    "availability": [
+      "pdf"
+    ],
+    "dataAccessDetails": "Available to print from the website",
+    "features": [
+      "registration_number",
+      "status"
+    ],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": [],
+  "meta": {
+    "source": "Official records - Govt website",
+    "lastUpdated": "2021-07-15"
+  }
+}
