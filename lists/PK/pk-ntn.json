@@ -1,0 +1,57 @@
+{
+  "name": {
+    "en": "Pakistan National Tax Number",
+    "local": "English"
+  },
+  "url": "https://e.fbr.gov.pk/esbn/Verification#",
+  "description": {
+    "en": "National Tax Number, commonly known as NTN is a unique ID issued by Federal Board of Revenue (FBR) – the apex tax regulatory authority in Pakistan, to verify the registration of business. Individuals and organisations that are liable to pay income tax must have a National Tax Number (NTN). Organisations registered with the Inland Revenue in Pakistan should be found on this list.\nThe NTN is 7 digits and sometimes includes a dash and additional digit (the check number) at the end. Eg 4174941-3"
+  },
+  "coverage": [
+    "PK"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company",
+    "charity",
+    "trust",
+    "unincorporated_body"
+  ],
+  "sector": [],
+  "code": "PK-NTN",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": null,
+    "publicDatabase": "https://e.fbr.gov.pk/esbn/Verification#:",
+    "guidanceOnLocatingIds": "From homepage use the drop down on the left to choose Active Taxpayer List (income tax)\nParameter type: NTN\nEnter Registration number\nVerify\nNote - National Tax Number format is 4174941-3\nThe number after the dash is the check number - remove this when you search.",
+    "exampleIdentifiers": "4174941-3",
+    "languages": [
+      "en"
+    ]
+  },
+  "data": {
+    "availability": [
+      "bulk",
+      "excel"
+    ],
+    "dataAccessDetails": "Available to print from the website",
+    "features": [
+      "registration_number",
+      "status"
+    ],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Official records - Govt website",
+    "lastUpdated": "2021-07-15"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
