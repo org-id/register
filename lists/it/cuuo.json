@@ -5,7 +5,7 @@
   },
   "url": "https://www.indicepa.gov.it/ipa-portale/",
   "description": {
-    "en": "The Codice Univoco Unità Organizzativa is a unique identifier for all organizational units of public bodies, authorities and public services in Italy. Codes are issued by Agenzia per l’Italia Digital."
+    "en": "The Codice Univoco Unità Organizzativa (CUUO) is a unique identifier for all organizational units of public bodies, authorities and public services in Italy. Codes are issued by Agenzia per l’Italia Digital (AGID) as part of the Indice dei domicili digitali della Pubblica Amministrazione (IPA). Accreditation to IPA is mandatory for all Administrations."
   },
   "coverage": [
     "IT"
