@@ -1,6 +1,6 @@
 {
   "name": {
-    "en": "Jinja District Non-Governmental Monitoring Committee",
+    "en": "CBO Registration number, Uganda (Jinja District)",
     "local": ""
   },
   "url": "https://www.ngobureau.go.ug/en/services/community-based-organisations",
@@ -14,13 +14,13 @@
     "UG-E"
   ],
   "structure": [
-    "community based organisation"
+    "charity"
   ],
   "sector": [],
   "code": "UG-204CBO",
   "confirmed": true,
   "deprecated": false,
-  "listType": "secondary",
+  "listType": "primary",
   "access": {
     "availableOnline": false,
     "onlineAccessDetails": null,
