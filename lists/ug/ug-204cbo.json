@@ -1,0 +1,50 @@
+{
+  "name": {
+    "en": "CBO Registration number, Uganda (Jinja District)",
+    "local": ""
+  },
+  "url": "https://www.ngobureau.go.ug/en/services/community-based-organisations",
+  "description": {
+    "en": "Community Based Organisations (CBOs) operating in Jinja District in Uganda are required to register at the district level by the District NGO Monitoring Committee (DNMC) [1]. DNMC will issue a certificate of registration and a permit to the CBO. The certificate of registration will be issued once, while the permit is renewed annually. The certificate of registration contains a unique registration number that belongs to the CBO. There is no publicly available site to verify the ownership and validity of this number.\n\n[1] https://www.ngobureau.go.ug/en/services/community-based-organisations"
+  },
+  "coverage": [
+    "UG"
+  ],
+  "subnationalCoverage": [
+    "UG-E"
+  ],
+  "structure": [
+    "charity"
+  ],
+  "sector": [],
+  "code": "UG-204CBO",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": null,
+    "publicDatabase": "http://",
+    "guidanceOnLocatingIds": "Ask the organisation you wish to identify to provide its registration number.",
+    "exampleIdentifiers": "JJA02202000348",
+    "languages": []
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "open_license",
+    "licenseDetails": ""
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": [],
+  "meta": {
+    "source": "Original research",
+    "lastUpdated": "2021-09-28"
+  }
+}
