@@ -1,0 +1,60 @@
+{
+  "name": {
+    "en": "Organization Identification Number - Register and identifier of legal entities, entrepreneurs and public authorities",
+    "local": "Identifikačných čísiel organizácií - Register a identifikátor právnických osôb, podnikateľov a orgánov verejnej moci"
+  },
+  "url": "https://rpo.statistics.sk/",
+  "description": {
+    "en": "The organization identification number (IČO) is an identifier assigned to all types of legal entities, entrepreneurs and public authorities by the Statistical Office of the Slovak Republic. IČO numbers are registered in the Register and identifier of legal entities, entrepreneurs and public authorities (RPO).\n\nThe RPO is the single source of basic data on all legal entities. It provides data from more than 70 source registers and records, including the Commercial Register and the registers of the Ministry of the Interior (trade register, register of political parties, associations, non-profit organizations).\n\nAccording to Act no. 272/2015 Coll. on the Register of Legal Entities, Entrepreneurs and Public Authorities the IČO number is assigned to assigned to:\n\n* every legal entity, every natural person - entrepreneur and every public authority\n* each branch plant, each enterprise of a foreign person and each organizational unit of the enterprise of a foreign person\n* each registered organizational unit"
+  },
+  "coverage": [
+    "SK"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity",
+    "company",
+    "government_agency"
+  ],
+  "sector": [],
+  "code": "SK-ICO",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": null,
+    "publicDatabase": "https://rpo.statistics.sk/",
+    "guidanceOnLocatingIds": "Click **Continue without signing in** and enter your search criteria. The ICO number is in the **ICO** column of the search results.",
+    "exampleIdentifiers": "47686065,31398871,48112739",
+    "languages": []
+  },
+  "data": {
+    "availability": [
+      "api",
+      "bulk",
+      "json"
+    ],
+    "dataAccessDetails": "JSON data is available via two access methods:\n*  API: https://susrrpo.docs.apiary.io/\n* Bulk download: https://frkqbrydxwdp.compat.objectstorage.eu-frankfurt-1.oraclecloud.com/susr-rpo/\nBulk downloads consist of monthly full exports and daily differential exports.",
+    "features": [
+      "shareholders",
+      "registered_address",
+      "akas",
+      "date_of_registration",
+      "registration_number",
+      "business_id_history",
+      "status"
+    ],
+    "licenseStatus": "open_license",
+    "licenseDetails": "Creative Commons Attribution License (cc-by) 4.0"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": "https://sk.wikipedia.org/wiki/Identifika%C4%8Dn%C3%A9_%C4%8D%C3%ADslo_organiz%C3%A1cie"
+  },
+  "formerPrefixes": [],
+  "meta": {
+    "source": "Original research",
+    "lastUpdated": "2021-10-15"
+  }
+}
