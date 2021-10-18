@@ -1,0 +1,62 @@
+{
+  "name": {
+    "en": "Unique Organizational Unit Code",
+    "local": "Codice Univoco Unità Organizzativa"
+  },
+  "url": "https://www.indicepa.gov.it/ipa-portale/",
+  "description": {
+    "en": "The Codice Univoco Unità Organizzativa (CUUO) is a unique identifier for all organizational units of public bodies, authorities and public services in Italy. Codes are issued by Agenzia per l’Italia Digital (AGID) as part of the Indice dei domicili digitali della Pubblica Amministrazione (IPA). Accreditation to IPA is mandatory for all Administrations."
+  },
+  "coverage": [
+    "IT"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "government_agency"
+  ],
+  "sector": [],
+  "code": "IT-CUUO",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "",
+    "publicDatabase": "https://www.indicepa.gov.it/ipa-portale/consultazione/domicilio-digitale/ricerca-unita-organizzativa",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "7GEM3B, PL20QL, NAELZU, E7F7SL, UFFTT8",
+    "languages": []
+  },
+  "data": {
+    "availability": [
+      "api",
+      "bulk",
+      "csv",
+      "xml",
+      "json",
+      "excel"
+    ],
+    "dataAccessDetails": "https://www.indicepa.gov.it/ipa-portale/dati-statistiche/web-service\nhttps://indicepa.gov.it/ipa-dati/dataset/unita-organizzative",
+    "features": [
+      "registered_address",
+      "contact_address",
+      "e-mail_address",
+      "date_of_registration",
+      "registration_number",
+      "phone_number",
+      "tax_id_number",
+      "post_code_zip_code"
+    ],
+    "licenseStatus": "open_license",
+    "licenseDetails": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": "https://it.wikipedia.org/wiki/Agenzia_per_l%27Italia_digitale"
+  },
+  "formerPrefixes": [],
+  "meta": {
+    "source": "Original research",
+    "lastUpdated": "2021-07-28"
+  }
+}
