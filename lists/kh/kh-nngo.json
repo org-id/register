@@ -1,0 +1,48 @@
+{
+  "name": {
+    "en": "Ministry of Interior National NGO Registrar",
+    "local": ""
+  },
+  "url": "https://cambodiacounsel.com/ngo-registration/",
+  "description": {
+    "en": "The Ministry of Interior is responsible for registering national non-governmental organizations (NGOs), as well as monitoring the proper implementation of its laws and regulations [1]. There are two distinct types of NGOs in Cambodia, national and foreign [2]. Only national NGOs are registered with the Ministry of Interior [2].\n[1] https://www.interior.gov.kh/about\n[2] https://cambodiacounsel.com/ngo-registration/"
+  },
+  "coverage": [
+    "KH"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity"
+  ],
+  "sector": [],
+  "code": "KH-NNGO",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": null,
+    "publicDatabase": "http://",
+    "guidanceOnLocatingIds": "Ask the organisation you wish to identify to provide their registration number.",
+    "exampleIdentifiers": "502",
+    "languages": ["en"]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "open_license",
+    "licenseDetails": ""
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": [],
+  "meta": {
+    "source": "Original research",
+    "lastUpdated": "2021-11-15"
+  }
+}
