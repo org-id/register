@@ -1,0 +1,51 @@
+{
+  "name": {
+    "en": "Public Registry of Panama",
+    "local": "Registro Público de Panamá"
+  },
+  "url": "https://www.panadata.net/en/organizaciones",
+  "description": {
+    "en": "The Public Registry of Panama is a dependency of the Ministry of Government and Justice and it's the sole property registry of Panama [1]. Corporations and Foundations are required to be registered in the Public Registry of Panama. \n[1]. https://registro-publico.gob.pa/index.php?option=com_content&view=article&id=147&Itemid=501"
+  },
+  "coverage": [
+    "PA"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity",
+    "trust",
+    "unincorporated_body",
+    "company"
+  ],
+  "sector": [],
+  "code": "PA-PRP",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "Organisations and their identifiers can be located on the Panadata website which is not a state-run platform.",
+    "publicDatabase": "https://www.panadata.net/en/organizaciones",
+    "guidanceOnLocatingIds": "Search for an organisation through the interface. Their registration number is returned as part of the results and it's called File number.",
+    "exampleIdentifiers": "5789",
+    "languages": ["es", "en"]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "open_license",
+    "licenseDetails": ""
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": [],
+  "meta": {
+    "source": "Original research",
+    "lastUpdated": "2021-12-06"
+  }
+}
