@@ -1,6 +1,6 @@
 {
   "name": {
-    "en": "The National Register of Companies",
+    "en": "The National Register of Companies, Tunisia",
     "local": "Registrie National Des Enterprises"
   },
   "url": "https://www.registre-entreprises.tn/rne-public/#/recherche-pm",
@@ -21,7 +21,7 @@
   "listType": "primary",
   "access": {
     "availableOnline": false,
-    "onlineAccessDetails": null,
+    "onlineAccessDetails": "Individual records can be found via the search form. For bulk downloads, there's a fee to pay.",
     "publicDatabase": "https://www.registre-entreprises.tn/rne-public/#/recherche-pm",
     "guidanceOnLocatingIds": "Click on \"Recherche sociétés\" to start. There are multiple search tabs to search for organisations, by their name, by the name of a specific person or with the company registration number.",
     "exampleIdentifiers": "1540791/F, 1616343A, C18022000",
@@ -47,6 +47,6 @@
   "formerPrefixes": [],
   "meta": {
     "source": "Official records",
-    "lastUpdated": "2020"
+    "lastUpdated": "2021-12-06"
   }
 }
