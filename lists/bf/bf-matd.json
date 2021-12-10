@@ -11,7 +11,7 @@
     "BF"
   ],
   "structure": [
-    "government_agency"
+    "charity"
   ],
   "subnationalCoverage": [],
   "sector": [],
@@ -29,8 +29,8 @@
   },
   "data": {
     "availability": [
-      "pdf"
-    ],
+  "data_not_available"
+],
     "dataAccessDetails": "Registration certificate from organisation showing MATD as the registration agency",
     "features": [
       "directors_trustees_governors",
