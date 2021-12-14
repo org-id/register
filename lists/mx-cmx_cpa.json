@@ -1,0 +1,54 @@
+{
+  "name": {
+    "en": "Budget Classification of Public Entities (Mexico City)",
+    "local": "Entes Públicos de la Ciudad de México"
+  },
+  "url": "https://datos.cdmx.gob.mx/dataset/entes-publicos-de-la-ciudad-de-mexico",
+  "description": {
+    "en": "Catalog of dependencies and municipalities that are registered as entities that receive a budget according to the budget for expenditures for the current year.\n\nThis list provides Mexico City's administrative classification, with the same meanings as [MX-CPA](https://org-id.guide/list/MX-CPA) but at the level of Mexico City."
+  },
+  "coverage": [
+    "MX"
+  ],
+  "subnationalCoverage": [
+    "MX-DIF"
+  ],
+  "structure": [
+    "government_agency/local_government"
+  ],
+  "code": "MX-CMX_CPA",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": null,
+    "publicDatabase": "https://datos.cdmx.gob.mx/dataset/entes-publicos-de-la-ciudad-de-mexico",
+    "guidanceOnLocatingIds": "From the URL, click the \"Entes Públicos de la Ciudad de México\" button. This takes you to a download page. From the download page you can access a bulk download in CSV format which is highlighted appropriately.\n\nThe CSV is formatted in the local language (es) and the identifier column is UNIDAD_RESPONSABLE",
+    "exampleIdentifiers": "01C001, 01CD03, 01CD06",
+    "languages": ["es"]
+  },
+  "data": {
+    "availability": [
+      "api",
+      "bulk",
+      "csv"
+    ],
+    "dataAccessDetails": "The API documentation and bulk download links are available [here](https://datos.cdmx.gob.mx/dataset/entes-publicos-de-la-ciudad-de-mexico/resource/5724acc4-64aa-42ee-9646-19d6f80b466d)",
+    "features": [
+      "registered_address",
+      "contact_address",
+      "industry_classifications"
+    ],
+    "licenseStatus": "open_license",
+    "licenseDetails": "No license provided as of 2021-11-22"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "meta": {
+    "source": "Original research using the datos.cdmx.gob.mx website",
+    "lastUpdated": "2021-11-22T11:44:00Z"
+  }
+}
