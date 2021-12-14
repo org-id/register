@@ -25,7 +25,7 @@
     "onlineAccessDetails": null,
     "publicDatabase": "https://datos.cdmx.gob.mx/dataset/entes-publicos-de-la-ciudad-de-mexico",
     "guidanceOnLocatingIds": "From the URL, click the \"Entes Públicos de la Ciudad de México\" button. This takes you to a download page. From the download page you can access a bulk download in CSV format which is highlighted appropriately.\n\nThe CSV is formatted in the local language (es) and the identifier column is UNIDAD_RESPONSABLE",
-    "exampleIdentifiers": "MX-CMX_CPA-01C001, MX-CMX_CPA-01CD03, MX-CMX_CPA-01CD06",
+    "exampleIdentifiers": "01C001, 01CD03, 01CD06",
     "languages": ["es"]
   },
   "data": {
