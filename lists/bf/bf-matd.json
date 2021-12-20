@@ -1,0 +1,55 @@
+{
+  "name": {
+    "en": "Ministry of Territorial Administration and Decentralisation",
+    "local": "Ministère de l'Administration Territoriale et de la Décentralisation"
+  },
+  "url": "https://www.matd.gov.bf/accueil",
+  "description": {
+    "en": "The Ministry of Territorial Administration and Decentralisation is in charge of the organisation and administration of the national territory and the management of decentralisation. Civil society organizations (CSOs) are able to form freely and can seek and secure registration by submitting declarations of their existence along with draft bylaws, internal regulations, and other information to the Ministry of Territorial Administration and Decentralization (MATD). \n"
+  },
+  "coverage": [
+    "BF"
+  ],
+  "structure": [
+    "charity"
+  ],
+  "subnationalCoverage": [],
+  "sector": [],
+  "code": "BF-MATD",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": null,
+    "publicDatabase": "https://www.matd.gov.bf/accueil",
+    "guidanceOnLocatingIds": "The website is very buggy and slow and doesn't appear to have a searchable list of organisations. However a registration certificate provided by an organisation shows the name and official stamp of the MATD as the registration agency.",
+    "exampleIdentifiers": "RNRD00045",
+    "languages": ["fr"]
+  },
+  "data": {
+    "availability": [
+  "data_not_available"
+],
+    "dataAccessDetails": "Registration certificate from organisation showing MATD as the registration agency",
+    "features": [
+      "directors_trustees_governors",
+      "registered_address",
+      "date_of_registration",
+      "registration_number",
+      "phone_number",
+      "country_of_origin"
+    ],
+    "licenseStatus": "no_license",
+    "licenseDetails": "No license specified"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Minist%C3%A8re_de_l%E2%80%99Administration_territoriale_et_de_la_D%C3%A9centralisation_(Burkina_Faso)"
+  },
+  "formerPrefixes": [],
+  "meta": {
+    "source": "Original research",
+    "lastUpdated": "2021-11-16"
+  }
+}
