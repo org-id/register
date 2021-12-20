@@ -1,0 +1,52 @@
+{
+  "name": {
+    "en": "The National Register of Companies, Tunisia",
+    "local": "Registrie National Des Enterprises"
+  },
+  "url": "https://www.registre-entreprises.tn/rne-public/#/recherche-pm",
+  "description": {
+    "en": "The National Register of Companies - RNE- is a public database to collect data and information relating to companies and their availability to the public as well as to State institutions. This is where companies (legal and natural persons) are registered as well as their amending entries.\n"
+  },
+  "coverage": [
+    "TN"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "TN-RNE",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": "Individual records can be found via the search form. For bulk downloads, there's a fee to pay.",
+    "publicDatabase": "https://www.registre-entreprises.tn/rne-public/#/recherche-pm",
+    "guidanceOnLocatingIds": "Click on \"Recherche sociétés\" to start. There are multiple search tabs to search for organisations, by their name, by the name of a specific person or with the company registration number.",
+    "exampleIdentifiers": "1540791/F, 1616343A, C18022000",
+    "languages": ["FR"]
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "data": {
+    "availability": [
+      "bulk"
+    ],
+    "dataAccessDetails": "There is an option on the page called \"Extrait du Registre\" which allows you to do a bulk download, but there's a fee to pay.",
+    "features": [
+      "registered_address",
+      "industry_classifications",
+      "registration_number"
+    ],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "formerPrefixes": [],
+  "meta": {
+    "source": "Official records",
+    "lastUpdated": "2021-12-06"
+  }
+}
