@@ -1,0 +1,48 @@
+{
+  "name": {
+    "en": "Ministry of Finance and Development Planning NGO",
+    "local": ""
+  },
+  "url": "https://www.mfdp.gov.lr/index.php/budget-planning/assistant-min-regional-sectoral/ngo-unit",
+  "description": {
+    "en": "The Ministry of Finance and Development Planning keeps a registry of all registered and accredited NGOs and CSOs in Liberia [1].\n[1.] https://www.mfdp.gov.lr/index.php/budget-planning/assistant-min-regional-sectoral/ngo-unit"
+  },
+  "coverage": [
+    "LR"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity"
+  ],
+  "sector": [],
+  "code": "LR-MFDPNGO",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": null,
+    "publicDatabase": "http://",
+    "guidanceOnLocatingIds": "Ask the organisation you wish to identify to provide their registration number.",
+    "exampleIdentifiers": "0961",
+    "languages": ["en"]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "open_license",
+    "licenseDetails": ""
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": [],
+  "meta": {
+    "source": "Original research",
+    "lastUpdated": "2022-01-13"
+  }
+}
