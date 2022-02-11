@@ -3,7 +3,7 @@ description: The data From Org-Id
 githost:
   type: github
   url: org-id/register
-  primary_branch: master
+  primary_branch: main
 types:
 - id: lists
   directory: lists
