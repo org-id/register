@@ -25,8 +25,8 @@
   "access": {
     "availableOnline": true,
     "onlineAccessDetails": null,
-    "publicDatabase": "http://cnpj.info/",
-    "guidanceOnLocatingIds": "Search in the box on top of the page. Limit of two per day per IP address. Remove dots, '.', and replace slashes, '/', with a dash, '-'.",
+    "publicDatabase": "https://www.gov.br/receitafederal/pt-br/assuntos/orientacao-tributaria/cadastros/consultas/dados-publicos-cnpj",
+    "guidanceOnLocatingIds": "Download all zip files that contains tables in csv format. Load them in a database or other tool capable of browsing large datasets. Make a query on the table EMPRESAS, search for the field CNPJ BASICO (the first one), which is the org id.",
     "exampleIdentifiers": "02326629-0001-51, 24367342-0001-02, 02881697-0001-82",
     "languages": []
   },
@@ -34,7 +34,7 @@
     "availability": [
       "bulk"
     ],
-    "dataAccessDetails": "There are several (currently 20) files to be downloaded in ZIP-format. They take some time. ",
+    "dataAccessDetails": "There are several (currently 30) files to be downloaded in zipped csv format. They take a long time to download and also to load and process in database tools (the data volume is too large for spreadsheet software). Several third party sites exist, which do provide faster downloads, api, end-user queries and are generally easier to use.",
     "features": [
       "directors_trustees_governors",
       "registered_address",
