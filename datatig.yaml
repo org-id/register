@@ -14,6 +14,9 @@ types:
   - id: title_en
     key: name/en
     title: Name (EN)
+  - id: title_local
+    key: name/local
+    title: Name (Local)
   - id: url
     key: url
     title: URL
@@ -21,9 +24,93 @@ types:
   - id: description_en
     key: description/en
     title: Description (EN)
+  - id: coverage
+    key: coverage
+    title: Geographic coverage
+    type: list-strings
+  - id: subnationalCoverage
+    key: subnationalCoverage
+    title: Subnational jurisdiction
+    type: list-strings
+  - id: structure
+    key: structure
+    title: Legal structure
+    type: list-strings
+  - id: sector
+    key: sector
+    title: Sector
+    type: list-strings
+  - id: confirmed
+    key: confirmed
+    title: List reviewed?
+    #type: boolean
+  - id: deprecated
+    key: deprecated
+    title: Deprecated?
+    #type: boolean
+  - id: listType
+    key: listType
+    title: List type
+  - id: access_availableOnline
+    key: access/availableOnline
+    title: Access - Available online?
+    #type: boolean
+  - id: access_onlineAccessDetails
+    key: access/onlineAccessDetails
+    title: Access - Online access details
+  - id: access_publicDatabase
+    key: access/publicDatabase
+    title: Access - List URL
+  - id: access_guidanceOnLocatingIds
+    key: access/guidanceOnLocatingIds
+    title: Access - How to locate identifiers
+  - id: access_exampleIdentifiers
+    key: access/exampleIdentifiers
+    title: Access - Example identifiers
+  - id: access_languages
+    key: access/languages
+    title: Access - Languages
+    type: list-strings
+  - id: data_availability
+    key: data/availability
+    title: Dataset access - Data availability
+    type: list-strings
+  - id: data_dataAccessDetails
+    key: data/dataAccessDetails
+    title: Dataset access - Data access details
+  - id: data_features
+    key: data/features
+    title: Dataset access - Dataset features
+    type: list-strings
+  - id: data_licenseStatus
+    key: data/licenseStatus
+    title: Dataset access - License status
+  - id: data_licenseDetails
+    key: data/licenseDetails
+    title: Dataset access - License details
+  - id: meta_source
+    key: meta/source
+    title: Meta - Source
+  - id: meta_lastUpdated
+    key: meta/lastUpdated
+    title: Meta - Last updated
+    #type: datetime
+  - id: links_opencorporates
+    key: links/opencorporates
+    title: Links - Open Corporates
+    type: url
+  - id: links_wikipedia
+    key: links/wikipedia
+    title: Links - Wikipedia page
+    type: url
+  - id: formerPrefixes
+    key: formerPrefixes
+    title: Former list codes
+    type: list-strings
   list_fields:
   - code
   - title_en
+  - title_local
   json_schema: schema/list-schema.json
   pretty_json_indent: 2
   default_format: json
