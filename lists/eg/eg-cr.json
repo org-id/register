@@ -1,46 +1,48 @@
 {
-    "links": {
-        "wikipedia": null,
-        "opencorporates": null
-    },
-    "sector": null,
-    "url": "http://www.gafi.gov.eg/ar/onestopshop/onestop.aspx",
-    "name": {
-        "en": "General Authority for Free Zones and Investment (GAFI), Commercial Registry",
-        "local": ""
-    },
-    "coverage": [
-        "EG"
+  "name": {
+    "en": "Commercial Registry, Egypt",
+    "local": "السجل التجارى المصرى"
+  },
+  "url": "http://itda.gov.eg/",
+  "description": {
+    "en": "The Ministry of Supply and Internal Trade, Internal Trade Development Authority is in charge of registering limited liability companies, joint stocks, foreign branches and representative offices and maintaining the Commercial Registry in Egypt [1].\n[1]. http://itda.gov.eg/hint-sgl.aspx"
+  },
+  "coverage": [
+    "EG"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "EG-CR",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": null,
+    "publicDatabase": "http://www.itda.gov.eg/cra/AvailableServices.aspx",
+    "guidanceOnLocatingIds": "Egyptian citizens can request extracts from the register. Registration is required prior to searching the registry.",
+    "exampleIdentifiers": "117508",
+    "languages": ["ar"]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
     ],
-    "code": "EG-CR",
-    "formerPrefixes": null,
-    "confirmed": null,
-    "data": {
-        "features": null,
-        "dataAccessDetails": null,
-        "licenseDetails": null,
-        "licenseStatus": "closed_license",
-        "availability": null
-    },
-    "deprecated": null,
-    "structure": [
-        "company"
-    ],
-    "description": {
-        "en": "This entry was imported from the Open Corporates Jurisdiction List."
-    },
-    "meta": {
-        "lastUpdated": "2016-09-07",
-        "source": null
-    },
-    "access": {
-        "languages": null,
-        "exampleIdentifiers": null,
-        "onlineAccessDetails": null,
-        "publicDatabase": null,
-        "availableOnline": false,
-        "guidanceOnLocatingIds": null
-    },
-    "subnationalCoverage": null,
-    "listType": null
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "open_license",
+    "licenseDetails": ""
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": [],
+  "meta": {
+    "source": "Original research",
+    "lastUpdated": "2022-01-19"
+  }
 }
