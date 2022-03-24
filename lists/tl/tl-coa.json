@@ -1,0 +1,51 @@
+{
+  "name": {
+    "en": "Timor-Leste Chart of Accounts",
+    "local": ""
+  },
+  "url": "https://gov-id-finder.codeforiati.org/countries/TL/",
+  "description": {
+    "en": "A government's budget (or 'Chart of Accounts') often refers to government agencies, departments and ministries with stable codes. These can be reliably used in open data publications as identifiers.\n\nThis org-id.guide entry is generated and maintained by Gov Org ID Finder [1] from Development Initiatives. Where available, Gov Org ID Finder extracts and makes Chart of Accounts codes available for the convenience of users. The authoritative source remains the government's budget or Chart of Accounts.\n\n[1] https://gov-id-finder.codeforiati.org/about"
+  },
+  "coverage": [
+    "TL"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "government_agency"
+  ],
+  "sector": [],
+  "code": "TL-COA",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "Codes can be found in the government budget or Chart of Accounts. Gov Org ID Finder extracts and makes some of these codes available for the convenience of users. The authoritative source remains the government's budget or Chart of Accounts.",
+    "publicDatabase": "https://gov-id-finder.codeforiati.org/countries/TL/",
+    "guidanceOnLocatingIds": "The codes from the Organisation or Administrative classification should be used. ",
+    "exampleIdentifiers": "1, 2",
+    "languages": [
+      "en"
+    ]
+  },
+  "data": {
+    "availability": [
+      "json",
+      "csv"
+    ],
+    "dataAccessDetails": "A download of the data is available from https://gov-id-finder.codeforiati.org/countries/TL/",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Desk research",
+    "lastUpdated": "2022-03-23"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
