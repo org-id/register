@@ -1,0 +1,58 @@
+{
+  "name": {
+    "en": "Official Commercial Register of the Canton of Basel-Stadt",
+    "local": "Offizielle Handelsregisterinformationen des Kantons Basel-Stadt"
+  },
+  "url": "https://bs.chregister.ch/cr-portal/suche/suche.xhtml",
+  "description": {
+    "en": "The purpose of the commercial register is to record and disclose the business-relevant facts of the more than 17,200 companies, foundations and associations based in the canton of Basel-Stadt, thereby contributing to transparency and ensuring legal certainty in business transactions.\nThis portal allows you to find the published data of all companies in our department. This includes in particular the legal form, purpose and registered persons. The data can be displayed or downloaded directly in the browser or as a PDF file. Please note that extracts are made available on this portal without guarantee and are not legally binding. However, you have the option of ordering commercial register extracts which are certified by us and therefore legally binding. To do this, please use the order form."
+  },
+  "coverage": [
+    "CH"
+  ],
+  "subnationalCoverage": [
+    "CH-BS"
+  ],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "CH-BS",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": null,
+    "publicDatabase": "https://bs.chregister.ch/cr-portal/suche/suche.xhtml",
+    "guidanceOnLocatingIds": "All company files deposited with the Basel-Stadt commercial register office can be accessed free of charge on the Internet. To do this, proceed as follows:\n\n1. Open the extract from the online commercial register and in the area with the entry and publication data, click on the blue file symbol behind the daily register entry that interests you.\n\n2. Complete the dialog box that appears and click  \"View\" . You will receive the desired company files in a reduced resolution as a PDF file immediately and free of charge to the e-mail address you have provided.",
+    "exampleIdentifiers": "CHE-109.991.002",
+    "languages": [EN]
+  },
+  "data": {
+    "availability": [
+      "pdf"
+    ],
+    "dataAccessDetails": "All company files deposited with the Basel-Stadt commercial register office can be accessed free of charge on the Internet. To do this, proceed as follows:\n\n1. Open the extract from the online commercial register and in the area with the entry and publication data, click on the blue file symbol behind the daily register entry that interests you.\n\n2. Complete the dialog box that appears and click  \"View\" . You will receive the desired company files in a reduced resolution as a PDF file immediately and free of charge to the e-mail address you have provided.",
+    "features": [
+      "directors_trustees_governors",
+      "registered_address",
+      "contact_address",
+      "date_of_registration",
+      "country_of_origin",
+      "tax_id_number",
+      "status"
+    ],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": [],
+  "meta": {
+    "source": "Original research and official records",
+    "lastUpdated": ""
+  }
+}
