@@ -1,0 +1,46 @@
+{
+  "name": {
+    "en": "Ministry of the Interior (Ivory Coast)",
+    "local": "Ministère de l'Intérieur (Côte d'Ivoire)"
+  },
+  "url": "http://http://interieur.gouv.ci/",
+  "description": {
+    "en": "The Ministry of the Interior and Security is the ministerial department of the Ivorian Government responsible for the administration of the territory and public freedoms, the organization of administrative districts, civil status and associations."
+  },
+  "coverage": [
+    "CI"
+  ],
+  "subnationalCoverage": [],
+  "structure": [],
+  "code": "CI-MOI",
+  "sector": [],
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": null,
+    "publicDatabase": "http://interieur.gouv.ci/",
+    "guidanceOnLocatingIds": "The Ministry website is currently undergoing changes, so is it not available for any searches",
+    "exampleIdentifiers": "474/MIS/DGAT/DAG/SDVA",
+    "languages": [FR]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": "https://fr.wikipedia.org/wiki/Minist%C3%A8re_de_l%27Int%C3%A9rieur_(C%C3%B4te_d%27Ivoire)"
+  },
+  "formerPrefixes": [],
+  "meta": {
+    "source": "Original research",
+    "lastUpdated": "25/3/22"
+  }
+}
