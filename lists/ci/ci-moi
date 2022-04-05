@@ -5,13 +5,13 @@
   },
   "url": "http://http://interieur.gouv.ci/",
   "description": {
-    "en": "The Ministry of the Interior and Security is the ministerial department of the Ivorian Government responsible for the administration of the territory and public freedoms, the organization of administrative districts, civil status and associations."
+    "en": "The Ministry of the Interior and Security is the ministerial department of the Ivorian Government responsible for the administration of the territory and public freedoms, the organization of administrative districts, civil status and associations. This includes the registration of private enterprises, foundations, non-governmental organisations and civil society organisations"
   },
   "coverage": [
     "CI"
   ],
   "subnationalCoverage": [],
-  "structure": [],
+  "structure": ["Private enterprise, foundations, non-governmental organisations and associations"],
   "code": "CI-MOI",
   "sector": [],
   "confirmed": true,
@@ -23,7 +23,7 @@
     "publicDatabase": "http://interieur.gouv.ci/",
     "guidanceOnLocatingIds": "The Ministry website is currently undergoing changes, so is it not available for any searches",
     "exampleIdentifiers": "474/MIS/DGAT/DAG/SDVA",
-    "languages": [FR]
+    "languages": ["fr"]
   },
   "data": {
     "availability": [
@@ -41,6 +41,6 @@
   "formerPrefixes": [],
   "meta": {
     "source": "Original research",
-    "lastUpdated": "25/3/22"
+    "lastUpdated": "2022-03-25"
   }
 }
