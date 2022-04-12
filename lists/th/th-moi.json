@@ -1,0 +1,46 @@
+{
+  "name": {
+    "en": "Ministry of Interior of the Kingdom of Thailand",
+    "local": "กระทรวงมหาดไทย (Krasuang Mahatthai)"
+  },
+  "url": "https://moi.go.th/moi/",
+  "description": {
+    "en": "The Ministry of Interior of the Kingdom of Thailand (Abrv: MOI; Thai: กระทรวงมหาดไทย, RTGS: Krasuang Mahatthai) is a cabinet-level department in the Government of Thailand. The ministry has wide ranging responsibilities. It is responsible for local administration, internal security, citizenship, disaster management, road safety, land management, issuance of national identity cards, and public works. The ministry is responsible for appointing the 76 governors of the Provinces of Thailand. Types of organisation registered by the Ministry include private enterprise, foundations, non-governmental organisations and associations."
+  },
+  "coverage": [
+    "TH"
+  ],
+  "subnationalCoverage": [],
+  "structure": ["company","charity"],
+  "sector": [],
+  "code": "TH-MOI",
+  "confirmed": true,
+  "deprecated": false,
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": null,
+    "publicDatabase": "https://moi.go.th/moi/en/home/",
+    "guidanceOnLocatingIds": "Registration numbers cannot currently be found on the website.",
+    "exampleIdentifiers": "Khor Thor 2882 (\"Khor Thor\" is Thai alphabet. The registration number usually starts with Thai alphabet. ",
+    "languages": ["th"]
+  },
+  "listType": "primary",
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ministry_of_Interior_(Thailand)"
+  },
+  "formerPrefixes": [],
+  "meta": {
+    "source": "Original Research",
+    "lastUpdated": "2022-03-25"
+  }
+}
