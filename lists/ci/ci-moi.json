@@ -11,7 +11,7 @@
     "CI"
   ],
   "subnationalCoverage": [],
-  "structure": ["Private enterprise, foundations, non-governmental organisations and associations"],
+  "structure": ["company","charity"],
   "code": "CI-MOI",
   "sector": [],
   "confirmed": true,
