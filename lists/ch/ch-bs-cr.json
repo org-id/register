@@ -1,0 +1,58 @@
+{
+  "name": {
+    "en": "Commercial Register of the Canton of Basel-Stadt, Switzerland",
+    "local": "Offizielle Handelsregisterinformationen des Kantons Basel-Stadt"
+  },
+  "url": "https://bs.chregister.ch/cr-portal/suche/suche.xhtml",
+  "description": {
+    "en": " As statated on the Register website: 'The purpose of the commercial register is to record and disclose the business-relevant facts of the more than 17,200 companies, foundations and associations based in the canton of Basel-Stadt, thereby contributing to transparency and ensuring legal certainty in business transactions.'"
+  },
+  "coverage": [
+    "CH"
+  ],
+  "subnationalCoverage": [
+    "CH-BS"
+  ],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "CH-BS-CR",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": null,
+    "publicDatabase": "https://bs.chregister.ch/cr-portal/suche/suche.xhtml",
+    "guidanceOnLocatingIds": "Type the company name or id into the 'company' field and click the search button. Any matching entities will be returned, with their IDs in a 'UID company identification number' field.",
+    "exampleIdentifiers": "CHE-109-991-002",
+    "languages": ["en"]
+  },
+  "data": {
+    "availability": [
+      "pdf"
+    ],
+    "dataAccessDetails": "All company files deposited with the Basel-Stadt commercial register office can be accessed free of charge on the Internet. To do this, proceed as follows:\n\n1. Open the extract from the online commercial register and in the area with the entry and publication data, click on the blue file symbol behind the daily register entry that interests you.\n\n2. Complete the dialog box that appears and click  \"View\" . You will receive the desired company files in a reduced resolution as a PDF file immediately and free of charge to the e-mail address you have provided.",
+    "features": [
+      "directors_trustees_governors",
+      "registered_address",
+      "contact_address",
+      "date_of_registration",
+      "country_of_origin",
+      "tax_id_number",
+      "status"
+    ],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": [],
+  "meta": {
+    "source": "Original research and official records",
+    "lastUpdated": "2022-03-25"
+  }
+}
