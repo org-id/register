@@ -43,18 +43,18 @@ types:
   - id: confirmed
     key: confirmed
     title: List reviewed?
-    #type: boolean
+    type: boolean
   - id: deprecated
     key: deprecated
     title: Deprecated?
-    #type: boolean
+    type: boolean
   - id: listType
     key: listType
     title: List type
   - id: access_availableOnline
     key: access/availableOnline
     title: Access - Available online?
-    #type: boolean
+    type: boolean
   - id: access_onlineAccessDetails
     key: access/onlineAccessDetails
     title: Access - Online access details
