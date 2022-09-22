@@ -20,7 +20,7 @@
   "deprecated": false,
   "listType": "secondary",
   "access": {
-    "availableOnline": false,
+    "availableOnline": true,
     "onlineAccessDetails": null,
     "publicDatabase": "https://www.lbr.lu/mjrcs/jsp/DisplayConsultDocumentsActionNotSecured.action",
     "guidanceOnLocatingIds": "",
