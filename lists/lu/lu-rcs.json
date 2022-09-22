@@ -22,7 +22,7 @@
   "access": {
     "availableOnline": false,
     "onlineAccessDetails": null,
-    "publicDatabase": "",
+    "publicDatabase": "https://www.lbr.lu/mjrcs/jsp/DisplayConsultDocumentsActionNotSecured.action",
     "guidanceOnLocatingIds": "",
     "exampleIdentifiers": "",
     "languages": []
