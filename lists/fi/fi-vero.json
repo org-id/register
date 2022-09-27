@@ -1,0 +1,58 @@
+{
+  "name": {
+    "en": "Finnish Tax Administration",
+    "local": "Verohallinto/Skatteförvaltningen"
+  },
+  "url": "https://www.ytj.fi/en/index/vatnumber.html",
+  "description": {
+    "en": "The Finnish Tax Administration (Finnish: Verohallinto, Swedish: Skatteförvaltningen) maintains the register of Finnish companies registered to pay Value Added Tax (VAT). \n\n“A company selling goods or services in the conduct of business is usually liable to pay VAT and has to be entered in the VAT register. In some cases, for example if the company’s turnover is small, VAT registration is voluntary. In addition, some operations are exempt from VAT. A company conducting VAT-exempt operations cannot be entered in the VAT register.” [1]\n\n“VAT number is ’ALV-numero’ in Finnish and ’momsnummer’ or ‘mervärdesskattenummer’ in Swedish.”  [2]\n\n'[1] https://www.vero.fi/en/businesses-and-corporations/taxes-and-charges/vat/how-to-register-for-vat/'\n'[2] https://www.ytj.fi/en/index/vatnumber.html"
+  },
+  "coverage": [
+    "FI"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company",
+    "company/community_interest_company",
+    "company/limited_company",
+    "company/mutual",
+    "company/partnership",
+    "company/partnership",
+    "company/sole_trader"
+  ],
+  "sector": [],
+  "code": "FI-VERO",
+  "confirmed": false,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": null,
+    "publicDatabase": "https://www.ytj.fi/index.html",
+    "guidanceOnLocatingIds": "Users can search for identifiers on this webpage. They must provide a minimum of a company name or company identifier number - https://www.ytj.fi/index.html\nIt is also available in English - https://www.ytj.fi/en/index.html and Swedish - https://www.ytj.fi/sv/index.html\nSelect the Business ID (“Y-tunnus” in Finnish) of the company of interest and if they are registered for VAT this will be listed on the company’s page in the “Registrations in force” (“Voimassaolevat rekisteröinnit” in Finnish, “Giltiga registreringar” in Swedish) table. The VAT number can be constructed from the Business ID by adding FI as a prefix and omitting the dash before the final digit.",
+    "exampleIdentifiers": "FI-VERO-FI08974643, FI-VERO-FI01120389, FI-VERO-FI01113162",
+    "languages": [
+        "fi",
+        "en",
+        "sv"
+    ]
+  },
+  "data": {
+    "availability": [
+      "api"
+    ],
+    "dataAccessDetails": "The API for the Finnish Business Information System is available here - http://avoindata.prh.fi/ytj.html\nIt is also available in English - http://avoindata.prh.fi/ytj_en.html and Swedish - http://avoindata.prh.fi/ytj_sv.html",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "original research",
+    "lastUpdated": ""
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": "https://en.wikipedia.org/wiki/Finnish_Tax_Administration"
+  },
+  "formerPrefixes": []
+}
