@@ -17,7 +17,7 @@
     "company"
   ],
   "sector": [],
-  "code": "CH-BS-CR",
+  "code": "CH_BS-CR",
   "confirmed": true,
   "deprecated": false,
   "listType": "primary",
@@ -50,7 +50,7 @@
     "opencorporates": "",
     "wikipedia": ""
   },
-  "formerPrefixes": [],
+  "formerPrefixes": ["CH-BS-CR"],
   "meta": {
     "source": "Original research and official records",
     "lastUpdated": "2022-03-25"
