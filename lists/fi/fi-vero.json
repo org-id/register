@@ -17,7 +17,6 @@
     "company/limited_company",
     "company/mutual",
     "company/partnership",
-    "company/partnership",
     "company/sole_trader"
   ],
   "sector": [],
