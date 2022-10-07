@@ -1,0 +1,47 @@
+{
+  "name": {
+    "en": "Namibia Revenue Agency ",
+    "local": ""
+  },
+  "url": "https://www.namra.org.na/",
+  "description": {
+    "en": "The Namibia Revenue Agency maintains the details of all businesses, non-profits and individuals who are required to submit income tax returns. All legal entities must be registered with the Revenue Agency upon incorporation. Information regarding an entity can be requested from the Revenue Agency by the registered representative of the entity, accountants or auditors.\n"
+  },
+  "coverage": [
+    "NA"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company",
+    "charity"
+  ],
+  "sector": [],
+  "code": "NA-NAMRA",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": null,
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "No. details must be requested through appropriate channels from the Namibia Revenue Agency",
+    "exampleIdentifiers": "",
+    "languages": []
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "orginal research",
+    "lastUpdated": "2022-10-07"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
