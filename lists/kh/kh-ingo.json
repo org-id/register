@@ -18,7 +18,7 @@
     "humantiarian_relief"
   ],
   "code": "KH-INGO",
-  "confirmed": false,
+  "confirmed": true,
   "deprecated": false,
   "listType": "primary",
   "access": {
