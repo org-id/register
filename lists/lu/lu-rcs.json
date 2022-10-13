@@ -24,8 +24,8 @@
     "onlineAccessDetails": null,
     "publicDatabase": "https://www.lbr.lu/mjrcs/jsp/DisplayConsultDocumentsActionNotSecured.action",
     "guidanceOnLocatingIds": "",
-    "exampleIdentifiers": "",
-    "languages": []
+    "exampleIdentifiers": "B247312, G157",
+    "languages": ["French, German, English"]
   },
   "data": {
     "availability": [
@@ -38,7 +38,7 @@
   },
   "meta": {
     "source": "Desk Research",
-    "lastUpdated": "2022-09-05"
+    "lastUpdated": "2022-10-13"
   },
   "links": {
     "opencorporates": "",
