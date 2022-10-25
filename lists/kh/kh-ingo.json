@@ -1,0 +1,48 @@
+{
+  "name": {
+    "en": "Ministry of Foreign Affairs",
+    "local": ""
+  },
+  "url": "https://www.mfaic.gov.kh/",
+  "description": {
+    "en": "A foreign NGO must register with the MOFA by entering into a Memorandum of Understanding (“MOU”) with MOFA. After the MOFA has entered into the MOU with a foreign NGO, the NGO must sign a Project Agreement with the MOFA before starting its work.  A foreign NGO may be established for a three (3) year duration which must be renewed with the MOFA before the expiration of the term.\nAn organization registered as a foreign NGO by the MOFA is considered properly licensed to carry out its activities in Cambodia and no further registration is required. However, in the event a foreign organization was to carry out business activities pursuant to Article 272 of the LOCE it may remain subject to registration as in accordance with that provision.\nAfter obtaining MOFA or MOI approval to be established, a foreign or local NGO must also register with the CDC if it wishes to import duty free materials to serve its program. The CDC will periodically require the NGO complete several forms."
+  },
+  "coverage": [
+    "KH"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity"
+  ],
+  "sector": [
+    "humantiarian_relief"
+  ],
+  "code": "KH-INGO",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": null,
+    "publicDatabase": "https://www.mfaic.gov.kh/Page/2021-02-10-List-of-Foreign-NGOs-Which-Signed-MoU-with-the-Ministry-of-Foreign-Affairs-and-International-Cooperation",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "",
+    "languages": []
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "open_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Research and official records",
+    "lastUpdated": "06/10/2022"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
