@@ -1,0 +1,48 @@
+{
+  "name": {
+    "en": "Luxembourg Trade and Companies Register",
+    "local": "Registre de commerce et des sociétés – RCS"
+  },
+  "url": "https://www.lbr.lu/",
+  "description": {
+    "en": "The Luxembourg Trade and Companies Register (Registre de commerce et des sociétés – RCS) is a public register and can be freely accessed. It contains information about traders and companies which, by law, must be disclosed and published, alongside their RCS number. This information is published on the RESA publication platform (https://www.lbr.lu/mjrcs-resa/). The RCS is managed by the Luxembourg Business Registers (LBR) (https://www.lbr.lu/).\n\nThe information that is published serves to identify the trader or company, and includes particulars such as a company's articles of association, its rules of procedure, the liability of its directors and officers, and the company accounts.\n\nThe information that the trader/company will be required to disclose for publication depends on the legal form of the business, its size and its sector of activity.\n\nAll companies that are newly incorporated in Luxembourg must be registered with the RCS, and their articles of association must be filed with the latter in full or in extract form depending of the legal form of the business.\n\nSubsequent amendments to published information must also be published.\n\nThe LBR ensures interoperability between the Luxembourg RCS and the business registers of other EU member states through the Business Registers Interconnection System."
+  },
+  "coverage": [
+    "LU"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "LU-RCS",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": null,
+    "publicDatabase": "https://www.lbr.lu/mjrcs/jsp/DisplayConsultDocumentsActionNotSecured.action",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "B247312, G157",
+    "languages": ["fr","de","en"]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Desk Research",
+    "lastUpdated": "2022-10-13"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
