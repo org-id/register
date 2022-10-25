@@ -25,7 +25,7 @@
     "publicDatabase": "https://www.lbr.lu/mjrcs/jsp/DisplayConsultDocumentsActionNotSecured.action",
     "guidanceOnLocatingIds": "",
     "exampleIdentifiers": "B247312, G157",
-    "languages": ["French, German, English"]
+    "languages": ["fr","de","en"]
   },
   "data": {
     "availability": [
