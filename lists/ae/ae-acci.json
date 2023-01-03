@@ -28,7 +28,7 @@
     "guidanceOnLocatingIds": "",
     "exampleIdentifiers": "",
     "languages": [
-      ""
+      "en"
     ]
   },
   "data": {
@@ -38,7 +38,7 @@
     "licenseDetails": ""
   },
   "meta": {
-    "source": "ProZorro Business Register Research",
+    "source": ["ProZorro Business Register Research"],
     "lastUpdated": "2017-11-16"
   },
   "links": {
