@@ -3,7 +3,7 @@
     "en": "Tax Directorate",
     "local": "Direction Générale des Impôts"
   },
-  "url": "http://www.impots.gouv.ne/formalites/creation-d-entreprise",
+  "url": "https://www.impots.gouv.ne/index.php/formalites/gestion-d-entreprise-nif/creation-d-entreprise-nif",
   "description": {
     "en": "All people, companies, NGOs and organisations undertaking economic or professional activity in Niger must have a Tax Identification Number (Numéro d'Identification Fiscale, or NIF).\n\nTheoretically, any natural or legal person, carrying out a professional activity, whatever its nature, is bound by the following registration requirements: \n\n* To sign a declaration of existence to which is attached a registration form in the month of the beginning of the activity or the creation of the enterprise;\n\n* To request the assignment of a Tax Identification Number, commonly known as NIF [1].\n\n[1]: http://www.impots.gouv.ne/missions/immatriculation-et-recensement"
   },
@@ -17,9 +17,9 @@
   ],
   "sector": [],
   "code": "NE-DGI",
-  "confirmed": false,
+  "confirmed": true,
   "deprecated": false,
-  "listType": "primary",
+  "listType": "secondary",
   "access": {
     "availableOnline": false,
     "onlineAccessDetails": "",
@@ -39,7 +39,7 @@
   },
   "meta": {
     "source": "Original research",
-    "lastUpdated": ""
+    "lastUpdated": "2023-08-14"
   },
   "links": {
     "opencorporates": "",
