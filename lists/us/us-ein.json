@@ -27,7 +27,7 @@
     "availableOnline": false,
     "onlineAccessDetails": null,
     "publicDatabase": "https://apps.irs.gov/app/eos/",
-    "guidanceOnLocatingIds": "To search EINs of Exempt Orgs (nonprofits and charities, including: charitable organizations, churches and religions organizations, political organizations, private foundations, and more): https://apps.irs.gov/app/eos/\n\nTo search most public companies (those that are required to file forms with the US SEC): https://www.sec.gov/edgar.shtml",
+    "guidanceOnLocatingIds": "To search EINs of Exempt Orgs (nonprofits and charities, including: charitable organizations, churches and religions organizations, political organizations, private foundations, and more): https://apps.irs.gov/app/eos/\n\nTo search most public companies (those that are required to file forms with the US SEC): https://www.sec.gov/edgar/searchedgar/companysearch",
     "exampleIdentifiers": "03-0413726, 47-1850312",
     "languages": [
       "en"
@@ -43,7 +43,7 @@
   },
   "meta": {
     "source": "",
-    "lastUpdated": "2017-09-21"
+    "lastUpdated": "2023-08-15"
   },
   "links": {
     "opencorporates": "",
