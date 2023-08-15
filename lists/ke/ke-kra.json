@@ -3,7 +3,7 @@
     "en": "Kenya Revenue Authority PIN",
     "local": ""
   },
-  "url": "http://www.kra.go.ke/index.php/domestic-taxes/income-tax/about-pin",
+  "url": "https://www.kra.go.ke/individual/individual-pin-registration/learn-about-pin/about-pin",
   "description": {
     "en": "The Personal Identification Number (PIN) is a number which identifies a person or legal entity for purposes of transacting business with Kenya Revenue Authority, other Government agencies and service providers in Kenya. A PIN may be issued to both individuals and 'artificial persons' such as companies, clubs, trusts and partnerships.\n"
   },
@@ -44,7 +44,7 @@
   },
   "meta": {
     "source": "https://github.com/org-id/register/issues/231#issuecomment-400702907",
-    "lastUpdated": "2018-06-27"
+    "lastUpdated": "2023-08-15"
   },
   "links": {
     "opencorporates": "",
