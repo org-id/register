@@ -20,10 +20,10 @@
   "deprecated": false,
   "listType": "secondary",
   "access": {
-    "availableOnline": false,
+    "availableOnline": true,
     "onlineAccessDetails": "A searchable table of organisations and their registration number (column: REG NUMBER) can be found here: https://www.ngobureau.go.ug/en/updated-national-ngo-register",
-    "publicDatabase": "",
-    "guidanceOnLocatingIds": "Organisations should be able to find their own registration numnber (approx 13-15 characters) on their certificate of registration, or refer to the link with searchable table above.",
+    "publicDatabase": "https://www.ngobureau.go.ug/en/updated-national-ngo-register",
+    "guidanceOnLocatingIds": "Organisations should be able to find their own registration number (approx 13-15 characters) on their certificate of registration, or refer to the link with searchable table above.",
     "exampleIdentifiers": "INDR160665542NB, FORR69845421NB",
     "languages": [
       "en"
