@@ -53,12 +53,12 @@
     "licenseDetails": "Creative Commons Public Domain Dedication (CC0 1.0 Universal (CC0 1.0). Details at: https://creativecommons.org/publicdomain/zero/1.0/"
   },
   "links": {
-    "opencorporates": "",
+    "opencorporates": "https://www.gleif.org/en/lei-data/lei-mapping/download-oc-to-lei-relationship-files",
     "wikipedia": "https://en.wikipedia.org/wiki/Legal_Entity_Identifier"
   },
   "formerPrefixes": [],
   "meta": {
     "source": "Original research, Official records",
-    "lastUpdated": "2020-08-16"
+    "lastUpdated": "2023-08-31"
   }
 }
