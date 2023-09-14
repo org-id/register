@@ -3,7 +3,7 @@
     "en": "National Bureau for NGOs (Uganda)",
     "local": ""
   },
-  "url": "http://www.mia.go.ug/content/registration-ngos",
+  "url": "https://ngobureau.go.ug/",
   "description": {
     "en": "The Ugandan National Bureau for NGOs (NGO Bureau) is a semi-autonomous body under the Ministry of Internal Affairs established by the NGO Act 2016 .The Act mandates it to register, regulate, coordinate, inspect, monitor and oversee all NGO operations in the country.\n\nIt issues certificates of registration to NGOs."
   },
@@ -20,11 +20,11 @@
   "deprecated": false,
   "listType": "secondary",
   "access": {
-    "availableOnline": false,
-    "onlineAccessDetails": "No online search of identifiers has been located. ",
-    "publicDatabase": "",
-    "guidanceOnLocatingIds": "Organisations should be able to find their own identifier on their certificate of registration.",
-    "exampleIdentifiers": "5541",
+    "availableOnline": true,
+    "onlineAccessDetails": "A searchable table of organisations and their registration number (column: REG NUMBER) can be found here: https://www.ngobureau.go.ug/en/updated-national-ngo-register",
+    "publicDatabase": "https://www.ngobureau.go.ug/en/updated-national-ngo-register",
+    "guidanceOnLocatingIds": "Organisations should be able to find their own registration number (approx 13-15 characters) on their certificate of registration, or refer to the link with searchable table above.",
+    "exampleIdentifiers": "INDR160665542NB, FORR69845421NB",
     "languages": [
       "en"
     ]
@@ -40,7 +40,7 @@
   },
   "meta": {
     "source": "Desk research",
-    "lastUpdated": "2018-07-24"
+    "lastUpdated": "2023-08-28"
   },
   "links": {
     "opencorporates": "",
