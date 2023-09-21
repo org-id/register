@@ -5,7 +5,7 @@
   },
   "url": "https://github.com/openregister/registers-data-archive",
   "description": {
-    "en": "The UK Government Organisation Register was a service provided by the Government Digital Service which retired on March 15 2021. It contained an identifier for every government body with a presence on the gov.uk single domain.\n\nThis covered government departments, agencies and Arms Length Bodies (ALBs).\n\nEach organisation was assigned an alphanumeric identifier, and the register also included website addresses, that could be mapped to entries in the GB-GOVUK identifier list. 
+    "en": "The UK Government Organisation Register was a service provided by the Government Digital Service which retired on March 15 2021. It contained an identifier for every government body with a presence on the gov.uk single domain.\n\nThis covered government departments, agencies and Arms Length Bodies (ALBs).\n\nEach organisation was assigned an alphanumeric identifier, and the register also included website addresses, that could be mapped to entries in the GB-GOVUK identifier list."
   },
   "coverage": [
     "GB"
