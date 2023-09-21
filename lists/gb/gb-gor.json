@@ -3,9 +3,9 @@
     "en": "Government Organisation Register",
     "local": ""
   },
-  "url": "https://government-organisation.register.gov.uk/records",
+  "url": "https://github.com/openregister/registers-data-archive",
   "description": {
-    "en": "The UK Government Organisation Register contains an identifier for every government body with a presence on the gov.uk single domain.\n\nThis covers government departments, agencies and Arms Length Bodies (ALBs).\n\nEach organisation is assigned an alphanumeric identifier, and the register also includes website addresses, that can be mapped to entries in the GB-GOVUK identifier list. \n\nDue to the stable identifiers given in the Government Organisation Register, it should be preferred over codes from the GB-GOVUK list. "
+    "en": "The UK Government Organisation Register was a service provided by the Government Digital Service which retired on March 15 2021. It contained an identifier for every government body with a presence on the gov.uk single domain.\n\nThis covered government departments, agencies and Arms Length Bodies (ALBs).\n\nEach organisation was assigned an alphanumeric identifier, and the register also included website addresses, that could be mapped to entries in the GB-GOVUK identifier list."
   },
   "coverage": [
     "GB"
@@ -21,8 +21,8 @@
   "listType": "secondary",
   "access": {
     "availableOnline": true,
-    "onlineAccessDetails": "The list is accessible as open data as part of the OpenRegister platform.",
-    "publicDatabase": "https://government-organisation.register.gov.uk/records",
+    "onlineAccessDetails": "The list was accessible as open data as part of the OpenRegister platform. The historic data is provided by the National Archives Government web archive.",
+    "publicDatabase": "https://github.com/openregister/registers-data-archive",
     "guidanceOnLocatingIds": "The identifier is available in the 'government-organisation' field within the register. Identifiers are short alphanumeric strings. ",
     "exampleIdentifiers": "OT1211, PB1204, EA1113, D1198",
     "languages": [
@@ -31,7 +31,6 @@
   },
   "data": {
     "availability": [
-      "api",
       "bulk",
       "csv",
       "json",
@@ -47,7 +46,7 @@
   },
   "meta": {
     "source": "https://github.com/OpenDataServices/org-ids/issues/67",
-    "lastUpdated": "2017-07-08"
+    "lastUpdated": "2023-09-20"
   },
   "links": {
     "opencorporates": "",
