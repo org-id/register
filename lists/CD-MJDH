@@ -16,7 +16,7 @@
   ],
   "sector": [],
   "code": "CD-MJDH",
-  "confirmed": false,
+  "confirmed": true,
   "deprecated": false,
   "listType": "primary",
   "access": {
