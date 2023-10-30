@@ -23,7 +23,7 @@
     "availableOnline": false,
     "onlineAccessDetails": null,
     "publicDatabase": "https://journalofficiel.cd/rech/7/0",
-    "guidanceOnLocatingIds": "Select \"Actes légaux et réglementaires : loi, ordonnance, décret, arrêté, décision, circulaire, etc.\" frm the drop down box and the name, or part of, the charity or NGO you are looking for. If you are successful you will be presented with a text similar to\n\nArrêté ministériel n°123/CAB/MIN/J&DH/2022 du 30 avril 2022 accordant la personnalité juridique à l'Association sans but lucratif non confessionnelle dénommée « Name Of Charity or NGO », en sigle « IPDH »\nThe identifier is constructed by using the number quoted (n°123/CAB/MIN/J&DH/2022) and replacing slashes for dashes",
+    "guidanceOnLocatingIds": "Select \"Actes légaux et réglementaires : loi, ordonnance, décret, arrêté, décision, circulaire, etc.\" from the drop down box and the name, or part of, the charity or NGO you are looking for. If you are successful you will be presented with a text similar to\n\nArrêté ministériel n°123/CAB/MIN/J&DH/2022 du 30 avril 2022 accordant la personnalité juridique à l'Association sans but lucratif non confessionnelle dénommée « Name Of Charity or NGO », en sigle « IPDH »\n\nThe identifier is constructed by using the number quoted (n°123/CAB/MIN/J&DH/2022) and replacing slashes for dashes",
     "exampleIdentifiers": "123-CAB-MIN-JDH-2022, 160-CAB-MIN-JDH-2014",
     "languages": []
   },
