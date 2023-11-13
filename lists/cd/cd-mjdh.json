@@ -1,0 +1,48 @@
+{
+  "name": {
+    "en": "Ministry of Justice and Human Rights",
+    "local": "Ministère de la Justice et Droits Humains"
+  },
+  "url": "http://droits-humains.gouv.cd/dh_ong_liste.html",
+  "description": {
+    "en": "NGOs and associations apply to the Ministry of Justice and Human Rights (Le Ministre de la Justice et Droits Humain) and are issued with a certificate of registration. The Official Journal of the Democratic Republic of the Congo is the government gazette of the country. It publishes major legal official information including a bulletin of acts of companies, associations and political parties registered with the Ministry of Justice and Human Rights. This is referred to as the second part (Deuxieme parties) and is published on the 1st and on the 15th of each month. The ministerial decree number, under which the organisation is registered, can be used as an identifier. This appears both on the organisation's certificate and in the gazette."
+  },
+  "coverage": [
+    "CD"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity"
+  ],
+  "sector": [],
+  "code": "CD-MJDH",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": null,
+    "publicDatabase": "https://journalofficiel.cd/rech/7/0",
+    "guidanceOnLocatingIds": "Select \"Actes légaux et réglementaires : loi, ordonnance, décret, arrêté, décision, circulaire, etc.\" from the drop down box and the name, or part of, the charity or NGO you are looking for. If you are successful you will be presented with a text similar to\n\nArrêté ministériel n°123/CAB/MIN/J&DH/2022 du 30 avril 2022 accordant la personnalité juridique à l'Association sans but lucratif non confessionnelle dénommée « Name Of Charity or NGO », en sigle « IPDH »\n\nThe identifier is constructed by using the number quoted (n°123/CAB/MIN/J&DH/2022) and replacing slashes for dashes",
+    "exampleIdentifiers": "123-CAB-MIN-JDH-2022, 160-CAB-MIN-JDH-2014",
+    "languages": []
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "original research",
+    "lastUpdated": "2023-11-13"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ministry_of_Justice_%28Democratic_Republic_of_the_Congo%29"
+  },
+  "formerPrefixes": []
+}
