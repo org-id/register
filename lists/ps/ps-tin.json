@@ -1,0 +1,49 @@
+{
+  "name": {
+    "en": "Tax Identifier Number, Palestine",
+    "local": ""
+  },
+  "url": "http://www.pmof.ps/",
+  "description": {
+    "en": "The Palestinian National Authority's Ministry of Finance issues a certificate with taxpayer registration data (بيانات تسجيل دافعي الضرائب). The number (الرقم) is the Tax Identification Number for the given organisation."
+  },
+  "coverage": [
+    "PS"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity",
+    "company"
+  ],
+  "sector": [],
+  "code": "PS-TIN",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": null,
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "684014271",
+    "languages": []
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "original research",
+    "lastUpdated": "2023-11-13"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
