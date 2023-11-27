@@ -1,46 +1,48 @@
 {
-    "links": {
-        "wikipedia": null,
-        "opencorporates": null
-    },
-    "sector": null,
-    "url": "http://www.moit.gov.ye/search/",
     "name": {
-        "en": "Ministry of Industry and Trade - Commercial Register",
-        "local": ""
+      "en": "Yemen Ministry of Industry and Trade",
+      "local": ""
+    },
+    "url": "https://moit-ye.com/",
+    "description": {
+      "en": "The Yemen Ministry of Industry and Trade manages the commercial registry of trade names for corporations and sole traders."
     },
     "coverage": [
-        "YE"
+      "YE"
     ],
-    "code": "YE-CR",
-    "formerPrefixes": null,
-    "confirmed": null,
-    "data": {
-        "features": null,
-        "dataAccessDetails": null,
-        "licenseDetails": null,
-        "licenseStatus": "no_license",
-        "availability": null
-    },
-    "deprecated": null,
+    "subnationalCoverage": [],
     "structure": [
-        "company"
+      "company"
     ],
-    "description": {
-        "en": "This entry was imported from the Open Corporates Jurisdiction List."
+    "sector": [],
+    "code": "YE-CR",
+    "confirmed": true,
+    "deprecated": false,
+    "listType": "primary",
+    "access": {
+      "availableOnline": true,
+      "onlineAccessDetails": null,
+      "publicDatabase": "https://moit.gov.ye/tn-searc/index.php",
+      "guidanceOnLocatingIds": "",
+      "exampleIdentifiers": "",
+      "languages": []
+    },
+    "data": {
+      "availability": [
+        "data_not_available"
+      ],
+      "dataAccessDetails": "",
+      "features": [],
+      "licenseStatus": "no_license",
+      "licenseDetails": ""
     },
     "meta": {
-        "lastUpdated": "2016-09-07",
-        "source": null
+      "source": "original research",
+      "lastUpdated": "2023-11-27"
     },
-    "access": {
-        "languages": null,
-        "exampleIdentifiers": null,
-        "onlineAccessDetails": null,
-        "publicDatabase": null,
-        "availableOnline": false,
-        "guidanceOnLocatingIds": null
+    "links": {
+      "opencorporates": "",
+      "wikipedia": ""
     },
-    "subnationalCoverage": null,
-    "listType": null
-}
+    "formerPrefixes": []
+  }
