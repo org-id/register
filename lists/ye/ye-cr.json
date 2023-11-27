@@ -1,6 +1,6 @@
 {
     "name": {
-      "en": "Yemen Ministry of Industry and Trade",
+      "en": "Commercial Registry, Yemen",
       "local": ""
     },
     "url": "https://moit-ye.com/",
@@ -23,7 +23,7 @@
       "availableOnline": true,
       "onlineAccessDetails": null,
       "publicDatabase": "https://moit.gov.ye/tn-searc/index.php",
-      "guidanceOnLocatingIds": "",
+      "guidanceOnLocatingIds": "Company numbers or identifiers are not available via the public search facility.",
       "exampleIdentifiers": "",
       "languages": []
     },
