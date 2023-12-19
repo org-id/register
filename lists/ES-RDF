@@ -1,0 +1,62 @@
+{
+  "name": {
+    "en": "Register of Foundations",
+    "local": "Registro de Fundaciones"
+  },
+  "url": "https://www.mjusticia.gob.es/ca/ciudadania/registros/fundaciones-competencia/informacion-general/registro-fundaciones",
+  "description": {
+    "en": "Foundations are non-profit organisations. Foundations should be pursued in the general interest, such as those for the defence of human rights, victims of terrorism and violent acts, social assistance and social, civic, educational and cultural inclusion, scientific, sports, health, work, institutional strengthening, development cooperation, promotion of voluntary work, promotion of social action, environmental protection, and the promotion of the social economy, promotion and care for people at risk of exclusion for physical, social or cultural, promoting constitutional values and defending democratic principles, promoting tolerance, developing the information society, or scientific research and technological development.\n\nThe purpose of the Registry of Foundations is the registration of foundations, as well as the registration, recording and deposit of acts, legal transactions and documents relating to them.\n"
+  },
+  "coverage": [
+    "ES"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity"
+  ],
+  "sector": [],
+  "code": "ES-RDF",
+  "confirmed": false,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": null,
+    "publicDatabase": "https://fundosbuscador.mjusticia.gob.es/fundosbuscador/cargaBuscador.action?lang=es_es",
+    "guidanceOnLocatingIds": "Search by the name of the foundation. It is possible to filter the search by the foundation's location and purpose.",
+    "exampleIdentifiers": "2250JUS, 1843EDU, 378CUL",
+    "languages": []
+  },
+  "data": {
+    "availability": [
+      "bulk",
+      "xml"
+    ],
+    "dataAccessDetails": "https://www.mjusticia.gob.es/es/ciudadania/registros/fundaciones-competencia/datos-abiertos is the page containing a direct link to the full download.",
+    "features": [
+      "directors_trustees_governors",
+      "registered_address",
+      "contact_address",
+      "website",
+      "e-mail_address",
+      "date_of_registration",
+      "registration_number",
+      "phone_number",
+      "tax_id_number",
+      "post_code_zip_code",
+      "objectives_purpose",
+      "expiry_date"
+    ],
+    "licenseStatus": "open_license",
+    "licenseDetails": "Listed in Spain's Open Data portal with no explicit license"
+  },
+  "meta": {
+    "source": "Original Research",
+    "lastUpdated": "2023-12-19"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
