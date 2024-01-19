@@ -20,10 +20,10 @@
   "deprecated": false,
   "listType": "primary",
   "access": {
-    "availableOnline": false,
-    "onlineAccessDetails": "A search of registered names exists, but does not provide access to identifiers.",
-    "publicDatabase": "http://www.sec.gov.ph/online-services/search-registered-companies/",
-    "guidanceOnLocatingIds": "Companies are issued with a Certificate or Incorporation, or a License to Transact Business. Sometimes these are published by those organisations, or otherwise the 'Company Reg No.' value contained on them can be requested from the organisation.",
+    "availableOnline": true,
+    "onlineAccessDetails": "A search of registered names exists, and provides access to identifiers.",
+    "publicDatabase": "https://checkwithsec.sec.gov.ph/",
+    "guidanceOnLocatingIds": "It is possible to search by either company name or SEC number. Note that search results are returned in alphabetical order and are limited to just ten results. It might be necessary to change the text of the search to find the company being searched for.\n\nWhere a company can't be found via the search, companies are issued with a Certificate or Incorporation, or a License to Transact Business. Sometimes these are published by those organisations, or otherwise the 'Company Reg No.' value contained on them can be requested from the organisation.",
     "exampleIdentifiers": "FS200813283, CS2010407120, AN094003039",
     "languages": [
       "en"
@@ -40,7 +40,7 @@
   },
   "meta": {
     "source": "IATI - https://discuss.iatistandard.org/t/added-proposed-addition-to-the-organisation-registration-agency-codelist-philippines/888",
-    "lastUpdated": "2017-07-17"
+    "lastUpdated": "2024-01-19"
   },
   "links": {
     "opencorporates": "",
