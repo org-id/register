@@ -1,11 +1,11 @@
 {
   "name": {
-    "en": "Ministerio de Justicia ",
-    "local": "es"
+    "en": "Ministry of Justice, Spain",
+    "local": "Ministerio de Justicia"
   },
-  "url": "http://www.mjusticia.gob.es/cs/Satellite/Portal/es/areas-tematicas/registros",
+  "url": "https://www.mjusticia.gob.es/ca/ciudadania/registros",
   "description": {
-    "en": "The Ministry of Justice keeps a broad array of records, covering organisations, events, and individuals. Some of these records (such as organisations) are public and searchable, whilst others (civil registration) are not.\n\nThis list covers the following types of organisations (roughly translated): \"Property and Mercantile\", \"Mediators and Mediation Institutions\", \"Foundations Under the Jurisdiction of the State\", and \"Religious Entities\"."
+    "en": "The Ministry of Justice keeps a broad array of records, covering organisations, events, and individuals. Some of these records (such as organisations) are public and searchable, whilst others (civil registration) are not.\n\nThis list covers the following types of organisations (roughly translated): \"Property and Mercantile\", \"Mediators and Mediation Institutions\", and \"Foundations Under the Jurisdiction of the State\"."
   },
   "coverage": [
     "ES"
@@ -22,8 +22,8 @@
   "listType": "secondary",
   "access": {
     "availableOnline": true,
-    "onlineAccessDetails": "High level records page (including non-organisation sections): http://www.mjusticia.gob.es/cs/Satellite/Portal/es/areas-tematicas/registros\n\nNavigable from this page, there are multiple search interfaces for each of the organisation types which can be accessed through the direct links below, though there does not appear to be any way of bulk downloading the data.\n\nNote that this search is very brittle. Searching for \"AYUDA EN ACCION\" yields a result for the organisation of that name, but searching \"AYUDA ACCION\" does not yield any results, nor does searching for all three words in the wrong order.\n\nMediators and Mediation Institutions: http://www.mjusticia.gob.es/cs/Satellite/Portal/es/areas-tematicas/registros/mediadores-instituciones\nState Competition Foundations: http://www.mjusticia.gob.es/cs/Satellite/Portal/es/ciudadanos/registros/fundaciones-competencia\nReligious Entities: http://www.mjusticia.gob.es/cs/Satellite/Portal/es/areas-tematicas/registros/entidades-religiosas",
-    "publicDatabase": "http://www.mjusticia.gob.es/cs/Satellite/Portal/es/areas-tematicas/registros",
+    "onlineAccessDetails": "High level records page (including non-organisation sections): https://www.mjusticia.gob.es/ca/ciudadania/registros\n\nNavigable from this page, there are multiple search interfaces for each of the organisation types which can be accessed through the direct links below, though there does not appear to be any way of bulk downloading the data.\n\nNote that this search is very brittle. Searching for \"AYUDA EN ACCION\" yields a result for the organisation of that name, but searching \"AYUDA ACCION\" does not yield any results, nor does searching for all three words in the wrong order.\n\nMediator Institutions: https://remediabuscador.mjusticia.gob.es/remediabuscador/RegistroMediador \nMediation Institutions: https://remediabuscador.mjusticia.gob.es/remediabuscador/RegistroInstitucion\nFoundations: https://fundosbuscador.mjusticia.gob.es/fundosbuscador/cargaBuscador.action?lang=es_es",
+    "publicDatabase": "https://www.mjusticia.gob.es/ca/ciudadania/registros",
     "guidanceOnLocatingIds": "Search using the appropriate finder interface.",
     "exampleIdentifiers": "539SND; 842EDU",
     "languages": [
@@ -40,7 +40,7 @@
   },
   "meta": {
     "source": "Original research; official website",
-    "lastUpdated": "2019-01-28"
+    "lastUpdated": "2024-01-22"
   },
   "links": {
     "opencorporates": "",
