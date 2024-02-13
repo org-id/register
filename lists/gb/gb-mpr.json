@@ -3,9 +3,9 @@
     "en": "Mutuals Public Register",
     "local": ""
   },
-  "url": "https://mutuals.fsa.gov.uk/",
+  "url": "https://mutuals.fca.org.uk/",
   "description": {
-    "en": "The Mutuals Public Register is the public record of registered mutual societies:\n\n* building societies\n* credit unions\n* friendly societies\n* registered societies\n\nIt contains:\n\n* details of societies’ registered offices and contact information\nthe services they offer\n* public documents such as yearly returns and accounts"
+    "en": "The Mutuals Public Register is the public record of registered mutual societies:\n\n* building societies\n* credit unions\n* friendly societies\n* registered societies\n\nIt contains:\n\n* details of societies’ registered offices, contact information and services\n* public documents such as yearly returns and accounts"
   },
   "coverage": [
     "GB"
@@ -22,7 +22,7 @@
   "listType": "primary",
   "access": {
     "availableOnline": true,
-    "onlineAccessDetails": "It is possible to search the register online, documents that have been digitised are freely available. It is also possible to bulk download data although this does not include the organisation's unique identifier on the register.",
+    "onlineAccessDetails": "It is possible to search the register online; documents that have been digitised are freely available. It is also possible to bulk download data although this does not include the organisation's unique identifier on the register.",
     "publicDatabase": "https://mutuals.fca.org.uk/",
     "guidanceOnLocatingIds": "Search for an organisation through the interface. Their registration number is returned as part of the results.",
     "exampleIdentifiers": "235C, IP031455",
@@ -41,7 +41,7 @@
   },
   "meta": {
     "source": "",
-    "lastUpdated": ""
+    "lastUpdated": "2023-08-25"
   },
   "links": {
     "opencorporates": "http://opencorporates.com/companies/gb",
