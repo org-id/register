@@ -1,0 +1,61 @@
+{
+  "name": {
+    "en": "Icelandic Social Security Number",
+    "local": "Íslensk kennitala"
+  },
+  "url": "https://www.skra.is/",
+  "description": {
+    "en": "**Identification number - kennitala**. \nIn Iceland, persons and enterprises are issued a unique identification number which is recorded in the national register and register of enterprises.\n\nIndividuals are identified with the ID numbers in the national registry system. There are two types of personal ID number registered in the national registry i.e. system ID No. and personal ID No.  \nPersonal ID numbers are issued at birth to all children born in Iceland and Icelandic citizens born abroad. Personal ID numbers are also assigned to all individuals who register their domicile in Iceland.\nA system ID number is only issued to individuals who intend to stay less than 3-6 months in Iceland or do not intend to stay in the country at all. \n"
+  },
+  "coverage": [
+    "IS"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "IS-KEN",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": null,
+    "publicDatabase": "https://www.skatturinn.is/fyrirtaekjaskra/",
+    "guidanceOnLocatingIds": "Entities can be searched by name, address, Kennitala or VAT number. ",
+    "exampleIdentifiers": "5711160300, 5512982489, 7105101130",
+    "languages": ["is"]
+  },
+  "data": {
+    "availability": [
+      "api"
+    ],
+    "dataAccessDetails": "Closed API is documented at https://gagnatorg.ja.is/docs/skra/v1/",
+    "features": [
+      "directors_trustees_governors",
+      "shareholders",
+      "registered_address",
+      "contact_address",
+      "industry_classifications",
+      "date_of_registration",
+      "tax_id_number",
+      "post_code_zip_code",
+      "objectives_purpose",
+      "activities_sector_code",
+      "financial_turnover_details",
+      "expiry_date"
+    ],
+    "licenseStatus": "closed_license",
+    "licenseDetails": "It is not permitted to copy, change, distribute, rent, sell, publish or produce any content based on information from the search engine of the company register, annual accounts register and value added tax register.  https://www.skatturinn.is/notkunarskilmalar "
+  },
+  "meta": {
+    "source": "Original research",
+    "lastUpdated": "2024-02-13"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": "https://en.wikipedia.org/wiki/Icelandic_identification_number"
+  },
+  "formerPrefixes": []
+}
