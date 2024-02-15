@@ -94,7 +94,7 @@ types:
   - id: meta_lastUpdated
     key: meta/lastUpdated
     title: Meta - Last updated
-    #type: datetime
+    type: datetime
   - id: links_opencorporates
     key: links/opencorporates
     title: Links - Open Corporates
