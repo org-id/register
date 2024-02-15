@@ -25,7 +25,7 @@
     "onlineAccessDetails": null,
     "publicDatabase": "https://facultyonline.churchofengland.org/churches",
     "guidanceOnLocatingIds": "Search interface by Church name and select the church from the dropdown, then select it on the map and follow the link through to a web page for the entry.\n\nAlternatively, use the map to navigate to a known church and click it. Then click through the link to reach the page for the entry.",
-    "exampleIdentifiers": "GB-COE-608393, GB-COE-616142, GB-COE-625011",
+    "exampleIdentifiers": "608393, 616142, 625011",
     "languages": ["en"]
   },
   "data": {
