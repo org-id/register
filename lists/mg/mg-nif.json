@@ -1,0 +1,52 @@
+{
+    "name": {
+      "en": "Directorate General of Taxes",
+      "local": "Direction Générale des Impôts (DGI)"
+    },
+    "url": "https://www.impots.mg/",
+    "description": {
+      "en": "Madagascar's General tax office (DGI) are responsible for issuing 'Numéro d'Identification Fiscale' (NIF) identification numbers."
+    },
+    "coverage": [
+      "MG"
+    ],
+    "subnationalCoverage": [],
+    "structure": [
+      "charity",
+      "company"
+    ],
+    "sector": [],
+    "code": "MG-NIF",
+    "confirmed": true,
+    "deprecated": false,
+    "listType": "secondary",
+    "access": {
+      "availableOnline": false,
+      "onlineAccessDetails": "",
+      "publicDatabase": "",
+      "guidanceOnLocatingIds": "",
+      "exampleIdentifiers": "4001257310",
+      "languages": [
+        "fr",
+        "mg",
+        "en"
+      ]
+    },
+    "data": {
+      "availability": [],
+      "dataAccessDetails": "",
+      "features": [],
+      "licenseStatus": "no_license",
+      "licenseDetails": ""
+    },
+    "meta": {
+      "source": "Original research",
+      "lastUpdated": "2024-02-16"
+    },
+    "links": {
+      "opencorporates": "",
+      "wikipedia": ""
+    },
+    "formerPrefixes": []
+  }
+  
