@@ -19,7 +19,7 @@
   "code": "GB-COE",
   "confirmed": true,
   "deprecated": false,
-  "listType": "secondary",
+  "listType": "local",
   "access": {
     "availableOnline": true,
     "onlineAccessDetails": null,
