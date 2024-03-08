@@ -1,0 +1,47 @@
+{
+  "name": {
+    "en": "Church of England Church Codes",
+    "local": ""
+  },
+  "url": "https://facultyonline.churchofengland.org/churches",
+  "description": {
+    "en": "Church Codes are a unique identification number supplied to each church building by the Church of England Central Services, which is part of the administrative bodies of the National Church Institutions that work together to support the mission and ministries of the Church of England. This code provides a unique number for the property assets of the Church of England.\n\nThe codes are used to represent the church as an entity as well as everything connected to it such as financial and congregational records.\n\nThe churches are owned locally, held in trust by the incumbent of the church (priest) and the management is run by a committee, a Parochial Church Council (PCC). These organisations are often not registered for a GB-CHC number due their income being less than £100,000 number despite being otherwise regulated by the Charity Commission. They are also excluded from the UK Register of Trusts. For this reason, these church codes may be used to identified PCCs."
+  },
+  "coverage": [
+    "GB"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity",
+    "trust"
+  ],
+  "sector": [],
+  "code": "GB-COE",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "local",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": null,
+    "publicDatabase": "https://facultyonline.churchofengland.org/churches",
+    "guidanceOnLocatingIds": "Search interface by Church name and select the church from the dropdown, then select it on the map and follow the link through to a web page for the entry.\n\nAlternatively, use the map to navigate to a known church and click it. Then click through the link to reach the page for the entry.",
+    "exampleIdentifiers": "608393, 616142, 625011",
+    "languages": ["en"]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Original research submitted by a community member with citations and links to resources.",
+    "lastUpdated": "2024-02-13"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
