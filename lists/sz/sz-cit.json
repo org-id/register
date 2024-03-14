@@ -1,6 +1,6 @@
 {
   "name": {
-    "en": "Ministry of Commerce, Industry and Trade",
+    "en": "Ministry of Commerce, Industry and Trade, Eswatini", 
     "local": ""
   },
   "url": "https://www.gov.sz/index.php/ministries-departments/minnistry-of-commerce",
@@ -12,11 +12,12 @@
   ],
   "subnationalCoverage": [],
   "structure": [
-    "company"
+    "company",
+    "charity"
   ],
   "sector": [],
   "code": "SZ-CIT",
-  "confirmed": false,
+  "confirmed": true,
   "deprecated": false,
   "listType": "primary",
   "access": {
