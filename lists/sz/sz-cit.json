@@ -1,0 +1,47 @@
+{
+  "name": {
+    "en": "Ministry of Commerce, Industry and Trade, Eswatini", 
+    "local": ""
+  },
+  "url": "https://www.gov.sz/index.php/ministries-departments/minnistry-of-commerce",
+  "description": {
+    "en": "Companies and non-governmental organisations (NGOs) are registered with the Government of Eswatini (Swaziland)'s Ministry of Commerce, Industry and Trade. They receive a registration ID, which does not change over time.\n\nA full list of services that the Ministry provides can be found at https://www.gov.sz/index.php/services-sp-831484471, and specific information on company registration here: https://www.gov.sz/index.php/departments-sp-1596706154?id=522. "
+  },
+  "coverage": [
+    "SZ"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company",
+    "charity"
+  ],
+  "sector": [],
+  "code": "SZ-CIT",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": null,
+    "publicDatabase": "http://www.online.gov.sz/e-companysearch.aspx",
+    "guidanceOnLocatingIds": "Companies can be searched using this online database, though this only confirms the registration status and date of the company. Asking the organisation for their registration certificate will be needed to confirm their unique company ID.",
+    "exampleIdentifiers": "201710132021804",
+    "languages": []
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Original research and information from a local company",
+    "lastUpdated": "2024-03-13"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
