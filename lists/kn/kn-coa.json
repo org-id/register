@@ -24,7 +24,7 @@
     "onlineAccessDetails": "Codes can be found in the government budget or Chart of Accounts. Gov Org ID Finder extracts and makes some of these codes available for the convenience of users. The authoritative source remains the government's budget or Chart of Accounts.",
     "publicDatabase": "https://gov-id-finder.codeforiati.org/countries/KN/",
     "guidanceOnLocatingIds": "The codes from the Organisation or Administrative classification should be used. ",
-    "exampleIdentifiers": "01, 02 ",
+    "exampleIdentifiers": "01, 02",
     "languages": [
       "en"
     ]

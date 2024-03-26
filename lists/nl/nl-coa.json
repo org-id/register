@@ -1,6 +1,6 @@
 {
   "name": {
-    "en": "Netherlands (the) Chart of Accounts",
+    "en": "Netherlands (Kingdom of the) Chart of Accounts",
     "local": ""
   },
   "url": "https://gov-id-finder.codeforiati.org/countries/NL/",
@@ -21,7 +21,7 @@
   "listType": "secondary",
   "access": {
     "availableOnline": false,
-    "onlineAccessDetails": "Codes can be found in the government budget or Chart of Accounts. Gov Org ID Finder extracts and makes some of these codes available for the convenience of users. However, no codes have yet been extracted for Netherlands (the).",
+    "onlineAccessDetails": "Codes can be found in the government budget or Chart of Accounts. Gov Org ID Finder extracts and makes some of these codes available for the convenience of users. However, no codes have yet been extracted for Netherlands (Kingdom of the).",
     "publicDatabase": "https://gov-id-finder.codeforiati.org/countries/NL/",
     "guidanceOnLocatingIds": "",
     "exampleIdentifiers": "",
