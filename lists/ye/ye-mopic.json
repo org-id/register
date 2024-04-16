@@ -1,0 +1,50 @@
+{
+  "name": {
+    "en": "Yemen Ministry of Planning and International Cooperation",
+    "local": "وزارة التخطيط والتعاون الدولي "
+  },
+  "url": "https://mopic-yemen.org/",
+  "description": {
+    "en": "The Ministry of Planning and International Cooperation registers foreign non-profit and non-governmental organisations with a physical location and address in Yemen.\n\nOrganisations are granted a registration number that is provided on a certificate granting or renewing the license. \n\nThis registration is renewed every two years but the number does not change. Registered organisations must re-register upon changing their name, logo, or nature of their activities. "
+  },
+  "coverage": [
+    "YE"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity",
+    "company",
+    "trust"
+  ],
+  "sector": [],
+  "code": "YE-MOPIC",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": null,
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "Ask the organisation to provide their 'Principal Cooperation Agreement'. The identifier will be provided as the Registration Number.",
+    "exampleIdentifiers": "0036",
+    "languages": []
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": "No open dataset is available, no license on the Principal Cooperation Agreement"
+  },
+  "meta": {
+    "source": "Original research",
+    "lastUpdated": "2024-04-12"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
