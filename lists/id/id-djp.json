@@ -1,9 +1,9 @@
 {
   "name": {
-    "en": "Director General of Taxes",
-    "local": "Direktur Jenderal Pajak"
+    "en": "Indonesian Directorate General of Taxes",
+    "local": "Direktorat Jenderal Pajak"
   },
-  "url": "http://ceknpwp.com/",
+  "url": "https://pajak.go.id/en/overview",
   "description": {
     "en": "The Directorate General of Taxes is Indonesia's tax office.\n\nThe Tax Identification Number (TIN) is known in Indonesia as Nomor Pokok Wajib Pajak (NPWP) and is issued by the Directorate General of Taxes to individuals and entities. "
   },
@@ -20,10 +20,10 @@
   "deprecated": false,
   "listType": "primary",
   "access": {
-    "availableOnline": true,
-    "onlineAccessDetails": "A Tax Identifier Lookup is available at http://ceknpwp.com/\n\nIt is necessary to know an organisation's NPWP in order to perform the lookup. All non-numeric characters must be removed from the NPWP. The lookup may require one or more captchas to be completed before showing the result. There is no sign up. Upon successfully completing the lookup only the organisation's name is shown.",
-    "publicDatabase": "http://ceknpwp.com/",
-    "guidanceOnLocatingIds": "You need to know the identifier in advance. Lookups are from identifier to company only.",
+    "availableOnline": false,
+    "onlineAccessDetails": "No searchable database of Tax identification Numbers (TINs) has been found.",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "",
     "exampleIdentifiers": "010117771077000, 312666837412000",
     "languages": [
       "ID"
@@ -39,7 +39,7 @@
   },
   "meta": {
     "source": "Desk research",
-    "lastUpdated": "2019-06-18"
+    "lastUpdated": "2024-05-28"
   },
   "links": {
     "opencorporates": "",
