@@ -114,3 +114,4 @@ types:
   json_schema: schema/list-schema.json
   pretty_json_indent: 2
   default_format: json
+  record_id_mode: filename_only
