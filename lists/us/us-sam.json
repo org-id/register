@@ -1,0 +1,49 @@
+{
+  "name": {
+    "en": "System for Award Management (SAM) Unique Entity ID, USA",
+    "local": ""
+  },
+  "url": "https://sam.gov/content/entity-registration",
+  "description": {
+    "en": "The System for Award Management (SAM) of U.S. General Services Administration (GSA). The System for Award Management website (SAM.gov) is an official website of the U.S. Government that allows users to register to do business with the U.S. Government.\nSAM.gov issues entities with a Unique Entity ID (UEI) which is used across the federal government when they apply for federal awards as a prime awardee. Previously a D-U-N-S Number was used.\nEntities must re-register annually. If registration lapses it is still possible to re-register. In all cases the UEI is persistent and is retained by the entity. \nTo apply for federal funds, and to use other functionality such as full search, requires a login through the US government's Login.gov service. https://www.login.gov/policy/rules-of-use/ states that The Login.gov service is operated within the United States, but is accessible globally for public use."
+  },
+  "coverage": [
+    "US"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company",
+    "charity"
+  ],
+  "sector": [],
+  "code": "US-SAM",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": null,
+    "publicDatabase": "https://sam.gov/search/",
+    "guidanceOnLocatingIds": "To fully search the UEI database requires a login to the US government's Login.gov service. Alternatively, there are open data aggregation sites that replicate the data, for example https://opengovus.com/sam-entity/. The identifier is a 12-digit alphanumeric code that should be used unedited.",
+    "exampleIdentifiers": "YNDUZMUZF8H8, T53MCMLTWK59, UYDJJ1S8DR85",
+    "languages": []
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "original research",
+    "lastUpdated": "2024-07-23"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": "https://en.wikipedia.org/wiki/System_for_Award_Management"
+  },
+  "formerPrefixes": []
+}
