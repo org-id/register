@@ -30,7 +30,7 @@
     "en": "The Corporate and Business Registration Department has the following main functions:\n- The incorporation, registration and striking-off of companies\n- The registration of documents that must be filed under the Companies Act 2001\n- The provision of company information to the  public\n- The enforcement of compliance with the legal requirements\n- Registration of Businesses\n- The Insolvency Service\n- Registration of Limited Partnerships and Foundations"
   },
   "meta": {
-    "lastUpdated": "2018-01-22",
+    "lastUpdated": "2024-08-28",
     "source": "Desk research"
   },
   "access": {
@@ -38,8 +38,8 @@
       "en"
     ],
     "exampleIdentifiers": "C136127, I06004428, C078008",
-    "onlineAccessDetails": "Visit https://portalmns.mu/cbris-name-search/MASTActionServlet?do=acceptlic",
-    "publicDatabase": "https://portalmns.mu/cbris-name-search/MASTActionServlet?do=acceptlic",
+    "onlineAccessDetails": "Visit https://onlinesearch.mns.mu",
+    "publicDatabase": "https://onlinesearch.mns.mu/",
     "availableOnline": true,
     "guidanceOnLocatingIds": "For companies, use the \"Company/Partnership No\" that appears in search results and company information pages.\n\nUsers should be aware that a \"business registration number\" is also in use for some companies, which differs from the Company No/File No.\n\nFor business other than companies/partnerships (e.g. societies), use the Business Registration Number."
   },
