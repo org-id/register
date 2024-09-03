@@ -16,9 +16,7 @@
   "structure": [
     "company"
   ],
-  "sector": [
-    "education"
-  ],
+  "sector": [],
   "code": "MU-CR",
   "confirmed": true,
   "deprecated": false,
