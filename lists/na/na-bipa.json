@@ -1,0 +1,47 @@
+{
+  "name": {
+    "en": "Business and Intellectual Property Authority, Republic of Namibia",
+    "local": ""
+  },
+  "url": "https://www.bipa.na/business-registration/",
+  "description": {
+    "en": "Namibia's Business and Intellectual Property Authority (BIPA) is the focal point for the registration of business and industrial property, and is responsible for the administration and protection of business and intellectual property. It registers domestic enterprises, non-governmental organisations, and foreign companies, issuing Business Registration Numbers and - in the case of foreign enterprises -  Foreign Registration Numbers. BIPA is established as a juristic person in terms of section 3 of the BIPA Act, 2016 (Act No.8 of 2016) and is a Public Enterprise as defined in the Public Enterprises Governance Act, 2019 (Act No.1 of 2019) of Republic of Namibia."
+  },
+  "coverage": [
+    "NA"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company",
+    "charity"
+  ],
+  "sector": [],
+  "code": "NA-BIPA",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": null,
+    "publicDatabase": "https://www.bipa.na/search/",
+    "guidanceOnLocatingIds": "Forward slashes in the registration number should be replaced by hyphens.",
+    "exampleIdentifiers": "CC-2017-11330",
+    "languages": []
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "open_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Information supplied by BIPA officer",
+    "lastUpdated": "2024-09-24"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
