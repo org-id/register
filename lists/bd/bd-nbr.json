@@ -1,0 +1,53 @@
+{
+  "name": {
+    "en": "National Board of Revenue",
+    "local": "জাতীয় রাজস্ব বোর্ড"
+  },
+  "url": "https://nbr.gov.bd/",
+  "description": {
+    "en": "The National Board of Revenue is the authority for tax administration in Bangladesh, including customs excise, VAT, and income tax. Organisations and companies registered with the NBR will be issued with a Value Added Tax Registration Certificate containing their BIN registration number. "
+  },
+  "coverage": [
+    "BD"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company",
+    "charity",
+    "trust"
+  ],
+  "sector": [],
+  "code": "BD-NBR",
+  "confirmed": false,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": null,
+    "publicDatabase": "https://nbr.gov.bd/",
+    "guidanceOnLocatingIds": "A BIN search is available on the NBR homepage. Organisations can also provide their Value Added Tax Registration Certificate which contains their BIN. ",
+    "exampleIdentifiers": "000697679-0101",
+    "languages": [
+      "BN",
+      "EN"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": "No open dataset is available"
+  },
+  "meta": {
+    "source": "Original research",
+    "lastUpdated": "24-09-2024"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": "https://en.wikipedia.org/wiki/National_Board_of_Revenue"
+  },
+  "formerPrefixes": []
+}
