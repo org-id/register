@@ -18,7 +18,7 @@
   ],
   "sector": [],
   "code": "BD-NBR",
-  "confirmed": false,
+  "confirmed": true,
   "deprecated": false,
   "listType": "secondary",
   "access": {
