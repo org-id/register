@@ -20,10 +20,10 @@
   "deprecated": false,
   "listType": "secondary",
   "access": {
-    "availableOnline": false,
+    "availableOnline": true,
     "onlineAccessDetails": "A list of all NGOs registered with the NGO Affairs Bureau, and thus all NGOs who have projects in Bangladesh, is available on the website",
     "publicDatabase": "https://ngoab.gov.bd/site/page/3de95510-5309-4400-97f5-0a362fd0f4e6/",
-    "guidanceOnLocatingIds": "Registration numbers are contained in a PDF published by the Bureau. The latest version of this list can be found at https://ngoab.gov.bd/site/page/3de95510-5309-4400-97f5-0a362fd0f4e6/",
+    "guidanceOnLocatingIds": "Registration numbers are contained in a PDF published by the Bureau. The latest version of this list can be found at: https://ngoab.gov.bd/site/page/3de95510-5309-4400-97f5-0a362fd0f4e6/",
     "exampleIdentifiers": "2330, 2830, 2427",
     "languages": [
       "en",
