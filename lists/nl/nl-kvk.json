@@ -5,7 +5,7 @@
   },
   "url": "https://www.kvk.nl/zoeken/",
   "description": {
-    "en": "All companies and entities (including most NGOs) in the Netherlands must enrol with the Commercial Register, which is hosted by the Dutch Chamber of Commerce. Each entity receives a Chamber of Commerce (KVK) number upon registration.\n\nBasic company information is available for free and more detailed information, such as a Business Register extract or financial statements, can be downloaded for a fee. [1] \n\n\According to the Chamber of Commerce, you have a business when you supply goods or services, you demand more than symbolic payment for these, and you take part in regular commercial transactions. [2] \n\n\NGOs must register as a foundation [3]. \n\n[1] https://www.kvk.nl/en/about-the-business-register/what-information-does-the-dutch-business-register-contain \n[2] https://www.kvk.nl/en/starting/when-do-you-have-a-business \n[3] https://business.gov.nl/starting-your-business/choosing-a-business-structure/what-is-an-ngo-and-how-do-you-start-one"
+    "en": "All companies and entities (including most NGOs) in the Netherlands must enrol with the Commercial Register, which is hosted by the Dutch Chamber of Commerce. Each entity receives a Chamber of Commerce (KVK) number upon registration.\n\nBasic company information is available for free and more detailed information, such as a Business Register extract or financial statements, can be downloaded for a fee. [1]\n\nAccording to the Chamber of Commerce, you have a business when you supply goods or services, you demand more than symbolic payment for these, and you take part in regular commercial transactions [2]. NGOs must register as a foundation [3].\n\n[1] https://www.kvk.nl/en/about-the-business-register/what-information-does-the-dutch-business-register-contain\n[2] https://www.kvk.nl/en/starting/when-do-you-have-a-business\n[3] https://business.gov.nl/starting-your-business/choosing-a-business-structure/what-is-an-ngo-and-how-do-you-start-one"
   },
   "coverage": [
     "NL"
@@ -23,9 +23,9 @@
   "listType": "primary",
   "access": {
     "availableOnline": true,
-    "onlineAccessDetails": "Basic company data is available on the Chamber of Commerce website for free. More detailed information is available for download for a fee.",
+    "onlineAccessDetails": "Basic company data is available on the Chamber of Commerce (KVK) website for free. More detailed information is available for download for a fee.",
     "publicDatabase": "https://www.kvk.nl/zoeken/",
-    "guidanceOnLocatingIds": "Users can search the online database on the Chamber of Commerce website by company name, Chamber of Commerce (KVK) number or keyword. The identifier for this register is the KVK number ('Chamber of Commerce' number in English)",
+    "guidanceOnLocatingIds": "Users can search the online database on the Chamber of Commerce website by company name, Chamber of Commerce (KVK) number or keyword. The identifier for this register is the KVK number ('Chamber of Commerce' number in English).",
     "exampleIdentifiers": "41202535, 54416485, 66140285",
     "languages": [
       "nl",
@@ -46,8 +46,8 @@
     "licenseDetails": "https://opencorporates.com/registers/175"
   },
   "meta": {
-    "source": "Desk research",
-    "lastUpdated": "2024-07-29"
+    "source": "Desk research (including review as part of ProZorro Business Register Research)",
+    "lastUpdated": "2024-10-29"
   },
   "links": {
     "opencorporates": "http://opencorporates.com/companies/nl",
