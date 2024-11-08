@@ -20,10 +20,10 @@
   "deprecated": false,
   "listType": "secondary",
   "access": {
-    "availableOnline": false,
-    "onlineAccessDetails": "Of the two websites, http://103.234.24.210/ is better built. ",
-    "publicDatabase": "A list of all NGOs registered with the NGO Affairs Bureau, and thus all NGOs who have projects in Bangladesh, is available on the website",
-    "guidanceOnLocatingIds": "Registration numbers are contained in a PDF published by the Bureau. The latest version of this list can be found at http://ngoab.portal.gov.bd/sites/default/files/files/ngoab.portal.gov.bd/page/a86a0782_47b2_4756_b226_58e2fd6a97b4/NGO_LIST%20(19).pdf",
+    "availableOnline": true,
+    "onlineAccessDetails": "A list of all NGOs registered with the NGO Affairs Bureau, and thus all NGOs who have projects in Bangladesh, is available on the website",
+    "publicDatabase": "https://ngoab.gov.bd/site/page/3de95510-5309-4400-97f5-0a362fd0f4e6/",
+    "guidanceOnLocatingIds": "Registration numbers are contained in a PDF published by the Bureau. The latest version of this list can be found at: https://ngoab.gov.bd/site/page/3de95510-5309-4400-97f5-0a362fd0f4e6/",
     "exampleIdentifiers": "2330, 2830, 2427",
     "languages": [
       "en",
@@ -34,7 +34,7 @@
     "availability": [
       "pdf"
     ],
-    "dataAccessDetails": "http://ngoab.portal.gov.bd/sites/default/files/files/ngoab.portal.gov.bd/page/a86a0782_47b2_4756_b226_58e2fd6a97b4/NGO_LIST%20(19).pdf",
+    "dataAccessDetails": "https://ngoab.gov.bd/site/page/3de95510-5309-4400-97f5-0a362fd0f4e6/",
     "features": [
       "registered_address",
       "date_of_registration",
@@ -46,7 +46,7 @@
   },
   "meta": {
     "source": "",
-    "lastUpdated": "2016-11-18"
+    "lastUpdated": "2024-10-29"
   },
   "links": {
     "opencorporates": "",
