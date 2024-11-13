@@ -4,7 +4,7 @@
         "opencorporates": null
     },
     "sector": null,
-    "url": "http://www.acnc.gov.au/ACNC/",
+    "url": "https://www.acnc.gov.au/charity/charities",
     "name": {
         "en": "Australian Charities and Not-for-profits Commission",
         "local": ""
@@ -22,15 +22,15 @@
         "licenseStatus": null,
         "availability": null
     },
-    "deprecated": null,
+    "deprecated": true,
     "structure": [
         "charity"
     ],
     "description": {
-        "en": "\"In Australia, charities must register with the Australian Charities and Not-for-profits Commission (ACNC) before they can receive charity tax concessions from the Australian Taxation Office (ATO).\"\n\nCharity Status can be applied to organisations that have an Australian Business Number (ABN) and that take a range of legal forms [1] including Australian Private Company, Australian Public Company, State level registered 'Other Incorporated Entity', Discretionary Investment Trust, Fixed Trusts, Co-operatives and Other Unincorporated Identities. \n\n[1]: http://www.acnc.gov.au/ACNC/Register_my_charity/Who_can_register/Legal_structure/ACNC/Reg/Legal_structure.aspx"
+        "en": "This list and prefix is deprecated in favour of https://org-id.guide/list/AU-ABN, since all charities are registered under their ABN.\n\nDeprecated description:\n\n\"In Australia, charities must register with the Australian Charities and Not-for-profits Commission (ACNC) before they can receive charity tax concessions from the Australian Taxation Office (ATO).\"\n\nCharity Status can be applied to organisations that have an Australian Business Number (ABN) and that take a range of legal forms [1] including Australian Private Company, Australian Public Company, State level registered 'Other Incorporated Entity', Discretionary Investment Trust, Fixed Trusts, Co-operatives and Other Unincorporated Identities. \n\n[1]: http://www.acnc.gov.au/ACNC/Register_my_charity/Who_can_register/Legal_structure/ACNC/Reg/Legal_structure.aspx"
     },
     "meta": {
-        "lastUpdated": "2016-09-06",
+        "lastUpdated": "2024-11-13",
         "source": "Primary research"
     },
     "access": {
