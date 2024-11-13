@@ -10,14 +10,8 @@
   "coverage": [
     "AU"
   ],
-  "subnationalCoverage": [
-    "AF-BDS"
-  ],
   "structure": [
     "charity"
-  ],
-  "sector": [
-    "education"
   ],
   "code": "AU-ACNC",
   "confirmed": true,
