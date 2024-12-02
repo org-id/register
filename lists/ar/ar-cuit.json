@@ -5,7 +5,7 @@
   },
   "url": "",
   "description": {
-    "en": "Any citizen or company starting an economic activity in Argentina must register with the AFIP (Federal Administration of Public Revenues) and receive a Unique Tax Identification Code (CUIT). \n\nThis is an 11 digit number, consisting two digits, hyphen, nine digits, and a one digit checksum. \n"
+    "en": "Any citizen or company starting an economic activity in Argentina must register with the AFIP (Federal Administration of Public Revenues) and receive a Unique Tax Identification Code (CUIT). \n\nThis is an 11 digit number, consisting two digits, hyphen, eight digits, and a one digit checksum. \n"
   },
   "coverage": [
     "AR"
