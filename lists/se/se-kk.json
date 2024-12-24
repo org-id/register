@@ -5,7 +5,7 @@
   },
   "url": "https://www.kammarkollegiet.se/",
   "description": {
-    "en": "A Swedish administrative authority under the Ministry of Finance, which is responsible for the registration of religious communities and organisational units of religious communities. "
+    "en": "This code was previously used for the Swedish Legal, Financial and Administrative Services Agency's organisation references. It has been deprecated in favour of https://org-id.guide/list/SE-ON and should no longer be used."
   },
   "coverage": [
     "SE"
