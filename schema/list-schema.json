@@ -6819,21 +6819,21 @@
             "title": "List reviewed?", 
             "description": "Once this list has been reviewed by an administrator, this value can be set as true. Only reviewed codes should be included in production systems, and non-confirmed codes should be treated as drafts.", 
             "propertyOrder": 8, 
-            "type": "boolean", 
+            "type": ["boolean","null"],
             "default": false
         }, 
         "deprecated": {
             "title": "Deprecated?", 
             "description": "If this list has been removed from active use, deprecated should be set to true. The description of the list should be updated to explain the reason for deprecation. Systems should warn users against using deprecated lists.", 
             "propertyOrder": 9, 
-            "type": "boolean", 
+            "type": ["boolean","null"],
             "default": false
         }, 
         "listType": {
             "title": "List type", 
             "description": "You will need to determine if this list is a primary identifier list or whether it has secondary, third-party or local status.", 
             "propertyOrder": 10, 
-            "type": "string", 
+            "type": ["string", "null"],
             "options": {
                 "enum_titles": [
                     "Primary", 
@@ -6876,7 +6876,7 @@
                     "description": "Where should users go to search or access this list?", 
                     "propertyOrder": 10.35, 
                     "id": "publicDatabase", 
-                    "type": "string", 
+                    "type": ["string", "null"],
                     "format": "url", 
                     "default": "http://"
                 }, 
@@ -6885,13 +6885,13 @@
                     "description": "Provide brief guidance on how someone visiting the URL for this list should locate an identifier. This should include a description of any steps that need to be taken for format the identifier that is returned.", 
                     "propertyOrder": 10.4, 
                     "format": "textarea", 
-                    "type": "string"
+                    "type": ["string", "null"]
                 }, 
                 "exampleIdentifiers": {
                     "title": "Example identifiers", 
                     "description": "Please give a short list (3 - 5 entries) with example identifiers from this register. These should be formatted for use in an org-id string (e.g. removing spaces, or special characters). Where a list contains a range of different kinds of identifiers, try to provide a representative sample.", 
                     "propertyOrder": 10.5, 
-                    "type": "string"
+                    "type": ["string", "null"]
                 }, 
                 "languages": {
                     "title": "Languages", 
@@ -6952,7 +6952,7 @@
                     "title": "Data access details (was dataAccessDetails)", 
                     "description": "Please describe how to access data in the formats listed above. Include additional URLs where neccessary.", 
                     "propertyOrder": 11.2, 
-                    "type": "string", 
+                    "type": ["string", "null"],
                     "format": "textarea"
                 }, 
                 "features": {
@@ -7037,7 +7037,7 @@
                 "licenseDetails": {
                     "title": "License details", 
                     "description": "Details of the license, including a link to the license where applicable.", 
-                    "type": "string"
+                    "type": ["string", "null"]
                 }
             }
         }, 
@@ -7051,13 +7051,13 @@
                     "title": "Source", 
                     "description": "Please briefly describe the source of the information (e.g. original research; official records etc.).", 
                     "propertyOrder": 15.1, 
-                    "type": "string"
+                    "type": ["string", "null"]
                 }, 
                 "lastUpdated": {
                     "title": "Last updated", 
                     "description": "A timestamp to the last update to this record", 
                     "propertyOrder": 15.2, 
-                    "type": "string", 
+                    "type": ["string", "null"],
                     "format": "datetime"
                 }
             }
@@ -7070,14 +7070,14 @@
             "properties": {
                 "opencorporates": {
                     "title": "Open Corporates", 
-                    "description": "A link to the Open Corporates page for this identifier should be provide **only when** Open Corporates has dataset for this list.", 
-                    "type": "string", 
+                    "description": "A link to the Open Corporates page for this identifier should be provide **only when** Open Corporates has dataset for this list.",
+                    "type": ["string", "null"],
                     "format": "url"
                 }, 
                 "wikipedia": {
                     "title": "Wikipedia page", 
                     "description": "If there is a wikipedia page that provides context to this this list (e.g. page describing the registrar behind the list) the link should be included here.", 
-                    "type": "string", 
+                    "type": ["string", "null"],
                     "format": "url"
                 }
             }
