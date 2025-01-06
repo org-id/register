@@ -3,9 +3,9 @@
     "en": "Research Organization Registry",
     "local": ""
   },
-  "url": "https://ror.community/",
+  "url": "https://ror.org/",
   "description": {
-    "en": "The Research Organization Registry (ROR) is a community-led project to develop an open, sustainable, usable, and unique identifier for every research organization in the world. The definition ROR use for a \"research organization\" is \"any organization that conducts, produces, manages, or touches research\".\n\nThe list is seeded from GRID, but with a long-term intention to diverge from this."
+    "en": "The Research Organization Registry (ROR) is a community-led project to develop an open, sustainable, usable, and unique identifier for every research organization in the world. The definition ROR use for a \"research organization\" is \"any organization that conducts, produces, manages, or touches research\".\n\nThe ROR list became independent from the Global Research Identifier Database (GRID) in 2021 and should be used in preference as GRID identifiers are no longer being maintained.[1]\n\n[1] https://www.grid.ac/"
   },
   "coverage": [
     "XI"
@@ -34,9 +34,9 @@
   "listType": "third_party",
   "access": {
     "availableOnline": true,
-    "onlineAccessDetails": "Using the URL, there is a search interface which allows you to find research organizations and identifiers",
+    "onlineAccessDetails": "Go to https://ror.org/ and use the 'search the registry' box to search research organizations by name or ROR identifier.",
     "publicDatabase": "https://ror.org/",
-    "guidanceOnLocatingIds": "Using the URL, there is a search interface which allows you to find research organizations and identifiers",
+    "guidanceOnLocatingIds": "",
     "exampleIdentifiers": "05asf4e91, 01kj2bm70, 049e6bc10",
     "languages": [
       "en"
@@ -60,8 +60,8 @@
     "licenseDetails": "https://creativecommons.org/publicdomain/zero/1.0//"
   },
   "meta": {
-    "source": "Original Research",
-    "lastUpdated": "2020-05-05"
+    "source": "Desk Research",
+    "lastUpdated": "2025-01-06"
   },
   "links": {
     "opencorporates": "",
