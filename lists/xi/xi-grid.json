@@ -1,7 +1,7 @@
 {
     "links": {
-        "wikipedia": null,
-        "opencorporates": null
+        "wikipedia": [],
+        "opencorporates": []
     },
     "sector": [
         "education",
@@ -12,33 +12,31 @@
         "en": "Global Research Identifiers Database",
         "local": ""
     },
-    "coverage": null,
+    "coverage": ["XI"],
     "code": "XI-GRID",
-    "formerPrefixes": null,
+    "formerPrefixes": [],
     "confirmed": true,
     "data": {
         "features": [
             "contact_address",
             "website",
-            "organisation_type",
-            "date_of_foundation",
             "akas"
         ],
-        "dataAccessDetails": null,
+        "dataAccessDetails": [],
         "licenseDetails": "The dataset is accessible under Creative Commons Attribution 4.0 International licence. API access is a premium service.",
         "licenseStatus": "open_license",
         "availability": [
-            "bulk_download",
+            "bulk",
             "api"
         ]
     },
-    "deprecated": null,
-    "structure": null,
+    "deprecated": true,
+    "structure": [],
     "description": {
-        "en": "The Global Research Identifiers Database collects information on research institutions and assigns them a unique identifier.\n\nIt draws on information from funding datasets, and claims over 90% coverage of institutions. \n\nIt records information on the nature of the research organisation, covering companies, education establishments, healthcare, non-profits, government and other entity types. \n\nGRID also records parent-child relationships between entities, and 'related relationships' for cross-linkages. \n\nIt includes cross-linkages to a range of other identifier sources. "
+        "en": "The Global Research Identifiers Database previously assigned unique identifiers to research institutions. It has been deprecated in favour of https://org-id.guide/list/XI-ROR and should no longer be used.\n\nIt recorded information on the nature of the research organisation, covering companies, education establishments, healthcare, non-profits, government and other entity types. \n\nGRID also recorded parent-child relationships between entities, related relationships and cross-linkages to a range of other identifier sources."
     },
     "meta": {
-        "lastUpdated": "2016-12-30",
+        "lastUpdated": "2025-01-15",
         "source": "Desk research"
     },
     "access": {
@@ -46,11 +44,11 @@
             "en"
         ],
         "exampleIdentifiers": "grid.17063.33, grid.419696.5, grid.1957.a",
-        "onlineAccessDetails": "An online search and database download are both available. ",
-        "publicDatabase": "https://www.grid.ac/downloads",
-        "availableOnline": false,
-        "guidanceOnLocatingIds": "A search of identifiers is available at https://www.grid.ac/institutes\n\nIdentifier numbers should be presented in their full form:\n\nE.g. XI-GRID-grid.17063.33"
+        "onlineAccessDetails": "Previous releases of the GRID database are available to download up until September 2021.",
+        "publicDatabase": "https://www.grid.ac",
+        "availableOnline": true,
+        "guidanceOnLocatingIds": []
     },
-    "subnationalCoverage": null,
-    "listType": "third-party"
+    "subnationalCoverage": [],
+    "listType": "third_party"
 }
