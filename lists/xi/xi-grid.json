@@ -1,7 +1,7 @@
 {
     "links": {
-        "wikipedia": [],
-        "opencorporates": []
+        "wikipedia": "",
+        "opencorporates": ""
     },
     "sector": [
         "education",
@@ -22,7 +22,7 @@
             "website",
             "akas"
         ],
-        "dataAccessDetails": [],
+        "dataAccessDetails": "",
         "licenseDetails": "The dataset is accessible under Creative Commons Attribution 4.0 International licence. API access is a premium service.",
         "licenseStatus": "open_license",
         "availability": [
@@ -47,7 +47,7 @@
         "onlineAccessDetails": "Previous releases of the GRID database are available to download up until September 2021.",
         "publicDatabase": "https://www.grid.ac",
         "availableOnline": true,
-        "guidanceOnLocatingIds": []
+        "guidanceOnLocatingIds": ""
     },
     "subnationalCoverage": [],
     "listType": "third_party"
