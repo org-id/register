@@ -7,9 +7,7 @@
   "description": {
     "en": "The Research Organization Registry (ROR) is a community-led project to develop an open, sustainable, usable, and unique identifier for every research organization in the world. The definition ROR use for a \"research organization\" is \"any organization that conducts, produces, manages, or touches research\".\n\nThe ROR list became independent from the Global Research Identifier Database (GRID) in 2021 and should be used in preference as GRID identifiers are no longer being maintained.[1]\n\n[1] https://www.grid.ac/"
   },
-  "coverage": [
-    "XI"
-  ],
+  "coverage": null,
   "subnationalCoverage": [],
   "structure": [
     "charity",
