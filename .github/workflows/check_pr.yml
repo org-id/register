@@ -1,0 +1,24 @@
+name: Check PR
+on: [pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+    - name: Setup python
+      uses: actions/setup-python@v5
+      with:
+        python-version: 3.11
+        architecture: x64
+    # "fetch-depth: 0" only sets up in the remote - if you want local branches you have to run ... https://github.com/actions/checkout/issues/1017
+    - run: git fetch origin main:main
+    - run: git fetch origin ${GITHUB_HEAD_REF}:${GITHUB_HEAD_REF}
+    # The versionedcheck feature we want is not released yet; so install directly from git for now.
+    # Can go back to pypi install when datatig V 0.8.0 is released.
+    #- run: pip install datatig
+    - run: pip install git+https://github.com/datatig/datatig.git@main#egg=datatig
+    - run: python -m datatig versionedcheck --mode=all_in_changed_records . main ${GITHUB_HEAD_REF}
+
