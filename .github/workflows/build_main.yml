@@ -1,0 +1,32 @@
+name: Build and Deploy main branch on GH pages
+on:
+  push:
+     branches:
+        - main
+
+jobs:
+  build_deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup python
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3.12
+          architecture: x64
+      - name: Install DataTig
+        run: "pip install datatig"
+      - name: Make output directory
+        run: "mkdir -p _site/datatig"
+      - name: Build DataTig site
+        run: "python -m datatig.cli build . --staticsiteoutput _site/datatig --staticsiteurl https://org-id.github.io/register/datatig"
+      - name: Upload Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "./_site"
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
