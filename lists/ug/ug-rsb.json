@@ -44,7 +44,7 @@
         "onlineAccessDetails": "",
         "publicDatabase": "https://brs.ursb.go.ug/brs/pro/bnr/searchname",
         "availableOnline": true,
-        "guidanceOnLocatingIds": "Users can search organisations by name to find their identifier on the bureau website. Users must complete a Captcha puzzle in order to search. The identifiers will be under the column header 'Nr'.\n\nUsers should be aware that identifiers are not formed in a uniform manner, and use slashes and hyphens."
+        "guidanceOnLocatingIds": "Users can search organisations by name to find their identifier on the bureau website: https://brs.ursb.go.ug/brs/pro/bnr/searchname \n\nUsers must complete a Captcha puzzle in order to search. The identifiers will be under the column header 'Nr'.\n\nUsers should be aware that identifiers are not formed in a uniform manner, and use slashes and hyphens."
     },
     "subnationalCoverage": [],
     "listType": "primary"
