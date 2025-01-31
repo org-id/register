@@ -22,9 +22,9 @@
   "listType": "primary",
   "access": {
     "availableOnline": false,
-    "onlineAccessDetails": "Data available in online database. Default language is Swedish",
-    "publicDatabase": "https://www.verksamt.se/sok-foretagsnamn",
-    "guidanceOnLocatingIds": "Users can find identifiers by using the simple, searchable database. This database is presented in Swedish.\n\nIn the search results, the identifiers can be found under the column heading 'Organisations-nummer' or 'Corporate registration number' in English.\n\n",
+    "onlineAccessDetails": "",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "",
     "exampleIdentifiers": "556698-6849, 769611-2163, 969698-3833",
     "languages": [
       "sv"
@@ -42,7 +42,7 @@
   },
   "meta": {
     "source": "Desk research",
-    "lastUpdated": "2016-12-07"
+    "lastUpdated": "2025-01-31"
   },
   "links": {
     "opencorporates": "http://opencorporates.com/companies/se",
