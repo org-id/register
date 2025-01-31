@@ -1,42 +1,39 @@
 {
     "links": {
-        "wikipedia": null,
-        "opencorporates": null
+        "wikipedia": "",
+        "opencorporates": ""
     },
-    "sector": null,
-    "url": "http://www.ursb.go.ug/",
+    "sector": [],
+    "url": "https://ursb.go.ug/",
     "name": {
-        "en": "Registration Services Bureau",
+        "en": "Uganda Registration Services Bureau (URSB)",
         "local": ""
     },
     "coverage": [
         "UG"
     ],
     "code": "UG-RSB",
-    "formerPrefixes": null,
+    "formerPrefixes": [],
     "confirmed": true,
     "data": {
         "features": [
             "date_of_registration",
             "registration_number",
-            "organisation_name",
             "status",
             "expiry_date"
         ],
         "dataAccessDetails": "Users must complete Captcha puzzle in order to search",
-        "licenseDetails": null,
-        "licenseStatus": null,
-        "availability": [
-            "html"
-        ]
+        "licenseDetails": "",
+        "licenseStatus": "",
+        "availability": []
     },
-    "deprecated": null,
-    "structure": null,
+    "deprecated": false,
+    "structure": [],
     "description": {
-        "en": "Businesses and NGOs register with the Registration Services Bureau and receive an identification number. This number can be used as an identifier. A publicly available database can be search on the Bureau website."
+        "en": "Businesses and NGOs in Uganda register with the Registration Services Bureau and receive an identification number. This number can be used as an identifier. A publicly available database can be searched on the Bureau website."
     },
     "meta": {
-        "lastUpdated": "2016-12-16",
+        "lastUpdated": "2025-01-31",
         "source": "Desk research"
     },
     "access": {
@@ -44,11 +41,11 @@
             "en"
         ],
         "exampleIdentifiers": "80010001803086 / BN-55471 , R1000000336259 , 80010003208981 / 101303A",
-        "onlineAccessDetails": null,
+        "onlineAccessDetails": "",
         "publicDatabase": "http://brs.ursb.go.ug/brs/pro/bnr/searchname#SearchNamePub",
-        "availableOnline": false,
-        "guidanceOnLocatingIds": "Users can find identifiers by using the database on the bureau website. Users must complete a Captcha puzzle in order to search. The identifiers will be under the column header 'Nr'.\n\nUsers should be aware that identifiers are not formed in a uniform manner, and use slashes and hyphens."
+        "availableOnline": true,
+        "guidanceOnLocatingIds": "Users can search organisations by name to find their identifier on the bureau website. Users must complete a Captcha puzzle in order to search. The identifiers will be under the column header 'Nr'.\n\nUsers should be aware that identifiers are not formed in a uniform manner, and use slashes and hyphens."
     },
-    "subnationalCoverage": null,
+    "subnationalCoverage": [],
     "listType": "primary"
 }
