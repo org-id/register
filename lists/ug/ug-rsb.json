@@ -42,7 +42,7 @@
         ],
         "exampleIdentifiers": "80010001803086 / BN-55471 , R1000000336259 , 80010003208981 / 101303A",
         "onlineAccessDetails": "",
-        "publicDatabase": "http://brs.ursb.go.ug/brs/pro/bnr/searchname#SearchNamePub",
+        "publicDatabase": "https://brs.ursb.go.ug/brs/pro/bnr/searchname",
         "availableOnline": true,
         "guidanceOnLocatingIds": "Users can search organisations by name to find their identifier on the bureau website. Users must complete a Captcha puzzle in order to search. The identifiers will be under the column header 'Nr'.\n\nUsers should be aware that identifiers are not formed in a uniform manner, and use slashes and hyphens."
     },
