@@ -24,7 +24,7 @@
         ],
         "dataAccessDetails": "Users must complete Captcha puzzle in order to search",
         "licenseDetails": "",
-        "licenseStatus": "",
+        "licenseStatus": "no_license",
         "availability": []
     },
     "deprecated": false,
