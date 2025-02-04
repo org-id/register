@@ -5,7 +5,7 @@
   },
   "url": "https://fcraonline.nic.in/",
   "description": {
-    "en": "The Foreign Contributions (Regulation) Act required NGOs in receipt of foreign funding in India to register with the government. They are assigned an FRCA Registration Number.\n\n"
+    "en": "The Foreign Contributions (Regulation) Act required NGOs in receipt of foreign funding in India to register with the government. They are assigned an FRCA Registration Number.\n\nLists of registered organisations can be found online by state and year: https://fcraonline.nic.in/fc8_statewise.aspx"
   },
   "coverage": [
     "IN"
@@ -19,7 +19,7 @@
   "confirmed": true,
   "deprecated": false,
   "access": {
-    "onlineAccessDetails": "A full search service for identifiers does not appear to be available. However, a service is available from the website to verify identifiers, which will return information on the address and validity of an FRCA certificate when an identifier is supplied.",
+    "onlineAccessDetails": "A full search service for identifiers does not appear to be available. However, a service is available from the website to verify identifiers: https://fcraonline.nic.in/fc_reg_certificate_details_verification1.aspx. This will return information on the address and validity of an FRCA certificate when an identifier is supplied.",
     "publicDatabase": "https://fcraonline.nic.in/fc_reg_certificate_details_verification1.aspx",
     "guidanceOnLocatingIds": "Some states appear to publish lists of local FRCA numbers, and a web search for an organisation name and 'FRCA' may identify it's number, which can be verified through the FRCA Online website. \n\nOrganisations may also be able to provide their own identifiers. ",
     "exampleIdentifiers": "104860017, 147040594",
@@ -42,7 +42,7 @@
   },
   "meta": {
     "source": "IATI",
-    "lastUpdated": "2017-06-25"
+    "lastUpdated": "2025-02-04"
   },
   "links": {
     "opencorporates": "",
