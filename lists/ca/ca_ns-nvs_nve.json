@@ -1,9 +1,9 @@
 {
     "links": {
-        "wikipedia": null,
-        "opencorporates": null
+        "wikipedia": "",
+        "opencorporates": ""
     },
-    "sector": null,
+    "sector": [],
     "url": "http://novascotia.ca/sns/access/business/registry-joint-stock-companies.asp",
     "name": {
         "en": "Nova Scotia Registry of Joint Stock Companies ",
@@ -13,26 +13,25 @@
         "CA"
     ],
     "code": "CA_NS-NVS_NVE",
-    "formerPrefixes": null,
+    "formerPrefixes": [],
     "confirmed": true,
     "data": {
-        "features": null,
-        "dataAccessDetails": null,
-        "licenseDetails": null,
+        "features": [],
+        "dataAccessDetails": "",
+        "licenseDetails": "",
         "licenseStatus": "closed_license",
-        "availability": [
-            "html"
-        ]
+        "availability": []
     },
-    "deprecated": null,
+    "deprecated": false,
     "structure": [
-        "company"
+        "company",
+        "charity"
     ],
     "description": {
-        "en": "This entry was imported from the Open Corporates Jurisdiction List."
+        "en": "Find business or non-profit information on file for the province of Nova Scotia with the Registry of Joint Stock Companies. This includes official names, addresses, registration dates, names and addresses of recognized agents, and names of partners, directors and officers.\n\nThis list entry was originally imported from the Open Corporates Jurisdiction List."
     },
     "meta": {
-        "lastUpdated": "2016-09-07",
+        "lastUpdated": "2025-02-04",
         "source": "Desk research"
     },
     "access": {
@@ -40,11 +39,11 @@
             "en",
             "fr"
         ],
-        "exampleIdentifiers": null,
-        "onlineAccessDetails": null,
-        "publicDatabase": "https://rjsc.gov.ns.ca/rjsc/search/doSearch.do",
-        "availableOnline": false,
-        "guidanceOnLocatingIds": null
+        "exampleIdentifiers": "1542067, 3276546",
+        "onlineAccessDetails": "Organisations can be searched by name on this webpage: https://rjsc.novascotia.ca/ \n\n The registration number is given in the search results, in the column headed 'Number'.",
+        "publicDatabase": "https://rjsc.novascotia.ca/",
+        "availableOnline": true,
+        "guidanceOnLocatingIds": ""
     },
     "subnationalCoverage": [
         "CA-NS"
