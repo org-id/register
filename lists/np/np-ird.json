@@ -5,7 +5,7 @@
   },
   "url": "https://ird.gov.np/",
   "description": {
-    "en": "The Inland Revenue Department is responsible for the administration of Value Added Tax, Income Tax, and Excise Duty. In the performance of these duties it maintains a register of Permanent Account Numbers (PANs) the unique taxpayer identification number for Nepal.\n\nThis register covers individuals as well as legal entities. Org-id does not recommend using the PAN of an individual person as a unique identifier.\n\nThe PAN is described as follows[1]:\n\nPAN is a unique identification number, which is issued to all the taxpayers and Tax Deducted at Source (TDS) withholding agents throughout the kingdom. PAN identifies each taxpayer or TDS withholding agent uniquely countrywide.\nPAN is necessary to process taxpayers or TDS withholding agents using computer systems.\nPAN is allotted only once in the lifetime of a taxpayer or TDS withholding agent. It never changes.\n\n[1] https://nepaltradeportal.gov.np/resources/docs/IndividualRegistration(English)1172014102329AM.pdf"
+    "en": "The Inland Revenue Department is responsible for the administration of Value Added Tax, Income Tax, and Excise Duty. In the performance of these duties it maintains a register of Permanent Account Numbers (PANs) the unique taxpayer identification number for Nepal.\n\nThis register covers individuals as well as legal entities. Org-id does not recommend using the PAN of an individual person as a unique identifier.\n\nThe PAN is described as follows [1]:\n\n- A unique identification number, which is issued to all the taxpayers and Tax Deducted at Source (TDS) withholding agents throughout the kingdom. \n- It identifies each taxpayer or TDS withholding agent uniquely countrywide.\n- It is necessary to process taxpayers or TDS withholding agents using computer systems.\n- It is allotted only once in the lifetime of a taxpayer or TDS withholding agent. It never changes.\n\n[1] https://nepaltradeportal.gov.np/resources/docs/IndividualRegistration(English)1172014102329AM.pdf"
   },
   "coverage": [
     "NP"
@@ -40,8 +40,8 @@
     "licenseDetails": ""
   },
   "meta": {
-    "source": "desk research based on enquiry made to org-id contact address",
-    "lastUpdated": "2019-06-18"
+    "source": "Desk research based on enquiry made to org-id contact address",
+    "lastUpdated": "2025-02-04"
   },
   "links": {
     "opencorporates": "",
