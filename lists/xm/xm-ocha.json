@@ -1,7 +1,7 @@
 {
     "links": {
-        "wikipedia": null,
-        "opencorporates": null
+        "wikipedia": "",
+        "opencorporates": ""
     },
     "sector": [
         "humanitarian_relief"
@@ -11,14 +11,13 @@
         "en": "United Nations Office for the Coordination of Humanitarian Affairs - Humanitarian Programme Cycle Identifiers",
         "local": ""
     },
-    "coverage": null,
+    "coverage": [],
     "code": "XM-OCHA",
     "formerPrefixes": ["XM-OCHA-FTS"],
     "confirmed": true,
     "data": {
         "features": [
-            "akas",
-            "organisation_name"
+            "akas"
         ],
         "dataAccessDetails": "A list of identifiers is available via an API, which provides data in JSON or XML formats. ",
         "licenseDetails": "No explicit license is given. Note that the data may contain contributions from multiple sources.",
@@ -28,25 +27,25 @@
             "api"
         ]
     },
-    "deprecated": null,
-    "structure": null,
+    "deprecated": false,
+    "structure": [],
     "description": {
-        "en": "OCHA (Office for the Coordination of Humanitarian Affairs) is the part of the United Nations Secretariat responsible for bringing together humanitarian actors to ensure a coherent response to emergencies. \n\nOCHA assigns it's own organisation identifiers to parties involved in funding or delivery of humanitarian work, which are used in UN OCHA data, and may be used by some third-parties.\n\nPreviously OCHA used identifiers from its Financial Tracking System (FTS) list. It has now changed and uses identifiers from its Humanitarian Programme Cycle (HPC) list. \n\nOrganisations may have different identifiers on the two lists. For example, if an organisation has a legacy code of XM-OCHA-FTS3524 then it does NOT automatically have a new code of XM-OCHA-HPC3524.The deprecated list may be found at http://fts.unocha.org/api/v1/organization.xml although this should only be used for checking historic data and there is no guarantee that it will remain accessible in the future."
+        "en": "OCHA (Office for the Coordination of Humanitarian Affairs) is the part of the United Nations Secretariat responsible for bringing together humanitarian actors to ensure a coherent response to emergencies. \n\nOCHA assigns it's own organisation identifiers to parties involved in funding or delivery of humanitarian work, which are used in UN OCHA data, and may be used by some third-parties.\n\nPreviously OCHA used identifiers from its Financial Tracking System (FTS) list. It has now changed and uses identifiers from its Humanitarian Programme Cycle (HPC) list. \n\nOrganisations may have different identifiers on the two lists. For example, if an organisation has a legacy code of XM-OCHA-FTS3524 then it does NOT automatically have a new code of XM-OCHA-HPC3524. The deprecated FTS identifier list is no longer available online."
     },
     "meta": {
-        "lastUpdated": "2019-03-27",
+        "lastUpdated": "2025-02-25",
         "source": "Desk research"
     },
     "access": {
         "languages": [
             "en"
         ],
-        "exampleIdentifiers": "HPC8597. HPC9324",
+        "exampleIdentifiers": "HPC8597, HPC9324",
         "onlineAccessDetails": "A list of identifiers is available via an API, which provides data in JSON or XML formats.  ",
         "publicDatabase": "https://api.hpc.tools/docs/v1/",
         "availableOnline": true,
         "guidanceOnLocatingIds": "A list of identifiers is available in XML and JSON form from the UN OCHA Humanitarian Programme Cycle API [1] at 'https://api.hpc.tools/v1/public/organization'\n\nThe identifier, following the UNOCHA pattern of usage, is made up of the id field from the XML or JSON, prefixed with 'HPC' to give identifiers of the form:\n\n> 'XM-OCHA-HPC8908\n\n[1]: https://api.hpc.tools/docs/v1/"
     },
-    "subnationalCoverage": null,
+    "subnationalCoverage": [],
     "listType": "local"
 }
