@@ -22,10 +22,10 @@
   "listType": "primary",
   "access": {
     "availableOnline": true,
-    "onlineAccessDetails": "An online search is available which requires the user to select which kind of entity they are looking for (Company, LLP), and to search on full or partial name. \n\nBulk data is also available from Data.gov.in.",
-    "publicDatabase": "https://www.mca.gov.in/mcafoportal/findCIN.do",
-    "guidanceOnLocatingIds": "The online search at https://www.mca.gov.in/mcafoportal/findCIN.do requires you to choose whether you are searching for an LLP or Company, and to select that you are searching on name. Searches also require completion of a CAPTCHA. \n\nThe identification number is given in the results table under the heading 'CIN / LLPIN'\n\nTo access bulk data, users can also go to https://data.gov.in/search website and apply the filter for the Ministry of Corporate Affairs. Company data is then represented in a number of datasets. Users can click on the 'Company Master Data' box and will be presented with datasets for each Registrar of Companies.\n\nThese datasets can either be accessed through the API or downloaded as a CSV. If downloaded as a CSV, the identifier will be under the column header 'CORPORATE_IDENTIFICATION_NUMBER'",
-    "exampleIdentifiers": "L24111UR1986PLC015895, U01111UR1995PLC017979, AAE-8458",
+    "onlineAccessDetails": "An online search is available at https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/findCinFinalSingleCom.html. This is based on company or LLP name, local registration number, or CIN. \n\nBulk data is also available from Data.gov.in.",
+    "publicDatabase": "https://www.mca.gov.in/content/mca/global/en/mca/fo-llp-services/findCinFinalSingleCom.html",
+    "guidanceOnLocatingIds": "The online search requires you to choose what you are searching on (registration number; current or old Company/LLP name; inactive CIN). Searches also require completion of a CAPTCHA. \n\nThe identification number is given in the results table under the heading 'CIN / LLPIN'\n\nTo access bulk data, users can also go to https://data.gov.in/search website and apply the filter for the Ministry of Corporate Affairs. Company data is then represented in a number of datasets. Users can click on the 'Company Master Data' box and will be presented with datasets for each Registrar of Companies.\n\nThese datasets can either be accessed through the API or downloaded as a CSV. If downloaded as a CSV, the identifier will be under the column header 'CORPORATE_IDENTIFICATION_NUMBER'",
+    "exampleIdentifiers": "L24111UR1986PLC015895, U01111UR1995PLC017979",
     "languages": [
       "en",
       "hi"
@@ -47,7 +47,7 @@
   },
   "meta": {
     "source": "Desk research",
-    "lastUpdated": "2023-08-24"
+    "lastUpdated": "2025-03-06"
   },
   "links": {
     "opencorporates": "http://opencorporates.com/companies/in",
