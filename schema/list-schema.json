@@ -6797,7 +6797,7 @@
                 }, 
                 "enum": [
                     "education", 
-                    "humantiarian_relief", 
+                    "humanitarian_relief", 
                     "research"
                 ], 
                 "type": [
