@@ -5,7 +5,7 @@
   },
   "url": "http://www.mia.go.ug/?page_id=62",
   "description": {
-    "en": "All NGOs wishing to operate in Uganda must register with the NGO Board of the Ministry of Internal Affairs. \n\n\"The National NGO Board under the Ministry of Internal Affairs, which is the lead Ministry, is legally mandated to register, regulate, coordinate and monitor NGOs in Uganda.\""
+    "en": "This list is deprecated and should no longer be used. Refer to https://org-id.guide/list/UG-NGO instead. \n\n All NGOs wishing to operate in Uganda now register with the Ugandan National Bureau for NGOs (NGO Bureau), which is a semi-autonomous body under the Ministry of Internal Affairs. \n\n Previously, this registration was with the National 'NGO Board'."
   },
   "coverage": [
     "UG"
@@ -21,10 +21,10 @@
   "listType": "secondary",
   "access": {
     "availableOnline": false,
-    "onlineAccessDetails": null,
-    "publicDatabase": "http://brs.ursb.go.ug/brs/pro/bnr/searchname#SearchNamePub",
-    "guidanceOnLocatingIds": "Users can search for NGO identifiers on the Uganda Registration Services Bureau database.\n\nUsers should note that current research has not found this database to work when selecting 'NGO' on the 'Business type' drop-down menu. It is possible to search for NGO names and find results.\n\nUsers should be aware that identifiers are not formed in a uniform manner, and use slashes and hyphens.",
-    "exampleIdentifiers": "80010001803086/BN-55471 , R1000000336259 , 80010003208981/101303A",
+    "onlineAccessDetails": "",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "5914-252, 63360",
     "languages": [
       "en"
     ]
@@ -43,7 +43,7 @@
   },
   "meta": {
     "source": "",
-    "lastUpdated": "2016-12-19"
+    "lastUpdated": "2025-03-10"
   },
   "links": {
     "opencorporates": "http://opencorporates.com/companies/ug",
