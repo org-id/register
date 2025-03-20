@@ -1,11 +1,11 @@
 {
   "name": {
-    "en": "Tax ID (DIČ) Czech Republic",
+    "en": "Tax ID (DIČ) - Ministry of Finance of the Czech Republic",
     "local": "Daňové identifikační číslo"
   },
-  "url": "http://www.kurzy.cz/dic/",
+  "url": "https://mfcr.cz/en/regulation-and-taxes/taxes",
   "description": {
-    "en": "A VAT registration number (DIČ) is a unique and unambiguous identification of each tax entity, a legal or natural person who is a taxpayer (taxpayer). The tax identification number is assigned only after the entity, natural or legal person, obtains its IČO - its unique identification number. Note that the list [CZ-ICO](/list/CZ-ICO) might therefore provide a better set of identifiers for legal entities.\n\nYou can search by VAT (DIČ) number for a of the VAT payer registered in the Czech Republic. You can also use your company ID or company name or your business name and surname if you want to verify your VAT payer details."
+    "en": "A VAT registration number (DIČ) is a unique and unambiguous identification of each entity or individual that is a taxpayer. The tax identification number is assigned only after the entity, natural, or legal person obtains its IČO (unique identification number). Note that the list CZ-ICO (https://org-id.guide/list/CZ-ICO) might therefore provide a better set of identifiers for legal entities.\n\nYou can search by VAT (DIČ) number of the VAT payer registered in the Czech Republic. You can also use your company ID, company name or your business name and surname if you want to verify your VAT payer details."
   },
   "coverage": [
     "CZ"
@@ -18,12 +18,12 @@
   "code": "CZ-DIC",
   "confirmed": true,
   "deprecated": false,
-  "listType": "third_party",
+  "listType": "secondary",
   "access": {
     "availableOnline": true,
-    "onlineAccessDetails": "DIČ number can be validated by entering it in the `Vyhledávání v registru plátců DPH` section and then clicking `Vyhledat registraci`. Search results will provide company details",
-    "publicDatabase": "http://www.kurzy.cz/dic/",
-    "guidanceOnLocatingIds": "DIČ number will be under `DIČ` header",
+    "onlineAccessDetails": "A DIČ number can be validated by entering it in the search box on this page: https://adisspr.mfcr.cz/dpr/DphReg.\n\n A third-party site (https://www.kurzy.cz/dic/) also allows searches on a company or individual's name. Enter your search terms in the `Vyhledávání v registru plátců DPH` section and click `Vyhledat registraci`.",
+    "publicDatabase": "https://adisspr.mfcr.cz/dpr/DphReg",
+    "guidanceOnLocatingIds": "",
     "exampleIdentifiers": "CZ25111299",
     "languages": [
       "cs"
@@ -40,7 +40,7 @@
   },
   "meta": {
     "source": "ProZorro Business Register Research",
-    "lastUpdated": "2017-11-08"
+    "lastUpdated": "2025-03-20"
   },
   "links": {
     "opencorporates": "",
