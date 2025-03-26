@@ -29,7 +29,7 @@
         "company"
     ],
     "description": {
-        "en": "The Companies and Intellectual Property Commission (CIPC) is responsible for company registration in South Africa. There is a basic free database search, or users can subscribe to the CIPC website.\n\n\"Functions of the Commission:\n\n- The CIPC does registration of companies, co-operatives and intellectual property rights (trade marks, patents, designs and copyright) and maintenance thereof.\n- Disclosure of Information on its business registers\" [1] \n\n[1] https://www.cipc.co.za/?page_id=685"
+        "en": "The Companies and Intellectual Property Commission (CIPC) is responsible for company registration in South Africa. Users need to log in to https://bizportal.gov.za/ to perform a business search.\n\n\"Functions of the Commission:\n\n- The CIPC does registration of companies, co-operatives and intellectual property rights (trade marks, patents, designs and copyright) and maintenance thereof.\n- Disclosure of Information on its business registers\" [1] \n\n[1] https://www.cipc.co.za/?page_id=685"
     },
     "meta": {
         "lastUpdated": "2025-03-26",
@@ -43,7 +43,7 @@
         "onlineAccessDetails": "",
         "publicDatabase": "https://eservices.cipc.co.za/Search.aspx",
         "availableOnline": false,
-        "guidanceOnLocatingIds": "According to the CIPC eservices site, users need to log in to be able to perform a company search.\n\nThe OpenCorporates database can also be searched for South African organisations: https://opencorporates.com/companies/za?page=1."
+        "guidanceOnLocatingIds": "According to the CIPC eservices site, users need to log in to perform a company search.\n\nThe OpenCorporates database can also be searched for South African organisations: https://opencorporates.com/companies/za?page=1."
     },
     "subnationalCoverage": [],
     "listType": "primary"
