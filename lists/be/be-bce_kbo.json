@@ -21,13 +21,16 @@
             "date_of_registration",
             "registration_number",
             "phone_number",
-            "status"
+            "status",
+            "e-mail_address",
+            "website"
         ],
-        "dataAccessDetails": "Data can be search using a number of terms. Lists of results can be downloaded as a PDF. Information on individual enterprises can be viewed, but no download feature seems to be available",
+        "dataAccessDetails": "Company data can be searched using a number of terms. Lists of results can be downloaded in CSV files. Information on individual enterprises can be viewed online, but no download feature seems to be available.",
         "licenseDetails": "",
         "licenseStatus": "closed_license",
         "availability": [
-            "pdf"
+            "bulk",
+            "csv"
         ]
     },
     "deprecated": false,
@@ -51,7 +54,7 @@
             "nl"
         ],
         "exampleIdentifiers": "0521.749.439, 0518.884.078, 0505.665.156",
-        "onlineAccessDetails": "Information on individual companies can be found by searching for company number, name, activity, licence or address: https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?lang=en",
+        "onlineAccessDetails": "Information on individual companies can be found by searching for company number, name, activity, licence or address on the following page: https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?lang=en \n\nBulk data can be downloaded in CSV format from: https://economie.fgov.be/en/themes/enterprises/crossroads-bank-enterprises/services-everyone/cbe-open-data \nA simple registration and email address verification is required for this. New files are available every first Sunday of the month.",
         "publicDatabase": "https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?lang=en",
         "availableOnline": true,
         "guidanceOnLocatingIds": "The 10 digit registration number is displayed under the heading 'Enterprise number' ('Numéro d'entreprise' in French) in the search results table."
