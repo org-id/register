@@ -3,7 +3,7 @@
     "en": "National Registry of Legal Entities",
     "local": "Cadastro Nacional da Pessoa Jurídica"
   },
-  "url": "http://cnpj.info/",
+  "url": "https://www.gov.br/receitafederal/pt-br/assuntos/orientacao-tributaria/cadastros/consultas/dados-publicos-cnpj",
   "description": {
     "en": "The CNPJ is the national registry that administers identification numbers issued by the Ministério da Fazenda, for all non-personal legal entities in Brazil.\nOrganizations register exclusively on the Federal Revenue website. After filling in the necessary data online, relevant documents are sent by mail or presented in person.\nThe CNPJ Registration Number is a fourteen digit number that must be included on all receipts and invoices. Tax authorities assign an eight-digit company registration number that makes up the first part of the CNPJ. The following four digits refer to the business place or branch. Company headquarters are usually assigned the number 0001 for this section of the identification number, with other branches receiving different numbers. The final two numbers are check digits."
   },
@@ -28,13 +28,15 @@
     "publicDatabase": "https://www.gov.br/receitafederal/pt-br/assuntos/orientacao-tributaria/cadastros/consultas/dados-publicos-cnpj",
     "guidanceOnLocatingIds": "Download all zip files that contains tables in csv format. Load them in a database or other tool capable of browsing large datasets. Make a query on the table EMPRESAS, search for the field CNPJ BASICO (the first one), which is the org id.",
     "exampleIdentifiers": "02326629-0001-51, 24367342-0001-02, 02881697-0001-82",
-    "languages": []
+    "languages": [
+      "PT"
+    ]
   },
   "data": {
     "availability": [
       "bulk"
     ],
-    "dataAccessDetails": "There are several (currently 30) files to be downloaded in zipped csv format. They take a long time to download and also to load and process in database tools (the data volume is too large for spreadsheet software). Several third party sites exist, which do provide faster downloads, api, end-user queries and are generally easier to use.",
+    "dataAccessDetails": "There are several (currently 30) files to be downloaded in zipped csv format. They take a long time to download and also to load and process in database tools (the data volume is too large for spreadsheet software). Several third party sites exist (eg http://cnpj.info/ ), which do provide faster downloads, api, end-user queries and are generally easier to use.",
     "features": [
       "directors_trustees_governors",
       "registered_address",
@@ -52,16 +54,16 @@
       "expiry_date",
       "status"
     ],
-    "licenseStatus": "no_license",
-    "licenseDetails": ""
+    "licenseStatus": "closed_license",
+    "licenseDetails": "https://creativecommons.org/licenses/by-nd/3.0/deed.pt_BR"
+  },
+  "meta": {
+    "source": "Original research",
+    "lastUpdated": "2022-03-11"
   },
   "links": {
     "opencorporates": "",
     "wikipedia": "https://pt.wikipedia.org/wiki/Cadastro_Nacional_da_Pessoa_Jur%C3%ADdica"
   },
-  "formerPrefixes": [],
-  "meta": {
-    "source": "Original research",
-    "lastUpdated": "2020-06-08"
-  }
+  "formerPrefixes": []
 }
