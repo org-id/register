@@ -6,8 +6,8 @@
     "sector": [],
     "url": "http://economie.fgov.be/fr/entreprises/BCE ",
     "name": {
-        "en": "Crossroads Bank for Enterprises ",
-        "local": " Banque Carrefour des entreprises "
+        "en": "Crossroads Bank for Enterprises (Belgium)",
+        "local": "Banque Carrefour des entreprises"
     },
     "coverage": [
         "BE"
@@ -26,8 +26,8 @@
             "website"
         ],
         "dataAccessDetails": "Company data can be searched using a number of terms. Lists of results can be downloaded in CSV files. Information on individual enterprises can be viewed online, but no download feature seems to be available.",
-        "licenseDetails": "",
-        "licenseStatus": "closed_license",
+        "licenseDetails": "A non-standard open licence can be found here (FR): https://economie.fgov.be/sites/default/files/Files/Entreprises/BCE/Licence-BCE-Open-Data-Conditions-d-utilisation.pdf",
+        "licenseStatus": "open_license",
         "availability": [
             "bulk",
             "csv"
@@ -54,7 +54,7 @@
             "nl"
         ],
         "exampleIdentifiers": "0521.749.439, 0518.884.078, 0505.665.156",
-        "onlineAccessDetails": "Information on individual companies can be found by searching for company number, name, activity, licence or address on the following page: https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?lang=en \n\nBulk data can be downloaded in CSV format from: https://economie.fgov.be/en/themes/enterprises/crossroads-bank-enterprises/services-everyone/cbe-open-data \nA simple registration and email address verification is required for this. New files are available every first Sunday of the month.",
+        "onlineAccessDetails": "Information on individual companies can be found by searching for company number, name, activity, licence or address on the following page: https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?lang=en \n\nBulk data can be downloaded for free in CSV format from: https://economie.fgov.be/en/themes/enterprises/crossroads-bank-enterprises/services-everyone/cbe-open-data \nA simple registration and email address verification is required for this. New files are available every first Sunday of the month.",
         "publicDatabase": "https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?lang=en",
         "availableOnline": true,
         "guidanceOnLocatingIds": "The 10 digit registration number is displayed under the heading 'Enterprise number' ('Numéro d'entreprise' in French) in the search results table."
