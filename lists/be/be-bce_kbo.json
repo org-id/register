@@ -54,7 +54,7 @@
         "onlineAccessDetails": "Information on individual companies can be found by searching for company number, name, activity, licence or address: https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?lang=en",
         "publicDatabase": "https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?lang=en",
         "availableOnline": true,
-        "guidanceOnLocatingIds": ""
+        "guidanceOnLocatingIds": "The 10 digit registration number is displayed under the heading 'Enterprise number' ('Numéro d'entreprise' in French) in the search results table."
     },
     "subnationalCoverage": [],
     "listType": "primary"
