@@ -24,7 +24,7 @@
   "listType": "primary",
   "access": {
     "availableOnline": true,
-    "onlineAccessDetails": "An online search, by organisation name or CNPJ number, is available on third-party website: http://cnpj.info/consulta.\n\nPublic search on the official website is free for citizens, but appears to require a log in to access: https://www.gov.br/pt-br/servicos/consultar-cadastro-nacional-de-pessoas-juridicas \n\nOther third-party sites, such as Brasil.io (https://brasil.io/dataset/socios-brasil/empresas/) and Brasil API (https://brasilapi.com.br/docs#tag/CNPJ) may offer search and bulk download functionality.",
+    "onlineAccessDetails": "An online search, by organisation name or CNPJ number, is available on third-party website: http://cnpj.info \n\nPublic search on the official website is free for citizens, but appears to require a log in to access: https://www.gov.br/pt-br/servicos/consultar-cadastro-nacional-de-pessoas-juridicas \n\nOther third-party sites, such as Brasil.io (https://brasil.io/dataset/socios-brasil/empresas/) and Brasil API (https://brasilapi.com.br/docs#tag/CNPJ) may offer search and bulk download functionality.",
     "publicDatabase": "http://cnpj.info/consulta",
     "guidanceOnLocatingIds": "The CNPJ number is 14 digits long.",
     "exampleIdentifiers": "02326629-0001-51, 24367342-0001-02, 02881697-0001-82",
