@@ -19,10 +19,10 @@
   "listType": "primary",
   "access": {
     "availableOnline": false,
-    "onlineAccessDetails": null,
+    "onlineAccessDetails": "",
     "publicDatabase": "http://interieur.gouv.ci/",
-    "guidanceOnLocatingIds": "The Ministry website is currently undergoing changes, so is it not available for any searches. Where identifiers are found on registration certificates, forward slashes should be replaced with dashes.",
-    "exampleIdentifiers": "474-MIS-DGAT-DAG-SDVA",
+    "guidanceOnLocatingIds": "Where identifiers are found on registration certificates, forward slashes should be replaced with dashes.",
+    "exampleIdentifiers": "474-MIS-DGAT-DAG-SDVA, 395-INT-DGAT-DAG-SDVA",
     "languages": ["fr"]
   },
   "data": {
@@ -40,7 +40,7 @@
   },
   "formerPrefixes": [],
   "meta": {
-    "source": "Original research",
-    "lastUpdated": "2022-03-25"
+    "source": "Desk research",
+    "lastUpdated": "2025-04-15"
   }
 }
