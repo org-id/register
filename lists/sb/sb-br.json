@@ -1,0 +1,61 @@
+{
+  "name": {
+    "en": "Solomon Islands Business Registry",
+    "local": "Company Haus"
+  },
+  "url": "https://www.solomonbusinessregistry.gov.sb/",
+  "description": {
+    "en": "The Solomon Islands Business Registry is an electronic register for all companies, business names, and foreign investments within the country. It is managed by the Solomon Islands Government.\n\nThe registry provides various online services, allowing users to search for details on companies, their directors, shareholders, and registered business names. It also offers information regarding foreign investment policies, available incentives, and the registration process for foreign investors. The platform facilitates the registration, modification, and removal of companies and business names, with information on associated fees and relevant legislation."
+  },
+  "coverage": [
+    "SB"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "SB-BR",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "To search businesses by name, click on 'Online Services' in the homepage header, select 'Business Names', then 'Search for Business Name'.\n\nEnter the 'Entity name or number' on the search page, and select 'Companies' from the dropdown menu of which register to search.",
+    "publicDatabase": "https://www.solomonbusinessregistry.gov.sb/",
+    "guidanceOnLocatingIds": "Registration numbers are 8 digits long and displayed beneath the business's name in the results returned after a search.",
+    "exampleIdentifiers": "SB-BR-20242661, SB-BR-20115645",
+    "languages": [
+      "en"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [
+      "directors_trustees_governors",
+      "shareholders",
+      "registered_address",
+      "contact_address",
+      "e-mail_address",
+      "date_of_registration",
+      "registration_number",
+      "phone_number",
+      "activities_sector_code",
+      "status"
+    ],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Desk research",
+    "lastUpdated": "2025-07-23"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
