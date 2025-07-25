@@ -1,11 +1,11 @@
 {
   "name": {
-    "en": "Charities and Societies Agency (Ethiopia)",
-    "local": "የበጎ አድራጎት ድርጅቶችና ማህበራት ኤጀንሲ"
+    "en": "Authority for Civil Society Organizations (ACSO) - Ethiopia",
+    "local": ""
   },
-  "url": "http://www.chsa.gov.et/",
+  "url": "https://acso.gov.et/",
   "description": {
-    "en": "Most Charities and Societies which operate in Ethiopia are required to register with the Charities and Societies Agency, an institution of the Federal Government, which issues certificates of legal personality to those registered."
+    "en": "The Authority for Civil Society Organizations, previously known as the Charities and Societies Agency (CSA), is a governmental body in Ethiopia responsible for registering, supporting, and monitoring civil society organizations (CSOs).\n\nMost charities and societies that operate in Ethiopia are required to register."
   },
   "coverage": [
     "ET"
@@ -23,7 +23,7 @@
     "onlineAccessDetails": "",
     "publicDatabase": "",
     "guidanceOnLocatingIds": "",
-    "exampleIdentifiers": "",
+    "exampleIdentifiers": "1327, 0444",
     "languages": [
       "EN"
     ]
@@ -37,8 +37,8 @@
     "licenseDetails": ""
   },
   "meta": {
-    "source": "original research",
-    "lastUpdated": "2017-10-17T10:00:00Z"
+    "source": "Desk research",
+    "lastUpdated": "2025-07-25"
   },
   "links": {
     "opencorporates": "",
