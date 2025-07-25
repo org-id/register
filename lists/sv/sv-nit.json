@@ -3,9 +3,9 @@
     "en": "Tax Identification Number (El Salvador)",
     "local": "Numero de Identificacion Tributaria (El Salvador)"
   },
-  "url": "https://www.transparencia.gob.sv/institutions/dgii/services/7180",
+  "url": "https://www.mh.gob.sv/",
   "description": {
-    "en": "The NIT is required for all organisations, including businesses and NGOs. First step is online pre-registration at https://miempresa.gob.sv/ then in person with the Dirección General de Impuestos Internos (DGII) del Ministerio de Hacienda. Structure (all numerical): xxxx-xxxxxx-xxx-x digit (like 0614-241287-102-5). The first section (4 digits) is a municipality code, the second section of 6 digits is the date the organisation was established (or date of birth in case of a natural person). The third 3-digit section is a running number. The last digit is a verification digit."
+    "en": "The NIT is required for all organisations, including businesses and NGOs.\n\nThe first step is online pre-registration (likely via the portal: https://creaempresa.cnr.gob.sv), then in person with the Dirección General de Impuestos Internos (DGII) del Ministerio de Hacienda.\n\nNIT numbers are 14 digits long (all numerical - e.g. 0614-241287-102-5). The first section (4 digits) is a municipality code, the second section of 6 digits is the date the organisation was established (or date of birth in case of a natural person). The third 3-digit section is a running number. The last digit is a verification digit."
   },
   "coverage": [
     "SV"
@@ -22,9 +22,9 @@
   "listType": "secondary",
   "access": {
     "availableOnline": false,
-    "onlineAccessDetails": null,
+    "onlineAccessDetails": "",
     "publicDatabase": "",
-    "guidanceOnLocatingIds": "Ask the organisation for their NIT. ",
+    "guidanceOnLocatingIds": "Ask the organisation for their NIT.",
     "exampleIdentifiers": "0614-030915-112-5",
     "languages": []
   },
@@ -39,7 +39,7 @@
   },
   "meta": {
     "source": "Government website, original research",
-    "lastUpdated": "2020-08-21"
+    "lastUpdated": "2025-07-25"
   },
   "links": {
     "opencorporates": "",
