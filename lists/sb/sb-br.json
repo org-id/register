@@ -24,7 +24,7 @@
     "onlineAccessDetails": "To search businesses by name, click on 'Online Services' in the homepage header, select 'Business Names', then 'Search for Business Name'.\n\nEnter the 'Entity name or number' on the search page, and select 'Companies' from the dropdown menu of which register to search.",
     "publicDatabase": "https://www.solomonbusinessregistry.gov.sb/",
     "guidanceOnLocatingIds": "Registration numbers are 8 digits long and displayed beneath the business's name in the results returned after a search.",
-    "exampleIdentifiers": "SB-BR-20242661, SB-BR-20115645",
+    "exampleIdentifiers": "20242661, 20115645",
     "languages": [
       "en"
     ]
