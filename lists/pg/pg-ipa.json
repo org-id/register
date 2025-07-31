@@ -1,0 +1,58 @@
+{
+    "links": {
+        "wikipedia": "",
+        "opencorporates": ""
+    },
+    "sector": [],
+    "url": "http://www.ipa.gov.pg/",
+    "name": {
+        "en": "Investment Promotion Authority - Papua New Guinea",
+        "local": ""
+    },
+    "coverage": [
+        "PG"
+    ],
+    "code": "PG-IPA",
+    "formerPrefixes": [],
+    "confirmed": true,
+    "data": {
+        "features": [
+          "registered_address",
+          "contact_address",
+          "date_of_registration",
+          "registration_number",
+          "phone_number",
+          "status"
+        ],
+        "dataAccessDetails": "",
+        "licenseDetails": "",
+        "licenseStatus": "no_license",
+        "availability": [
+      "data_not_available"
+    ]
+    },
+    "deprecated": false,
+    "structure": [
+    "charity",
+    "company"
+    ],
+    "description": {
+           "en": "The Papua New Guinea Investment Promotion Authority (IPA) is a government agency responsible for promoting and facilitating both foreign and domestic investment in the country. It was established by the Investment Promotion Act of 1992.\n\nThe IPA houses several key offices, including the Companies Office of PNG, the Securities Commission of PNG, and the Intellectual Property Office of PNG.\n\nThe IPA also maintains a registry for various organizations: \n* Associations \n* Business groups \n* Business names \n* Companies \n* Foreign enterprises" 
+    },
+    "meta": {
+        "lastUpdated": "2025-07-31",
+        "source": "Desk research"
+    },
+    "access": {
+        "languages": [ 
+            "en"
+        ],
+        "exampleIdentifiers": "6-321352, 1-103585, 6-123136632",
+        "onlineAccessDetails": "A business entity search is available at https://www.ipa.gov.pg/corp/search.aspx. It is possible to search by entity name or registration number.",
+        "publicDatabase": "https://www.ipa.gov.pg/corp/search.aspx",
+        "availableOnline": true,
+        "guidanceOnLocatingIds": "The entity's registration number is available in search results. These are formed of digits in the format x-xxxxxx, where the number of digits after the hyphen varies."
+    },
+    "subnationalCoverage": [],
+    "listType": "primary"
+}
