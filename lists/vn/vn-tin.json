@@ -1,0 +1,49 @@
+{
+  "name": {
+    "en": "Viet Nam Tax Identification Number (TIN)",
+    "local": ""
+  },
+  "url": "https://vbpl.vn/TW/Pages/vbpqen-toanvan.aspx?ItemID=5946",
+  "description": {
+    "en": "The Tax Identification Number (TIN) is issued by the General Department of Taxation under the Ministry of Finance in Viet Nam. All legal entities, including companies, vocational colleges, NGOs, and other organisations with legal personality, are required to obtain a TIN. These numbers can therefore be reliably used as identifiers in open data publications. Identifiers are numeric, typically 10 digits, with 13 digits used for branches or dependent units."
+  },
+  "coverage": [
+    "VN"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company",
+    "charity"
+  ],
+  "sector": [],
+  "code": "VN-TIN",
+  "confirmed": false,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": null,
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "Organisations can find their TIN on their tax registration certificate or official business license.",
+    "exampleIdentifiers": "0100109106",
+    "languages": [
+      "vi"
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "TINs are assigned upon registration with the General Department of Taxation. They are displayed on business registration certificates and other legal documents.",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Desk research",
+    "lastUpdated": "2025-09-16"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": "https://en.wikipedia.org/wiki/Taxation_in_Vietnam"
+  },
+  "formerPrefixes": []
+}
