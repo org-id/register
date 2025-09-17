@@ -17,7 +17,7 @@
   ],
   "sector": [],
   "code": "VN-TIN",
-  "confirmed": false,
+  "confirmed": true,
   "deprecated": false,
   "listType": "primary",
   "access": {
