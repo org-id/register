@@ -1,4 +1,5 @@
 [build]
   publish = "out"
-  command = "pip install datatig && export PYTHONPATH=$(pwd) && python -m datatig.cli build . --staticsiteoutput out"
+  command = "./netlify.sh"
 
+#git remote add origin https://github.com/org-id/register.git &&
