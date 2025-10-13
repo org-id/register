@@ -13,9 +13,7 @@
   "subnationalCoverage": [],
   "structure": [
     "company",
-    "charity",
-    "association",
-    "foundation"
+    "charity"
   ],
   "sector": [],
   "code": "TR-VKN",
@@ -24,7 +22,7 @@
   "listType": "primary",
   "access": {
     "availableOnline": false,
-    "onlineAccessDetails": "Issued by tax offices; shown on tax registration certificates and official documents. Online taxpayer portals exist but do not provide a public, searchable directory.",
+    "onlineAccessDetails": null,
     "publicDatabase": "",
     "guidanceOnLocatingIds": "Find the VKN on the organisation’s tax registration certificate or official tax correspondence from the Gelir İdaresi Başkanlığı.",
     "exampleIdentifiers": "4940457659",
