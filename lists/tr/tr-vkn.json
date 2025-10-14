@@ -1,0 +1,49 @@
+{
+  "name": {
+    "en": "Tax Identification Number (VKN), Türkiye",
+    "local": "Vergi Kimlik Numarası"
+  },
+  "url": "https://www.gib.gov.tr/",
+  "description": {
+    "en": "The Tax Identification Number (Vergi Kimlik Numarası, VKN) is issued by the Turkish Revenue Administration (Gelir İdaresi Başkanlığı, GİB) under the Ministry of Treasury and Finance. All legal entities, including companies, associations, foundations, and other organisations with legal personality, are required to obtain a VKN. These numbers can therefore be reliably used as identifiers in open data publications. Identifiers are numeric, 10 digits."
+  },
+  "coverage": [
+    "TR"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company",
+    "charity"
+  ],
+  "sector": [],
+  "code": "TR-VKN",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": null,
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "Find the VKN on the organisation’s tax registration certificate or official tax correspondence from the Gelir İdaresi Başkanlığı.",
+    "exampleIdentifiers": "4940457659",
+    "languages": [
+      "tr"
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "VKNs are issued and maintained by the Gelir İdaresi Başkanlığı (GİB) and appear on tax registration and compliance documents.",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Desk research",
+    "lastUpdated": "2025-10-13"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": "https://en.wikipedia.org/wiki/Taxation_in_Turkey"
+  },
+  "formerPrefixes": []
+}
