@@ -5,7 +5,7 @@
   },
   "url": "https://bolagsverket.se/foretag/organisationsnummer.1207.html",
   "description": {
-    "en": "The organization number is a unique identifier assigned to legal entities, such as companies and associations. \n\nThe authority that registers the company or association when it is to be started assigns the organization number. Most companies and associations receive their organization number from the Swedish Companies Registration Office (Bolagsverket) [1]. \n\n Some other examples of authorities that assign organization numbers are:\n * the Swedish Tax Agency \n * Kammarkollegiet (registered religious communities) \n  * Land Survey (community associations).\n\n\"The first digit of the organization number is called \"Group Number\" and specifies the company form or other legal form to which the legal entity is grouped. The following group numbers may occur:\n\n1 - Death certificate\n2 - State, county council, municipalities, parishes\n3 - Foreign companies engaged in business activities or own real estate in Sweden\n5 - Aktiebolag\n6 - Single company\n7 - Economic associations , tenant-owner associations\n8 - Ideal associations and foundations\n9 - Trading companies , limited companies and simple companies\" [2]\n\nNon-commerical organsiation are searchable through other third-party applications, such as: https://www.allabolag.se/\n\n[1] https://bolagsverket.se/foretag/organisationsnummer.1207.html\n[2] https://sv.wikipedia.org/wiki/Organisationsnummer#Organisationsnummer"
+    "en": "The organization number is a unique identifier assigned to legal entities, such as companies and associations. \n\n\"The authority that registers the company or association when it is to be started assigns the organization number. Most companies and associations receive their organization number from the Swedish Companies Registration Office (Bolagsverket). \n\n Some other examples of authorities that assign organization numbers are:\n * the Swedish Tax Agency \n * Kammarkollegiet (registered religious communities) \n  * Land Survey (community associations)\" [1]\n\n\"The first digit of the organization number is called \"Group Number\" and specifies the company form or other legal form to which the legal entity is grouped. The following group numbers may occur:\n\n1 - Death certificate\n2 - State, county council, municipalities, parishes\n3 - Foreign companies engaged in business activities or own real estate in Sweden\n5 - Aktiebolag\n6 - Single company\n7 - Economic associations , tenant-owner associations\n8 - Ideal associations and foundations\n9 - Trading companies , limited companies and simple companies\" [2]\n\n[1] https://bolagsverket.se/foretag/organisationsnummer.1207.html\n[2] https://sv.wikipedia.org/wiki/Organisationsnummer#Organisationsnummer"
   },
   "coverage": [
     "SE"
@@ -52,5 +52,6 @@
     "SE-BLV"
   ]
 }
+
 
 
