@@ -1,0 +1,49 @@
+{
+  "name": {
+    "en": "Lesotho Higher Education Institution Registration Number (HEI)",
+    "local": "HEI Registration Number"
+  },
+  "url": "https://www.education.gov.ls/",
+  "description": {
+    "en": "Higher Education Institution (HEI) Registration Numbers are issued by the Ministry of Education and Training of the Kingdom of Lesotho. These identifiers are assigned to institutions registered under the Higher Education Act, 2004, as confirmed in official registration certificates issued by the Ministry. HEI numbers are used for accreditation, compliance, and regulatory oversight of institutions offering higher education programmes in Lesotho."
+  },
+  "coverage": [
+    "LS"
+  ],
+  "subnationalCoverage": [],
+  "structure":  [
+    "company",
+    "charity"
+  ],
+  "sector": [],
+  "code": "LS-HEI",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": null,
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "The HEI registration number appears on official registration certificates issued by the Ministry of Education and Training under the Higher Education Act, 2004.",
+    "exampleIdentifiers": "HEI/CRL-2025CNT/3182004",
+    "languages": [
+      "en"
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "HEI registration numbers are issued and maintained by the Ministry of Education and Training and recorded on institutional registration certificates.",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Registration certificate issued by the Ministry of Education and Training, Kingdom of Lesotho",
+    "lastUpdated": "2025-11-26"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": "https://en.wikipedia.org/wiki/Education_in_Lesotho"
+  },
+  "formerPrefixes": []
+}
