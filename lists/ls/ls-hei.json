@@ -15,7 +15,7 @@
     "company",
     "charity"
   ],
-  "sector": [],
+  "sector": ["education"],
   "code": "LS-HEI",
   "confirmed": true,
   "deprecated": false,
