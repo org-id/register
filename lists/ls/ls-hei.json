@@ -24,7 +24,7 @@
     "availableOnline": false,
     "onlineAccessDetails": null,
     "publicDatabase": "",
-    "guidanceOnLocatingIds": "The HEI registration number appears on official registration certificates issued by the Ministry of Education and Training under the Higher Education Act, 2004.",
+    "guidanceOnLocatingIds": "The HEI registration number appears on official registration certificates issued by the Ministry of Education and Training under the Higher Education Act, 2004. For use as an identifier, replace any forward slashes, '/', in the registration number with dashes, '-'. See the example.",
     "exampleIdentifiers": "HEI-CRL-2025CNT-3182004",
     "languages": [
       "en"
