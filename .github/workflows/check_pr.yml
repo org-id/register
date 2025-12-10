@@ -19,10 +19,7 @@ jobs:
     - name: Set up the local Git repository with the commits we need, Part 2
       run: git fetch origin ${GITHUB_HEAD_REF}:${GITHUB_HEAD_REF}
     - name: Install DataTig
-      # The versionedcheck feature we want is not released yet; so install directly from git for now.
-      # Can go back to pypi install when datatig V 0.9.0 is released.
-      #- run: pip install datatig
-      run: pip install git+https://github.com/datatig/datatig.git@main#egg=datatig
+      run: pip install datatig
     - name: Check that new or edited org-id JSON files are valid
       run: python -m datatig versionedcheck --mode=all_in_changed_records . main ${GITHUB_HEAD_REF}
 
