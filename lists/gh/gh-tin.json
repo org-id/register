@@ -1,0 +1,50 @@
+{
+  "name": {
+    "en": "Ghana Tax Identification Number (TIN)",
+    "local": ""
+  },
+  "url": "https://gra.gov.gh/tin/",
+  "description": {
+    "en": "The Tax Identification Number (TIN) in Ghana is issued by the Ghana Revenue Authority (GRA) under the Tax Identification Number Act, 2002 (Act 632). All legal entities, including companies, public institutions, NGOs, charities, and other organisations with legal personality, are required to register for a TIN for tax and administrative purposes. These identifiers are therefore suitable for use as reliable organisation identifiers in open data publications. TINs are typically alphanumeric and are assigned upon registration with the GRA."
+  },
+  "coverage": [
+    "GH"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company",
+    "government_agency",
+    "charity"
+  ],
+  "sector": [],
+  "code": "GH-TIN",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": null,
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "Organisations can find their TIN on their Ghana Revenue Authority Certificate of Registration, tax documents, or official correspondence from the GRA.",
+    "exampleIdentifiers": "V0004162595",
+    "languages": [
+      "en"
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "TINs are assigned by the Ghana Revenue Authority upon registration and are displayed on certificates of registration and other official tax documents.",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Desk research",
+    "lastUpdated": "2026-01-09"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ghana_Revenue_Authority"
+  },
+  "formerPrefixes": []
+}
