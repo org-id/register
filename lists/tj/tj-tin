@@ -1,0 +1,52 @@
+{
+  "name": {
+    "en": "Tajikstan Tax Identification Number",
+    "local": ""
+  },
+  "url": "http://andoz.tj/",
+  "description": {
+    "en": "Under Tajik law, all legal entities — including NGOs — are required to register with the national tax authority (Tax Committee under the Government of the Republic of Tajikistan). \n\nOnce the entity is registered with the tax authority:\n\n- the tax authority issues the Taxpayer Identification Number (TIN) to the organization\n- this number is assigned once and cannot be changed or reused, even if the entity is later dissolved\n- the entity typically receives a certificate confirming the assignment of the TIN from the tax authority.\n\nThe TIN is used for all official tax reporting, financial transactions, and interactions with tax authorities in Tajikistan.\n\nTINs consist of 9 digits. The specific structure includes:​ \n\n- First Part: Indicates the entity type or individual categorization.​ \n- Middle Section: A unique identifier related to individual or business registration numbers.​ \n- Last Section: Digits used for validation purposes. [1]\n\n[1] https://taxdo.com/resources/global-tax-id-validation-guide/tajikistan"
+  },
+  "coverage": [
+    "TJ"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity",
+    "company"
+  ],
+  "sector": [],
+  "code": "TJ-TIN",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": null,
+    "publicDatabase": "andoz.tj",
+    "guidanceOnLocatingIds": "Taxpayers may be able to verify their TIN through the official online service on andoz.tj\n\nNo online search for TIN based on entity name was found.",
+    "exampleIdentifiers": "0200225789",
+    "languages": [
+      "EN",
+      "TG"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "desk research",
+    "lastUpdated": "2026-02-05"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
