@@ -19,10 +19,10 @@
   "code": "TJ-TIN",
   "confirmed": true,
   "deprecated": false,
-  "listType": "primary",
+  "listType": "secondary",
   "access": {
     "availableOnline": false,
-    "onlineAccessDetails": null,
+    "onlineAccessDetails": "",
     "publicDatabase": "andoz.tj",
     "guidanceOnLocatingIds": "Taxpayers may be able to verify their TIN through the official online service on andoz.tj\n\nNo online search for TIN based on entity name was found.",
     "exampleIdentifiers": "0200225789",
