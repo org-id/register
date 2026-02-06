@@ -20,14 +20,13 @@
             "date_of_registration",
             "e-mail_address",
             "registration_number",
-            "phone_number",
-            "organisation_name"
+            "phone_number"
         ],
         "dataAccessDetails": "",
         "licenseDetails": "",
         "licenseStatus": "no_license",
         "availability": [
-            "available:_stated_as_available,_but_unable_to_access"
+            "data_not_available"
         ]
     },
     "deprecated": false,
