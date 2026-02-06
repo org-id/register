@@ -3,7 +3,7 @@
         "wikipedia": "",
         "opencorporates": ""
     },
-    "sector": "",
+    "sector": [],
     "url": "http://moec.gov.af/en",
     "name": {
         "en": "Ministry of Economy NGO Department ",
@@ -13,7 +13,7 @@
         "AF"
     ],
     "code": "AF-MOE",
-    "formerPrefixes": "",
+    "formerPrefixes": [],
     "confirmed": true,
     "data": {
         "features": [
@@ -51,6 +51,6 @@
         "availableOnline": false,
         "guidanceOnLocatingIds": ""
     },
-    "subnationalCoverage": "",
+    "subnationalCoverage": [],
     "listType": "secondary"
 }
