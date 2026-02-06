@@ -1,9 +1,9 @@
 {
     "links": {
-        "wikipedia": null,
-        "opencorporates": null
+        "wikipedia": "",
+        "opencorporates": ""
     },
-    "sector": null,
+    "sector": [],
     "url": "http://moec.gov.af/en",
     "name": {
         "en": "Ministry of Economy NGO Department ",
@@ -13,24 +13,23 @@
         "AF"
     ],
     "code": "AF-MOE",
-    "formerPrefixes": null,
+    "formerPrefixes": [],
     "confirmed": true,
     "data": {
         "features": [
             "date_of_registration",
             "e-mail_address",
             "registration_number",
-            "phone_number",
-            "organisation_name"
+            "phone_number"
         ],
-        "dataAccessDetails": "http://ngos.moec.gov.af/Public/Default.aspx - button for Excel download, but not found to be working",
-        "licenseDetails": null,
+        "dataAccessDetails": "",
+        "licenseDetails": "",
         "licenseStatus": "no_license",
         "availability": [
-            "available:_stated_as_available,_but_unable_to_access"
+            "data_not_available"
         ]
     },
-    "deprecated": null,
+    "deprecated": false,
     "structure": [
         "charity"
     ],
@@ -38,7 +37,7 @@
         "en": "NGOs wishing to operate in Afghanistan must register with the NGOs Department of the Ministry of Economy. The register contains government departments, national NGOs and international NGOs."
     },
     "meta": {
-        "lastUpdated": "2016-11-18",
+        "lastUpdated": "2026-02-06",
         "source": "Desk research"
     },
     "access": {
@@ -47,10 +46,10 @@
         ],
         "exampleIdentifiers": "89, 176, 2620",
         "onlineAccessDetails": "The system provides an online interface to browse a list of organisations. An 'Export to Excel' option is presented, but does not appear to work. ",
-        "publicDatabase": "http://ngos.moec.gov.af/Public/Default.aspx",
+        "publicDatabase": "https://ngo.gov.af/publication/Home/National_ngos/2200",
         "availableOnline": false,
-        "guidanceOnLocatingIds": null
+        "guidanceOnLocatingIds": ""
     },
-    "subnationalCoverage": null,
+    "subnationalCoverage": [],
     "listType": "secondary"
 }
