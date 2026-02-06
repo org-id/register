@@ -22,9 +22,9 @@
   "listType": "primary",
   "access": {
     "availableOnline": true,
-    "onlineAccessDetails": "A search of company names is provided on the Securities and Exchange Commission website. ",
-    "publicDatabase": "https://www.secp.gov.pk/company-name-search/",
-    "guidanceOnLocatingIds": "Search at https://www.secp.gov.pk/company-name-search/ and look for the Incorporation Number (CUIN)",
+    "onlineAccessDetails": "A search of company names is provided on the Securities and Exchange Commission website.",
+    "publicDatabase": "https://eservices.secp.gov.pk/eServices/NameSearch.jsp",
+    "guidanceOnLocatingIds": "The online search performs a lookup on keyword in the entity name. In the results table, the Incorporation Number (CUIN) is shown in the column 'Registration No.'",
     "exampleIdentifiers": "0086650, 0081550,  0078867",
     "languages": [
       "en"
@@ -36,18 +36,21 @@
     ],
     "dataAccessDetails": "",
     "features": [
-      "date_of_registration"
+      "date_of_registration",
+      "registration_number",
+      "status"
     ],
     "licenseStatus": "no_license",
     "licenseDetails": ""
   },
   "meta": {
     "source": "User request & desk research",
-    "lastUpdated": "2018-05-31"
+    "lastUpdated": "2026-02-06"
   },
   "links": {
     "opencorporates": "https://opencorporates.com/companies/pk/",
     "wikipedia": "https://en.wikipedia.org/wiki/Securities_and_Exchange_Commission_of_Pakistan"
   },
   "formerPrefixes": []
+
 }
