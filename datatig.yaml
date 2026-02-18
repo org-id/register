@@ -61,6 +61,7 @@ types:
   - id: access_publicDatabase
     key: access/publicDatabase
     title: Access - List URL
+    type: url
   - id: access_guidanceOnLocatingIds
     key: access/guidanceOnLocatingIds
     title: Access - How to locate identifiers
