@@ -1,0 +1,50 @@
+{
+  "name": {
+    "en": "Islamabad Registrar of Trusts, Pakistan",
+    "local": ""
+  },
+  "url": "https://ictadministration.gov.pk/",
+  "description": {
+    "en": "Registration and regulation of Trusts in Pakistan were previously governed under the Trusts Act, 1882. New laws governing Trusts were enacted in 2020 whereby each province now has full autonomy regarding trust registration and other trust-related deeds. They are:\n\n- The Islamabad Capital Territory Trust Act, 2020\n- The Punjab Trusts Act, 2020\n- The Sindh Trusts Act, 2020\n- The Khyber Pakhtunkhwa Trust Act, 2020\n- The Balochistan Trusts Act, 2020\n\nThis list is for trusts registered with the Sub-Registrar in the province of Islamabad.\n\nThe official government authority that handles trust registration and related matters in Islamabad is part of the Islamabad Capital Territory Administration (ICT Administration) — specifically within the Directorate of Labour and Industries, under the Islamabad Capital Territory Trust Act, 2020."
+  },
+  "coverage": [
+    "PK"
+  ],
+  "subnationalCoverage": [
+    "PK-IS"
+  ],
+  "structure": [
+    "trust"
+  ],
+  "sector": [],
+  "code": "PK_IS-IRT",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": "",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "11352",
+    "languages": []
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "desk research",
+    "lastUpdated": "2026-02-26"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
