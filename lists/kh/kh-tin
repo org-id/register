@@ -1,0 +1,52 @@
+{
+  "name": {
+    "en": "Cambodia Tax Identification Number",
+    "local": ""
+  },
+  "url": "https://www.tax.gov.kh/en/",
+  "description": {
+    "en": "The Tax Identification Number (TIN) is issued by the General Department of Taxation in Cambodia. All tax paying entities, including companies, NGOs, and other organisations with legal personality, are required to obtain a TIN, which is unique to the entity or person and persists over time. These identifiers can therefore be reliably used as identifiers in open data publications. \nIdentifiers are formed using one letter + a twelve-digit code (e.g., L00X-XXXXXXXXX). \n\nStructure: \nL00: Standard prefix (may vary depending on registration system) \nX: Indicates the registration type/source (e.g., G for general) \nXXXXXXXXXXX: Unique 11-digit numeric sequence assigned to the taxpayer \n\nThere is no online register."
+  },
+  "coverage": [
+    "KH"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company",
+    "charity"
+  ],
+  "sector": [],
+  "code": "KH-TIN",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": null,
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "TINs are assigned upon registration with the General Department of Taxation. They are displayed on business registration certificates and other legal documents.",
+    "exampleIdentifiers": "",
+    "languages": [
+      "kh",
+      "en"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Desk research",
+    "lastUpdated": "2026-02-26"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
