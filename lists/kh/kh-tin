@@ -32,10 +32,8 @@
     ]
   },
   "data": {
-    "availability": [
-      "data_not_available"
-    ],
-    "dataAccessDetails": "",
+    "availability": [],
+    "dataAccessDetails": "TINs are assigned upon registration with the Cambodian General Department of Taxation. They are displayed on business registration certificates and other legal documents.",
     "features": [],
     "licenseStatus": "no_license",
     "licenseDetails": ""
