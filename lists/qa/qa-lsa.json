@@ -1,0 +1,51 @@
+{
+  "name": {
+    "en": "Qatar Ministry of Interior - Establishment Number",
+    "local": ""
+  },
+  "url": "https://portal.moi.gov.qa/",
+  "description": {
+    "en": "An establishment number (also known as a computer card number or establishment ID) in Qatar is a unique identifier assigned by the Ministry of Interior (MOI) and used for registration with the Ministry of Labour (MOL). \n\nIt is required for official labour transactions, such as obtaining work permits, and is part of the documentation provided upon company registration/incorporation in Qatar.\n\nThe establishment number is 8-digits long and numeric. It does not change once assigned."
+  },
+  "coverage": [
+    "QA"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company",
+    "charity"
+  ],
+  "sector": [],
+  "code": "QA-MOI",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": "",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "There is no online search available. Ask an organisation directly for their establishment number.",
+    "exampleIdentifiers": "01234567, 01005700",
+    "languages": [
+      "EN"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "desk research",
+    "lastUpdated": "2026-07-04"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
