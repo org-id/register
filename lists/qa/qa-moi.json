@@ -27,7 +27,7 @@
     "guidanceOnLocatingIds": "There is no online search available. Ask an organisation directly for their establishment number.",
     "exampleIdentifiers": "01234567, 01005700",
     "languages": [
-      "EN"
+      "en"
     ]
   },
   "data": {
@@ -41,7 +41,7 @@
   },
   "meta": {
     "source": "desk research",
-    "lastUpdated": "2026-07-04"
+    "lastUpdated": "2026-04-07"
   },
   "links": {
     "opencorporates": "",
