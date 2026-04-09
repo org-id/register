@@ -1,0 +1,51 @@
+{
+  "name": {
+    "en": "Montenegro Tax Identification Number",
+    "local": "Poreski Identifikacioni Broj (PIB)"
+  },
+  "url": "https://www.gov.me/en/taxadministration",
+  "description": {
+    "en": "The Tax Identification Number (Poreski Identifikacioni Broj – PIB) is assigned to businesses and legal entities in Montenegro for tax-related activities. \n\nThe Tax Administration of Montenegro (Poreska uprava Crne Gore) is responsible for issuing identification numbers. Typically, organisations register with the Central Register of Business Entities (CRPS) first, then submit their company registration documents to the Tax Administration.\n\nFormat of Montenegro tax numbers:\n\n- Length: 8 digits\n- Type: Numeric only (no letters)\n- A PIB is a unique identifier, which does not change once assigned\n- Example format: 01234567\n- No available online search"
+  },
+  "coverage": [
+    "ME"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company",
+    "charity"
+  ],
+  "sector": [],
+  "code": "ME-PIB",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": "",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "There is no online search available. Ask an organisation directly for their 8-digit PIB.",
+    "exampleIdentifiers": "01234567, 04252361",
+    "languages": [
+      "EN"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "desk research",
+    "lastUpdated": "2026-04-07"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
