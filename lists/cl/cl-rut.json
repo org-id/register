@@ -24,7 +24,7 @@
     "availableOnline": false,
     "onlineAccessDetails": "",
     "publicDatabase": "https://www.registrodeempresasysociedades.cl/BuscarActuaciones2.aspx",
-    "guidanceOnLocatingIds": "",
+    "guidanceOnLocatingIds": "There is no free public search of RUT numbers provided by the official tax agency. Secondary sites, such as https://www.registrodeempresasysociedades.cl/BuscarActuaciones2.aspx, may help check the validity of a RUT number.",
     "exampleIdentifiers": "764241355, 616021214, 764957423",
     "languages": [
       "es"
@@ -34,7 +34,7 @@
     "availability": [
       "data_not_available"
     ],
-    "dataAccessDetails": "There is no free public search of RUT numbers provided by the official tax agency. Secondary sites, such as https://www.registrodeempresasysociedades.cl/BuscarActuaciones2.aspx, may help check the validity of a RUT number.",
+    "dataAccessDetails": "",
     "features": [],
     "licenseStatus": "no_license",
     "licenseDetails": ""
