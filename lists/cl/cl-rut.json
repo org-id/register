@@ -3,9 +3,9 @@
     "en": "Rol Único Tributario de Chile (Taxpayer Number)",
     "local": "Rol Único Tributario de Chile"
   },
-  "url": "http://www.chileproveedores.cl/",
+  "url": "https://homer.sii.cl/",
   "description": {
-    "en": "Any company that will be subject to taxes in Chile must obtain a Rol Único Tributario (RUT).  \n\nA RUT has 7 or 8 digits, plus a check digit. Identifiers should be presented without any punctuation and including the check digit. "
+    "en": "Any company that will be subject to taxes in Chile must obtain a Rol Único Tributario (RUT).  \n\nA RUT has 7 or 8 digits, plus a check digit. Identifiers should be presented without any punctuation and including the check digit. \n\nThe Servicio de Impuestos Internos (SII) is the official tax authority responsible for issuing the RUT in Chile. It is essential for individuals and businesses to register with the SII to obtain their tax number."
   },
   "coverage": [
     "CL"
@@ -21,10 +21,10 @@
   "deprecated": false,
   "listType": "secondary",
   "access": {
-    "availableOnline": true,
-    "onlineAccessDetails": "A search of government suppliers is available. ",
-    "publicDatabase": "http://www.chileproveedores.cl/",
-    "guidanceOnLocatingIds": "Search for registered government suppliers by name or RUT at http://www.chileproveedores.cl/ and then view the profile of the organisation to find the RUT under the heading 'RUTH'.\n\nYou can ask other organisations to provide their RUT, and in some cases will find this from a google search.",
+    "availableOnline": false,
+    "onlineAccessDetails": "",
+    "publicDatabase": "https://www.registrodeempresasysociedades.cl/BuscarActuaciones2.aspx",
+    "guidanceOnLocatingIds": "",
     "exampleIdentifiers": "764241355, 616021214, 764957423",
     "languages": [
       "es"
@@ -34,14 +34,14 @@
     "availability": [
       "data_not_available"
     ],
-    "dataAccessDetails": "",
+    "dataAccessDetails": "There is no free public search of RUT numbers provided by the official tax agency. Secondary sites, such as https://www.registrodeempresasysociedades.cl/BuscarActuaciones2.aspx, may help check the validity of a RUT number.",
     "features": [],
     "licenseStatus": "no_license",
     "licenseDetails": ""
   },
   "meta": {
     "source": "GitHub issue: https://github.com/org-id/register/issues/225",
-    "lastUpdated": "2018-05-30"
+    "lastUpdated": "2026-04-10"
   },
   "links": {
     "opencorporates": "",
