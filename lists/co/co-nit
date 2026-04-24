@@ -1,0 +1,64 @@
+{
+  "name": {
+    "en": "Colombian Tax Identification Number",
+    "local": "Número de Identificación Tributaria"
+  },
+  "url": "https://www.dian.gov.co/tramitesservicios/tramites-y-servicios/tributarios/Paginas/RUT.aspx",
+  "description": {
+    "en": "The NIT is a tax identification number assigned by DIAN (Dirección de Impuestos y Aduanas Nacionales), Colombia's national tax and customs authority. It uniquely identifies legal entities, businesses, and individuals for tax purposes. \n\nTo obtain a NIT an application must be made to the DIAN for a Registro Único Tributario (RUT) during which process the NIT will be assigned.\n\nThe NIT consists of a 9-digit base number plus a single verification digit, separated by a hyphen. This verification digit should be omitted when creating an organisation reference. The NIT is sometimes written as three 3-digit numbers, separated by dots, in which case the dots should be removed.\n\n"
+  },
+  "coverage": [
+    "CO"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity",
+    "company",
+    "government_agency",
+    "trust"
+  ],
+  "sector": [],
+  "code": "CO-NIT",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": null,
+    "publicDatabase": "https://www.rues.org.co",
+    "guidanceOnLocatingIds": "Users can search for companies by name. A successful search will return basic infomrationa bout the company, such as its legal form and purpose as well as the NIT. Many Colombian companies publish their NIT on their website.\n\n",
+    "exampleIdentifiers": "830008886 830033206 890900943",
+    "languages": [
+      "es"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [
+      "registered_address",
+      "contact_address",
+      "website",
+      "e-mail_address",
+      "industry_classifications",
+      "number_of_employees",
+      "registration_number",
+      "tax_id_number",
+      "objectives_purpose",
+      "activities_sector_code"
+    ],
+    "licenseStatus": "open_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "original research",
+    "lastUpdated": "2026-04-23"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": "https://en.wikipedia.org/wiki/National_Directorate_of_Taxes_and_Customs"
+  },
+  "formerPrefixes": []
+}
