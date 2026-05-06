@@ -27,7 +27,7 @@
     "onlineAccessDetails": null,
     "publicDatabase": "https://www.rues.org.co",
     "guidanceOnLocatingIds": "Users can search for companies by name. A successful search will return basic information about the company, such as its legal form and purpose as well as the NIT. Many Colombian companies publish their NIT on their website.\n\n",
-    "exampleIdentifiers": "830008886 830033206 890900943",
+    "exampleIdentifiers": "830008886, 830033206, 890900943",
     "languages": [
       "es"
     ]
