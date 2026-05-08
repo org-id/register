@@ -24,10 +24,7 @@
     "onlineAccessDetails": "The Registrar of Companies provides an online company lookup portal.",
     "publicDatabase": "https://tasjeel.mot.gov.iq/sh2/",
     "guidanceOnLocatingIds": "The registration number can be found on the official company registration certificate issued by the Registrar of Companies under the Ministry of Trade. Some company records can also be searched through the online portal.",
-    "exampleIdentifiers": [
-      "1902262839",
-      "31813-2"
-    ],
+    "exampleIdentifiers": "31813-2",
     "languages": [
       "ar"
     ]
