@@ -1,0 +1,48 @@
+{
+  "name": {
+    "en": "Iraq Ministry of Trade – Registrar of Companies",
+    "local": "دائرة تسجيل الشركات"
+  },
+  "url": "https://tasjeel.mot.gov.iq/",
+  "description": {
+    "en": "The Registrar of Companies operates under the Ministry of Trade of the Republic of Iraq and is responsible for the registration of companies in Iraq. Upon incorporation, companies are assigned an official registration number which appears on the certificate of incorporation and related legal documents. These identifiers can be used to uniquely identify companies in open data publications such as IATI."
+  },
+  "coverage": [
+    "IQ"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "IQ-MOT",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "The Registrar of Companies provides an online company lookup portal.",
+    "publicDatabase": "https://tasjeel.mot.gov.iq/sh2/",
+    "guidanceOnLocatingIds": "The registration number can be found on the official company registration certificate issued by the Registrar of Companies under the Ministry of Trade. Some company records can also be searched through the online portal.",
+    "exampleIdentifiers": "31813-2",
+    "languages": [
+      "ar"
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "Identifiers are assigned upon company registration and appear on official incorporation certificates and related legal documents.",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Official company registration certificates, Registrar of Companies portal, and desk research",
+    "lastUpdated": "2026-05-08"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
