@@ -1,0 +1,50 @@
+{
+  "name": {
+    "en": "Registrar General’s Office",
+    "local": ""
+  },
+  "url": "",
+  "description": {
+    "en": "The Registrar General’s Office of Lesotho is responsible for a range of activities: patents, marriages, citizenship, the registration of publications and the collection of government revenue.\n\nIt is also responsible for the registration of societies, including Non-Government Organisations. "
+  },
+  "coverage": [
+    "LS"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity"
+  ],
+  "sector": [],
+  "code": "LS-RGO",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": null,
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "There is no list available online. Organisations register by presenting their constitution to the Registrar General’s Office and paying an annual fee to maintain validity. An official stamp on the cover page states the registration number.",
+    "exampleIdentifiers": "88-6",
+    "languages": [
+      "en"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "original research",
+    "lastUpdated": "2026-05-12"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
