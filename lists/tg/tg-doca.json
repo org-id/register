@@ -1,0 +1,48 @@
+{
+  "name": {
+    "en": "Civil Organisations and Associations Division",
+    "local": "Division des Organisations Civiles et des Associations"
+  },
+  "url": "https://service-public.gouv.tg/service/650355ca26be2564074f87c6/creation-dissolution/demande-d-attestation-de-reconnaissance-de-la-qualite-d-ong",
+  "description": {
+    "en": "To register as a national NGO an organisation must be an apolitical, non-profit and non-commercial national association created to carry out an activity of general interest, solidarity or voluntary cooperation for development and have operated at least two years of activities on the national territory.\n\nTo register as an international or foreign NGO an organisation must carry out activities of general interest of a priority nature and falling within the competence of the Togolese government.\n\nOrganisations apply via an online procedure at the given link, which also outlines a comprehensive set of requirements for each NGO type."
+  },
+  "coverage": [
+    "TG"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity"
+  ],
+  "sector": [],
+  "code": "TG-DOCA",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": null,
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "There is no list available online. Organisations register by following the online process after which they are provided with a receipt document/certificate which is dated and stamped. It has a registration number followed by \"/MATDDT-SG-DLPAP-DOCA\" which is removed to obtain the identifier.",
+    "exampleIdentifiers": "0932",
+    "languages": [
+      "fr"
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "original research",
+    "lastUpdated": "2026-05-12"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
