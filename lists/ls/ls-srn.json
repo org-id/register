@@ -1,6 +1,6 @@
 {
   "name": {
-    "en": "Registrar General’s Office",
+    "en": "Society Registration Number, Lesotho",
     "local": ""
   },
   "url": "",
@@ -15,7 +15,7 @@
     "charity"
   ],
   "sector": [],
-  "code": "LS-RGO",
+  "code": "LS-SRN",
   "confirmed": true,
   "deprecated": false,
   "listType": "primary",
@@ -23,7 +23,7 @@
     "availableOnline": false,
     "onlineAccessDetails": null,
     "publicDatabase": "",
-    "guidanceOnLocatingIds": "There is no list available online. Organisations register by presenting their constitution to the Registrar General’s Office and paying an annual fee to maintain validity. An official stamp on the cover page states the registration number.",
+    "guidanceOnLocatingIds": "There is no list available online. Organisations register by presenting their constitution to the Registrar General’s Office and paying an annual fee to maintain validity. An official stamp on the cover page states the society's registration number.",
     "exampleIdentifiers": "88-6",
     "languages": [
       "en"
