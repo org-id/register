@@ -3,7 +3,7 @@
     "en": "Portal of Public Services",
     "local": "Portal do cidadão"
   },
-  "url": "https://www.portaldocidadao.pt/",
+  "url": "https://www.gov.pt/",
   "description": {
     "en": "The business register is governed by the Business Registry Code, adopted by Decree-Law No 403/86 of 3 December 1986, and is the responsibility of the business registry offices throughout the country; these offices are external services of the Institute of Registrars and Notaries (IRN), a public body supported by the Ministry of Justice.\n"
   },
@@ -20,11 +20,11 @@
   "deprecated": false,
   "listType": "primary",
   "access": {
-    "availableOnline": true,
-    "onlineAccessDetails": "The search is made using the tax identification number of the entity, which is the entity's registration number in the business register as well as its tax number. Paper extracts must be applied for at registry offices but the relevant information may be accessed on the one-stop-shop website for entrepreneurs (Balcão do Empreendedor[1]) in the form of an electronic extract on the entity's legal situation, which is constantly updated and available in Portuguese and English. Extracts from the register and of related documents, whether in paper or electronic form, must be paid for.\n\n[1]: https://bde.portaldocidadao.pt/evo/Templates/GeralEO.aspx?NRNODEGUID={0AB79FDE-92FE-4BEF-84CE-962D954F4D59}",
+    "availableOnline": false,
+    "onlineAccessDetails": "The search is made using the tax identification number of the entity, which is the entity's registration number in the business register as well as its tax number. Paper extracts must be applied for at registry offices but the relevant information may be accessed on the one-stop-shop website for entrepreneurs (Balcão do Empreendedor) in the form of an electronic extract on the entity's legal situation, which is constantly updated and available in Portuguese and English. Extracts from the register and of related documents, whether in paper or electronic form, must be paid for.",
     "publicDatabase": "",
-    "guidanceOnLocatingIds": "9 digits; the last digit is the check digit. The first digit depends on what the number refers to (5 are companies.)",
-    "exampleIdentifiers": "",
+    "guidanceOnLocatingIds": "Identifiers are 9-digits and numeric, including a check digit at the end. The first digit depends on the organisation type (e.g. '5' designates a company).",
+    "exampleIdentifiers": "502854227, 516420666",
     "languages": [
       "pt",
       "en"
@@ -37,8 +37,8 @@
     "licenseDetails": ""
   },
   "meta": {
-    "source": "ProZorro Business Register Research",
-    "lastUpdated": "2017-10-24"
+    "source": "Desk research",
+    "lastUpdated": "2026-06-01"
   },
   "links": {
     "opencorporates": "",
