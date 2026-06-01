@@ -29,7 +29,7 @@
     "guidanceOnLocatingIds": "Business numbers are 13-digits and numeric. They are returned in the online search results under the label 'NZBN'.",
     "exampleIdentifiers": "9429046393920, 9429050294954",
     "languages": [
-      "EN"
+      "en"
     ]
   },
   "data": {
