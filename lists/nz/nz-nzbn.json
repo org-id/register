@@ -1,0 +1,61 @@
+{
+  "name": {
+    "en": "New Zealand Business Number",
+    "local": ""
+  },
+  "url": "https://www.nzbn.govt.nz/",
+  "description": {
+    "en": "The New Zealand Business Number (NZBN) is New Zealand's official business identifier system. It is a unique identifier designed to provide a single, authoritative way to identify businesses and share core business information.\n\nThe NZBN is available to all New Zealand businesses and organisations, including:\n- Companies\n- Sole traders (self-employed individuals)\n- Partnerships\n- Trusts\n- Registered charities\n- Incorporated societies\n- Government agencies\n- Other registered organisations carrying on business activities in New Zealand. \n\nThe NZBN is intended to be a persistent identifier for the business entity to which it is assigned. [1]\n\nMany registered entities (such as companies registered with the Companies Office) are automatically allocated an NZBN. Sole traders, partnerships, trusts, and some other entities may need to apply for one if they do not already have one. [2]\n\n[1] https://www.nzbn.govt.nz/whats-an-nzbn/about/\n[2] https://www.nzbn.govt.nz/get-an-nzbn/applying-for-an-nzbn\n"
+  },
+  "coverage": [
+    "NZ"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company",
+    "charity",
+    "trust",
+    "government_agency"
+  ],
+  "sector": [],
+  "code": "NZ-NZBN",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "It is possible to search online for an organisation by name or business number.",
+    "publicDatabase": "https://www.nzbn.govt.nz/",
+    "guidanceOnLocatingIds": "Business numbers are 13-digits and numeric. They are returned in the online search results under the label 'NZBN'.",
+    "exampleIdentifiers": "9429046393920, 9429050294954",
+    "languages": [
+      "EN"
+    ]
+  },
+  "data": {
+    "availability": [
+      "api",
+      "bulk",
+      "csv"
+    ],
+    "dataAccessDetails": "Bulk data can be accessed in a few ways, as detailed on this page: https://www.companiesoffice.govt.nz/data-services/ways-to-get-our-data/",
+    "features": [
+      "directors_trustees_governors",
+      "registered_address",
+      "date_of_registration",
+      "registration_number",
+      "status"
+    ],
+    "licenseStatus": "open_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Original research",
+    "lastUpdated": "2026-06-01"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
