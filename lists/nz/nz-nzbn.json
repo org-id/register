@@ -21,7 +21,7 @@
   "code": "NZ-NZBN",
   "confirmed": true,
   "deprecated": false,
-  "listType": "primary",
+  "listType": "secondary",
   "access": {
     "availableOnline": true,
     "onlineAccessDetails": "It is possible to search online for an organisation by name or business number.",
