@@ -23,9 +23,7 @@
         "dataAccessDetails": "",
         "licenseDetails": "",
         "licenseStatus": "no_license",
-        "availability": [
-            "available:_but_details_unknown"
-        ]
+        "availability": []
     },
     "deprecated": false,
     "structure": [
@@ -35,7 +33,7 @@
         "en": "This entry was imported from the Open Corporates Jurisdiction List."
     },
     "meta": {
-        "lastUpdated": "2016-09-07",
+        "lastUpdated": "2026-06-02",
         "source": ""
     },
     "access": {
