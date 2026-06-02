@@ -1,6 +1,6 @@
 {
   "name": {
-    "en": "Indian Trust Act ",
+    "en": "Trust Registration Number, India",
     "local": ""
   },
   "url": "",
@@ -16,7 +16,7 @@
   ],
   "sector": [],
   "code": "IN-ITA",
-  "confirmed": false,
+  "confirmed": true,
   "deprecated": false,
   "listType": "primary",
   "access": {
