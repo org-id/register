@@ -1,9 +1,9 @@
 {
     "links": {
-        "wikipedia": null,
-        "opencorporates": null
+        "wikipedia": "",
+        "opencorporates": ""
     },
-    "sector": null,
+    "sector": [],
     "url": "http://www.business.govt.nz/companies/",
     "name": {
         "en": "New Zealand Companies Office",
@@ -13,21 +13,21 @@
         "NZ"
     ],
     "code": "NZ-CO",
-    "formerPrefixes": null,
-    "confirmed": null,
+    "formerPrefixes": [],
+    "confirmed": false,
     "data": {
         "features": [
             "directors_trustees_governors",
             "shareholders"
         ],
-        "dataAccessDetails": null,
-        "licenseDetails": null,
+        "dataAccessDetails": "",
+        "licenseDetails": "",
         "licenseStatus": "no_license",
         "availability": [
             "available:_but_details_unknown"
         ]
     },
-    "deprecated": null,
+    "deprecated": false,
     "structure": [
         "company"
     ],
@@ -36,16 +36,16 @@
     },
     "meta": {
         "lastUpdated": "2016-09-07",
-        "source": null
+        "source": ""
     },
     "access": {
-        "languages": null,
-        "exampleIdentifiers": null,
-        "onlineAccessDetails": null,
-        "publicDatabase": null,
+        "languages": [],
+        "exampleIdentifiers": "",
+        "onlineAccessDetails": "",
+        "publicDatabase": "",
         "availableOnline": false,
-        "guidanceOnLocatingIds": null
+        "guidanceOnLocatingIds": ""
     },
-    "subnationalCoverage": null,
-    "listType": null
+    "subnationalCoverage": [],
+    "listType": primary
 }
