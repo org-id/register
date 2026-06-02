@@ -21,7 +21,7 @@
   "listType": "primary",
   "access": {
     "availableOnline": false,
-    "onlineAccessDetails": null,
+    "onlineAccessDetails": "",
     "publicDatabase": "",
     "guidanceOnLocatingIds": "",
     "exampleIdentifiers": "",
@@ -33,12 +33,12 @@
     ],
     "dataAccessDetails": "",
     "features": [],
-    "licenseStatus": "undefined",
+    "licenseStatus": "no_license",
     "licenseDetails": ""
   },
   "meta": {
     "source": "Desk research",
-    "lastUpdated": "2023-04-13"
+    "lastUpdated": "2026-06-02"
   },
   "links": {
     "opencorporates": "",
