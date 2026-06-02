@@ -33,7 +33,7 @@
     "availability": [
       "excel"
     ],
-    "dataAccessDetails": "See the website's Open Data information: https://www.charities.govt.nz/charities-in-new-zealand/the-charities-register/open-data",
+    "dataAccessDetails": "See the website's information on open data: https://www.charities.govt.nz/charities-in-new-zealand/the-charities-register/open-data",
     "features": [
       "directors_trustees_governors",
       "registered_address",
@@ -45,8 +45,8 @@
       "activities_sector_code",
       "status"
     ],
-    "licenseStatus": "no_license",
-    "licenseDetails": ""
+    "licenseStatus": "open_license",
+    "licenseDetails": "Creative Commons Attribution 3.0 New Zealand License: https://creativecommons.org/licenses/by/3.0/nz/"
   },
   "meta": {
     "source": "Desk research",
