@@ -1,0 +1,54 @@
+{
+  "name": {
+    "en": "Unique Identification Number (Tax)",
+    "local": "Jedinstveni Identifikacioni Broj"
+  },
+  "url": "https://www.uino.gov.ba",
+  "description": {
+    "en": "The issuing of Unique Identification Numbers in Bosnia and Herzegovina is delegated to three decentralised entities: the Federation of Bosnia and Herzegovina, Republika Srpska and the Brčko District. The Indirect Taxation Authority of Bosnia and Herzegovina (ITA/UINO) provides official verification tools for validating a JIB for entities that are registered to pay VAT across all three delegated entities, which excludes some organisations. Where an organisation doesn't appear in the UINO tool, verification can be made by asking for a JIB registration certificate. Organisations may also publish their JIB on their website."
+  },
+  "coverage": [
+    "BA"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity",
+    "company"
+  ],
+  "sector": [],
+  "code": "BA-JIB",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": null,
+    "publicDatabase": "https://www.uino.gov.ba/portal/en/taxpayer-database/",
+    "guidanceOnLocatingIds": "Searches can be made by organisation name or \"VAT number\" (which is also the JIB) without needing to register, solely needing a successful Captcha response, .\n\n",
+    "exampleIdentifiers": "200318240004, 4402093280003, 504047220001",
+    "languages": [
+      "bs",
+      "en",
+      "hr",
+      "sr"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "",
+    "lastUpdated": "original research"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
