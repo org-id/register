@@ -5,7 +5,7 @@
     },
     "url": "https://www.incometaxindia.gov.in/pan",
     "description": {
-        "en": "PAN is a ten-character alpha-numeria identifier digit identifier assigned automatically at the time of creation/incorporation to individuals and entities for tax purposes in India. PANs are administered by India's Income Tax Department. It is a permanent, stable identification number and does not change. Notably the fourth character is a letter denoting the legal structure of the holder."
+        "en": "PAN is a ten-character alpha-numeric identifier assigned automatically at the time of creation/incorporation to individuals and entities for tax purposes in India. PANs are administered by India's Income Tax Department. It is a permanent, stable identification number and does not change. Notably the fourth character is a letter denoting the legal structure of the holder."
     },
     "coverage": [
         "IN"
@@ -22,7 +22,7 @@
         "onlineAccessDetails": "The list is maintained by the Indian Income Tax Department: https://www.incometaxindia.gov.in/\n\nOnline lookup is available for holders (https://eportal.incometax.gov.in/iec/foservices/#/pre-login/verifyYourPAN) but not publically available, requiring Name, Date of Birth and Mobile Number alongside PAN to search.",
         "publicDatabase": "",
         "guidanceOnLocatingIds": "",
-        "exampleIdentifiers": "GFECL4864K, BHWBS7721P",
+        "exampleIdentifiers": "AAACV7757J, AAACR4849R",
         "languages": [
             "en",
             "hi"
@@ -43,7 +43,7 @@
     },
     "links": {
         "opencorporates": "",
-        "wikipedia": "https://en.wikipedia.org/wiki/Permanent_account_number#cite_note-4"
+        "wikipedia": "https://en.wikipedia.org/wiki/Permanent_account_number"
     },
     "formerPrefixes": []
 }
