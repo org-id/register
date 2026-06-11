@@ -1,7 +1,7 @@
 {
     "name": {
         "en": "India Permanent Account Number",
-        "local": "स्थायी खाता संख्या (पैन)"
+        "hi": "स्थायी खाता संख्या (पैन)"
     },
     "url": "https://www.incometaxindia.gov.in/pan",
     "description": {
