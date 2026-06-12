@@ -11,12 +11,19 @@
         "IN"
     ],
     "subnationalCoverage": [],
-    "structure": [],
+    "structure": [
+        "charity",
+        "company/limited_company",
+        "company/partnership",
+        "government_agency",
+        "trust",
+        "unincorporated_body"
+    ],
     "sector": [],
     "code": "IN-PAN",
     "confirmed": true,
     "deprecated": false,
-    "listType": "primary",
+    "listType": "secondary",
     "access": {
         "availableOnline": false,
         "onlineAccessDetails": "The list is maintained by the Indian Income Tax Department: https://www.incometaxindia.gov.in/\n\nOnline lookup is available for holders (https://eportal.incometax.gov.in/iec/foservices/#/pre-login/verifyYourPAN) but not publically available, requiring Name, Date of Birth and Mobile Number alongside PAN to search.",
