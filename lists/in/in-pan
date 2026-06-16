@@ -1,0 +1,56 @@
+{
+    "name": {
+        "en": "India Permanent Account Number",
+        "hi": "स्थायी खाता संख्या (पैन)"
+    },
+    "url": "https://www.incometaxindia.gov.in/pan",
+    "description": {
+        "en": "PAN is a ten-character alpha-numeric identifier assigned automatically at the time of creation/incorporation to individuals and entities for tax purposes in India. PANs are administered by India's Income Tax Department. It is a permanent, stable identification number and does not change. Notably the fourth character is a letter denoting the legal structure of the holder."
+    },
+    "coverage": [
+        "IN"
+    ],
+    "subnationalCoverage": [],
+    "structure": [
+        "charity",
+        "company/limited_company",
+        "company/partnership",
+        "government_agency",
+        "trust",
+        "unincorporated_body"
+    ],
+    "sector": [],
+    "code": "IN-PAN",
+    "confirmed": true,
+    "deprecated": false,
+    "listType": "secondary",
+    "access": {
+        "availableOnline": false,
+        "onlineAccessDetails": "The list is maintained by the Indian Income Tax Department: https://www.incometaxindia.gov.in/\n\nOnline lookup is available for holders (https://eportal.incometax.gov.in/iec/foservices/#/pre-login/verifyYourPAN) but not publically available, requiring Name, Date of Birth and Mobile Number alongside PAN to search.",
+        "publicDatabase": "",
+        "guidanceOnLocatingIds": "",
+        "exampleIdentifiers": "AAACV7757J, AAACR4849R",
+        "languages": [
+            "en",
+            "hi"
+        ]
+    },
+    "data": {
+        "availability": [
+            "data_not_available"
+        ],
+        "dataAccessDetails": "Research suggests that PANs are verifiable by the holder (https://eportal.incometax.gov.in/iec/foservices/#/pre-login/verifyYourPAN) but this service is not publically available. No data download function is available.",
+        "features": [],
+        "licenseStatus": "closed_license",
+        "licenseDetails": "Copyright \u00a9 Income Tax Department, India. All rights reserved."
+    },
+    "meta": {
+        "source": "Desk research based on Indian Income Tax Department official website (https://www.incometaxindia.gov.in/pan), Wikipedia and third-party tax compliance sources.",
+        "lastUpdated": "2026-06-11"
+    },
+    "links": {
+        "opencorporates": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Permanent_account_number"
+    },
+    "formerPrefixes": []
+}
