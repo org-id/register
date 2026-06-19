@@ -1,0 +1,49 @@
+{
+  "name": {
+    "en": "Togo National Tax Identification Number (NIF)",
+    "local": "Numéro d'Identification Fiscale (NIF)"
+  },
+  "url": "https://www.otr.tg/",
+  "description": {
+    "en": "The Numéro d'Identification Fiscale (NIF) is a tax identification number issued by the Office Togolais des Recettes (OTR). NIFs are assigned to registered taxpayers, including legal entities, and appear on official tax registration documents. The identifier may be used to identify organisations in open data publications such as IATI."
+  },
+  "coverage": [
+    "TG"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company",
+    "charity"
+  ],
+  "sector": [],
+  "code": "TG-NIF",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "Information relating to tax registration is available through the Office Togolais des Recettes website.",
+    "publicDatabase": "https://nif.otr.tg/search",
+    "guidanceOnLocatingIds": "The NIF can be found on the Carte d'Immatriculation Fiscale issued by the Office Togolais des Recettes (OTR).",
+    "exampleIdentifiers": "1000047187",
+    "languages": [
+      "fr"
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "Identifiers are assigned by the Office Togolais des Recettes and appear on official tax registration documents.",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Office Togolais des Recettes (OTR) website and Carte d'Immatriculation Fiscale issued by the OTR.",
+    "lastUpdated": "2026-06-19"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
