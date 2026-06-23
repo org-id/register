@@ -22,7 +22,7 @@
   "listType": "secondary",
   "access": {
     "availableOnline": true,
-    "onlineAccessDetails": "Information relating to tax registration is available through the Office Togolais des Recettes website.",
+    "onlineAccessDetails": "The Office Togolais des Recettes (OTR) provides a NIF search facility at https://nif.otr.tg/search; however, access is restricted and the service cannot be searched publicly without a login.",
     "publicDatabase": "https://nif.otr.tg/search",
     "guidanceOnLocatingIds": "The NIF can be found on the Carte d'Immatriculation Fiscale issued by the Office Togolais des Recettes (OTR).",
     "exampleIdentifiers": "1000047187",
