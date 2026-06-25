@@ -22,7 +22,7 @@
   "listType": "secondary",
   "access": {
     "availableOnline": true,
-    "onlineAccessDetails": null,
+    "onlineAccessDetails": "",
     "publicDatabase": "https://www.uino.gov.ba/portal/en/taxpayer-database/",
     "guidanceOnLocatingIds": "Searches can be made by organisation name or \"VAT number\" (which is also the JIB) without needing to register, solely needing a successful Captcha response, .\n\n",
     "exampleIdentifiers": "200318240004, 4402093280003, 504047220001",
@@ -43,8 +43,8 @@
     "licenseDetails": ""
   },
   "meta": {
-    "source": "",
-    "lastUpdated": "original research"
+    "source": "original research",
+    "lastUpdated": "2026-06-25"
   },
   "links": {
     "opencorporates": "",
