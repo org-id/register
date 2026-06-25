@@ -1,0 +1,57 @@
+{
+  "name": {
+    "en": "Public Procurement Gateway",
+    "local": ""
+  },
+  "url": "",
+  "description": {
+    "en": "A register of organisations (Buyers and Suppliers) who are involved, or want to be involved, in UK public procurement. The Buyer organisations listed are UK public sector organisations who are involved in procuring good and services. Supplier organisations registered are those who wish to supply goods and services to the UK public sector. Supplier organisations can be based anywhere in the world."
+  },
+  "coverage": [
+    "XI",
+    "GB"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "government_agency/local_government",
+    "government_agency/public_service",
+    "company/limited_company",
+    "company/listed_company",
+    "company/sole_trader",
+    "company/partnership",
+    "company/mutual"
+  ],
+  "sector": [],
+  "code": "GB-PPG",
+  "confirmed": false,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": null,
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "",
+    "languages": [
+    "en"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "",
+    "lastUpdated": ""
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
