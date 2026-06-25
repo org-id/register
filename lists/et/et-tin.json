@@ -1,0 +1,52 @@
+{
+    "name": {
+        "en": "Ethiopia Tax Identification Number",
+        "local": ""
+    },
+    "url": "https://www.mor.gov.et/",
+    "description": {
+        "en": "TIN is a ten-digit identifier assigned to individuals and entities for tax purposes in Ethiopia. It is a permanent identification number and never changes. TINS are administered by the Ethiopian Ministry of Revenue. A TIN is assigned to: individual taxpayers; sole proprietors; partnerships; companies and legal entities; other organisations with tax obligations."
+    },
+    "coverage": [
+        "ET"
+    ],
+    "subnationalCoverage": [],
+    "structure": [
+        "charity",
+        "company",
+        "trust"
+    ],
+    "sector": [],
+    "code": "ET-TIN",
+    "confirmed": true,
+    "deprecated": false,
+    "listType": "secondary",
+    "access": {
+        "availableOnline": true,
+        "onlineAccessDetails": "The list is maintained by the Ethiopian Ministry of Revenue: https://www.mor.gov.et/\n\nAn identifier lookup portal can be found here: https://www.mor.gov.et/qr/",
+        "publicDatabase": "https://www.mor.gov.et/qr/",
+        "guidanceOnLocatingIds": "Enter the TIN to confirm the associated organisation. Lookup by known TIN, not searchable by name or browsable. TINs are 10 numeric digits.",
+        "exampleIdentifiers": "0000178477, 0000006966",
+        "languages": [
+            "en"
+        ]
+    },
+    "data": {
+        "availability": [
+            "data_not_available"
+        ],
+        "dataAccessDetails": "Research suggests that TIN can only be verified, not found from company names. No data download function is available.",
+        "features": [],
+        "licenseStatus": "closed_license",
+        "licenseDetails": "Copyright \u00a9 Ministry of Revenues, Ethiopia. All rights reserved."
+    },
+    "meta": {
+        "source": "Desk research based on MOR and ERCA official websites, TADAT assessment report, and third-party tax compliance sources (TaxDo, 2merkato).",
+        "lastUpdated": "2026-06-10"
+    },
+    "links": {
+        "opencorporates": "",
+        "wikipedia": "https://en.wikipedia.org/wiki/Ministry_of_Revenues_and_Customs_Authority_(Ethiopia)"
+    },
+    "formerPrefixes": []
+}

@@ -1,51 +1,60 @@
 {
-    "links": {
-        "wikipedia": null,
-        "opencorporates": null
-    },
-    "sector": null,
-    "url": "http://www.business.govt.nz/companies/",
-    "name": {
-        "en": "New Zealand Companies Office",
-        "local": ""
-    },
-    "coverage": [
-        "NZ"
+  "name": {
+    "en": "New Zealand Charities Register",
+    "local": ""
+  },
+  "url": "https://www.charities.govt.nz/charities-in-new-zealand/the-charities-register",
+  "description": {
+    "en": "New Zealand's charity regulator, Charities Services, assigns each registered charity a Charities Registration Number. This is often referred to as a 'CC' number because it typically begins with those letters.\n\nOnly registered charities receive a Charities Registration Number. Registration under the Charities Act 2005 is voluntary, although registration is generally required to access charitable tax exemptions and to describe the organisation as a registered charitable entity. [1]\n\n[1] https://www.charities.govt.nz/charities-in-new-zealand/the-charities-register/about-the-charities-register"
+  },
+  "coverage": [
+    "NZ"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity"
+  ],
+  "sector": [],
+  "code": "NZ-CR",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "There is a basic and advanced search available via the Charities Service website. It is possible to search for charities by name, registration number, New Zealand Business Number, street address, or officer name.\n\nThis how-to guide explains more: https://www.charities.govt.nz/charities-in-new-zealand/the-charities-register/charities-data-how-to-guide",
+    "publicDatabase": "https://register.charities.govt.nz/CharitiesRegister/Search",
+    "guidanceOnLocatingIds": "Registration numbers consist of the letters 'CC' followed by a 5-digit number.",
+    "exampleIdentifiers": "CC12345, CC56789",
+    "languages": [
+      "en"
+    ]
+  },
+  "data": {
+    "availability": [
+      "excel"
     ],
-    "code": "NZ-CR",
-    "formerPrefixes": null,
-    "confirmed": null,
-    "data": {
-        "features": [
-            "directors_trustees_governors",
-            "shareholders"
-        ],
-        "dataAccessDetails": null,
-        "licenseDetails": null,
-        "licenseStatus": "no_license",
-        "availability": [
-            "available:_but_details_unknown"
-        ]
-    },
-    "deprecated": null,
-    "structure": [
-        "company"
+    "dataAccessDetails": "See the website's information on open data: https://www.charities.govt.nz/charities-in-new-zealand/the-charities-register/open-data",
+    "features": [
+      "directors_trustees_governors",
+      "registered_address",
+      "contact_address",
+      "website",
+      "date_of_registration",
+      "registration_number",
+      "objectives_purpose",
+      "activities_sector_code",
+      "status"
     ],
-    "description": {
-        "en": "This entry was imported from the Open Corporates Jurisdiction List."
-    },
-    "meta": {
-        "lastUpdated": "2016-09-07",
-        "source": null
-    },
-    "access": {
-        "languages": null,
-        "exampleIdentifiers": null,
-        "onlineAccessDetails": null,
-        "publicDatabase": null,
-        "availableOnline": false,
-        "guidanceOnLocatingIds": null
-    },
-    "subnationalCoverage": null,
-    "listType": null
+    "licenseStatus": "open_license",
+    "licenseDetails": "Creative Commons Attribution 3.0 New Zealand License: https://creativecommons.org/licenses/by/3.0/nz/"
+  },
+  "meta": {
+    "source": "Desk research",
+    "lastUpdated": "2026-06-02"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
 }
