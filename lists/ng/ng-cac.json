@@ -38,11 +38,11 @@
     },
     "access": {
         "languages": null,
-        "exampleIdentifiers": null,
+        "exampleIdentifiers": "NG-CAC-RC1726083",
         "onlineAccessDetails": null,
         "publicDatabase": "http://publicsearch.cac.gov.ng:8080/comsearch/test.php",
         "availableOnline": false,
-        "guidanceOnLocatingIds": "Public search is currently unavailable, the link does not work."
+        "guidanceOnLocatingIds": "Public search is currently unavailable, the link does not work.\n\n\Leading letters should be retained, without internal hyphens (see examples)."
     },
     "subnationalCoverage": null,
     "listType": "primary"
