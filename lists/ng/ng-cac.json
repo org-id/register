@@ -38,7 +38,7 @@
     },
     "access": {
         "languages": null,
-        "exampleIdentifiers": "NG-CAC-RC1726083",
+        "exampleIdentifiers": "RC1726083",
         "onlineAccessDetails": null,
         "publicDatabase": "http://publicsearch.cac.gov.ng:8080/comsearch/test.php",
         "availableOnline": false,
