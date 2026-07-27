@@ -1,0 +1,48 @@
+{
+    "name": {
+        "en": "Zambia Registrar of Societies",
+        "local": ""
+    },
+    "url": "https://www.mohais.gov.zm/?page_id=1562",
+    "description": {
+        "en": "The Registrar of Societies, a department under the Ministry of Home Affairs and Internal Security, registers organisations under the Societies Act Chapter 119 of the Laws of Zambia. The register covers a wide range of society types including political parties, religious groups, pressure groups, international societies, professional societies, cultural groups, sports clubs, women's and youth groups, and community service organisations such as orphanages and welfare organisations.\n\nOrganisations apply to the Registrar of Societies for registration and, upon approval, receive a Certificate of Society Registration. Registration is subject to annual renewal (payment due before 31st March each year).\n\nNote that the Registrar of Societies is distinct from the Registrar of NGOs (under the Ministry of Community Development and Social Services), which registers organisations under the Non-Governmental Organisations Act No. 16 of 2009. Registration numbers issued by this office follow the format ORS/[3-digits]/[2-digits]/[3-digits] (e.g. ORS/102/35/225). When used as an identifier, the ORS prefix and the hyphens should be removed (e.g. 10235225)."
+    },
+    "coverage": [
+        "ZM"
+    ],
+    "subnationalCoverage": [],
+    "structure": [],
+    "sector": [],
+    "code": "ZM-RS",
+    "confirmed": true,
+    "deprecated": false,
+    "listType": "secondary",
+    "access": {
+        "availableOnline": false,
+        "onlineAccessDetails": "The Registrar of Societies is administered by the Ministry of Home Affairs and Internal Security: https://www.mohais.gov.zm/?page_id=1615\n\nOnline registration is available via the ZamServices e-government portal (https://eservices.gov.zm/) but there is no public searchable register or online lookup tool for verifying registration numbers.",
+        "publicDatabase": "",
+        "guidanceOnLocatingIds": "Registration numbers appear on the Certificate of Society Registration issued by the Registrar of Societies. The format ORS/[3-digits]/[2-digits]/[3-digits] (e.g. ORS/102/35/225). When used as an identifier, the ORS prefix and the hyphens should be removed (e.g. 10235225).",
+        "exampleIdentifiers": "ORS/102/35/225",
+        "languages": [
+            "en"
+        ]
+    },
+    "data": {
+        "availability": [
+            "data_not_available"
+        ],
+        "dataAccessDetails": "No public bulk download or searchable online register is available. Registration data is held by the Ministry of Home Affairs and Internal Security and is not published as open data.",
+        "features": [],
+        "licenseStatus": "closed_license",
+        "licenseDetails": "Copyright \u00a9 Ministry of Home Affairs and Internal Security, Zambia. All rights reserved."
+    },
+    "meta": {
+        "source": "Desk research based on the Ministry of Home Affairs and Internal Security official website (https://www.mohais.gov.zm), the Societies Act Chapter 119 of the Laws of Zambia, and example registration certificates.",
+        "lastUpdated": "2026-07-27"
+    },
+    "links": {
+        "opencorporates": "",
+        "wikipedia": ""
+    },
+    "formerPrefixes": []
+}
