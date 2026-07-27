@@ -1,11 +1,11 @@
 {
   "name": {
-    "en": "Department of Associations (Ministry of Interior, Turkey)",
-    "local": "Dernekler Dairesi Başkanlığı"
+    "en": "Directorate General for Relations with Civil Society (Ministry of Interior, Turkey)",
+    "local": "Sivil Toplumla İlişkiler Genel Müdürlüğü"
   },
-  "url": "https://www.dernekler.gov.tr/",
+  "url": "https://www.siviltoplum.gov.tr/",
   "description": {
-    "en": "All non-profit associations operating in Turkey should register with the Department of Associations. \n\nDuring registration, they will be given a registration number. "
+    "en": "All non-profit associations operating in Turkey should register with the Directorate General for Relations with Civil Society (Formerly the Department of Associations). \n\nDuring registration, they will be given a registration number. "
   },
   "coverage": [
     "TR"
@@ -21,7 +21,7 @@
   "listType": "primary",
   "access": {
     "availableOnline": false,
-    "onlineAccessDetails": "An online information system is available at https://www.dernekler.gov.tr/ but it appears to require log-in only accessible to registered NGOs. ",
+    "onlineAccessDetails": "An online information system is available via siviltoplum.gov.tr/ but only for registered organisations, not the public. ",
     "publicDatabase": "",
     "guidanceOnLocatingIds": "Identifiers are provided to organisations when they first register. Ask the organisation to check their registration certificate. ",
     "exampleIdentifiers": "27-018-163",
@@ -41,7 +41,7 @@
   },
   "meta": {
     "source": "IATI",
-    "lastUpdated": "2017-07-18"
+    "lastUpdated": "2026-07-27"
   },
   "links": {
     "opencorporates": "",
