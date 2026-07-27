@@ -22,7 +22,7 @@
         "onlineAccessDetails": "The Registrar of Societies is administered by the Ministry of Home Affairs and Internal Security: https://www.mohais.gov.zm/?page_id=1615\n\nOnline registration is available via the ZamServices e-government portal (https://eservices.gov.zm/) but there is no public searchable register or online lookup tool for verifying registration numbers.",
         "publicDatabase": "",
         "guidanceOnLocatingIds": "Registration numbers appear on the Certificate of Society Registration issued by the Registrar of Societies. The format ORS/[3-digits]/[2-digits]/[3-digits] (e.g. ORS/102/35/225). When used as an identifier, the ORS prefix and the hyphens should be removed (e.g. 10235225).",
-        "exampleIdentifiers": "ORS/102/35/225",
+        "exampleIdentifiers": "10235225",
         "languages": [
             "en"
         ]
