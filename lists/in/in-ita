@@ -1,0 +1,48 @@
+{
+  "name": {
+    "en": "Trust Registration Number, India",
+    "local": ""
+  },
+  "url": "",
+  "description": {
+    "en": "The Indian Trusts Act, 1882, defines the law relating to private trusts and trustees, and the creation of private trusts. Registered trusts receive a registration number. "
+  },
+  "coverage": [
+    "IN"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "trust"
+  ],
+  "sector": [],
+  "code": "IN-ITA",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": "",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "",
+    "languages": []
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Desk research",
+    "lastUpdated": "2026-06-02"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": "https://en.wikipedia.org/wiki/Indian_Trusts_Act,_1882"
+  },
+  "formerPrefixes": []
+}
