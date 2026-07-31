@@ -29,7 +29,7 @@
         "charity"
     ],
     "description": {
-        "en": "The MHA assigns a registration number to each NGO - this number is time limited, for example 4 years, after which the registration is reviewed. \n\nThere is no URL for the Ministry, nor is there a publicly available database of NGO information."
+        "en": "The MHA assigns a registration number to each NGO - this number is time limited, for example 4 years, after which the registration is reviewed.\n\nThere is no URL for the Ministry, nor is there a publicly available database of NGO information.\n\nThis list is also considered the modern equivalent for societies and associations previously registered under earlier legislation, including the Association Registration Law 2014 and the colonial-era Societies Registration Act (under which some organisations may hold certificates predating Myanmar's independence in 1948).\n\nWhere an organisation's registration predates the current system, the registration year should be included as part of the identifier to ensure uniqueness (e.g. MM-MHA-0004-1951), following the same convention used for other lists where numbering may reset across years."
     },
     "meta": {
         "lastUpdated": "2016-11-26",
