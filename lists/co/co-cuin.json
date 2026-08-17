@@ -29,7 +29,7 @@
     },
     "data": {
         "availability": [
-            "bulk_download"
+            "bulk"
         ],
         "dataAccessDetails": "The full entity list is available as a downloadable Excel file from https://www.contaduria.gov.co/clasificacion-entidades-segun-cuin and is updated periodically. The July 2026 edition contains 4,143 entities.",
         "features": [],
