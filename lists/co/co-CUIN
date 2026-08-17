@@ -1,0 +1,48 @@
+{
+    "name": {
+        "en": "Colombian Unique Institutional Code",
+        "local": "Código Único Institucional (CUIN)"
+    },
+    "url": "https://www.contaduria.gov.co/definicion-del-codigo-cuin",
+    "description": {
+        "en": "The Código Único Institucional (CUIN) is a 15-digit numeric code assigned to Colombian public sector entities by the Contaduría General de la Nación (CGN — National Accounting Authority). It was adopted by Resolution No. 767 of 2013 and has applied to all entities comprising the Colombian public sector from 1 January 2014.\n\nThe CUIN classifies entities across three top-level sectors: Public non-financial corporations; Public financial corporations; General government\n\nThe CUIN is an 8-part mnemonic code encoding sector, subsector, entity type, supra-region, and territorial level. It is used for public finance monitoring and reporting, and is mandatory for all public sector entities registered in the CHIP (Consolidador de Hacienda e Información Pública) system. It is also required by DIAN for annual exogenous information reporting by public entities.\n\nThe CUIN is distinct from the NIT (tax identification number) and applies exclusively to public sector entities."
+    },
+    "coverage": [
+        "CO"
+    ],
+    "subnationalCoverage": [],
+    "structure": [],
+    "sector": [],
+    "code": "CO-CUIN",
+    "confirmed": true,
+    "deprecated": false,
+    "listType": "primary",
+    "access": {
+        "availableOnline": false,
+        "onlineAccessDetails": "The CUIN list is maintained by the Contaduría General de la Nación: https://www.contaduria.gov.co/clasificacion-entidades-segun-cuin\n\nThe full entity list (Listado de Entidades) is available for download from this page as an Excel file, updated periodically. There is no interactive online lookup tool.",
+        "publicDatabase": "https://www.contaduria.gov.co/clasificacion-entidades-segun-cuin",
+        "guidanceOnLocatingIds": "CUIN codes are assigned by the Contaduría General de la Nación. Public sector entities should be able to provide their CUIN on request. The CUIN is a 15-digit numeric code — no punctuation or separators should be used.",
+        "exampleIdentifiers": "311100000000027, 111122749503787, 237125235603979",
+        "languages": [
+            "es"
+        ]
+    },
+    "data": {
+        "availability": [
+            "bulk_download"
+        ],
+        "dataAccessDetails": "The full entity list is available as a downloadable Excel file from https://www.contaduria.gov.co/clasificacion-entidades-segun-cuin and is updated periodically. The July 2026 edition contains 4,143 entities.",
+        "features": [],
+        "licenseStatus": "no_license",
+        "licenseDetails": ""
+    },
+    "meta": {
+        "source": "Desk research based on the Contaduría General de la Nación official website (contaduria.gov.co), Resolution No. 767 of 2013, DANE's Diseño del Directorio Estadístico del Sector Público 2020, the DIAN Resolution 0112 of 2015, and the published CUIN entity list (Listado de Entidades, julio 2026).",
+        "lastUpdated": "2026-08-17"
+    },
+    "links": {
+        "opencorporates": "",
+        "wikipedia": ""
+    },
+    "formerPrefixes": []
+}
