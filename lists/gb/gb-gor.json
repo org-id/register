@@ -17,7 +17,7 @@
   "sector": [],
   "code": "GB-GOR",
   "confirmed": true,
-  "deprecated": false,
+  "deprecated": true,
   "listType": "secondary",
   "access": {
     "availableOnline": true,
