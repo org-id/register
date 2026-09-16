@@ -1,0 +1,49 @@
+{
+  "name": {
+    "en": "Guinea-Bissau Tax Identification Number",
+    "local": "Número de Identificação Fiscal (NIF)"
+  },
+  "url": "https://kontaktu.mef.gw/",
+  "description": {
+    "en": "The Número de Identificação Fiscal (NIF) is issued by the Direção-Geral das Contribuições e Impostos (DGCI), under the Ministry of Finance of Guinea-Bissau. It identifies taxpayers, including organisations, in the DGCI's fiscal database. NIF identifiers can be used to uniquely identify organisations in open data publications."
+  },
+  "coverage": [
+    "GW"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity",
+    "company",
+  ],
+  "sector": [],
+  "code": "GW-NIF",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": "NIF identifiers can be validated through the DGCI's Kontaktu system and associated electronic tax forms. However, no standalone public facility for searching or verifying NIF identifiers has been identified.",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "The NIF can be found on official fiscal registration documents issued by the Direção-Geral das Contribuições e Impostos (DGCI), or requested directly from the organisation.",
+    "exampleIdentifiers": "910000069",
+    "languages": [
+      "pt"
+    ]
+  },
+  "data": {
+    "availability": [],
+    "dataAccessDetails": "NIF identifiers are assigned by the DGCI and appear on official fiscal registration documents. No downloadable public dataset has been identified.",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Official Direção-Geral das Contribuições e Impostos (DGCI) Kontaktu portal and guidance documents, together with confirmation from a registered organisation",
+    "lastUpdated": "2026-09-16"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
