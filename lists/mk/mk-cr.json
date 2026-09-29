@@ -1,46 +1,49 @@
 {
     "links": {
-        "wikipedia": null,
-        "opencorporates": null
+        "wikipedia": "",
+        "opencorporates": ""
     },
-    "sector": null,
-    "url": "http://www.crm.com.mk",
+    "sector": [],
+    "url": "https://www.crm.com.mk/",
     "name": {
-        "en": "The Central Register of Macedonia",
+        "en": "Central Registry of the Republic of North Macedonia",
         "local": ""
     },
     "coverage": [
         "MK"
     ],
     "code": "MK-CR",
-    "formerPrefixes": null,
-    "confirmed": null,
+    "formerPrefixes": [],
+    "confirmed": true,
     "data": {
-        "features": null,
-        "dataAccessDetails": null,
-        "licenseDetails": null,
+        "features": [],
+        "dataAccessDetails": "",
+        "licenseDetails": "",
         "licenseStatus": "closed_license",
-        "availability": null
+        "availability": []
     },
-    "deprecated": null,
+    "deprecated": false,
     "structure": [
-        "company"
+        "company",
+        "charity"
     ],
     "description": {
-        "en": "This entry was imported from the Open Corporates Jurisdiction List."
-    },
+        "en": "The Central Registry of the Republic of North Macedonia is the country's official state register of legal entities. It was established by the Law on Central Registry and serves as a central information base of legal and other relevant data entered into it.[1]\n\nThe Registry keeps two main registers, the Trade Registry and the Registry of Other Legal Entities. The Trade Register covers businesses such as limited liability companies (DOO/DOOEL), joint-stock companies and sole traders. The Register of Other Legal Entities covers non-commercial bodies such as associations, foundations and other civil society organisations.\n\nThe EMBS (Единствен матичен број на субјектот) registration number is a 7-digit number assigned electronically by the Central Registry when an entity first registers. It stays the same if the entity changes its address or activity.\n\n[1] https://www.crm.com.mk/en/about-crrsm/basic-institutional-data/about-us-mission-and-vision"
+ },
     "meta": {
-        "lastUpdated": "2016-09-07",
-        "source": null
+        "lastUpdated": "2026-09-29",
+        "source": ""
     },
     "access": {
-        "languages": null,
-        "exampleIdentifiers": null,
-        "onlineAccessDetails": null,
-        "publicDatabase": null,
-        "availableOnline": false,
-        "guidanceOnLocatingIds": null
+        "languages": [
+      "en", "mk"
+    ],
+        "exampleIdentifiers": "6524710, 6456112",
+        "onlineAccessDetails": "There is an online search (by organisation name or number) available on the Registry's website, however this wasn't working as of September 2026."
+        "publicDatabase": "https://www.crm.com.mk/en/services/obtain-information-or-confirmation-/business-data-and-registration-certificates/basic-entity-profile",
+        "availableOnline": true,
+        "guidanceOnLocatingIds": ""
     },
-    "subnationalCoverage": null,
-    "listType": null
+    "subnationalCoverage": [],
+    "listType": "primary"
 }
