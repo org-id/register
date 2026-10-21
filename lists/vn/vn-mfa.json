@@ -1,1 +1,48 @@
-
+{
+  "name": {
+    "en": "Viet Nam Ministry of Foreign Affairs",
+    "local": "Bộ Ngoại giao"
+  },
+  "url": "https://mofa.gov.vn",
+  "description": {
+    "en": "The Ministry of Foreign Affairs (MOFA, Bộ Ngoại giao) is the Vietnamese government ministry responsible for foreign policy, diplomatic and consular relations, and the country’s dealings with foreign governments and international bodies.\n\nThe main type of organisation MOFA registers is foreign non-governmental organisations (INGOs) working in Vietnam. This is governed by Decree 58/2022/ND-CP. The decree took effect on November 1, 2022, replacing the earlier Decree 12 of 2012. Under it, MOFA is the agency that issues, renews, amends, re-issues, suspends, terminates and revokes INGO registration certificates. [1]\n\n[1] https://conventuslaw.com/report/vietnam-issues-new-regulations-on-foreign-ngo-registration-and-operations/"
+  },
+  "coverage": [
+    "VN"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "charity"
+  ],
+  "sector": [],
+  "code": "VN-MFA",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "primary",
+  "access": {
+    "availableOnline": false,
+    "onlineAccessDetails": "",
+    "publicDatabase": "",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "38-NVVH-HD, 125-BNG-HD",
+    "languages": []
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "no_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "original research",
+    "lastUpdated": "2026-10-21"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
