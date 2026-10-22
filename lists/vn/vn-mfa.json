@@ -1,11 +1,11 @@
 {
   "name": {
-    "en": "Viet Nam Ministry of Foreign Affairs",
+    "en": "Vietnam Ministry of Foreign Affairs",
     "local": "Bộ Ngoại giao"
   },
   "url": "https://mofa.gov.vn",
   "description": {
-    "en": "The Ministry of Foreign Affairs (MOFA, Bộ Ngoại giao) is the Vietnamese government ministry responsible for foreign policy, diplomatic and consular relations, and the country’s dealings with foreign governments and international bodies.\n\nThe main type of organisation MOFA registers is foreign non-governmental organisations (INGOs) working in Vietnam. This is governed by Decree 58/2022/ND-CP. The decree took effect on November 1, 2022, replacing the earlier Decree 12 of 2012. Under it, MOFA is the agency that issues, renews, amends, re-issues, suspends, terminates and revokes INGO registration certificates. [1]\n\n[1] https://conventuslaw.com/report/vietnam-issues-new-regulations-on-foreign-ngo-registration-and-operations/"
+    "en": "The Ministry of Foreign Affairs (MOFA, Bộ Ngoại giao) is the Vietnamese government ministry responsible for foreign policy, diplomatic and consular relations, including the country’s dealings with foreign governments and international bodies.\n\nThe main type of organisation MOFA registers is foreign non-governmental organisations (INGOs) working in Vietnam. This is governed by Decree 58/2022/ND-CP. The decree took effect on November 1, 2022, replacing the earlier Decree 12 of 2012. Under it, MOFA is the agency that issues, renews, amends, re-issues, suspends, terminates and revokes INGO registration certificates. [1]\n\n[1] https://conventuslaw.com/report/vietnam-issues-new-regulations-on-foreign-ngo-registration-and-operations/"
   },
   "coverage": [
     "VN"
@@ -21,9 +21,9 @@
   "listType": "primary",
   "access": {
     "availableOnline": false,
-    "onlineAccessDetails": "",
+    "onlineAccessDetails": "There is no online database available to search for organisations.",
     "publicDatabase": "",
-    "guidanceOnLocatingIds": "",
+    "guidanceOnLocatingIds": "Ask the organisation directly for it's registration certificate.\n\nThere may be two registration numbers visible on the certificate (e.g. 38-NVVH-HD and 38-NVVH-VPDD). The first registers the organisation itself and authorises it to work in Vietnam, so is the desired identifier for this list. The second VPDD number belongs to the representative office certificate, which covers the organisation’s physical office. It sits on top of the operation registration and depends on it.",
     "exampleIdentifiers": "38-NVVH-HD, 125-BNG-HD",
     "languages": []
   },
@@ -38,7 +38,7 @@
   },
   "meta": {
     "source": "original research",
-    "lastUpdated": "2026-10-21"
+    "lastUpdated": "2026-10-22"
   },
   "links": {
     "opencorporates": "",
