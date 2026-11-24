@@ -1,0 +1,52 @@
+{
+  "name": {
+    "en": "Transparenzregister EKRN, Germany",
+    "local": ""
+  },
+  "url": "https://www.transparenzregister.de/hilfe-center",
+  "description": {
+    "en": "The EKRN (einheitliche und kontinuierliche Rechtseinheitsnummer) is issued to legal entities which have to disclose their beneficial ownership under German law. This includes: legal entities under private law (e.g. GmbH, AG), registered partnerships (e.g. KG, GmbH & Co. KG), some associations, trusts and foundations.\n\nThe EKRN is issued by the Transparenzregister to identify a register extract. It links the register extracts for a particular legal entity to each other if there are multiple extracts for that legal entity; for example, if information about the beneficial owners is corrected. The EKRN always begins with \"DE\" and is supplemented by 12 digits.\n\nTo look up entity information, there is no public URL. Users much have 'legitimate interest' and an authorised account."
+  },
+  "coverage": [
+    "DE"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company",
+    "trust"
+  ],
+  "sector": [],
+  "code": "DE-EKRN",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "To look up entity information, a person needs to belong to one of three authorized groups:\n\n- Authorities, courts and specific institutions which require access for the performance of their duties.\n- Obliged entities (who are only granted access on a case-by-case basis and within the scope of their due diligence obligations).\n- Anyone who can demonstrate their legitimate interest in the information can gain access.\n\nThey can then be granted an account.",
+    "publicDatabase": "https://www.transparenzregister.de/",
+    "guidanceOnLocatingIds": "",
+    "exampleIdentifiers": "DE123456789012",
+    "languages": [
+      "de",
+      "en"
+    ]
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "open_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Independent research",
+    "lastUpdated": "2026-11-24"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
