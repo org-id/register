@@ -23,7 +23,7 @@
     "availableOnline": true,
     "onlineAccessDetails": "Search by company name or by the company registration number element of the EUID. You can optionally filter by country.",
     "publicDatabase": "https://e-justice.europa.eu/topics/registers-business-insolvency-land/business-registers-search-company-eu_en",
-    "guidanceOnLocatingIds": "Once the company has been selected and its details retrieved, the EUID is found in the 'Company details' section.",
+    "guidanceOnLocatingIds": "Once the company has been selected and its details retrieved, the EUID is found in the 'Company details' section. EUIDs vary in length from country to country, but the format should be consistent: `Country code` + `Register Identifier` + . + `Company registration number` + `verification digit`(optional).",
     "exampleIdentifiers": "ITRI.02275030233, FR3402.519097711",
     "languages": []
   },
