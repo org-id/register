@@ -5,7 +5,7 @@
   },
   "url": "https://e-justice.europa.eu/topics/registers-business-insolvency-land/business-registers-search-company-eu/general-information-find-company_en",
   "description": {
-    "en": "The Business Registers Interconnection System (BRIS) allows you to search for and access company information from the national business registers of participating countries.\n\nThe unique company identifier for the purpose of communication between registers is the EUID (European Unique Identifier). It is compliant with ISO 6523 and contains elements: `Country code` + `Register Identifier` + . + `Company registration number` + `verification digit`(optional). [1]\n\t\n[1] Article 9 of the Annex of Commission Implementing Regulation (EU) 2021/1042,18 June 2021. See https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32021R1042&from=en#anx_1"
+    "en": "The Business Registers Interconnection System (BRIS) allows you to search for and access company information from the national business registers of participating countries.\n\nThe unique company identifier for the purpose of communication between registers is the EUID (European Unique Identifier). It is compliant with ISO 6523 and contains elements: `Country code` + `Register Identifier` + . + `Company registration number` + `verification digit`(optional). [1]\n\t\n[1]: Article 9 of the Annex of Commission Implementing Regulation (EU) 2021/1042,18 June 2021. See https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32021R1042&from=en#anx_1"
   },
   "coverage": [
     "XR"
