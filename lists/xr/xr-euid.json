@@ -1,0 +1,48 @@
+{
+  "name": {
+    "en": "European Unique Identifier, EUID",
+    "local": ""
+  },
+  "url": "https://e-justice.europa.eu/topics/registers-business-insolvency-land/business-registers-search-company-eu/general-information-find-company_en",
+  "description": {
+    "en": "The Business Registers Interconnection System (BRIS) allows you to search for and access company information from the national business registers of participating countries.\n\nThe unique company identifier for the purpose of communication between registers is the EUID (European Unique Identifier). It is compliant with ISO 6523 and contains elements: `Country code` + `Register Identifier` + . + `Company registration number` + `verification digit`(optional). [1]\n\t\n[1]: Article 9 of the Annex of Commission Implementing Regulation (EU) 2021/1042,18 June 2021. See https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32021R1042&from=en#anx_1"
+  },
+  "coverage": [
+    "XR"
+  ],
+  "subnationalCoverage": [],
+  "structure": [
+    "company"
+  ],
+  "sector": [],
+  "code": "XR-EUID",
+  "confirmed": true,
+  "deprecated": false,
+  "listType": "secondary",
+  "access": {
+    "availableOnline": true,
+    "onlineAccessDetails": "Search by company name or by the company registration number element of the EUID. You can optionally filter by country.",
+    "publicDatabase": "https://e-justice.europa.eu/topics/registers-business-insolvency-land/business-registers-search-company-eu_en",
+    "guidanceOnLocatingIds": "Once the company has been selected and its details retrieved, the EUID is found in the 'Company details' section. EUIDs vary in length from country to country, but the format should be consistent: `Country code` + `Register Identifier` + . + `Company registration number` + `verification digit`(optional).",
+    "exampleIdentifiers": "ITRI.02275030233, FR3402.519097711",
+    "languages": []
+  },
+  "data": {
+    "availability": [
+      "data_not_available"
+    ],
+    "dataAccessDetails": "",
+    "features": [],
+    "licenseStatus": "open_license",
+    "licenseDetails": ""
+  },
+  "meta": {
+    "source": "Independent research",
+    "lastUpdated": "2026-11-20"
+  },
+  "links": {
+    "opencorporates": "",
+    "wikipedia": ""
+  },
+  "formerPrefixes": []
+}
